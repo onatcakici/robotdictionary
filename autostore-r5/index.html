@@ -1,141 +1,84 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>R5 by AutoStore | Robot Dictionary</title>
-<meta name="description" content="Bin handling robot that drives across the top of an aluminium storage grid and lifts totes out of the stacked columns below it.">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>R5 — AutoStore wheeled robot | Robot Dictionary</title>
+<meta name="description" content="R5 (AutoStore, Norway, 2015): The grid robot that rides atop a cube of bins, densest storage system in logistics.">
 <link rel="canonical" href="https://robotdictionary.com/autostore-r5/">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Robot Dictionary">
-<meta property="og:title" content="R5 by AutoStore | Robot Dictionary">
-<meta property="og:description" content="Bin handling robot that drives across the top of an aluminium storage grid and lifts totes out of the stacked columns below it.">
+<meta property="og:title" content="R5 — Robot Dictionary">
+<meta property="og:description" content="R5 (AutoStore, Norway, 2015): The grid robot that rides atop a cube of bins, densest storage system in logistics.">
+<meta property="og:type" content="article">
 <meta property="og:url" content="https://robotdictionary.com/autostore-r5/">
-<meta name="twitter:card" content="summary">
-<style>*,*::before,*::after{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
-body{margin:0;background:#f6f5f2;color:#1b1b18;
-font-family:Charter,"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
-font-size:17px;line-height:1.55;-webkit-font-smoothing:antialiased}
-a{color:inherit;text-decoration:none}
-a:hover{text-decoration:underline;text-underline-offset:2px}
-.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
-.masthead{padding:54px 0 26px}
-.wordmark{font-size:30px;font-weight:600;letter-spacing:-.01em;margin:0}
-.wordmark a:hover{text-decoration:none}
-.tagline{margin:8px 0 0;color:#6b6a63;font-size:16px}
-.meta-line{margin:20px 0 0;font-size:15px;color:#6b6a63}
-.meta-line a{border-bottom:1px solid #cfcdc5}
-.meta-line a:hover{text-decoration:none;border-bottom-color:#1b1b18}
-.rule{border:0;border-top:1px solid #1b1b18;margin:26px 0 0}
-.hair{border:0;border-top:1px solid #d9d7d0;margin:0}
-section.band{padding:40px 0 8px}
-.band-head{display:flex;align-items:baseline;justify-content:space-between;gap:20px;flex-wrap:wrap}
-h2.band-title{font-size:23px;font-weight:600;margin:0}
-.band-count{font-size:14px;color:#8a887f;white-space:nowrap}
-.band-blurb{margin:6px 0 0;color:#6b6a63;font-size:15px;max-width:62ch}
-.grid{display:grid;grid-template-columns:repeat(6,1fr);gap:26px 22px;margin:26px 0 0;padding:0;list-style:none}
-.grid li{margin:0}
-.grid a{display:block}
-.slot{display:block;position:relative;width:100%;aspect-ratio:4/3;background:#edebe5;border:1px solid #dedcd5}
-.slot::after{content:"";position:absolute;inset:7px;border:1px solid #e4e2db}
-.plate-name{display:block;margin:9px 0 0;font-size:15.5px;line-height:1.3}
-.plate-maker{display:block;margin:2px 0 0;font-size:13px;color:#7d7b73;line-height:1.35}
-.entry{padding:34px 0 0;max-width:760px}
-.crumb{font-size:14px;color:#7d7b73;margin:0 0 22px}
-.crumb a{border-bottom:1px solid #d3d1c9}
-.crumb a:hover{text-decoration:none;border-bottom-color:#1b1b18}
-h1{font-size:34px;font-weight:600;letter-spacing:-.015em;margin:0;line-height:1.15}
-.aka{margin:7px 0 0;font-size:15px;color:#7d7b73;font-style:italic}
-.lead{font-size:19.5px;line-height:1.5;margin:20px 0 0}
-.hero{margin:26px 0 0;max-width:420px;aspect-ratio:4/3;background:#edebe5;border:1px solid #dedcd5;position:relative}
-.hero::after{content:"";position:absolute;inset:9px;border:1px solid #e4e2db}
-table.specs{width:100%;border-collapse:collapse;margin:30px 0 0;font-size:16px}
-table.specs th{text-align:left;font-weight:400;color:#7d7b73;width:11.5em;padding:9px 16px 9px 0;
-vertical-align:top;border-top:1px solid #d9d7d0}
-table.specs td{padding:9px 0;vertical-align:top;border-top:1px solid #d9d7d0}
-table.specs tr:last-child th,table.specs tr:last-child td{border-bottom:1px solid #d9d7d0}
-.prose{margin:30px 0 0}
-.prose p{margin:0 0 15px}
-h3{font-size:15px;font-weight:600;margin:34px 0 0;color:#1b1b18}
-ul.notes{list-style:none;margin:12px 0 0;padding:0;font-size:16px}
-ul.notes li{padding:9px 0;border-top:1px solid #d9d7d0}
-ul.notes li:last-child{border-bottom:1px solid #d9d7d0}
-.source{margin:26px 0 0;font-size:15px;color:#6b6a63}
-.source a{border-bottom:1px solid #cfcdc5}
-.source a:hover{text-decoration:none;border-bottom-color:#1b1b18}
-.siblings{list-style:none;padding:0;margin:12px 0 0;font-size:15.5px;columns:2;column-gap:34px}
-.siblings li{padding:6px 0;break-inside:avoid}
-.pager{display:flex;justify-content:space-between;gap:20px;margin:38px 0 0;font-size:15px;
-padding-top:16px;border-top:1px solid #1b1b18}
-.pager span{color:#a5a39a}
-footer{margin:64px 0 0;padding:22px 0 60px;border-top:1px solid #d9d7d0;font-size:14px;color:#8a887f}
-footer a{border-bottom:1px solid #d3d1c9}
-footer a:hover{text-decoration:none;border-bottom-color:#1b1b18}
-.notfound{padding:90px 0 40px;max-width:620px}
-@media (max-width:1080px){.grid{grid-template-columns:repeat(4,1fr)}}
-@media (max-width:760px){.grid{grid-template-columns:repeat(3,1fr);gap:22px 18px}
-.wrap{padding:0 20px}.masthead{padding:38px 0 20px}h1{font-size:29px}.lead{font-size:18px}
-.siblings{columns:1}table.specs th{width:9em;padding-right:12px}}
-@media (max-width:460px){.grid{grid-template-columns:repeat(2,1fr)}}
-@media (prefers-color-scheme:dark){
-body{background:#131311;color:#e9e7e0}
-.tagline,.meta-line,.band-blurb,.plate-maker,.crumb,.aka,.source,footer,table.specs th{color:#9b998f}
-.band-count{color:#7e7c73}
-.rule,.pager{border-color:#e9e7e0}
-.hair,table.specs th,table.specs td,ul.notes li,footer{border-color:#31302c}
-.slot,.hero{background:#1d1d1a;border-color:#31302c}
-.slot::after,.hero::after{border-color:#262521}
-.meta-line a,.crumb a,.source a,footer a{border-bottom-color:#45443e}
-.meta-line a:hover,.crumb a:hover,.source a:hover,footer a:hover{border-bottom-color:#e9e7e0}}
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "name": "R5 — AutoStore wheeled robot | Robot Dictionary", "url": "https://robotdictionary.com/autostore-r5/", "description": "R5 (AutoStore, Norway, 2015): The grid robot that rides atop a cube of bins, densest storage system in logistics.", "breadcrumb": {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Robot Dictionary", "item": "https://robotdictionary.com/"}, {"@type": "ListItem", "position": 2, "name": "Wheeled machines", "item": "https://robotdictionary.com/#wheeled"}, {"@type": "ListItem", "position": 3, "name": "R5", "item": "https://robotdictionary.com/autostore-r5/"}]}, "about": {"@type": "Product", "name": "R5", "category": "wheeled robot", "manufacturer": {"@type": "Organization", "name": "AutoStore"}, "countryOfOrigin": "Norway", "description": "The grid robot that rides atop a cube of bins, densest storage system in logistics."}}</script>
+<style>
+  :root{--paper:#FBFBF9;--ink:#1C1E20;--soft:#585E63;--faint:#A2A69F;--rule:#DDDFD9;--mark:#C41E2F;
+  --display:'Young Serif',Georgia,serif;--text:'Source Serif 4',Georgia,serif}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--paper);color:var(--ink);font-family:var(--text);font-size:17px;line-height:1.62}
+  a{color:inherit}
+  ::selection{background:var(--mark);color:#fff}
+  .page{max-width:860px;margin:0 auto;padding:0 24px}
+  .tophead{display:flex;justify-content:space-between;align-items:baseline;padding:22px 0;border-bottom:1px solid var(--rule)}
+  .wordmark{font-family:var(--display);font-size:18px;text-decoration:none}
+  .wordmark .dot{color:var(--mark)}
+  .crumb{font-size:14px;font-style:italic;color:var(--soft)}
+  .crumb a{color:var(--soft);text-decoration:none}
+  .crumb a:hover{color:var(--mark)}
+  .entrywrap{display:grid;grid-template-columns:250px 1fr;gap:40px;padding:44px 0}
+  .bfig{text-align:center}
+  .bfig .well{aspect-ratio:4/5;display:flex;align-items:flex-end;justify-content:center;padding:10px 10px 0;overflow:hidden}
+  .bfig img,.bfig svg{display:block;max-width:100%;max-height:100%;object-fit:contain;filter:drop-shadow(0 12px 14px rgba(28,30,32,.15))}
+  .bfig figcaption{font-size:13.5px;font-style:italic;color:var(--faint);padding-top:9px}
+  h1.hw{font-weight:700;font-size:34px;font-family:var(--text);display:inline}
+  .phon{font-size:15px;color:var(--soft);margin:0 8px}
+  .pos{font-style:italic;color:var(--soft);font-size:18px}
+  .def{margin-top:12px;color:#2C2F32;font-size:18px}
+  .origin{color:var(--soft)}
+  .cond{font-style:italic;color:var(--soft)}
+  .notes{margin-top:16px;color:#2C2F32}
+  .dl{font-size:15px;margin-top:22px;max-width:460px}
+  .dl div{display:flex;gap:10px;padding:6px 0;border-bottom:1px solid #EFF0EB}
+  .dl div:last-child{border-bottom:none}
+  .dl dt{font-variant-caps:all-small-caps;letter-spacing:.06em;color:var(--soft);width:150px;flex-shrink:0}
+  .dl dd{margin:0}
+  .see{margin-top:20px;font-size:15.5px;font-style:italic;color:var(--soft)}
+  .see a{color:var(--ink);text-decoration:underline;text-decoration-color:var(--rule);text-underline-offset:3px;font-style:normal}
+  .see a:hover{color:var(--mark);text-decoration-color:var(--mark)}
+  .claim{margin-top:14px;font-size:13.5px;font-style:italic}
+  .claim a{color:var(--faint);text-decoration:underline;text-decoration-color:var(--rule);text-underline-offset:3px}
+  .claim a:hover{color:var(--mark)}
+  .colophon{border-top:3px double var(--ink);padding:26px 0 56px;text-align:center;font-size:14.5px;color:var(--soft)}
+  .colophon a{color:var(--ink)}
+  @media (max-width:640px){.entrywrap{grid-template-columns:1fr}.bfig{max-width:250px;margin:0 auto}}
 </style>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"DefinedTerm","name":"R5","description":"The R5 runs on rails on top of a cube storage grid, moving in two directions on separate wheel sets and lowering a lift to grab a bin from a column. Bins weighing up to 35 kg are carried to a port where a person or machine picks from them, and digging robots reshuffle stacks to reach lower bins. Position comes from grid coordinates issued by a central controller rather than free navigation. AutoStore has installed cube storage systems since the late 1990s, in warehouses, spare parts depots and retail back rooms.","url":"https://robotdictionary.com/autostore-r5/","inDefinedTermSet":{"@type":"DefinedTermSet","name":"Robot Dictionary","url":"https://robotdictionary.com/"}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Robot Dictionary","item":"https://robotdictionary.com/"},{"@type":"ListItem","position":2,"name":"Wheeled machines","item":"https://robotdictionary.com/#wheeled"},{"@type":"ListItem","position":3,"name":"R5","item":"https://robotdictionary.com/autostore-r5/"}]}</script>
 </head>
 <body>
-<header class="masthead" style="padding-bottom:0"><div class="wrap">
-<p class="wordmark" style="font-size:19px"><a href="/">Robot Dictionary</a></p>
-</div><div class="wrap"><hr class="hair" style="margin-top:18px"></div></header>
-<main class="wrap"><article class="entry">
-<p class="crumb"><a href="/">Index</a> / <a href="/#wheeled">Wheeled machines</a></p>
-<h1>R5</h1>
-<p class="lead">Bin handling robot that drives across the top of an aluminium storage grid and lifts totes out of the stacked columns below it.</p>
-<div class="hero" aria-hidden="true"></div>
-<table class="specs"><tbody>
-<tr><th scope="row">Maker</th><td>AutoStore</td></tr>
-<tr><th scope="row">Country</th><td>Norway</td></tr>
-<tr><th scope="row">Status</th><td>In production</td></tr>
-<tr><th scope="row">Height</th><td>0.545 m</td></tr>
-<tr><th scope="row">Length</th><td>0.963 m</td></tr>
-<tr><th scope="row">Mass</th><td>145 kg</td></tr>
-<tr><th scope="row">Payload</th><td>35 kg</td></tr>
-<tr><th scope="row">Top speed</th><td>3.1 m/s (11.2 km/h)</td></tr>
-<tr><th scope="row">Power</th><td>Two 12 V sealed lead acid batteries drawing about 100 W in operation</td></tr>
-<tr><th scope="row">Sensors</th><td>Wheel encoders and grid position sensing</td></tr>
-<tr><th scope="row">Autonomy</th><td>Grid coordinate commands from a central controller with fleet traffic control</td></tr>
-</tbody></table>
-<div class="prose"><p>The R5 runs on rails on top of a cube storage grid, moving in two directions on separate wheel sets and lowering a lift to grab a bin from a column. Bins weighing up to 35 kg are carried to a port where a person or machine picks from them, and digging robots reshuffle stacks to reach lower bins. Position comes from grid coordinates issued by a central controller rather than free navigation. AutoStore has installed cube storage systems since the late 1990s, in warehouses, spare parts depots and retail back rooms.</p></div>
-<h3>Of note</h3>
-<ul class="notes">
-<li>Runs on rails on top of a cube storage grid instead of in aisles</li>
-<li>An R5 Plus variant handles taller 425 mm bins</li>
-<li>AutoStore has installed cube storage systems since the late 1990s</li>
-</ul>
-<p class="source">Maker: <a href="https://www.autostoresystem.com" rel="noopener">www.autostoresystem.com</a></p>
-<h3>Nearby in Wheeled machines</h3>
-<ul class="siblings">
-<li><a href="/bluewhite-pathfinder/">Pathfinder</a></li>
-<li><a href="/pioneer-3-dx/">Pioneer 3-DX</a></li>
-<li><a href="/amazon-proteus/">Proteus</a></li>
-<li><a href="/lionsbot-r3-scrub-pro/">R3 Scrub Pro</a></li>
-<li><a href="/relay/">Relay</a></li>
-<li><a href="/rhino/">RHINO</a></li>
-<li><a href="/roborock-s7/">Roborock S7</a></li>
-<li><a href="/festo-robotino/">Robotino</a></li>
-</ul>
-<nav class="pager"><a href="/lionsbot-r3-scrub-pro/">R3 Scrub Pro</a><a href="/relay/">Relay</a></nav>
-</article></main>
-<footer><div class="wrap">Robot Dictionary. Volume I, 300 entries.
-Corrections and additions welcome.</div></footer>
+<div class="page">
+  <div class="tophead">
+    <a class="wordmark" href="/">Robot Dictionary<span class="dot">.</span></a>
+    <span class="crumb"><a href="/#wheeled">Wheeled machines</a></span>
+  </div>
+  <article class="entrywrap">
+    <figure class="bfig">
+      <span class="well"><svg viewBox="0 0 200 240" role="img" aria-label="Figure"><g fill="#22252A"><circle cx="100" cy="52" r="34"/><rect x="56" y="92" width="88" height="102" rx="26"/><ellipse cx="100" cy="204" rx="58" ry="16"/></g><circle cx="88" cy="48" r="6" fill="#FFFFFF"/><circle cx="112" cy="48" r="6" fill="#FFFFFF"/><rect x="86" y="118" width="28" height="7" rx="3.5" fill="#C41E2F"/></svg></span>
+      <figcaption>Fig.  R5</figcaption>
+    </figure>
+    <div>
+      <h1 class="hw">R5</h1>
+      
+      <span class="pos">n., wheeled machine.</span>
+      <p class="def"><span class="origin">AutoStore, Norway, 2015.</span> The grid robot that rides atop a cube of bins, densest storage system in logistics. <span class="cond">In production.</span></p>
+      <p class="notes">R5 was introduced by AutoStore of Norway and first filed in this dictionary under the year 2015. It belongs to the wheeled class, machines that trade legs for range and endurance. It is offered commercially and remains in production at the time of this volume.</p>
+      <dl class="dl"></dl>
+      <p class="see">See also <a href="/relay/">Relay</a>, <a href="/rev-1/">REV-1</a>.</p>
+      <p class="claim"><a href="mailto:entries@robotdictionary.com?subject=Correction: R5">submit a correction</a></p>
+    </div>
+  </article>
+  <footer class="colophon">
+    <p>An entry of the <a href="/">Robot Dictionary</a> — a reference of every notable robot, Volume I.</p>
+  </footer>
+</div>
 </body>
 </html>
