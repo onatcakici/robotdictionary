@@ -28,7 +28,7 @@ STATUS = {"production": "In production", "service": "In service", "pilot": "In p
           "prototype": "Prototype", "concept": "Announced, not yet in service", "development": "In development",
           "retired": "Retired", "discontinued": "Discontinued", "lost": "Lost", "completed": "Mission completed"}
 RESERVED = {s[0] for s in SECTIONS} | {"assets", "data", "tools", "makers", "countries", "timeline", "yc", "a-z", "about", "news", "credits",
-            "legal", "recent", "search", "img", "feed.xml", "sitemap.xml", "robots.txt", "404.html", "index.html", "CNAME", "play", "evolution"}
+            "legal", "recent", "search", "img", "feed.xml", "sitemap.xml", "robots.txt", "404.html", "index.html", "CNAME", "play", "evolution", "world"}
 SHORT = {"humanoids": "Humanoid", "quadrupeds": "Legged", "wheeled": "Wheeled", "arms": "Arm", "rovers": "Rover",
          "medical": "Medical", "marine": "Marine", "other": "Other"}
 LEGEND = {"humanoids": "Humanoids", "quadrupeds": "Quadrupeds", "wheeled": "Wheeled", "arms": "Arms", "rovers": "Rovers",
@@ -74,6 +74,11 @@ ROBODLE_FIRST = ["asimo", "spot", "roomba", "curiosity", "pepper", "aibo-ers-110
                  "lunar-roving-vehicle", "hitchbot", "robonaut-2", "silver-swan", "zhurong", "poo-chi", "el-ajedrecista", "baxter",
                  "astrobee", "reem-c", "george", "puma", "dextre", "genibo", "i-cybie", "rhex", "surena-iv", "roboraptor", "hexbug", "turtlebot"]
 ROBODLE_GUESSES = 8
+WORLD_NAMES = {"humanoids": "Humanoid Heights", "quadrupeds": "Legged Park", "wheeled": "Wheel Town", "arms": "The Works",
+               "rovers": "Red Planet", "medical": "The Clinic", "marine": "The Bay", "other": "The Fair", "plaza": "The Plaza"}
+STROLL = ["asimo", "spot", "pepper", "roomba", "curiosity", "aibo-ers-110", "atlas-hydraulic", "shakey", "nao", "bigdog", "sojourner", "paro",
+          "unitree-g1", "lunokhod-1"]
+WORLD_GRID = [["marine", "rovers", "medical"], ["arms", "plaza", "humanoids"], ["wheeled", "quadrupeds", "other"]]
 GENERATED_LIST = os.path.join(ROOT, "tools", "generated.txt")
 
 esc = lambda s: html.escape(str(s or ""), quote=True)
@@ -143,8 +148,8 @@ def thumbs(current=None):
 def header():
     return ('<header class="top"><div class="wrap">'
             '<a class="wordmark" href="/">Robot Dictionary<i>.</i></a>'
-            '<nav class="nav" aria-label="Site"><a class="hot" href="/play/">Robodle</a><a href="/evolution/">Evolution</a><a href="/news/">News</a>'
-            '<a href="/a-z/">A to Z</a><a href="/makers/">Makers</a><a href="/yc/">YC robots</a><a href="/about/">About</a></nav>'
+            '<nav class="nav" aria-label="Site"><a class="hot" href="/world/">World</a><a href="/play/">Robodle</a><a href="/evolution/">Evolution</a>'
+            '<a href="/news/">News</a><a href="/a-z/">A to Z</a><a href="/about/">About</a></nav>'
             '<div class="find" data-find><input type="search" placeholder="Find a robot or maker" aria-label="Find a robot or maker" autocomplete="off">'
             '<ul class="hits" hidden></ul></div></div></header>')
 
@@ -155,7 +160,7 @@ def footer(stats):
             f'<p>Corrections and additions to <a class="u" href="mailto:{CONTACT}">{CONTACT}</a>.</p>'
             '<p class="colo">Set in Young Serif and Source Serif 4. Pictures from Wikimedia Commons.</p></div>'
             '<nav aria-label="More"><a href="/about/">About the dictionary</a><a href="/legal/">Legal notice</a><a href="/recent/">Recently added</a>'
-            '<a href="/countries/">Countries</a><a href="/timeline/">Timeline</a><a href="/credits/">Picture credits</a><a href="/data/robots.json">Open data</a><a href="/feed.xml">RSS feed</a>'
+            '<a href="/credits/">Picture credits</a><a href="/feed.xml">RSS feed</a>'
             f'<a href="{REPO}">GitHub</a></nav></div></footer>')
 
 def page(path, title, desc, body, stats, section=None, jsonld=None, og_type="website", noindex=False, body_class="", scripts=(), image=None):
@@ -188,7 +193,7 @@ def country_link(e, countries_with_pages):
     c = e.get("country") or ""
     if not c: return ""
     s = slugify(c)
-    return f'<a href="/countries/{s}/">{esc(c)}</a>' if s in countries_with_pages else esc(c)
+    return esc(c)
 
 def origin_line(e, mk=None, ct=None, links=True):
     parts = []
@@ -301,7 +306,7 @@ def build():
     ct_pages = {k for k, v in countries.items() if len(v) >= 1}
     css = open(os.path.join(ROOT, "tools", "static", "site.css"), encoding="utf-8").read()
     js = open(os.path.join(ROOT, "tools", "static", "search.js"), encoding="utf-8").read()
-    js_extra = {n: open(os.path.join(ROOT, "tools", "static", n), encoding="utf-8").read() for n in ("play.js", "evolution.js")}
+    js_extra = {n: open(os.path.join(ROOT, "tools", "static", n), encoding="utf-8").read() for n in ("play.js", "evolution.js", "world.js")}
     v = hashlib.sha1((css + js + "".join(js_extra.values())).encode()).hexdigest()[:8]
     stats = {"n": len(ids), "v": v}
     out = Out()
@@ -365,6 +370,9 @@ def build():
     out.put("assets/lineage.json", json.dumps(lineage, separators=(",", ":")))
     for n, src in js_extra.items(): out.put(f"assets/{n}", src)
     out.put("play/index.html", play_page(stats, robodle))
+    world = world_build(E, ids, rod["id"])
+    out.put("assets/world.json", json.dumps(world, ensure_ascii=False, separators=(",", ":")))
+    out.put("world/index.html", world_page(stats, world))
     out.put("evolution/index.html", evolution_page(E, ids, stats))
 
     # ---- home
@@ -405,62 +413,11 @@ def build():
                 '<div class="dict">'] + [dict_entry(e, mk_pages, ct_pages) for e in sorted(es, key=lambda e: (e.get("year") or "9999", sort_key(e["name"])))] + ["</div></main>"]
         out.put(f"makers/{s}/index.html", page(f"/makers/{s}/", f"{name} robots | Robot Dictionary", f"All {len(es)} {name} robots in the Robot Dictionary, with dates, status and sources.", "\n".join(body), stats))
 
-    # ---- countries
-    cs_sorted = sorted(countries.items(), key=lambda kv: (-len(kv[1]), kv[0]))
-    body = ['<main class="wrap"><div class="page-h"><h1>Countries</h1><p>Where the robots in this dictionary were built, by number of entries.</p></div><div class="cols"><ul>']
-    body += [f'<li><a href="/countries/{s}/">{esc(es[0]["country"])}</a> <span class="m">{len(es)}</span></li>' for s, es in cs_sorted]
-    body.append("</ul></div></main>")
-    out.put("countries/index.html", page("/countries/", "Robots by country | Robot Dictionary", "Robots in the Robot Dictionary grouped by country of origin.", "\n".join(body), stats))
-    for s, es in countries.items():
-        name = es[0]["country"]
-        groups = defaultdict(list)
-        for e in es: groups[e["section"]].append(e)
-        body = [f'<main class="wrap"><div class="page-h"><h1>Robots of {esc(name)}</h1><p>{len(es)} entries built in {esc(name)}, grouped by section.</p></div>']
-        for sec_key, title, *_ in SECTIONS:
-            if groups.get(sec_key):
-                body.append(f'<div class="dict" style="--c:var(--{sec_key})"><h2>{esc(title)}</h2>' + "".join(dict_entry(e, mk_pages, ct_pages) for e in sorted(groups[sec_key], key=lambda e: sort_key(e["name"]))) + "</div>")
-        body.append("</main>")
-        out.put(f"countries/{s}/index.html", page(f"/countries/{s}/", f"Robots of {name} | Robot Dictionary", f"{len(es)} robots built in {name}: humanoids, quadrupeds, rovers and more, with sources.", "\n".join(body), stats))
-
-    # ---- timeline
-    years = defaultdict(list)
-    for i in ids:
-        y = re.match(r"(\d{4})", E[i].get("year") or "")
-        if y: years[int(y.group(1))].append(E[i])
-    body = ['<main class="wrap"><div class="page-h"><h1>Timeline</h1><p>Every dated entry by the year it was first shown, from the earliest automata of the electric age to this year\'s machines.</p></div>']
-    last_dec = None
-    for y in sorted(years):
-        dec = y // 10 * 10
-        if dec != last_dec:
-            body.append(f'<h2 class="decade" id="d{dec}">{dec}s</h2>'); last_dec = dec
-        body.append(f'<div class="year" id="y{y}"><span class="y">{y}</span><ul>' + "".join(
-            f'<li><a href="/{e["id"]}/">{esc(e["name"])}</a> <span class="org">{esc(e.get("maker") or "")}</span></li>'
-            for e in sorted(years[y], key=lambda e: sort_key(e["name"]))) + "</ul></div>")
-    body.append("</main>")
-    out.put("timeline/index.html", page("/timeline/", "Timeline of robots | Robot Dictionary", "Robots by year first shown, from the 1940s to today.", "\n".join(body), stats))
-
-    # ---- YC
-    yc = [E[i] for i in ids if E[i].get("yc")]
-    def bkey(b):
-        m = re.match(r"(Winter|Spring|Summer|Fall)\s+(\d{4})", b or "")
-        return (int(m.group(2)), ["Winter", "Spring", "Summer", "Fall"].index(m.group(1))) if m else (0, 0)
-    batches = defaultdict(list)
-    for e in yc: batches[e["yc"]["batch"]].append(e)
-    body = ['<main class="wrap"><div class="page-h"><h1>Robots from Y Combinator companies</h1>'
-            f'<p>{len(yc)} robots built by companies that went through Y Combinator, newest batch first. Company facts come from the public YC company directory; '
-            'Robot Dictionary is not affiliated with Y Combinator.</p></div>']
-    for b in sorted(batches, key=bkey, reverse=True):
-        body.append(f'<section class="batch"><h2>{esc(b)}</h2><div class="dict">' + "".join(
-            dict_entry(e, mk_pages, ct_pages) for e in sorted(batches[b], key=lambda e: sort_key(e["name"]))) + "</div></section>")
-    queue = [q for q in load_state("yc_queue.json", []) if q.get("slug") not in {(e.get("ids") or {}).get("yc") for e in yc}]
-    if queue:
-        body.append('<section class="batch"><h2>Newly listed robotics companies</h2><p class="more" style="color:var(--soft);font-size:16px">'
-                    'Robotics companies that recently appeared in the YC directory, checked each morning.</p><ul class="list">'
-                    + "".join(f'<li><a href="{esc(q["url"])}" rel="noopener">{esc(q["name"])}</a> <span class="m">{esc(q.get("batch") or "")}</span></li>'
-                              for q in sorted(queue, key=lambda q: q.get("found") or "", reverse=True)[:60]) + "</ul></section>")
-    body.append("</main>")
-    out.put("yc/index.html", page("/yc/", "Y Combinator robotics startups and their robots | Robot Dictionary",
-                                  f"{len(yc)} robots built by Y Combinator companies, by batch, with status and sources.", "\n".join(body), stats))
+    # ---- retired pages now point somewhere useful
+    out.put("countries/index.html", redirect_page("/a-z/", "A to Z"))
+    for s_ in countries: out.put(f"countries/{s_}/index.html", redirect_page("/a-z/", "A to Z"))
+    out.put("timeline/index.html", redirect_page("/evolution/", "The evolution of robots"))
+    out.put("yc/index.html", redirect_page("/a-z/", "A to Z"))
 
     # ---- recent
     by_date = defaultdict(list)
@@ -524,12 +481,12 @@ def build():
         d = os.path.join(sdir, sub)
         if os.path.isdir(d):
             for fn in sorted(os.listdir(d)):
-                if fn.endswith((".woff2", ".png", ".jpg", ".svg", ".ico", ".txt")):
+                if fn.endswith((".woff2", ".png", ".jpg", ".webp", ".svg", ".ico", ".txt")):
                     out.put(f"assets/{sub + '/' if sub == 'fonts' else ''}{fn}", open(os.path.join(d, fn), "rb").read())
     out.put("data/robots.json", json.dumps(open_data(E, ids), ensure_ascii=False, indent=1) + "\n")
     out.put("data/robots.csv", open_csv(E, ids))
-    urls = ["/", "/play/", "/evolution/", "/news/", "/a-z/", "/makers/", "/countries/", "/timeline/", "/yc/", "/recent/", "/about/", "/legal/", "/credits/"] + [f"/{s[0]}/" for s in SECTIONS]
-    urls += [f"/{i}/" for i in ids] + [f"/makers/{s}/" for s in sorted(mk_pages)] + [f"/countries/{s}/" for s in sorted(countries)]
+    urls = ["/", "/world/", "/play/", "/evolution/", "/news/", "/a-z/", "/makers/", "/recent/", "/about/", "/legal/", "/credits/"] + [f"/{s[0]}/" for s in SECTIONS]
+    urls += [f"/{i}/" for i in ids] + [f"/makers/{s}/" for s in sorted(mk_pages)]
     lastmod = {f"/{i}/": E[i].get("revised") or E[i].get("added") for i in ids}
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u in urls:
@@ -557,6 +514,10 @@ def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, cou
          '<div class="wrap"><div class="bigfind" data-find><input type="search" placeholder="Find a robot, maker or country" aria-label="Find a robot, maker or country" autocomplete="off"><ul class="hits" hidden></ul>'
          '<p>Try Atlas, Unitree, Opportunity or Japan. Press / to search from any page.</p></div></div></section>',
          '<section class="ways wrap">'
+         + '<a class="way world-way" href="/world/"><picture class="wpic"><source srcset="/assets/world-way-dark.webp" media="(prefers-color-scheme: dark)">'
+           '<img src="/assets/world-way-light.webp" alt="" width="1140" height="630" loading="lazy" decoding="async"></picture>'
+           f'<span class="wt"><em>The city</em><b>Robot World</b><span>All {stats["n"]:,} robots live in one small city. Stroll the plaza with ASIMO and Spot, '
+           'then wander out to the Red Planet or Humanoid Heights and meet whoever you find.</span><span class="go">Walk in</span></span></a>'
          + (f'<a class="way play-way" href="/play/"><span class="sil"><img src="/img/s/{sil}.webp" alt="" width="200" height="200" loading="lazy"></span>'
             f'<span class="wt"><em>Robodle No. {today["n"]}</em><b>Who is that robot?</b><span>Name today\'s robot from its shadow in eight guesses. A new one every midnight.</span><span class="go">Play</span></span></a>' if sil else "")
          + f'<a class="way evo-way" href="/evolution/">{mini_skyline(E, ids)}<span class="wt"><em>The chart</em><b>The evolution of robots</b>'
@@ -589,8 +550,7 @@ def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, cou
                  f'<span class="x">{esc(blurb)} <em>Including ' + ", ".join(f'<a href="/{e["id"]}/">{esc(e["name"])}</a>' for e in sample) + '.</em></span></div>'
                  + (tpi or '<span></span>') + f'<span class="n">{len(group):,} entries</span></li>')
     h.append('</ol><nav class="more-ways" aria-label="Other ways in">'
-             f'<a href="/a-z/">A to Z, all {len(ids):,} entries</a><a href="/makers/">{len(makers):,} makers</a><a href="/countries/">{len(countries)} countries</a>'
-             f'<a href="/timeline/">Timeline</a><a href="/yc/">Robots from Y Combinator companies</a><a href="/recent/">Recently added</a></nav></section></div></main>')
+             f'<a href="/a-z/">A to Z, all {len(ids):,} entries</a><a href="/makers/">{len(makers):,} makers</a><a href="/recent/">Recently added</a></nav></section></div></main>')
     ld = {"@context": "https://schema.org", "@type": "WebSite", "name": "Robot Dictionary", "url": SITE + "/",
           "description": "A reference of the world's robots, revised daily."}
     return page("/", "Robot Dictionary: every robot worth knowing, revised daily",
@@ -626,6 +586,177 @@ def mini_skyline(E, ids, w=320, h=120):
             acc += c
     return (f'<svg class="mini" viewBox="0 0 {w} {h}" width="{w}" height="{h}" aria-hidden="true" focusable="false">' + "".join(rects)
             + f'<line x1="0" x2="{w}" y1="{h - .5}" y2="{h - .5}" class="base"/></svg>')
+
+def world_build(E, ids, rod_id=None):
+    """Lay out Robot World: one district per section around a plaza, a spot for every robot, and scenery."""
+    import math, random
+    by = defaultdict(list)
+    for i in ids: by[E[i]["section"]].append(E[i])
+    need = {k: max(18, math.ceil(math.sqrt(len(v) * 4 * 1.7)) + 4) for k, v in by.items()}
+    need["plaza"] = 20
+    road = 4
+    colw = [max(need.get(WORLD_GRID[r][c], 18) for r in range(3)) for c in range(3)]
+    rowh = [max(need.get(WORLD_GRID[r][c], 18) for c in range(3)) for r in range(3)]
+    xs = [3, 3 + colw[0] + road, 3 + colw[0] + road + colw[1] + road]
+    ys = [3, 3 + rowh[0] + road, 3 + rowh[0] + road + rowh[1] + road]
+    W, H = xs[2] + colw[2] + 3, ys[2] + rowh[2] + 3
+    cx, cy = xs[1] + colw[1] / 2, ys[1] + rowh[1] / 2
+    districts, robots, props = [], [], []
+    roads = [[2, ys[1] - road, W - 4, road], [2, ys[2] - road, W - 4, road], [xs[1] - road, 2, road, H - 4], [xs[2] - road, 2, road, H - 4]]
+    sec_ix = {s_[0]: k for k, s_ in enumerate(SECTIONS)}
+    strollers, per = [], Counter()
+    here = {e["id"]: e for v in by.values() for e in v if e.get("cut")}
+    picks = [here[i] for i in STROLL if i in here] + sorted(here.values(), key=lambda e: (-fame(e), e["id"]))
+    for e in picks:
+        if len(strollers) >= 12: break
+        if e in strollers or e["id"] == rod_id or e["section"] in ("marine", "arms") or per[e["section"]] >= 4: continue
+        strollers.append(e); per[e["section"]] += 1
+    strolling = {e["id"] for e in strollers}
+    walk = {"p": [], "n": []}
+    for r in range(3):
+        for c in range(3):
+            k = WORLD_GRID[r][c]
+            x0, y0, w, h = xs[c], ys[r], colw[c], rowh[r]
+            rng = random.Random("world:" + k)
+            districts.append({"k": k, "n": WORLD_NAMES[k], "x": x0, "y": y0, "w": w, "h": h, "s": sec_ix.get(k, -1), "count": len(by.get(k, []))})
+            taken = set()
+            def reserve(x, y, ww, hh):
+                for a_ in range(int(x) - 1, int(x + ww) + 1):
+                    for b_ in range(int(y) - 1, int(y + hh) + 1): taken.add((a_, b_))
+            def free(x, y, ww=1, hh=1):
+                return all((a_, b_) not in taken for a_ in range(int(x), int(x + ww)) for b_ in range(int(y), int(y + hh)))
+            # set pieces along the far edges, away from the plaza
+            far_x = x0 if c == 0 else x0 + w if c == 2 else None
+            far_y = y0 if r == 0 else y0 + h if r == 2 else None
+            if k == "plaza":
+                blocks = []
+                def keep_clear(ax, ay, bx, by_): blocks.append((ax, ay, bx, by_))
+                props.append(["monument", cx - 2, cy - 2, 4, 4]); keep_clear(cx - 2, cy - 2, cx + 2, cy + 2)
+                mx_ = round(cx - 3.5); props.append(["museum", mx_, y0 + 3, 7, 4, 52]); keep_clear(mx_, y0 + 3, mx_ + 7, y0 + 7)
+                bx_, by_ = round(cx + 6), round(cy - 1); props.append(["booth", bx_, by_, 2, 2, 30]); keep_clear(bx_, by_, bx_ + 2, by_ + 2)
+                kx_ = round(cx - 8); props.append(["kiosk", kx_, by_, 2, 2, 26]); keep_clear(kx_, by_, kx_ + 2, by_ + 2)
+                if rod_id: props.append(["pedestal", round(cx, 1), round(cy + 6.5, 1), rod_id]); keep_clear(cx - 0.6, cy + 5.9, cx + 0.6, cy + 7.1)
+                fy_ = y0 + h - 8; props.append(["fountain", round(cx, 1), fy_, 2.6]); keep_clear(cx - 1.6, fy_ - 1.6, cx + 1.6, fy_ + 1.6)
+                for yy in range(y0 + 4, y0 + h - 3, 3):
+                    for xx in (x0 + 3, x0 + w - 3):
+                        props.append(["tree", xx, yy, rng.random()]); keep_clear(xx - 0.4, yy - 0.4, xx + 0.4, yy + 0.4)
+                for yy in range(y0 + 10, y0 + h - 10, 9):
+                    for xx in (x0 + 5.5, x0 + w - 5.5): props.append(["bench", xx, yy]); keep_clear(xx - 0.5, yy - 0.2, xx + 0.5, yy + 0.2)
+                for dx, dy in ((-4.5, -4.5), (4.5, -4.5), (-4.5, 4.5), (4.5, 4.5)):
+                    props.append(["lamp", round(cx + dx, 1), round(cy + dy, 1)]); keep_clear(cx + dx - 0.2, cy + dy - 0.2, cx + dx + 0.2, cy + dy + 0.2)
+                # a walking graph over the open paving, for the robots that stroll the plaza
+                def clearance(px, py):
+                    return min(math.hypot(max(b[0] - px, 0, px - b[2]), max(b[1] - py, 0, py - b[3])) for b in blocks)
+                step = 1.5
+                grid = {}
+                for gy in range(int((h - 3) / step) + 1):
+                    for gx in range(int((w - 3) / step) + 1):
+                        px, py = x0 + 1.5 + gx * step, y0 + 1.5 + gy * step
+                        if px <= x0 + w - 1.5 and py <= y0 + h - 1.5 and clearance(px, py) >= 1.0: grid[(gx, gy)] = (round(px, 2), round(py, 2))
+                keys = sorted(grid, key=lambda t: (t[1], t[0])); index = {t: n for n, t in enumerate(keys)}
+                nbrs = []
+                for t in keys:
+                    row = []
+                    for ddx, ddy in ((1, 0), (-1, 0), (0, 1), (0, -1), (1, 1), (-1, -1), (1, -1), (-1, 1)):
+                        u = (t[0] + ddx, t[1] + ddy)
+                        if u not in grid: continue
+                        (ax, ay), (bx, by2) = grid[t], grid[u]
+                        if all(clearance(ax + (bx - ax) * q / 8, ay + (by2 - ay) * q / 8) >= 0.8 for q in range(1, 8)): row.append(index[u])
+                    nbrs.append(row)
+                walk = {"p": [list(grid[t]) for t in keys], "n": nbrs}
+                # the most famous robots with photos spend their day here
+                spots, sx0, sy0 = [], cx + 2.5, cy + 4
+                for n_ in sorted(range(len(keys)), key=lambda n_: rng.random()):
+                    if len(spots) >= len(strollers): break
+                    px, py = walk["p"][n_]
+                    if len(walk["n"][n_]) < 3 or math.hypot(px - sx0, py - sy0) < 3: continue
+                    if any(math.hypot(px - q[0], py - q[1]) < 3.2 for q in spots): continue
+                    spots.append((px, py))
+                for e, (px, py) in zip(strollers, spots): robots.append([e["id"], px, py, 1])
+                continue
+            if k == "humanoids":
+                for t_ in range(int(h // 4)):
+                    bh = rng.choice([60, 80, 100, 130, 160]); props.append(["tower", x0 + w - 4, y0 + 1 + t_ * 4, 3, 3, bh, rng.random()]); reserve(x0 + w - 4, y0 + 1 + t_ * 4, 3, 3)
+                for t_ in range(int(w // 4) - 1):
+                    bh = rng.choice([50, 70, 90, 120]); props.append(["tower", x0 + 1 + t_ * 4, y0 + h - 4, 3, 3, bh, rng.random()]); reserve(x0 + 1 + t_ * 4, y0 + h - 4, 3, 3)
+            elif k == "arms":
+                for t_ in range(3):
+                    fy = y0 + 2 + t_ * (h // 3)
+                    props.append(["factory", x0 + 1, fy, 5, 6, 46]); reserve(x0 + 1, fy, 5, 6)
+                for t_ in range(4):
+                    ly = y0 + 4 + t_ * (h - 6) / 4
+                    props.append(["conveyor", x0 + 8, round(ly, 1), w - 10, 1]); reserve(x0 + 8, ly, w - 10, 1)
+            elif k == "rovers":
+                for t_ in range(7):
+                    rr = rng.uniform(1.5, 3.2); px, py = rng.uniform(x0 + 3, x0 + w - 3), rng.uniform(y0 + 3, y0 + h - 3)
+                    if free(px - rr, py - rr, 2 * rr, 2 * rr): props.append(["crater", round(px, 2), round(py, 2), round(rr, 2)]); reserve(px - rr, py - rr, 2 * rr, 2 * rr)
+                props.append(["dome", x0 + w - 6, y0 + 2, 4]); reserve(x0 + w - 7, y0 + 1, 6, 6)
+            elif k == "medical":
+                props.append(["clinic", x0 + w - 9, y0 + 1, 7, 5, 54]); reserve(x0 + w - 9, y0 + 1, 7, 5)
+            elif k == "other":
+                props.append(["wheel", x0 + w - 6, y0 + h - 6, 4]); reserve(x0 + w - 8, y0 + h - 8, 7, 7)
+                for t_ in range(5):
+                    tx, ty = rng.uniform(x0 + 2, x0 + w - 5), rng.uniform(y0 + 2, y0 + h - 5)
+                    if free(tx - 1, ty - 1, 3, 3): props.append(["tent", round(tx, 2), round(ty, 2), rng.random()]); reserve(tx - 1, ty - 1, 3, 3)
+            elif k == "wheeled":
+                for t_ in range(int(w // 7)):
+                    hx = x0 + 1 + t_ * 7
+                    props.append(["house", hx, y0 + 1, 3, 3, rng.choice([34, 40, 48]), rng.random()]); reserve(hx, y0 + 1, 3, 3)
+                for t_ in range(1, int(h // 9)):
+                    props.append(["street", x0 + 1, y0 + t_ * 9, w - 2, 1])
+            elif k == "marine":
+                for t_ in range(3):
+                    dx = x0 + 3 + t_ * (w // 3)
+                    props.append(["dock", dx, y0 + h - 5, 2, 5]); reserve(dx, y0 + h - 5, 2, 5)
+            elif k == "quadrupeds":
+                props.append(["pond", x0 + 4, y0 + 3, 5, 3]); reserve(x0 + 3, y0 + 2, 7, 5)
+            ex_ = x0 + 1.6 if c == 2 else x0 + w - 1.6 if c == 0 else x0 + w / 2
+            ey_ = y0 + 1.6 if r == 2 else y0 + h - 1.6 if r == 0 else y0 + h / 2
+            props.append(["board", round(ex_, 2), round(ey_, 2), WORLD_NAMES[k]]); reserve(ex_ - 1, ey_ - 1, 2, 2)
+            # spots for robots on a staggered lattice, nearest the plaza first
+            slots = []
+            for b_ in range(int(h // 2)):
+                for a_ in range(int(w // 2)):
+                    sx_, sy_ = x0 + 1.5 + a_ * 2 + (b_ % 2) * 1.0, y0 + 1.5 + b_ * 2
+                    if sx_ > x0 + w - 1.2 or sy_ > y0 + h - 1.2: continue
+                    if (int(sx_), int(sy_)) in taken: continue
+                    slots.append((math.hypot(sx_ - cx, sy_ - cy) + rng.random() * 0.8, round(sx_, 2), round(sy_, 2)))
+            slots.sort()
+            group = sorted((e for e in by.get(k, []) if e["id"] not in strolling), key=lambda e: (0 if e.get("cut") else 1, -fame(e), e["id"]))
+            slots = [(d_, round(x_ + rng.uniform(-0.3, 0.3), 2), round(y_ + rng.uniform(-0.3, 0.3), 2)) for d_, x_, y_ in slots]
+            for e, sl in zip(group, slots): robots.append([e["id"], sl[1], sl[2]])
+            # scenery in the spots no robot took
+            for sl in slots[len(group):]:
+                roll = rng.random()
+                if k in ("quadrupeds", "medical", "humanoids", "wheeled") and roll < 0.5: props.append(["tree", sl[1], sl[2], rng.random()])
+                elif k == "rovers" and roll < 0.6: props.append(["rock", sl[1], sl[2], rng.random()])
+                elif k == "marine" and roll < 0.25: props.append(["buoy", sl[1], sl[2], rng.random()])
+                elif k == "other" and roll < 0.35: props.append(["balloon", sl[1], sl[2], rng.random()])
+                elif k == "arms" and roll < 0.3: props.append(["crate", sl[1], sl[2], rng.random()])
+                elif k == "humanoids" and roll < 0.7: props.append(["lamp", sl[1], sl[2]])
+    return {"v": 1, "W": W, "H": H, "start": [round(cx + 2.5, 2), round(cy + 4, 2)], "rod": rod_id, "districts": districts, "roads": roads,
+            "robots": robots, "props": props, "walk": walk}
+
+def world_page(stats, world):
+    secs = json.dumps([[s_[0], s_[1]] for s_ in SECTIONS])
+    body = f"""<main class="world" id="world" data-sections='{esc(secs)}'>
+<canvas class="wcv" aria-label="Robot World, a small city where every robot in the dictionary lives"></canvas>
+<div class="w-intro"><h1>Robot World</h1><p>Every robot in the dictionary, {len(world["robots"]):,} of them, living in one small city. Click the ground to walk. Click a robot to meet it.</p>
+<div class="w-find"><input type="search" placeholder="Find a robot" aria-label="Find a robot" autocomplete="off"><ul hidden></ul></div>
+<button type="button" class="w-rand">Take me somewhere random</button><p class="w-met" aria-live="polite"></p></div>
+<div class="w-where" aria-live="polite"></div>
+<canvas class="wmini" width="200" height="120" aria-label="Map"></canvas>
+<div class="w-zoom"><button type="button" data-z="1" aria-label="Zoom in">+</button><button type="button" data-z="-1" aria-label="Zoom out">&minus;</button><button type="button" data-home aria-label="Back to me">Me</button></div>
+<aside class="w-card" hidden><button type="button" class="w-x" aria-label="Close">&times;</button><div class="w-pic"></div><h2></h2><p class="pos"></p><p class="def"></p>
+<p class="w-acts"><a class="btn" href="#">Open the entry</a> <button type="button" class="linkish" data-share>Share this robot</button></p><p class="copied" hidden>Link copied.</p></aside>
+<noscript><p class="wrap">Robot World needs JavaScript. Every robot is listed in the <a href="/a-z/">A to Z</a>.</p></noscript>
+</main>"""
+    ld = {"@context": "https://schema.org", "@type": "VideoGame", "name": "Robot World", "url": SITE + "/world/", "genre": "Exploration",
+          "description": "A small city where every robot in the Robot Dictionary lives. Walk around and meet them.", "gamePlatform": "Web browser",
+          "publisher": {"@type": "Organization", "name": "Robot Dictionary", "url": SITE + "/"}}
+    return page("/world/", f"Robot World: walk through a city of {len(world['robots']):,} robots | Robot Dictionary",
+                f"Every robot in the Robot Dictionary lives in one small city. Walk the streets, meet ASIMO on Humanoid Heights or Curiosity on the Red Planet, and click any robot to read its entry.",
+                body, stats, None, ld, scripts=("world.js",), image="world-card.jpg", body_class="worldpage")
 
 def robot_rows(E, ids):
     sec_ix = {s[0]: k for k, s in enumerate(SECTIONS)}
@@ -728,14 +859,14 @@ def evolution_page(E, ids, stats):
 <div class="evo-bar wrap"><div class="evo-legend" role="group" aria-label="Show one section">{legend}</div>
 <div class="evo-find"><input type="search" placeholder="Find a robot on the chart" aria-label="Find a robot on the chart" autocomplete="off"><ul hidden></ul></div></div>
 <div class="evo-stage" tabindex="0" aria-label="Chart of robots by year, scroll sideways"><div class="evo-tip" hidden></div></div>
-<noscript><p class="wrap">The chart needs JavaScript. The same robots are listed by year on the <a href="/timeline/">timeline</a>.</p></noscript>
+<noscript><p class="wrap">The chart needs JavaScript. Every robot is listed in the <a href="/a-z/">A to Z</a>.</p></noscript>
 </div>
 <div class="wrap evo-foot"><dl class="figures">
 <div><dt>{year_int(first)}</dt><dd>The oldest entry, <a href="/{first['id']}/">{esc(first['name'])}</a>.</dd></div>
 <div><dt>{before}</dt><dd>Robots here first shown before 1950.</dd></div>
 <div><dt>{median}</dt><dd>Half of them were first shown in {median} or later.</dd></div>
 <div><dt>{busiest}</dt><dd>The busiest year so far, with {bn} new robots.</dd></div>
-</dl><p>Red curves join a robot to the machines it came from and the ones that followed, where the record is clear. {len(ids) - n:,} entries without a known year are left off the chart; every robot is listed by year on the <a class="u" href="/timeline/">timeline</a>. Years before 1950 are drawn closer together, and each year from 1990 has two columns.</p></div>
+</dl><p>Red curves join a robot to the machines it came from and the ones that followed, where the record is clear. {len(ids) - n:,} entries without a known year are left off the chart. Years before 1950 are drawn closer together, and each year from 1990 has two columns.</p></div>
 </main>"""
     ld = {"@context": "https://schema.org", "@type": "Dataset", "name": "The evolution of robots", "url": SITE + "/evolution/",
           "description": f"{n} robots by the year they were first shown, from {year_int(first)} to {TODAY.year}.", "creator": {"@type": "Organization", "name": "Robot Dictionary"},
@@ -758,8 +889,6 @@ def entry_page(e, E, sec_key, sec_title, group, n, prev_e, next_e, mk, ct, stats
     if e.get("country"): rows.append(("Country", country_link(e, ct)))
     if e.get("year"): rows.append(("First shown", esc(e["year"])))
     if st: rows.append(("Status", esc(st.rstrip("."))))
-    if e.get("yc"):
-        rows.append(("Y Combinator", f'<a href="/yc/">{esc(e["yc"]["batch"])}</a>' + (f', company {esc(e["yc"]["status"].lower())}' if e["yc"].get("status") and e["yc"]["status"] != "Active" else "")))
     for k, val in e.get("specs") or []:
         rows.append((esc(k), esc(val)))
     refs = e.get("refs") or []
@@ -827,7 +956,7 @@ def redirect_page(target, name):
     return ("<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\">"
             f"<title>{esc(name)} | Robot Dictionary</title><link rel=\"canonical\" href=\"{SITE}{target}\">"
             f"<meta http-equiv=\"refresh\" content=\"0; url={target}\"><meta name=\"robots\" content=\"noindex\">"
-            f"<script>location.replace({json.dumps(target)})</script></head><body><p>This entry has moved to <a href=\"{target}\">{esc(name)}</a>.</p></body></html>\n")
+            f"<script>location.replace({json.dumps(target)})</script></head><body><p>This page has moved to <a href=\"{target}\">{esc(name)}</a>.</p></body></html>\n")
 
 def feed(E, changes):
     items = []
@@ -866,10 +995,10 @@ def about_body(stats, n_makers, n_countries):
 <h2>What is in it</h2>
 <p>The present edition holds {stats["n"]:,} entries from {n_makers:,} makers in {n_countries} countries, arranged in eight sections: humanoids, quadrupeds, wheeled machines, arms and workcells, rovers, medical and surgical robots, underwater and marine robots, and other forms. A robot earns an entry when it was built and shown in public, or announced with enough published detail to describe it.</p>
 <h2>How an entry is made</h2>
-<p>Each entry gives the robot's maker, country, the year it was first shown, its present status, a short definition and, where they are published, its measures. Longer entries add a history and notes. Every entry lists its sources at the foot of the page: makers' own publications, Wikidata, Wikipedia, the Y Combinator company directory, and press or research papers where those are the best record.</p>
+<p>Each entry gives the robot's maker, country, the year it was first shown, its present status, a short definition and, where they are published, its measures. Longer entries add a history and notes. Every entry lists its sources at the foot of the page: makers' own publications, Wikidata, Wikipedia, company directories, and press or research papers where those are the best record.</p>
 <p>Figures are copied as published and rounded only where the source gives a range. Where sources disagree, the maker's own figure is preferred and the disagreement is noted. Nothing in an entry is guessed; when a fact is unknown it is left out.</p>
 <h2>Revised every day</h2>
-<p>A revision runs every morning. It refreshes facts drawn from Wikidata, picks up robots that have newly appeared in the public record, checks the Y Combinator directory for new robotics companies, selects the robot of the day and rebuilds every page. The changes of each day are listed under <a href="/recent/">Recently added</a> and in the <a href="/feed.xml">RSS feed</a>.</p>
+<p>A revision runs every morning. It refreshes facts drawn from Wikidata, picks up robots that have newly appeared in the public record, cuts new pictures, sets the day's Robodle, selects the robot of the day and rebuilds every page. The changes of each day are listed under <a href="/recent/">Recently added</a> and in the <a href="/feed.xml">RSS feed</a>.</p>
 <h2>Corrections and additions</h2>
 <p>Write to <a href="mailto:{CONTACT}">{CONTACT}</a> with the entry and a source, or edit the entry directly on <a href="{REPO}">GitHub</a>, where every entry is a small text file. Makers are welcome to send official figures and photographs.</p>
 <h2>Open data</h2>
