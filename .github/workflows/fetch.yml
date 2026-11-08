@@ -1,0 +1,20 @@
+name: fetch
+on:
+  push:
+    branches: [data-pipeline]
+    paths: ['tools/**', '.github/workflows/fetch.yml']
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/fetch_candidates.py raw
+      - run: |
+          git config user.name "onatcakici"
+          git config user.email "han2000cc@gmail.com"
+          git add raw
+          git commit -m "Fetched candidate data" || true
+          git push
