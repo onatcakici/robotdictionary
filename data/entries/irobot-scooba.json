@@ -18,9 +18,21 @@
    "label": "iRobot website",
    "url": "https://www.irobot.com",
    "kind": "maker"
+  },
+  {
+   "label": "Wikidata, Scooba (Q2568419)",
+   "url": "https://www.wikidata.org/wiki/Q2568419",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Wikipedia, Scooba (brand)",
+   "url": "https://en.wikipedia.org/wiki/Scooba_(brand)",
+   "kind": "wikipedia"
   }
  ],
- "ids": {},
+ "ids": {
+  "wikidata": "Q2568419"
+ },
  "origin": "edited",
  "added": "2026-11-08",
  "revised": "2026-11-08",
