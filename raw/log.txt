@@ -1,0 +1,303 @@
+after instances 1447
+after models 1632
+class Mars rover 10
+class lunar rover 21
+class rover 43
+class planetary rover 0
+class space rover 0
+class robotic arm 6
+class unmanned ground vehicle 18
+class autonomous underwater vehicle 21
+class remotely operated underwater vehicle 22
+retry 0 https://query.wikidata.org/sparql <HTTPError 502: 'Bad Gateway'>
+class robotic lawn mower 0
+class exoskeleton 81
+class powered exoskeleton 8
+class surgical robot 0
+class telepresence robot 0
+class robotic vacuum cleaner 2
+class quadruped robot 0
+class educational robot 0
+class robot kit 0
+class humanoid robot 69
+after classes 1790
+retry 0 https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category%3A1956+robots&cmtype=page%7Csubcat <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 1 https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category%3A1956+robots&cmtype=page%7Csubcat <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 2 https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category%3A1956+robots&cmtype=page%7Csubcat <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 0 https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category%3ADisability+robots&cmtype=page%7C <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 1 https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category%3ADisability+robots&cmtype=page%7C <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 2 https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category%3ADisability+robots&cmtype=page%7C <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 0 https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category%3ASnake+robots&cmtype=page%7Csubca <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 1 https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category%3ASnake+robots&cmtype=page%7Csubca <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 2 https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category%3ASnake+robots&cmtype=page%7Csubca <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+categories 313 pages 2331
+retry 0 https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=WASP-11%7CWASP-11b%7CWASP-12%7CWASP-121%7CWASP-121 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=WASP-11%7CWASP-11b%7CWASP-12%7CWASP-121%7CWASP-121 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles=WASP-11%7CWASP-11b%7CWASP-12%7CWASP-121%7CWASP-121 <HTTPError 429: 'Too Many Requests'>
+after wikipedia 3684
+entities 3684
+labels 3694
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/AC_20-152 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/AC_25.1309-1 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/AC_91-57 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/ACARS <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/AC_20-152 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/AC_25.1309-1 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/AC_91-57 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/ACARS <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/AC_20-152 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/AC_25.1309-1 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/AC_91-57 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/ACARS <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/AC_20-152 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/AC_25.1309-1 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/AC_91-57 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/ACARS <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Rapid_Transit <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Robotics <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Rotorcraft_Sniper_System <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Shipboard_Humanoid <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Rapid_Transit <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Robotics <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Rotorcraft_Sniper_System <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Shipboard_Humanoid <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Rapid_Transit <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Robotics <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Rotorcraft_Sniper_System <HTTPError 429: 'Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_spaceport_drone_ship <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_spaceport_drone_ship <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Rapid_Transit <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Robotics <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_Rotorcraft_Sniper_System <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_spaceport_drone_ship <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_underwater_vehicle <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Autopilot <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Autosampler <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_spaceport_drone_ship <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Autonomous_underwater_vehicle <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Autopilot <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Autosampler <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Cluster_II_%28spacecraft%29 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/CoRoT <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Coachella_Valley_Radio_Control_Club <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Cobot <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Cluster_II_%28spacecraft%29 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/CoRoT <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Coachella_Valley_Radio_Control_Club <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Cobot <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Cluster_II_%28spacecraft%29 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/CoRoT <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Coachella_Valley_Radio_Control_Club <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Cobot <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Cluster_II_%28spacecraft%29 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/CoRoT <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Coachella_Valley_Radio_Control_Club <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Cobot <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Edoardo_Amaldi_ATV <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Educational_robotics <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Eelume <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Einstein_Observatory <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Edoardo_Amaldi_ATV <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Educational_robotics <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Eelume <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Einstein_Observatory <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Edoardo_Amaldi_ATV <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Educational_robotics <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Eelume <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Einstein_Observatory <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Edoardo_Amaldi_ATV <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Educational_robotics <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Eelume <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Einstein_Observatory <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Einstein_Probe <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Graupner_%28company%29 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Gravitational_Wave_High-energy_Electromagnetic_Counterpart_All-sky_Mon <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Gravity_and_Extreme_Magnetism_Small_Explorer <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Great_Observatories_program <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Graupner_%28company%29 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Gravitational_Wave_High-energy_Electromagnetic_Counterpart_All-sky_Mon <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Gravity_and_Extreme_Magnetism_Small_Explorer <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Great_Observatories_program <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Graupner_%28company%29 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Gravitational_Wave_High-energy_Electromagnetic_Counterpart_All-sky_Mon <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Gravity_and_Extreme_Magnetism_Small_Explorer <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Great_Observatories_program <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Graupner_%28company%29 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Gravitational_Wave_High-energy_Electromagnetic_Counterpart_All-sky_Mon <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Gravity_and_Extreme_Magnetism_Small_Explorer <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Great_Observatories_program <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Grid_compass <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Griffon_Aerospace_Valiant <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Ground_proximity_warning_system <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Grounded_%28opera%29 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Grid_compass <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Griffon_Aerospace_Valiant <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Ground_proximity_warning_system <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Grounded_%28opera%29 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Italian_robotics <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Italmas <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/IvanAnywhere <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/J9_Series <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Italian_robotics <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Italmas <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/IvanAnywhere <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/J9_Series <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Italian_robotics <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Italmas <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/IvanAnywhere <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/J9_Series <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Italian_robotics <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Italmas <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/IvanAnywhere <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/J9_Series <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_robotic_dogs <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_robots <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_rovers_on_extraterrestrial_bodies <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_semi-automatic_train_systems <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_robotic_dogs <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_robots <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_rovers_on_extraterrestrial_bodies <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_semi-automatic_train_systems <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_robotic_dogs <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_robots <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_rovers_on_extraterrestrial_bodies <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_semi-automatic_train_systems <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_robotic_dogs <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_robots <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_rovers_on_extraterrestrial_bodies <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/List_of_semi-automatic_train_systems <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Mayflower_AI_sea_drone <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Mazaalai_%28satellite%29 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Mcity <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Mechanical_Gecko <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Mayflower_AI_sea_drone <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Mazaalai_%28satellite%29 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Mcity <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Mechanical_Gecko <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Mayflower_AI_sea_drone <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Mazaalai_%28satellite%29 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Mcity <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Mechanical_Gecko <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Mayflower_AI_sea_drone <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Mazaalai_%28satellite%29 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Mcity <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Mechanical_Gecko <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Oregon_State_University_Mars_Rover <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Orel_%28spacecraft%29 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Origins_Space_Telescope <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Osica_%28drone%29 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Oregon_State_University_Mars_Rover <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Orel_%28spacecraft%29 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Origins_Space_Telescope <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Osica_%28drone%29 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Oregon_State_University_Mars_Rover <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Orel_%28spacecraft%29 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Origins_Space_Telescope <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Osica_%28drone%29 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Oregon_State_University_Mars_Rover <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Orel_%28spacecraft%29 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Origins_Space_Telescope <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Osica_%28drone%29 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Outrunner <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Ozymandias_%28short_story%29 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/P-270_Moskit <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/P-500_Bazalt <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Outrunner <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Progress_M-28 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Progress_M-28M <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Progress_M-29 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Progress_M-29M <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Progress_M-28 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Progress_M-28M <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Progress_M-29 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Progress_M-29M <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Regulation_of_UAVs_in_the_United_States <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Regulation_of_self-driving_cars <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Regulation_of_unmanned_aerial_vehicles <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Rehabilitation_robotics <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Regulation_of_UAVs_in_the_United_States <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Regulation_of_self-driving_cars <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Regulation_of_unmanned_aerial_vehicles <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Rehabilitation_robotics <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_149_Gaza <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_238 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_drones <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Shakey_the_robot <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_149_Gaza <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_238 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_drones <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Shakey_the_robot <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_149_Gaza <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_238 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_drones <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Shakey_the_robot <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_149_Gaza <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_238 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Shahed_drones <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Shakey_the_robot <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Shalu_Robot <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Shensuo <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Shenzhou_1 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Shenzhou_2 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Shalu_Robot <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Shensuo <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Shenzhou_1 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Shenzhou_2 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/The_Nightmare_of_the_Vultures <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/The_Rest_of_the_Robots <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/The_Robot_and_the_Man <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/The_Robotic_Workshop <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/The_Nightmare_of_the_Vultures <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/The_Rest_of_the_Robots <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/The_Robot_and_the_Man <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/The_Robotic_Workshop <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/The_Nightmare_of_the_Vultures <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/The_Rest_of_the_Robots <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/The_Robot_and_the_Man <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/The_Robotic_Workshop <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/The_Nightmare_of_the_Vultures <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/The_Robot_and_the_Man <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/The_Rest_of_the_Robots <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/The_Robotic_Workshop <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/The_Rock-afire_Explosion <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/The_Ruum <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/The_Slowskys <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/The_Snow_Queen%3A_Mirrorlands <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Vityaz-D_Autonomous_Underwater_Vehicle <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Voyager_1 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Voyager_2 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/Vyommitra <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Vityaz-D_Autonomous_Underwater_Vehicle <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Voyager_1 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Voyager_2 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/Vyommitra <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Vityaz-D_Autonomous_Underwater_Vehicle <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Voyager_1 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Voyager_2 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/Vyommitra <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Vityaz-D_Autonomous_Underwater_Vehicle <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Voyager_1 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Voyager_2 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/Vyommitra <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/WARP-01 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/WASEDA-SAT-ZERO <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/WASP-1 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/WASP-10 <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/%C3%89paulard <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/%C3%98resund_drone_incident <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/%C5%8Cno_Benkichi <HTTPError 429: 'Too Many Requests'>
+retry 0 https://en.wikipedia.org/api/rest_v1/page/summary/%C5%9Awiatowid_%28satellite%29 <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/%C3%89paulard <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/%C3%98resund_drone_incident <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/%C5%8Cno_Benkichi <HTTPError 429: 'Too Many Requests'>
+retry 1 https://en.wikipedia.org/api/rest_v1/page/summary/%C5%9Awiatowid_%28satellite%29 <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/%C3%89paulard <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/%C3%98resund_drone_incident <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/%C5%8Cno_Benkichi <HTTPError 429: 'Too Many Requests'>
+retry 2 https://en.wikipedia.org/api/rest_v1/page/summary/%C5%9Awiatowid_%28satellite%29 <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/%C3%89paulard <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/%C3%98resund_drone_incident <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/%C5%8Cno_Benkichi <HTTPError 429: 'Too Many Requests'>
+retry 3 https://en.wikipedia.org/api/rest_v1/page/summary/%C5%9Awiatowid_%28satellite%29 <HTTPError 429: 'Too Many Requests'>
+summaries 2914
+done
