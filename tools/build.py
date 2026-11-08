@@ -376,7 +376,7 @@ def build():
     out.put("evolution/index.html", evolution_page(E, ids, stats))
 
     # ---- home
-    out.put("index.html", home_page(E, ids, by_sec, rod, featured, changes, mk_pages, ct_pages, stats, makers, countries, news, robodle))
+    out.put("index.html", home_page(E, ids, by_sec, rod, featured, changes, mk_pages, ct_pages, stats, makers, countries, news))
 
     # ---- A to Z
     letters = defaultdict(list)
@@ -500,13 +500,11 @@ def build():
     write(out)
     print(f"built {len(out.files)} files, {len(ids)} entries, robot of the day: {rod['name']}")
 
-def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, countries, news=(), robodle=None):
+def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, countries, news=()):
     rod_sec = SEC[rod["section"]]
     dated = sum(1 for i in ids if year_int(E[i]))
     body = rod.get("body") or []
     excerpt = body[0] if body else ("; ".join(rod.get("facts") or [])[:300])
-    today = (robodle or {}).get("today")
-    sil = E[today["id"]]["cut"]["s"] if today and today["id"] in E and E[today["id"]].get("cut") else ""
     h = ['<main class="home-main">',
          '<section class="hero"><div class="wrap"><h1>Every robot worth knowing, from 1739 to this morning.</h1>'
          f'<p class="deck">A reference of {stats["n"]:,} robots with their makers, dates, measures and sources. Revised every day.</p></div>',
@@ -518,9 +516,7 @@ def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, cou
            '<img src="/assets/world-way-light.webp" alt="" width="1140" height="630" loading="lazy" decoding="async"></picture>'
            f'<span class="wt"><em>The city</em><b>Robot World</b><span>All {stats["n"]:,} robots live in one small city. Stroll the plaza with ASIMO and Spot, '
            'then wander out to the Red Planet or Humanoid Heights and meet whoever you find.</span><span class="go">Walk in</span></span></a>'
-         + (f'<a class="way play-way" href="/play/"><span class="sil"><img src="/img/s/{sil}.webp" alt="" width="200" height="200" loading="lazy"></span>'
-            f'<span class="wt"><em>Robodle No. {today["n"]}</em><b>Who is that robot?</b><span>Name today\'s robot from its shadow in eight guesses. A new one every midnight.</span><span class="go">Play</span></span></a>' if sil else "")
-         + f'<a class="way evo-way" href="/evolution/">{mini_skyline(E, ids)}<span class="wt"><em>The chart</em><b>The evolution of robots</b>'
+         + f'<a class="way evo-way" href="/evolution/">{mini_skyline(E, ids, 560, 150)}<span class="wt"><em>The chart</em><b>The evolution of robots</b>'
            f'<span>All {dated:,} dated robots on one chart, from a clockwork duck to this year\'s humanoids.</span><span class="go">Open the chart</span></span></a>'
          + '</section>',
          '<div class="wrap"><hr class="double"><div class="spread"><section><h2 class="label">Robot of the day</h2>'
