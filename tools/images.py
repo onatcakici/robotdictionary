@@ -21,7 +21,9 @@ PLATE, THUMB = (480, 360), (160, 120)
 # Androids built as likenesses of real people are left without pictures.
 EXCLUDE = {"geminoid-hi-1", "bina48", "albert-hubo", "nadine", "philip-k-dick-android", "geminoid-f", "geminoid-dk", "han-robot"}
 PEOPLE = re.compile(r"\b(with|meets|meeting|visit|visits|visited|president|minister|prime|ceo|founder|professor|prof|dr|mayor|governor|senator|"
-                    r"king|queen|prince|princess|pope|elon|musk|obama|trump|putin|modi|merkel|macron|jinping|abe|biden|clinton|bezos|zuckerberg)\b", re.I)
+                    r"king|queen|prince|princess|pope|elon|musk|obama|trump|putin|modi|merkel|macron|jinping|abe|biden|clinton|bezos|zuckerberg|"
+                    r"astronauts?|cosmonauts?|spacewalk|eva|crew|team|students?|children|kids|visitors?|operators?|technicians?|engineers?|"
+                    r"scientists?|people|man|woman|men|women|boy|girl|portrait|selfie|STS-\d+|holding|riding)\b", re.I)
 NOTPHOTO = re.compile(r"logo|diagram|schematic|drawing|patch|emblem|icon|insignia|\bmap\b|chart|graph|blueprint|sketch|render|cad\b|poster|stamp", re.I)
 FREE = re.compile(r"^(cc0|cc[ -]by|public domain|pd|no restrictions|attribution|fal|free art)", re.I)
 

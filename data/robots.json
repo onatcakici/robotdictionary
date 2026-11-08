@@ -3,7 +3,7 @@
  "url": "https://robotdictionary.com/",
  "licence": "CC BY 4.0, attribution: Robot Dictionary (robotdictionary.com)",
  "generated": "2026-11-08",
- "count": 991,
+ "count": 984,
  "entries": [
   {
    "id": "2-xl",
@@ -4892,33 +4892,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "canadarm2-q559298",
-   "name": "Canadarm2",
-   "section": "arms",
-   "kind": "robot arm",
-   "maker": "MDA Space and FRE Composites",
-   "country": "Canada",
-   "year": "2001",
-   "def": "Robotic arm on the International Space Station.",
-   "refs": [
-    {
-     "label": "Wikipedia, Canadarm2",
-     "url": "https://en.wikipedia.org/wiki/Canadarm2",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Canadarm2 (Q559298)",
-     "url": "https://www.wikidata.org/wiki/Q559298",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q559298"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "canadarm2",
    "name": "Canadarm2",
    "section": "arms",
@@ -4946,8 +4919,21 @@
      "label": "Canadian Space Agency website",
      "url": "https://www.asc-csa.gc.ca/eng/",
      "kind": "maker"
+    },
+    {
+     "label": "Wikipedia, Canadarm2",
+     "url": "https://en.wikipedia.org/wiki/Canadarm2",
+     "kind": "wikipedia"
+    },
+    {
+     "label": "Wikidata, Canadarm2 (Q559298)",
+     "url": "https://www.wikidata.org/wiki/Q559298",
+     "kind": "wikidata"
     }
    ],
+   "ids": {
+    "wikidata": "Q559298"
+   },
    "added": "2026-11-08",
    "revised": "2026-11-08"
   },
@@ -8751,36 +8737,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "european-robotic-arm-q992858",
-   "name": "European Robotic Arm",
-   "section": "arms",
-   "kind": "robot arm",
-   "maker": "Airbus Defence and Space Netherlands and Astrium",
-   "def": "Robotic arm attached to the Nauka module of the International Space Station.",
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/European_Robotic_Arm",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, European Robotic Arm",
-     "url": "https://en.wikipedia.org/wiki/European_Robotic_Arm",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, European Robotic Arm (Q992858)",
-     "url": "https://www.wikidata.org/wiki/Q992858",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q992858"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "european-robotic-arm",
    "name": "European Robotic Arm",
    "section": "arms",
@@ -8801,8 +8757,26 @@
      "label": "European Space Agency website",
      "url": "https://www.esa.int",
      "kind": "maker"
+    },
+    {
+     "label": "Official website",
+     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/European_Robotic_Arm",
+     "kind": "official"
+    },
+    {
+     "label": "Wikipedia, European Robotic Arm",
+     "url": "https://en.wikipedia.org/wiki/European_Robotic_Arm",
+     "kind": "wikipedia"
+    },
+    {
+     "label": "Wikidata, European Robotic Arm (Q992858)",
+     "url": "https://www.wikidata.org/wiki/Q992858",
+     "kind": "wikidata"
     }
    ],
+   "ids": {
+    "wikidata": "Q992858"
+   },
    "added": "2026-11-08",
    "revised": "2026-11-08"
   },
@@ -15838,36 +15812,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "lunar-reconnaissance-orbiter",
-   "name": "Lunar Reconnaissance Orbiter",
-   "section": "other",
-   "kind": "robot",
-   "year": "2009",
-   "def": "NASA robotic spacecraft orbiting the Moon.",
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "https://nasa.gov/LRO",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, Lunar Reconnaissance Orbiter",
-     "url": "https://en.wikipedia.org/wiki/Lunar_Reconnaissance_Orbiter",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Lunar Reconnaissance Orbiter (Q331778)",
-     "url": "https://www.wikidata.org/wiki/Q331778",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q331778"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "lunar-roving-vehicle",
    "name": "Lunar Roving Vehicle",
    "aka": [
@@ -16798,36 +16742,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "mariner-4",
-   "name": "Mariner 4",
-   "section": "other",
-   "kind": "robot",
-   "year": "1964",
-   "def": "Robotic spacecraft sent by NASA to Mars.",
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "https://www.jpl.nasa.gov/missions/mariner-4/",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, Mariner 4",
-     "url": "https://en.wikipedia.org/wiki/Mariner_4",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Mariner 4 (Q203805)",
-     "url": "https://www.wikidata.org/wiki/Q203805",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q203805"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -21862,38 +21776,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "pioneer-11",
-   "name": "Pioneer 11",
-   "section": "other",
-   "kind": "robot",
-   "maker": "TRW Inc.",
-   "country": "United States",
-   "year": "1973",
-   "def": "Robotic space probe launched by NASA for planetary and heliosphere exploration.",
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "http://spaceprojects.arc.nasa.gov/Space_Projects/pioneer/PNhome.html",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, Pioneer 11",
-     "url": "https://en.wikipedia.org/wiki/Pioneer_11",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Pioneer 11 (Q59113)",
-     "url": "https://www.wikidata.org/wiki/Q59113",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q59113"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "pioneer-3-dx",
    "name": "Pioneer 3-DX",
    "aka": [
@@ -22415,31 +22297,6 @@
     "batch": "Winter 2025",
     "status": "Active",
     "url": "https://www.ycombinator.com/companies/proception-inc"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "progress-m-10",
-   "name": "Progress M-10",
-   "section": "other",
-   "kind": "robot",
-   "year": "1991",
-   "def": "Soviet turned Russian robotic spacecraft.",
-   "refs": [
-    {
-     "label": "Wikipedia, Progress M-10",
-     "url": "https://en.wikipedia.org/wiki/Progress_M-10",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Progress M-10 (Q7248553)",
-     "url": "https://www.wikidata.org/wiki/Q7248553",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q7248553"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -26468,37 +26325,6 @@
     "wikidata": "Q3445540"
    },
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "rosetta",
-   "name": "Rosetta",
-   "section": "other",
-   "kind": "robot",
-   "maker": "Astrium",
-   "year": "2004",
-   "def": "Robotic space probe which orbited comet 67P/Churyumov–Gerasimenko.",
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "https://rosetta.esa.int/",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, Rosetta (spacecraft)",
-     "url": "https://en.wikipedia.org/wiki/Rosetta_(spacecraft)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Rosetta (Q48572)",
-     "url": "https://www.wikidata.org/wiki/Q48572",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q48572"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {

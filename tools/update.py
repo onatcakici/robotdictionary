@@ -40,9 +40,10 @@ def wb(ids, props="labels|descriptions|aliases|claims|sitelinks"):
     def one(chunk):
         d = get("https://www.wikidata.org/w/api.php?" + urllib.parse.urlencode({"action": "wbgetentities", "ids": "|".join(chunk), "props": props,
                                                                                "languages": "en", "sitefilter": "enwiki", "format": "json"}))
+        time.sleep(0.3)
         return (d or {}).get("entities", {})
     chunks = [ids[i:i + 50] for i in range(0, len(ids), 50)]
-    with ThreadPoolExecutor(4) as ex:
+    with ThreadPoolExecutor(2) as ex:
         for res in ex.map(one, chunks): out.update({k: v for k, v in res.items() if "missing" not in v})
     return out
 
@@ -177,6 +178,7 @@ def main():
     cand = [r["item"].rsplit("/", 1)[-1] for r in rows]
     cand = [q for q in cand if q not in known_q]
     log("new candidates", len(cand))
+    deferred = 0
     added = 0
     if cand:
         cents = wb(cand[:600])
@@ -187,10 +189,28 @@ def main():
         labs2 = wb(sorted(cl_ids), "labels|claims") if cl_ids else {}
         lab2 = lambda q: label(labs2.get(q, {})) or ""
         queue = []
+        names = {}
+        for eid0, e0 in entries.items():
+            for n0 in [e0.get("name", "")] + list(e0.get("aka") or []):
+                if n0: names.setdefault(slugify(n0), eid0)
+        deferred = 0
         for q, w in cents.items():
-            classes = [lab2(x) for x in ids_of(w, "P31")[:6] + ids_of(w, "P279")[:4]]
+            cids = ids_of(w, "P31")[:6] + ids_of(w, "P279")[:4]
+            if any(x not in labs2 for x in cids):
+                deferred += 1; continue          # labels did not load; look again tomorrow rather than judge blind
+            classes = [lab2(x) for x in cids]
             ok, why = is_robot(classes, desc(w))
             if not ok: block.add(q); continue
+            same = names.get(slugify(re.sub(r"\s*\((robot|rover|robotics)\)$", "", label(w) or "")))
+            if same:
+                e0 = entries[same]
+                if not (e0.get("ids") or {}).get("wikidata"):
+                    e0.setdefault("ids", {})["wikidata"] = q
+                    add_ref(e0, {"label": f"Wikidata, {label(w)} ({q})", "url": "https://www.wikidata.org/wiki/" + q, "kind": "wikidata"})
+                    if enwiki(w): add_ref(e0, {"label": "Wikipedia, " + enwiki(w), "url": wp_url(enwiki(w)), "kind": "wikipedia"})
+                    e0["revised"] = TODAY; note(same, "revised", "linked to Wikidata")
+                known_q.add(q); continue
+
             if not enwiki(w) or len(desc(w)) < 18: continue
             queue.append((q, w, classes))
         queue.sort(key=lambda t: -len(t[1].get("sitelinks", {})))
@@ -222,7 +242,7 @@ def main():
                 e["excerpt"] = {"text": text, "title": t, "url": wp_url(t)}
             entries[eid] = e; known_q.add(q); added += 1
             note(eid, "added", "from Wikidata and Wikipedia")
-    log("added", added)
+    log("added", added, "deferred", deferred)
 
     # ---- 4. Y Combinator
     yc_queue = load_json(os.path.join(STATE, "yc_queue.json"), [])

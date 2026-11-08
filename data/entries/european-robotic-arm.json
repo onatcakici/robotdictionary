@@ -23,9 +23,26 @@
    "label": "European Space Agency website",
    "url": "https://www.esa.int",
    "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/European_Robotic_Arm",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, European Robotic Arm",
+   "url": "https://en.wikipedia.org/wiki/European_Robotic_Arm",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, European Robotic Arm (Q992858)",
+   "url": "https://www.wikidata.org/wiki/Q992858",
+   "kind": "wikidata"
   }
  ],
- "ids": {},
+ "ids": {
+  "wikidata": "Q992858"
+ },
  "origin": "edited",
  "added": "2026-11-08",
  "revised": "2026-11-08",

@@ -29,9 +29,21 @@
    "label": "Canadian Space Agency website",
    "url": "https://www.asc-csa.gc.ca/eng/",
    "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Canadarm2",
+   "url": "https://en.wikipedia.org/wiki/Canadarm2",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Canadarm2 (Q559298)",
+   "url": "https://www.wikidata.org/wiki/Q559298",
+   "kind": "wikidata"
   }
  ],
- "ids": {},
+ "ids": {
+  "wikidata": "Q559298"
+ },
  "origin": "edited",
  "added": "2026-11-08",
  "revised": "2026-11-08",

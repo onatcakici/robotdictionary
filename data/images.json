@@ -2039,19 +2039,7 @@
   "th": 120,
   "added": "2026-11-08"
  },
- "canadarm2-q559298": {
-  "file": "STS-114 Steve Robinson on Canadarm2.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:STS-114_Steve_Robinson_on_Canadarm2.jpg",
-  "author": "NASA",
-  "license": "Public domain",
-  "license_url": "",
-  "w": 480,
-  "h": 317,
-  "tw": 160,
-  "th": 106,
-  "added": "2026-11-08"
- },
- "european-robotic-arm-q992858": {
+ "european-robotic-arm": {
   "file": "The European robotic arm extends out from the Nauka module (iss067e034864) (cropped).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:The_European_robotic_arm_extends_out_from_the_Nauka_module_(iss067e034864)_(cropped).jpg",
   "author": "NASA",
@@ -2061,54 +2049,6 @@
   "h": 191,
   "tw": 160,
   "th": 64,
-  "added": "2026-11-08"
- },
- "lunar-reconnaissance-orbiter": {
-  "file": "LRO 2006.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:LRO_2006.jpg",
-  "author": "Unknown author",
-  "license": "Public domain",
-  "license_url": "",
-  "w": 480,
-  "h": 336,
-  "tw": 160,
-  "th": 112,
-  "added": "2026-11-08"
- },
- "mariner-4": {
-  "file": "Mariner 3 and 4.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Mariner_3_and_4.jpg",
-  "author": "NASA",
-  "license": "Public domain",
-  "license_url": "",
-  "w": 480,
-  "h": 285,
-  "tw": 160,
-  "th": 95,
-  "added": "2026-11-08"
- },
- "pioneer-11": {
-  "file": "Pioneer 10-11 spacecraft.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Pioneer_10-11_spacecraft.jpg",
-  "author": "Don Davis for NASA",
-  "license": "Public domain",
-  "license_url": "",
-  "w": 360,
-  "h": 360,
-  "tw": 120,
-  "th": 120,
-  "added": "2026-11-08"
- },
- "rosetta": {
-  "file": "Rosetta spacecraft model.png",
-  "page": "https://commons.wikimedia.org/wiki/File:Rosetta_spacecraft_model.png",
-  "author": "ESA/ATG medialab",
-  "license": "CC BY-SA 2.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-  "w": 480,
-  "h": 224,
-  "tw": 160,
-  "th": 75,
   "added": "2026-11-08"
  }
 }

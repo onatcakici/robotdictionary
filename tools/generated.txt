@@ -174,7 +174,6 @@ cafe-x/index.html
 cainiao-xiaomanlv/index.html
 calvin-40/index.html
 canadarm/index.html
-canadarm2-q559298/index.html
 canadarm2/index.html
 canadarm3/index.html
 carbon-robotics-laserweeder/index.html
@@ -347,7 +346,6 @@ ergocub/index.html
 eric/index.html
 erica/index.html
 eureka/index.html
-european-robotic-arm-q992858/index.html
 european-robotic-arm/index.html
 eve/index.html
 ever/index.html
@@ -573,7 +571,6 @@ lovot/index.html
 lru/index.html
 lucki/index.html
 lucky-the-dinosaur/index.html
-lunar-reconnaissance-orbiter/index.html
 lunar-roving-vehicle/index.html
 lunokhod-1/index.html
 lunokhod-2/index.html
@@ -716,7 +713,6 @@ mapp/index.html
 marble-robot/index.html
 marie-curie/index.html
 marine/index.html
-mariner-4/index.html
 mark-ii/index.html
 marsokhod/index.html
 marvin/index.html
@@ -863,7 +859,6 @@ piggy/index.html
 pilot-robot-kit/index.html
 pino/index.html
 pio/index.html
-pioneer-11/index.html
 pioneer-3-dx/index.html
 pioneer-3dx/index.html
 play/index.html
@@ -876,7 +871,6 @@ porton-man/index.html
 pr2/index.html
 pragyan/index.html
 proception/index.html
-progress-m-10/index.html
 promobot/index.html
 prop-m/index.html
 proprio/index.html
@@ -988,7 +982,6 @@ ropos/index.html
 rosa/index.html
 rosalind-franklin/index.html
 rosalind/index.html
-rosetta/index.html
 rov-kiel-6000/index.html
 rov-odysseus-6k/index.html
 rov-phoca/index.html

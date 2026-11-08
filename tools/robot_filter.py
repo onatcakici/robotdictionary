@@ -51,9 +51,12 @@ MILITARY = re.compile(r"\b(military|army|navy|naval|marine corps|armed forces|de
                       r"soldiers?|troops|infantry|mine ?(hunting|countermeasures?|clearance|disposal)|minehunt\w*|reconnaissance|bomb disposal|"
                       r"explosive ordnance|ordnance disposal|sentry|tactical|uncrewed (ground|surface) (combat )?vehicle|unmanned (ground|surface|combat) vehicle)\b")
 
+SPACECRAFT = re.compile(r"\b(space ?probe|spacecraft|satellite|orbiter|space telescope|launch vehicle|rocket|cargo ship|space station module)\b")
+
 def is_robot(classes, description):
     cls = set(c for c in classes if c)
     d = (description or "").lower()
+    if SPACECRAFT.search(d) and not re.search(r"\brover\b|robotic arm|robot arm|manipulator|humanoid", d): return False, "spacecraft"
     if cls & REJECT: return False, "rejected class"
     if FICT.search(d): return False, "fiction"
     if WEAPON.search(d): return False, "weapon"

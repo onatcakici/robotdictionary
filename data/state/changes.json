@@ -4135,44 +4135,14 @@
  },
  {
   "date": "2026-11-08",
-  "id": "canadarm2-q559298",
-  "type": "added",
-  "note": "from Wikidata and Wikipedia"
+  "id": "canadarm2",
+  "type": "revised",
+  "note": "sources from Wikidata"
  },
  {
   "date": "2026-11-08",
-  "id": "european-robotic-arm-q992858",
-  "type": "added",
-  "note": "from Wikidata and Wikipedia"
- },
- {
-  "date": "2026-11-08",
-  "id": "lunar-reconnaissance-orbiter",
-  "type": "added",
-  "note": "from Wikidata and Wikipedia"
- },
- {
-  "date": "2026-11-08",
-  "id": "progress-m-10",
-  "type": "added",
-  "note": "from Wikidata and Wikipedia"
- },
- {
-  "date": "2026-11-08",
-  "id": "rosetta",
-  "type": "added",
-  "note": "from Wikidata and Wikipedia"
- },
- {
-  "date": "2026-11-08",
-  "id": "pioneer-11",
-  "type": "added",
-  "note": "from Wikidata and Wikipedia"
- },
- {
-  "date": "2026-11-08",
-  "id": "mariner-4",
-  "type": "added",
-  "note": "from Wikidata and Wikipedia"
+  "id": "european-robotic-arm",
+  "type": "revised",
+  "note": "sources from Wikidata"
  }
 ]
