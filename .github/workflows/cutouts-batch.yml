@@ -1,0 +1,86 @@
+name: Cutouts batch
+on:
+  push:
+    branches: [cutouts-batch]
+permissions:
+  contents: write
+jobs:
+  cut:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet "rembg[cpu]==2.0.67" scipy pillow
+      - uses: actions/cache@v4
+        with:
+          path: ~/.u2net
+          key: rembg-birefnet-general-v1
+      - name: Cut out
+        env:
+          CUTOUT_MODEL: birefnet-general
+          CUTOUT_SHARD: "${{ matrix.shard }}/4"
+          MAX_CUTOUTS: "999"
+          CUTOUT_META: data/cutouts-${{ matrix.shard }}.json
+        run: python tools/cutouts.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: cut-${{ matrix.shard }}
+          path: |
+            img/*.c.webp
+            img/*.ct.webp
+            img/s/
+            data/cutouts-${{ matrix.shard }}.json
+  years:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: ONLY_REFRESH=1 python tools/update.py
+      - run: python .github/scripts/leads.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: years
+          path: |
+            data/entries/
+            data/state/changes.json
+            data/leads.json
+  collect:
+    needs: [cut, years]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: dl
+      - name: Gather
+        run: |
+          ls dl
+          for d in dl/cut-*; do [ -d "$d/img" ] && cp -r "$d/img/." img/; done
+          python - <<'PY'
+          import json, glob
+          meta = {}
+          for p in glob.glob("dl/cut-*/data/cutouts-*.json"): meta.update(json.load(open(p)))
+          json.dump(meta, open("data/cutouts.json", "w"), indent=1, sort_keys=True)
+          print("cutouts", len(meta), "ok", sum(1 for m in meta.values() if m.get("ok")))
+          PY
+          if [ -d dl/years/entries ]; then mkdir -p data/batch && cp -r dl/years/entries data/batch/ && cp dl/years/state/changes.json data/batch/ && cp dl/years/leads.json data/batch/; fi
+          if [ -d dl/years/data/entries ]; then mkdir -p data/batch && cp -r dl/years/data/entries data/batch/ && cp dl/years/data/state/changes.json data/batch/ && cp dl/years/data/leads.json data/batch/; fi
+      - name: Commit
+        run: |
+          git config user.name "Robot Dictionary"
+          git config user.email "contact@robotdictionary.com"
+          git add -A img data
+          git commit -q -m "Cutouts and years batch" || exit 0
+          git push
