@@ -1,0 +1,10 @@
+IEEE Spectrum 30
+The Robot Report 15
+TechCrunch 20
+Robohub 75
+New Atlas 60
+MIT News 50
+Interesting Engineering 10
+The Verge 10
+Electrek 150
+new headlines 111 linked 5 kept 110
