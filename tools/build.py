@@ -475,7 +475,7 @@ def build():
         items = by_date[d]
         body.append(f'<section class="batch"><h2>{nice_date(d)}</h2><ul class="list">' + "".join(
             f'<li><a href="/{c["id"]}/">{esc(E[c["id"]]["name"])}</a> <span class="m">{"added" if c["type"] == "added" else "revised"}'
-            + (f', {esc(c["note"])}' if c.get("note") else "") + "</span></li>" for c in items[:1500]) + "</ul></section>")
+            + (f', {esc(c["note"])}' if c.get("note") else "") + "</span></li>" for c in list(reversed(items))[:1500]) + "</ul></section>")
     body.append("</main>")
     out.put("recent/index.html", page("/recent/", "Recently added robots | Robot Dictionary", "New and revised entries in the Robot Dictionary, by date.", "\n".join(body), stats))
 
