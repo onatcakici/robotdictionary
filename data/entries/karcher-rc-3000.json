@@ -26,6 +26,11 @@
    "label": "Wikidata, Kärcher RC3000 (Q6453436)",
    "url": "https://www.wikidata.org/wiki/Q6453436",
    "kind": "wikidata"
+  },
+  {
+   "label": "Wikipedia, Kärcher RC3000",
+   "url": "https://en.wikipedia.org/wiki/K%C3%A4rcher_RC3000",
+   "kind": "wikipedia"
   }
  ],
  "ids": {

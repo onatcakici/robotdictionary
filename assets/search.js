@@ -25,4 +25,18 @@
   document.addEventListener('keydown',function(ev){ if(ev.key==='/'&&!/input|textarea/i.test(document.activeElement.tagName)){ var i=document.querySelector('[data-find] input'); if(i){ev.preventDefault();i.focus();} } });
   document.querySelectorAll('[data-copy]').forEach(function(b){ b.addEventListener('click',function(){ var t=document.getElementById(b.getAttribute('data-copy')).innerText;
     (navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(function(){ b.textContent='Copied'; setTimeout(function(){b.textContent='Copy'},1600) }).catch(function(){}) }) });
+  // the march of robots on the front page drifts slowly through time until someone takes over
+  var mr=document.querySelector('[data-march]');
+  if(mr){ var track=mr.querySelector('.mtrack'), x=0, auto=!window.matchMedia('(prefers-reduced-motion: reduce)').matches, paused=false, last=null, drag=null;
+    function takeOver(){ if(!auto) return; auto=false; track.style.transform=''; mr.scrollLeft=x; }
+    function step(t){ if(!auto) return; if(last!==null && !paused){ var max=track.scrollWidth-mr.clientWidth; x=Math.min(max,x+(t-last)*0.026); track.style.transform='translate3d('+(-x)+'px,0,0)'; if(x>=max){ takeOver(); return; } } last=t; requestAnimationFrame(step); }
+    if(auto) setTimeout(function(){ requestAnimationFrame(step) },1400);
+    mr.addEventListener('mouseenter',function(){ paused=true }); mr.addEventListener('mouseleave',function(){ paused=false });
+    mr.addEventListener('wheel',takeOver,{passive:true}); mr.addEventListener('touchstart',takeOver,{passive:true});
+    mr.addEventListener('pointerdown',function(e){ if(e.pointerType!=='mouse'||e.button!==0) return; takeOver(); drag={x:e.clientX,sl:mr.scrollLeft,moved:false}; });
+    window.addEventListener('pointermove',function(e){ if(!drag) return; var dx=e.clientX-drag.x; if(Math.abs(dx)>4){ drag.moved=true; mr.classList.add('grab'); } mr.scrollLeft=drag.sl-dx; });
+    window.addEventListener('pointerup',function(){ setTimeout(function(){ drag=null; mr.classList.remove('grab') },0) });
+    mr.addEventListener('click',function(e){ if(drag&&drag.moved){ e.preventDefault(); } },true);
+    mr.addEventListener('dragstart',function(e){ e.preventDefault() });
+  }
 })();

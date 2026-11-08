@@ -23,6 +23,11 @@
    "label": "Wikidata, Kaşif ROUV (Q104789828)",
    "url": "https://www.wikidata.org/wiki/Q104789828",
    "kind": "wikidata"
+  },
+  {
+   "label": "Wikipedia, Kaşif ROUV",
+   "url": "https://en.wikipedia.org/wiki/Ka%C5%9Fif_ROUV",
+   "kind": "wikipedia"
   }
  ],
  "ids": {

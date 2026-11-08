@@ -26,6 +26,11 @@
    "label": "Wikidata, Meinü robot (Q6810194)",
    "url": "https://www.wikidata.org/wiki/Q6810194",
    "kind": "wikidata"
+  },
+  {
+   "label": "Wikipedia, Meinü robot",
+   "url": "https://en.wikipedia.org/wiki/Mein%C3%BC_robot",
+   "kind": "wikipedia"
   }
  ],
  "ids": {

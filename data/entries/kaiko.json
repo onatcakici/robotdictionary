@@ -5,7 +5,7 @@
  "section": "marine",
  "kind": "remotely operated vehicle",
  "maker": "JAMSTEC",
- "country": "",
+ "country": "Japan",
  "year": "1993",
  "status": "lost",
  "def": "Japanese deep sea remotely operated vehicle built by JAMSTEC that reached the floor of the Challenger Deep and was lost during a typhoon in 2003.",
@@ -27,6 +27,11 @@
    "label": "Wikidata, Kaikō (Q2572857)",
    "url": "https://www.wikidata.org/wiki/Q2572857",
    "kind": "wikidata"
+  },
+  {
+   "label": "Wikipedia, Kaikō ROV",
+   "url": "https://en.wikipedia.org/wiki/Kaik%C5%8D_ROV",
+   "kind": "wikipedia"
   }
  ],
  "ids": {

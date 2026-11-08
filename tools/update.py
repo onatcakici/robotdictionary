@@ -74,6 +74,17 @@ def years_of(e, p):
         m = re.match(r"\+(\d{4})", (v or {}).get("time", "") if isinstance(v, dict) else "")
         if m: out.append(int(m.group(1)))
     return out
+YEAR_PROPS = ("P571", "P577", "P5204", "P729", "P606", "P619", "P1619", "P580", "P575", "P2031")
+def first_year(w):
+    """Year an item was made or first shown: inception or publication first, then the later milestones."""
+    now = dt.date.fromisoformat(TODAY).year + 1
+    ys = [y for y in years_of(w, "P571") + years_of(w, "P577") if 1700 <= y <= now]
+    if ys: return min(ys)
+    for p in YEAR_PROPS[2:]:
+        ys = [y for y in years_of(w, p) if 1700 <= y <= now]
+        if ys: return min(ys)
+    return None
+
 def str_of(e, p):
     for c in e.get("claims", {}).get(p, []):
         v = (c.get("mainsnak", {}).get("datavalue") or {}).get("value")
@@ -114,15 +125,20 @@ def main():
             if mk: e["maker"] = " and ".join(mk); changed.append("maker")
         if not e.get("country"):
             c = (ids_of(w, "P495") or ids_of(w, "P17"))[:1]
-            if c and lab(c[0]): e["country"] = COUNTRY.get(lab(c[0]), lab(c[0])); changed.append("country")
+            if c and lab(c[0]) and "relations" not in lab(c[0]).lower(): e["country"] = COUNTRY.get(lab(c[0]), lab(c[0])); changed.append("country")
         if not e.get("year"):
-            ys = years_of(w, "P571") + years_of(w, "P577")
-            if ys: e["year"] = str(min(ys)); changed.append("year")
+            y = first_year(w)
+            if y: e["year"] = str(y); changed.append("year")
         end = years_of(w, "P576") + years_of(w, "P582")
         if end and e.get("status") in ("production", "service", "pilot") and not e.get("status_locked"):
             e["status"] = "retired" if e.get("section") != "rovers" else "completed"; changed.append("status")
         if changed:
             e["revised"] = TODAY; note(eid, "revised", ", ".join(sorted(set(changed))) + " from Wikidata")
+
+    if os.environ.get("ONLY_REFRESH"):
+        for eid, e in entries.items(): save_json(os.path.join(ENT, eid + ".json"), e)
+        save_json(os.path.join(STATE, "changes.json"), changes[-5000:])
+        log("refreshed only", sum(1 for c in changes if c["date"] == TODAY)); return
 
     # ---- 2. link unlinked entries when unambiguous
     unl = [eid for eid, e in entries.items() if not (e.get("ids") or {}).get("wikidata") and not e.get("no_wikidata")]
@@ -155,7 +171,7 @@ def main():
     rows = sparql("""SELECT DISTINCT ?item WHERE {
       { ?item wdt:P31/wdt:P279* wd:Q11012 . }
       UNION { VALUES ?l { "lunar rover"@en "Mars rover"@en "rover"@en "autonomous underwater vehicle"@en "remotely operated underwater vehicle"@en
-                          "unmanned ground vehicle"@en "powered exoskeleton"@en }
+                          "powered exoskeleton"@en }
               ?cls rdfs:label ?l . ?item wdt:P31 ?cls . }
       ?art schema:about ?item ; schema:isPartOf <https://en.wikipedia.org/> . }""")
     cand = [r["item"].rsplit("/", 1)[-1] for r in rows]
@@ -178,8 +194,9 @@ def main():
             if not enwiki(w) or len(desc(w)) < 18: continue
             queue.append((q, w, classes))
         queue.sort(key=lambda t: -len(t[1].get("sitelinks", {})))
-        sums = {}
-        for q, w, classes in queue[:MAX_NEW]:
+        # keep the dictionary above a thousand entries; otherwise a few new robots a day
+        room = max(MAX_NEW, min(60, 1010 - len(entries)))
+        for q, w, classes in queue[:room]:
             t = enwiki(w)
             s = get("https://en.wikipedia.org/api/rest_v1/page/summary/" + urllib.parse.quote(t.replace(" ", "_"), safe=""))
             name = re.sub(r"\s*\((robot|rover|robotics)\)$", "", label(w) or t)
@@ -187,7 +204,7 @@ def main():
             if not eid or eid in entries: eid = f"{eid}-{q.lower()}"
             mk = [lab2(x) for x in (ids_of(w, "P176") or ids_of(w, "P178"))[:2] if lab2(x)]
             c = (ids_of(w, "P495") or ids_of(w, "P17"))[:1]
-            ys = years_of(w, "P571") + years_of(w, "P577")
+            y0 = first_year(w)
             d0 = desc(w).strip().rstrip(".")
             definition = d0[:1].upper() + d0[1:] + "."
             refs = [{"label": "Wikipedia, " + t, "url": wp_url(t), "kind": "wikipedia"},
@@ -195,7 +212,7 @@ def main():
             site = str_of(w, "P856")
             if site: refs.insert(0, {"label": "Official website", "url": site, "kind": "official"})
             e = {"id": eid, "name": name, "aka": [], "section": section_for(classes, desc(w)), "kind": kind_for(classes, desc(w)),
-                 "maker": " and ".join(mk), "country": COUNTRY.get(lab2(c[0]), lab2(c[0])) if c else "", "year": str(min(ys)) if ys else "",
+                 "maker": " and ".join(mk), "country": COUNTRY.get(lab2(c[0]), lab2(c[0])) if c else "", "year": str(y0) if y0 else "",
                  "status": "", "def": definition, "body": [], "facts": [], "specs": [], "see": [], "refs": refs, "ids": {"wikidata": q},
                  "origin": "auto", "added": TODAY, "revised": TODAY, "old": []}
             ex = (s or {}).get("extract") or ""

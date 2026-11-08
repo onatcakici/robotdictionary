@@ -16,20 +16,27 @@ concurrency:
 jobs:
   revise:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Install picture tools
-        run: pip install --quiet pillow
+        run: pip install --quiet pillow scipy "rembg[cpu]==2.0.67"
       - name: Revise entries from sources
         continue-on-error: true
         run: python tools/update.py
       - name: Pictures from Wikimedia Commons
         continue-on-error: true
         run: python tools/images.py
+      - name: Cut robots out of new pictures
+        continue-on-error: true
+        env:
+          MAX_CUTOUTS: "25"
+        run: python tools/cutouts.py
       - name: Robotics headlines
         continue-on-error: true
         run: python tools/news.py
@@ -42,6 +49,7 @@ jobs:
           git add -A
           if git diff --cached --quiet; then echo "Nothing changed"; exit 0; fi
           git commit -q -m "Daily revision $(date -u +%Y-%m-%d)"
+          git pull --rebase -q || { git rebase --abort; exit 1; }
           git push
       - name: Ask GitHub Pages to rebuild
         run: |

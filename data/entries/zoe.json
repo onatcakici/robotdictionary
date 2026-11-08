@@ -53,6 +53,11 @@
    "label": "Wikidata, Zoë (Q8074731)",
    "url": "https://www.wikidata.org/wiki/Q8074731",
    "kind": "wikidata"
+  },
+  {
+   "label": "Wikipedia, Zoë (robot)",
+   "url": "https://en.wikipedia.org/wiki/Zo%C3%AB_(robot)",
+   "kind": "wikipedia"
   }
  ],
  "ids": {

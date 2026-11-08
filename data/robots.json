@@ -3,13 +3,14 @@
  "url": "https://robotdictionary.com/",
  "licence": "CC BY 4.0, attribution: Robot Dictionary (robotdictionary.com)",
  "generated": "2026-11-08",
- "count": 1059,
+ "count": 984,
  "entries": [
   {
    "id": "2-xl",
    "name": "2-XL",
    "section": "other",
    "kind": "toy robot",
+   "country": "United States",
    "year": "1978",
    "status": "discontinued",
    "def": "Talking educational toy robot sold by Mego from 1978 to 1981 and by Tiger Electronics from 1992 to 1995, regarded as the first smart toy.",
@@ -1545,39 +1546,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "an-wld-1-remote-minehunting-system",
-   "name": "AN/WLD-1 Remote Minehunting System",
-   "aka": [
-    "AN/WLD-1(V) RMS"
-   ],
-   "section": "marine",
-   "kind": "unmanned semisubmersible vehicle",
-   "maker": "Lockheed Martin",
-   "country": "United States",
-   "def": "Remote controlled mine hunting system from Lockheed Martin in which an unmanned semisubmersible vehicle tows a sonar array under the direction of a surface warship.",
-   "facts": [
-    "Uses the US Navy's Snorkeler class unmanned surface vehicle",
-    "Control equipment is carried aboard the parent ship"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, AN/WLD-1 Remote Minehunting System",
-     "url": "https://en.wikipedia.org/wiki/AN/WLD-1_Remote_Minehunting_System",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, AN/WLD-1 RMS Remote Minehunting System (Q4652894)",
-     "url": "https://www.wikidata.org/wiki/Q4652894",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q4652894"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "andromeda",
    "name": "Andromeda",
    "section": "medical",
@@ -1605,41 +1573,6 @@
     "batch": "Summer 2023",
     "status": "Active",
     "url": "https://www.ycombinator.com/companies/andromeda-surgical"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "andros",
-   "name": "ANDROS",
-   "aka": [
-    "Remotec ANDROS",
-    "ANDROS F6B ROBOTIC GROUND VEHICLE|ANDROS TITUS ROBOTIC GROUND VEHICLE|REMOTEC F6B BOMB ROBOT|Remotec HD-1/HD-2 Bomb Robot|Remotec MK5A1 Bomb Robot",
-    "REMOTEC ANDROS BOMB DISPOSAL ROBOT"
-   ],
-   "section": "wheeled",
-   "kind": "bomb disposal robot",
-   "maker": "Remotec",
-   "status": "service",
-   "def": "Family of remote controlled ground robots from Remotec, a Northrop Grumman subsidiary, used by military, bomb disposal and police teams.",
-   "facts": [
-    "Used in 2016 to kill Micah Xavier Johnson, who had shot Dallas police officers",
-    "Reported as the first time a robot was used to kill a person"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, ANDROS",
-     "url": "https://en.wikipedia.org/wiki/ANDROS",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, ANDROS (Q433017)",
-     "url": "https://www.wikidata.org/wiki/Q433017",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q433017"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -2149,6 +2082,7 @@
    "name": "Argus",
    "section": "other",
    "kind": "robotic camera system",
+   "country": "United States",
    "year": "1990",
    "def": "Robotic camera platform from MIT's City Scanning project that captured omnidirectional images tagged with their geographic position, dating from 1990.",
    "refs": [
@@ -2304,40 +2238,6 @@
    ],
    "ids": {
     "wikidata": "Q12053026"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "armored-combat-engineer-robot",
-   "name": "Armored Combat Engineer Robot",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Mesa Robotics",
-   "def": "Tracked military robot from Mesa Robotics, about as big as a small bulldozer with a weight of 2.25 tons, used to clear obstacles and explosives and haul cargo.",
-   "facts": [
-    "Top speed of 6.3 mph on its tracks",
-    "Can also tow disabled vehicles and help disarm landmines"
-   ],
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "http://www.mesa-robotics.com/acer.html",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, Armored Combat Engineer Robot",
-     "url": "https://en.wikipedia.org/wiki/Armored_Combat_Engineer_Robot",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Armored Combat Engineer Robot (Q4793706)",
-     "url": "https://www.wikidata.org/wiki/Q4793706",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q4793706"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -3262,60 +3162,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "avantguard",
-   "name": "AvantGuard",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "G-NIUS Unmanned Ground Systems",
-   "country": "Israel",
-   "def": "Modular unmanned ground combat vehicle developed by G-NIUS Unmanned Ground Systems in Israel for military use.",
-   "refs": [
-    {
-     "label": "Wikipedia, AvantGuard",
-     "url": "https://en.wikipedia.org/wiki/AvantGuard",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, AvantGuard (Q6660363)",
-     "url": "https://www.wikidata.org/wiki/Q6660363",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q6660363"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "avatar",
-   "name": "Avatar",
-   "aka": [
-    "RoboteX Avatar Tactical Robot|Robotex A00476"
-   ],
-   "section": "wheeled",
-   "kind": "tactical ground robot",
-   "maker": "Robotex",
-   "def": "Series of unmanned tactical ground robots built by the company Robotex and listed as military equipment.",
-   "refs": [
-    {
-     "label": "Wikidata, Avatar (Q128123730)",
-     "url": "https://www.wikidata.org/wiki/Q128123730",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Cited source, acornpd.com",
-     "url": "https://www.acornpd.com/robotex-avatar-tactical-robot",
-     "kind": "cited"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q128123730"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "avride",
    "name": "Avride",
    "section": "wheeled",
@@ -3534,39 +3380,6 @@
    ],
    "ids": {
     "wikidata": "Q12762910"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "battlefield-extraction-assist-robot",
-   "name": "Battlefield Extraction-Assist Robot",
-   "section": "humanoids",
-   "kind": "military rescue robot",
-   "maker": "Vecna Robotics",
-   "def": "Remote controlled humanoid robot from Vecna Robotics built to carry wounded soldiers off the battlefield, using strong hydraulics to lift people over rough ground and stairs.",
-   "facts": [
-    "Can also carry heavy loads across long distances"
-   ],
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "http://vecna.com/robotics/multimedia/downloads/BEAR.pdf",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, Battlefield Extraction-Assist Robot",
-     "url": "https://en.wikipedia.org/wiki/Battlefield_Extraction-Assist_Robot",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Battlefield Extraction-Assist Robot (Q4034916)",
-     "url": "https://www.wikidata.org/wiki/Q4034916",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q4034916"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -3979,6 +3792,7 @@
    "section": "other",
    "kind": "animatronic novelty",
    "maker": "Gemmy Industries",
+   "country": "United States",
    "year": "1999",
    "def": "Singing animatronic novelty in the form of a largemouth bass, created by Gemmy Industries and widely popular from the late 1990s into the early 2000s.",
    "facts": [
@@ -4322,37 +4136,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "black-knight",
-   "name": "Black Knight",
-   "section": "wheeled",
-   "kind": "unmanned ground combat vehicle",
-   "maker": "BAE Systems",
-   "status": "prototype",
-   "def": "Prototype unmanned ground combat vehicle from BAE Systems, resembling a tank, weighing about 12 tons and armed with a 30 mm gun, under evaluation by the US Army.",
-   "facts": [
-    "Can be airlifted by a Lockheed C-130 Hercules",
-    "Also carries a 7.62 mm coaxial machine gun",
-    "Powered by a 300 horsepower (220 kW) Caterpillar diesel engine"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Black Knight (vehicle)",
-     "url": "https://en.wikipedia.org/wiki/Black_Knight_(vehicle)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Black Knight (Q4921119)",
-     "url": "https://www.wikidata.org/wiki/Q4921119",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q4921119"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "bluefin-21",
    "name": "Bluefin-21",
    "section": "marine",
@@ -4409,45 +4192,6 @@
    ],
    "ids": {
     "wikidata": "Q138937740"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "bluewhale",
-   "name": "BlueWhale",
-   "aka": [
-    "Blue whale"
-   ],
-   "section": "marine",
-   "kind": "unmanned underwater vehicle",
-   "maker": "Elta",
-   "country": "Israel",
-   "year": "2025",
-   "def": "Israeli unmanned underwater vehicle, designated ELI-3325, built by an ELTA Systems and Atlas Elektronik joint venture to gather intelligence using radar and signals intelligence equipment.",
-   "facts": [
-    "Designated ELI-3325",
-    "Debuted at the IMDEX Asia 2025 defence show in Singapore, 6 to 8 May 2025"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, BlueWhale (UUV)",
-     "url": "https://en.wikipedia.org/wiki/BlueWhale_(UUV)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Blue Whale (Q120491082)",
-     "url": "https://www.wikidata.org/wiki/Q120491082",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Elta website",
-     "url": "https://www.iai.co.il/heb/about/groups/elta-systems",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q120491082"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -4997,38 +4741,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "ca-m",
-   "name": "CA-M",
-   "section": "arms",
-   "kind": "military provisioning robot",
-   "maker": "Circus SE",
-   "country": "Germany",
-   "year": "2025",
-   "def": "Autonomous provisioning system for military operations, introduced in 2025 by the German company Circus SE.",
-   "refs": [
-    {
-     "label": "Wikidata, CA-M (Q139548217)",
-     "url": "https://www.wikidata.org/wiki/Q139548217",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Cited source, circus-defence.ai",
-     "url": "https://circus-defence.ai/",
-     "kind": "cited"
-    },
-    {
-     "label": "Circus SE website",
-     "url": "https://www.circus-group.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q139548217"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "cadre",
    "name": "CADRE",
    "aka": [
@@ -5128,6 +4840,7 @@
    "kind": "space robotic arm",
    "maker": "SPAR Aerospace",
    "country": "Canada",
+   "year": "1981",
    "status": "retired",
    "def": "Family of robotic arms built by SPAR Aerospace of Canada that Space Shuttle orbiters carried to release, move and capture payloads in orbit.",
    "specs": [
@@ -6344,36 +6057,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "copperhead",
-   "name": "Copperhead",
-   "section": "marine",
-   "kind": "autonomous underwater vehicle",
-   "maker": "Anduril",
-   "def": "Family of autonomous underwater vehicles from Anduril, offered in two size classes, each with a utility version and a single use munition version.",
-   "facts": [
-    "Copperhead-100M is similar in size and capability to the Mark 54 lightweight torpedo",
-    "Copperhead-500M is comparable to the Mark 48 heavyweight torpedo",
-    "Both are much lighter and cheaper to build than those torpedoes"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Copperhead (UUV)",
-     "url": "https://en.wikipedia.org/wiki/Copperhead_(UUV)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Copperhead (Q134086834)",
-     "url": "https://www.wikidata.org/wiki/Q134086834",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q134086834"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "corleo",
    "name": "CORLEO",
    "section": "quadrupeds",
@@ -6993,66 +6676,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "curv-21",
-   "name": "CURV-21",
-   "section": "marine",
-   "kind": "remotely operated vehicle",
-   "country": "United States",
-   "status": "service",
-   "def": "Remotely operated underwater vehicle of the United States Navy, built for deep ocean salvage work at depths of up to 20,000 feet (6,100 m).",
-   "facts": [
-    "Maximum working depth: 20,000 feet (6,100 m)"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, CURV-21",
-     "url": "https://en.wikipedia.org/wiki/CURV-21",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, CURV-21 (Q123293661)",
-     "url": "https://www.wikidata.org/wiki/Q123293661",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q123293661"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "curv-iii",
-   "name": "CURV-III",
-   "section": "marine",
-   "kind": "remotely operated vehicle",
-   "country": "United States",
-   "status": "retired",
-   "def": "US Navy remotely operated recovery vehicle, fourth in the CURV series, that made the deepest underwater rescue on record by saving two men trapped in a submersible in 1973.",
-   "facts": [
-    "Rescued two men from Pisces III at 480 m after 76 hours trapped",
-    "Surveyed the SS Edmund Fitzgerald wreck in 1976",
-    "Replaced by the current generation, CURV-21"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, CURV",
-     "url": "https://en.wikipedia.org/wiki/CURV",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, CURV-III (Q2932074)",
-     "url": "https://www.wikidata.org/wiki/Q2932074",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q2932074"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "xiaomi-cyberdog",
    "name": "CyberDog",
    "section": "quadrupeds",
@@ -7286,6 +6909,7 @@
    "kind": "surgical robot",
    "maker": "Intuitive Surgical",
    "country": "United States",
+   "year": "1999",
    "status": "production",
    "def": "Surgical robot system made by Intuitive Surgical for minimally invasive operations, including prostate removal, heart valve repair and kidney and gynaecological procedures.",
    "refs": [
@@ -7613,37 +7237,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "deep-drone",
-   "name": "Deep Drone",
-   "section": "marine",
-   "kind": "remotely operated vehicle",
-   "country": "United States",
-   "status": "service",
-   "def": "Remotely operated salvage submersible used by the United States Navy, able to work at depths of up to 8,000 feet with sonar and two manipulator arms.",
-   "facts": [
-    "Full name is the Deep Drone 8000, after its depth rating",
-    "Stationed in Largo, Maryland, under the Navy's Supervisor of Salvage and Diving",
-    "Phoenix International Inc looks after and runs the vehicle"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Deep Drone",
-     "url": "https://en.wikipedia.org/wiki/Deep_Drone",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Deep Drone (Q5250161)",
-     "url": "https://www.wikidata.org/wiki/Q5250161",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q5250161"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "delaval-vms",
    "name": "DeLaval VMS",
    "section": "arms",
@@ -7834,6 +7427,7 @@
    "kind": "automaton",
    "maker": "Jacques de Vaucanson",
    "country": "France",
+   "year": "1739",
    "def": "Mechanical duck built by Jacques de Vaucanson that seemed to eat grain and excrete it, although the droppings were stored in advance and nothing was actually digested.",
    "facts": [
     "Grain went into one hidden container while prepared droppings came from another",
@@ -8024,42 +7618,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "dive-ld",
-   "name": "Dive-LD",
-   "section": "marine",
-   "kind": "autonomous underwater vehicle",
-   "maker": "Anduril Industries",
-   "country": "United States",
-   "def": "Large diameter autonomous underwater vehicle made by Anduril Industries for defence and commercial work at sea, able to reach 6,000 metres on missions lasting up to 10 days.",
-   "facts": [
-    "Weighs about three tons",
-    "Operates at depths of up to 6,000 metres",
-    "Modular design lets it be quickly fitted with different payloads"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Anduril Dive-LD",
-     "url": "https://en.wikipedia.org/wiki/Anduril_Dive-LD",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Anduril Dive-LD (Q141370425)",
-     "url": "https://www.wikidata.org/wiki/Q141370425",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Anduril Industries website",
-     "url": "https://www.anduril.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q141370425"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "diy-kindle-scanner",
    "name": "DIY Kindle Scanner",
    "section": "other",
@@ -8207,101 +7765,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "double-eagle",
-   "name": "Double Eagle",
-   "section": "marine",
-   "kind": "mine disposal vehicle",
-   "maker": "Saab Underwater Systems",
-   "country": "Sweden",
-   "status": "service",
-   "def": "Remotely operated underwater vehicle built by the Swedish defense company Saab Underwater Systems for disposing of naval mines, in use with several navies.",
-   "refs": [
-    {
-     "label": "Wikipedia, Double Eagle (mine disposal vehicle)",
-     "url": "https://en.wikipedia.org/wiki/Double_Eagle_(mine_disposal_vehicle)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Double Eagle (Q5299759)",
-     "url": "https://www.wikidata.org/wiki/Q5299759",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q5299759"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "dragon-runner",
-   "name": "Dragon Runner",
-   "aka": [
-    "FOSTER MILLER DRAGON RUNNER"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Qinetiq North America and Foster-Miller",
-   "country": "United States",
-   "year": "2004",
-   "def": "Small throwable ground robot for urban combat, developed at Carnegie Mellon University with US Marine Corps funding and fitted with QinetiQ electronics and casing.",
-   "specs": [
-    [
-     "Height",
-     "13 cm"
-    ],
-    [
-     "Mass",
-     "7.3 kg"
-    ],
-    [
-     "Length",
-     "39 cm"
-    ],
-    [
-     "Top speed",
-     "6 km/h"
-    ]
-   ],
-   "facts": [
-    "Measures 13 cm high and 39 cm long",
-    "Top speed of 6 km/h",
-    "Early design and field testing done at the US Naval Research Laboratory"
-   ],
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "https://qinetiq-na.com/products/unmanned-systems/dragon-runner/",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, Dragon Runner",
-     "url": "https://en.wikipedia.org/wiki/Dragon_Runner",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Dragon Runner (Q2600912)",
-     "url": "https://www.wikidata.org/wiki/Q2600912",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Cited source, qinetiq-na.com",
-     "url": "https://qinetiq-na.com/wp-content/uploads/DragonRunner20_Datasheet_LR.pdf",
-     "kind": "cited"
-    },
-    {
-     "label": "Qinetiq North America website",
-     "url": "https://www.qinetiq-na.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q2600912"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "drc-hubo-plus",
    "name": "DRC-Hubo+",
    "section": "humanoids",
@@ -8349,42 +7812,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "drdo-daksh",
-   "name": "DRDO Daksh",
-   "section": "wheeled",
-   "kind": "bomb disposal robot",
-   "maker": "Defence Research and Development Organisation",
-   "country": "India",
-   "year": "2011",
-   "def": "Electrically driven, remote controlled bomb disposal robot from India's Defence Research and Development Organisation, built to locate and safely neutralise hazardous objects.",
-   "facts": [
-    "Designed by the Research & Development Establishment (Engineers)",
-    "Developed with Tata Motors, Theta Controls, Bharat Electronics and Dynalog India"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, DRDO Daksh",
-     "url": "https://en.wikipedia.org/wiki/DRDO_Daksh",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, DRDO Daksh (Q15128663)",
-     "url": "https://www.wikidata.org/wiki/Q15128663",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Defence Research and Development Organisation website",
-     "url": "https://www.drdo.gov.in",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q15128663"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -9150,6 +8577,7 @@
    "section": "marine",
    "kind": "remotely operated vehicle",
    "country": "France",
+   "year": "1979",
    "def": "Uncrewed underwater vehicle from France, operated remotely and belonging to the Ifremer institute, for work beneath the sea surface.",
    "refs": [
     {
@@ -9166,6 +8594,11 @@
      "label": "Cited source, wwz.ifremer.fr",
      "url": "https://wwz.ifremer.fr/grands_fonds/Les-moyens/Les-engins/Les-robots/Robots-Ifremer/L-Epaulard",
      "kind": "cited"
+    },
+    {
+     "label": "Wikipedia, Épaulard",
+     "url": "https://en.wikipedia.org/wiki/%C3%89paulard",
+     "kind": "wikipedia"
     }
    ],
    "ids": {
@@ -9794,35 +9227,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "firstlook",
-   "name": "FirstLook",
-   "aka": [
-    "ROBOTICS IROBOT/FIRSTLOOK"
-   ],
-   "section": "wheeled",
-   "kind": "throwable ground robot",
-   "maker": "iRobot",
-   "country": "United States",
-   "def": "Throwable unmanned ground robot built by the American company iRobot and listed as military equipment.",
-   "refs": [
-    {
-     "label": "Wikidata, Firstlook (Q128125231)",
-     "url": "https://www.wikidata.org/wiki/Q128125231",
-     "kind": "wikidata"
-    },
-    {
-     "label": "iRobot website",
-     "url": "https://www.irobot.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q128125231"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "flakey",
    "name": "Flakey",
    "section": "wheeled",
@@ -9914,52 +9318,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "fleet-class-unmanned-surface-vessel",
-   "name": "Fleet class unmanned surface vessel",
-   "aka": [
-    "Common Unmanned Surface Vehicle",
-    "CUSV"
-   ],
-   "section": "marine",
-   "kind": "unmanned surface vessel",
-   "maker": "AAI Corporation",
-   "country": "United States",
-   "year": "2008",
-   "def": "Class of unmanned surface vessels built by AAI Corporation for the United States Navy to operate from littoral combat ships on mine and antisubmarine missions.",
-   "facts": [
-    "Also known as the Common Unmanned Surface Vessel",
-    "Four units built by 2012, the first delivered in 2008",
-    "Carried by the Navy's Freedom and Independence class littoral combat ships"
-   ],
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "http://www.textronsystems.com/what-we-do/unmanned-systems/CUSV",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, Fleet-class unmanned surface vessel",
-     "url": "https://en.wikipedia.org/wiki/Fleet-class_unmanned_surface_vessel",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Fleet-class unmanned surface vessel (Q5458439)",
-     "url": "https://www.wikidata.org/wiki/Q5458439",
-     "kind": "wikidata"
-    },
-    {
-     "label": "AAI Corporation website",
-     "url": "http://www.textronsystems.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q5458439"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -10522,6 +9880,8 @@
    "section": "humanoids",
    "kind": "early robot",
    "maker": "Makoto Nishimura",
+   "country": "Japan",
+   "year": "1928",
    "def": "Early Japanese robot made by biologist Makoto Nishimura in Osaka during the late 1920s, regarded as the first robot built in East Asia.",
    "refs": [
     {
@@ -10894,48 +10254,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "ghost-shark",
-   "name": "Ghost Shark",
-   "aka": [
-    "Ghost Shark AUV",
-    "Ghost Shark XL-AUV"
-   ],
-   "section": "marine",
-   "kind": "autonomous underwater vehicle",
-   "maker": "Anduril Industries",
-   "country": "United States",
-   "year": "2024",
-   "status": "production",
-   "def": "Uncrewed submarine of the extra large class, built for long range missions and developed by Anduril Industries with Australia's Department of Defence for the Royal Australian Navy.",
-   "facts": [
-    "First shown publicly in April 2024",
-    "Prototypes ordered: three for the Royal Australian Navy, one for the US Navy",
-    "Announcement of full rate production for Australia came in September 2025"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Ghost Shark (submarine)",
-     "url": "https://en.wikipedia.org/wiki/Ghost_Shark_(submarine)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Ghost Shark (Q125912843)",
-     "url": "https://www.wikidata.org/wiki/Q125912843",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Maker website",
-     "url": "https://www.anduril.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q125912843"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "gita",
    "name": "gita",
    "section": "wheeled",
@@ -10963,40 +10281,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "gladiator-tactical-unmanned-ground-vehicle",
-   "name": "Gladiator Tactical Unmanned Ground Vehicle",
-   "aka": [
-    "TUGV"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "National Robotics Engineering Center",
-   "country": "United States",
-   "year": "2005",
-   "def": "Medium sized unmanned ground vehicle that Carnegie Mellon's National Robotics Engineering Center built for the US Marine Corps to take on scouting, attack and breaching tasks.",
-   "facts": [
-    "Designed by Emil Lien Akre in 2005",
-    "Intended to reduce risks to Marines during conflict"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Gladiator tactical unmanned ground vehicle",
-     "url": "https://en.wikipedia.org/wiki/Gladiator_tactical_unmanned_ground_vehicle",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Gladiator tactical unmanned ground vehicle (Q4039459)",
-     "url": "https://www.wikidata.org/wiki/Q4039459",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q4039459"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -11084,42 +10368,6 @@
      "kind": "maker"
     }
    ],
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "goldfish-class-rouv",
-   "name": "Goldfish class ROUV",
-   "section": "marine",
-   "kind": "remotely operated vehicle",
-   "maker": "Shenyang Institute of Automation",
-   "country": "China",
-   "status": "service",
-   "def": "Family of light Chinese remotely operated underwater vehicles from the Shenyang Institute of Automation, operated by the People's Liberation Army Navy and by civilian agencies.",
-   "facts": [
-    "Developed by the Shenyang Institute of Automation of the Chinese Academy of Sciences",
-    "In service with the Chinese navy and civilian government agencies"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Goldfish-class ROUV",
-     "url": "https://en.wikipedia.org/wiki/Goldfish-class_ROUV",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Goldfish class ROUV (Q5580157)",
-     "url": "https://www.wikidata.org/wiki/Q5580157",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Shenyang Institute of Automation website",
-     "url": "http://english.sia.cas.cn/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q5580157"
-   },
    "added": "2026-11-08",
    "revised": "2026-11-08"
   },
@@ -11384,25 +10632,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "guardium",
-   "name": "Guardium",
-   "section": "wheeled",
-   "kind": "autonomous security vehicle",
-   "maker": "G-NIUS",
-   "country": "Israel",
-   "status": "retired",
-   "def": "Autonomous patrol vehicle used by the Israeli army along its borders.",
-   "refs": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/w/index.php?search=Guardium+UGV",
-     "kind": "wikipedia"
-    }
-   ],
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "guroo",
    "name": "GuRoo",
    "section": "humanoids",
@@ -11594,35 +10823,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "hammerhead-usv-t",
-   "name": "Hammerhead USV-T",
-   "section": "marine",
-   "kind": "unmanned surface vessel",
-   "maker": "Meggitt Training Systems",
-   "status": "production",
-   "def": "Fast remote controlled boat that serves as a moving target in naval training exercises, built by Meggitt Training Systems with A. F. Theriault & Son.",
-   "facts": [
-    "About eighty other companies supply internal parts and accessories"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Hammerhead USV-T",
-     "url": "https://en.wikipedia.org/wiki/Hammerhead_USV-T",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Hammerhead usv-t (Q17132045)",
-     "url": "https://www.wikidata.org/wiki/Q17132045",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q17132045"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "han",
    "name": "Han",
    "section": "humanoids",
@@ -11735,33 +10935,6 @@
    ],
    "ids": {
     "wikidata": "Q1356045"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "havelsan-barkan",
-   "name": "Havelsan Barkan",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "HAVELSAN",
-   "country": "Turkey",
-   "status": "prototype",
-   "def": "Prototype unmanned ground combat robot made by HAVELSAN in Turkey, intended for the Turkish Land Forces as well as police and other law enforcement.",
-   "refs": [
-    {
-     "label": "Wikipedia, Havelsan Barkan",
-     "url": "https://en.wikipedia.org/wiki/Havelsan_Barkan",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Havelsan Barkan (Q108939939)",
-     "url": "https://www.wikidata.org/wiki/Q108939939",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q108939939"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -11938,35 +11111,6 @@
    ],
    "ids": {
     "wikidata": "Q5748962"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "heydar",
-   "name": "Heydar",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Islamic Republic of Iran Army Ground Forces",
-   "year": "2019",
-   "def": "Iranian combat robot developed by the Islamic Republic of Iran Army Ground Forces and first shown to the public in October 2019.",
-   "facts": [
-    "Unveiled on 3 October 2019"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Heydar (robot)",
-     "url": "https://en.wikipedia.org/wiki/Heydar_(robot)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Iran Heydar combat robot (Q136440304)",
-     "url": "https://www.wikidata.org/wiki/Q136440304",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q136440304"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -12536,31 +11680,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "hsu-001",
-   "name": "HSU-001",
-   "section": "marine",
-   "kind": "unmanned underwater vehicle",
-   "country": "China",
-   "def": "Class of large displacement unmanned underwater vehicles built in China, with limited endurance, expected to work alongside longer range craft in Chinese service.",
-   "refs": [
-    {
-     "label": "Wikipedia, HSU-001",
-     "url": "https://en.wikipedia.org/wiki/HSU-001",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, HSU-001 (Q106039669)",
-     "url": "https://www.wikidata.org/wiki/Q106039669",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q106039669"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "khr-3-hubo",
    "name": "HUBO",
    "aka": [
@@ -12693,37 +11812,6 @@
      "kind": "maker"
     }
    ],
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "hui-long-class-uuv",
-   "name": "Hui Long class UUV",
-   "section": "marine",
-   "kind": "unmanned underwater vehicle",
-   "maker": "National Chung-Shan Institute of Science and Technology and Lungteh Shipbuilding",
-   "country": "Taiwan",
-   "def": "Uncrewed underwater vehicle class from Taiwan, developed jointly by the NCSIST research institute and Lungteh Shipbuilding.",
-   "refs": [
-    {
-     "label": "Wikipedia, Hui Long-class UUV",
-     "url": "https://en.wikipedia.org/wiki/Hui_Long-class_UUV",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Hui Long-class UUV (Q131160895)",
-     "url": "https://www.wikidata.org/wiki/Q131160895",
-     "kind": "wikidata"
-    },
-    {
-     "label": "National Chung-Shan Institute of Science and Technology website",
-     "url": "http://www.ncsist.org.tw/eng",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q131160895"
-   },
    "added": "2026-11-08",
    "revised": "2026-11-08"
   },
@@ -13236,6 +12324,7 @@
    "section": "humanoids",
    "kind": "robot head",
    "maker": "King's College London",
+   "country": "United Kingdom",
    "year": "2002",
    "def": "Interactive robot head that Mat Walker and Peter S. Longyear built at King's College London in 2002.",
    "facts": [
@@ -13462,35 +12551,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "intelligent-water-class-auv",
-   "name": "Intelligent Water class AUV",
-   "section": "marine",
-   "kind": "autonomous underwater vehicle",
-   "maker": "Harbin Engineering University",
-   "country": "China",
-   "def": "Class of Chinese autonomous underwater vehicle developed by Harbin Engineering University's Shipbuilding Engineering Institute for the People's Liberation Army Navy.",
-   "facts": [
-    "Its general designer was Xu Yu-Ru"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Intelligent Water class AUV",
-     "url": "https://en.wikipedia.org/wiki/Intelligent_Water_class_AUV",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Intelligent Water class AUV (Q6044074)",
-     "url": "https://www.wikidata.org/wiki/Q6044074",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q6044074"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "ion-intuitive",
    "name": "Ion",
    "section": "medical",
@@ -13692,6 +12752,7 @@
    "section": "humanoids",
    "kind": "two legged humanoid robot",
    "maker": "IsaacTeam",
+   "country": "Italy",
    "def": "Two legged humanoid robot designed and built by the IsaacTeam, a student group at the Politecnico di Torino in Italy.",
    "facts": [
     "Built by students of the Politecnico di Torino"
@@ -14025,6 +13086,7 @@
    "section": "other",
    "kind": "mobile automaton",
    "maker": "Johns Hopkins University Applied Physics Laboratory",
+   "country": "United States",
    "year": "1960",
    "status": "retired",
    "def": "Early self sufficient mobile machine built in the 1960s at the Johns Hopkins University Applied Physics Laboratory that roamed corridors hunting for wall sockets to recharge itself.",
@@ -14176,6 +13238,7 @@
    "section": "marine",
    "kind": "remotely operated vehicle",
    "maker": "JAMSTEC",
+   "country": "Japan",
    "year": "1993",
    "status": "lost",
    "def": "Japanese deep sea remotely operated vehicle built by JAMSTEC that reached the floor of the Challenger Deep and was lost during a typhoon in 2003.",
@@ -14194,6 +13257,11 @@
      "label": "Wikidata, Kaikō (Q2572857)",
      "url": "https://www.wikidata.org/wiki/Q2572857",
      "kind": "wikidata"
+    },
+    {
+     "label": "Wikipedia, Kaikō ROV",
+     "url": "https://en.wikipedia.org/wiki/Kaik%C5%8D_ROV",
+     "kind": "wikipedia"
     }
    ],
    "ids": {
@@ -14286,6 +13354,11 @@
      "label": "Wikidata, Kärcher RC3000 (Q6453436)",
      "url": "https://www.wikidata.org/wiki/Q6453436",
      "kind": "wikidata"
+    },
+    {
+     "label": "Wikipedia, Kärcher RC3000",
+     "url": "https://en.wikipedia.org/wiki/K%C3%A4rcher_RC3000",
+     "kind": "wikipedia"
     }
    ],
    "ids": {
@@ -14311,6 +13384,11 @@
      "label": "Wikidata, Kaşif ROUV (Q104789828)",
      "url": "https://www.wikidata.org/wiki/Q104789828",
      "kind": "wikidata"
+    },
+    {
+     "label": "Wikipedia, Kaşif ROUV",
+     "url": "https://en.wikipedia.org/wiki/Ka%C5%9Fif_ROUV",
+     "kind": "wikipedia"
     }
    ],
    "ids": {
@@ -14489,6 +13567,11 @@
      "label": "Pudu Robotics website",
      "url": "https://www.pudurobotics.com",
      "kind": "maker"
+    },
+    {
+     "label": "Wikipedia, Kerfuś",
+     "url": "https://en.wikipedia.org/wiki/Kerfu%C5%9B",
+     "kind": "wikipedia"
     }
    ],
    "ids": {
@@ -14817,6 +13900,7 @@
    "section": "humanoids",
    "kind": "robot head",
    "maker": "Massachusetts Institute of Technology",
+   "country": "United States",
    "year": "1996",
    "def": "Expressive robot head created at MIT in the 1990s by Cynthia Breazeal as an affective computing experiment in reading and showing emotion.",
    "facts": [
@@ -14965,26 +14049,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "klavesin-1r",
-   "name": "Klavesin-1R",
-   "section": "marine",
-   "kind": "autonomous underwater vehicle",
-   "country": "Russia",
-   "def": "Russian autonomous underwater vehicle, a type of uncrewed submersible that navigates and operates underwater without direct human control.",
-   "refs": [
-    {
-     "label": "Wikidata, Klavesin-1R (Q113412269)",
-     "url": "https://www.wikidata.org/wiki/Q113412269",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q113412269"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "kuka-kmr-iiwa",
    "name": "KMR iiwa",
    "section": "wheeled",
@@ -15023,39 +14087,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "knifefish",
-   "name": "Knifefish",
-   "section": "marine",
-   "kind": "autonomous underwater vehicle",
-   "maker": "General Dynamics Mission Systems and Bluefin Robotics",
-   "country": "United States",
-   "year": "2012",
-   "status": "service",
-   "def": "Propeller driven autonomous underwater vehicle for mine countermeasures, developed by General Dynamics Mission Systems and Bluefin Robotics for the United States Navy.",
-   "facts": [
-    "First unveiled at a Navy exposition in April 2012",
-    "Meant to take over mine hunting from the Navy's trained dolphins and sea lions",
-    "Used by the United States in the 2026 Strait of Hormuz campaign"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Knifefish (robot)",
-     "url": "https://en.wikipedia.org/wiki/Knifefish_(robot)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Knifefish (Q6422152)",
-     "url": "https://www.wikidata.org/wiki/Q6422152",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q6422152"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -15379,6 +14410,7 @@
    "name": "Laffing Sal",
    "section": "other",
    "kind": "animatronic figure",
+   "country": "United States",
    "def": "Animatronic figure with a loud laugh, one of several characters built to lure carnival and amusement park visitors into funhouses and dark rides in the United States.",
    "facts": [
     "Its laugh was known to scare young children and irritate adults"
@@ -16161,37 +15193,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "liberdade-class-underwater-glider",
-   "name": "Liberdade class underwater glider",
-   "section": "marine",
-   "kind": "underwater glider",
-   "maker": "Office of Naval Research",
-   "country": "United States",
-   "status": "research",
-   "def": "Experimental class of blended wing body underwater gliders developed by the US Office of Naval Research, originally meant to track quiet diesel electric submarines in coastal waters.",
-   "facts": [
-    "Moves at 1 to 3 knots and can stay on station for up to six months",
-    "Shares its name with Liberdade, a ship built by Joshua Slocum"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Liberdade class underwater glider",
-     "url": "https://en.wikipedia.org/wiki/Liberdade_class_underwater_glider",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Liberdade class underwater glider (Q6541072)",
-     "url": "https://www.wikidata.org/wiki/Q6541072",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q6541072"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "lru",
    "name": "Lightweight Rover Unit",
    "aka": [
@@ -16705,78 +15706,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "ls3",
-   "name": "LS3",
-   "aka": [
-    "Legged Squad Support System",
-    "AlphaDog"
-   ],
-   "section": "quadrupeds",
-   "kind": "large hydraulic pack quadruped",
-   "maker": "Boston Dynamics",
-   "country": "United States",
-   "year": "2012",
-   "status": "retired",
-   "def": "Large hydraulic pack quadruped developed for DARPA and the US Marine Corps to carry squad equipment on foot patrols.",
-   "specs": [
-    [
-     "Mass",
-     "590 kg"
-    ],
-    [
-     "Payload",
-     "181 kg"
-    ],
-    [
-     "Actuation",
-     "Hydraulic cylinders driven by a petrol engine"
-    ],
-    [
-     "Power",
-     "Internal combustion engine with onboard hydraulic pump"
-    ],
-    [
-     "Sensors",
-     "Stereo cameras, lidar, inertial measurement unit, microphone for voice commands"
-    ],
-    [
-     "Autonomy",
-     "Leader following and waypoint navigation with a voice command interface"
-    ]
-   ],
-   "facts": [
-    "Specified to carry 181 kg for 32 km over 24 hours without refuelling",
-    "Tested with the US Marine Corps in exercises including Rim of the Pacific 2014",
-    "Shelved after trials because of engine noise and field maintenance difficulty"
-   ],
-   "see": [
-    "anymal",
-    "anymal-x"
-   ],
-   "refs": [
-    {
-     "label": "Boston Dynamics website",
-     "url": "https://bostondynamics.com",
-     "kind": "maker"
-    },
-    {
-     "label": "Wikipedia, Legged Squad Support System",
-     "url": "https://en.wikipedia.org/wiki/Legged_Squad_Support_System",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Legged Squad Support System (Q3829818)",
-     "url": "https://www.wikidata.org/wiki/Q3829818",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q3829818"
-   },
-   "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "mammotion-luba",
    "name": "Luba AWD",
    "section": "wheeled",
@@ -16824,6 +15753,7 @@
    "name": "Lucky the Dinosaur",
    "section": "other",
    "kind": "animatronic figure",
+   "country": "United States",
    "year": "2003",
    "status": "service",
    "def": "Roaming Disney animatronic figure of a green Segnosaurus, about 2.4 m tall, that hauls a cart decked in flowers while a handler leads it.",
@@ -17505,6 +16435,11 @@
      "label": "Korea Institute of Science and Technology website",
      "url": "http://eng.kist.re.kr/kist_eng/main/",
      "kind": "maker"
+    },
+    {
+     "label": "Wikipedia, MAHRU & AHRA",
+     "url": "https://en.wikipedia.org/wiki/MAHRU_%26_AHRA",
+     "kind": "wikipedia"
     }
    ],
    "ids": {
@@ -17587,6 +16522,7 @@
    "name": "Manav",
    "section": "humanoids",
    "kind": "humanoid robot",
+   "country": "India",
    "def": "Humanoid robot developed in India, built with a body modelled on the human form.",
    "refs": [
     {
@@ -17729,40 +16665,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "marcbot",
-   "name": "MARCbot",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Exponent",
-   "country": "United States",
-   "def": "Remote controlled military robot made by Exponent Inc. for the United States Army's Rapid Equipping Force.",
-   "facts": [
-    "Name stands for Multi function Agile Remote-Controlled Robot"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, MARCbot",
-     "url": "https://en.wikipedia.org/wiki/MARCbot",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, MARCbot (Q6714461)",
-     "url": "https://www.wikidata.org/wiki/Q6714461",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Exponent website",
-     "url": "http://exponent.com",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q6714461"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "marie-curie",
    "name": "Marie Curie",
    "aka": [
@@ -17817,6 +16719,7 @@
    "section": "other",
    "kind": "rideable robot",
    "maker": "MegaBots",
+   "country": "United States",
    "year": "2015",
    "def": "Rideable robot controlled by its riders, made by the US company MegaBots and first shown at Maker Faire San Mateo in May 2015.",
    "facts": [
@@ -17838,69 +16741,6 @@
    ],
    "ids": {
     "wikidata": "Q21233558"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "marker",
-   "name": "Marker",
-   "aka": [
-    "Маркер"
-   ],
-   "section": "wheeled",
-   "kind": "unmanned ground vehicle",
-   "maker": "Russian Foundation for Advanced Research Projects in the Defense Industry",
-   "country": "Russia",
-   "def": "Robotic platform from Russia, known there as Маркер, developed by the Russian Foundation for Advanced Research Projects in the Defense Industry.",
-   "refs": [
-    {
-     "label": "Wikidata, Marker (Q116442385)",
-     "url": "https://www.wikidata.org/wiki/Q116442385",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Cited source, rg.ru",
-     "url": "https://rg.ru/2023/01/15/reg-szfo/boevoj-robot-marker-ispytaiut-v-zone-specialnoj-voennoj-operacii.html",
-     "kind": "cited"
-    },
-    {
-     "label": "Russian Foundation for Advanced Research Projects in the Defense Industry website",
-     "url": "http://fpi.gov.ru/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q116442385"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "markv-a1",
-   "name": "MarkV-A1",
-   "section": "wheeled",
-   "kind": "bomb disposal robot",
-   "maker": "Northrop Grumman",
-   "def": "Remotely operated bomb disposal robot designed by Northrop Grumman to handle suspected explosives without putting people at risk.",
-   "facts": [
-    "Part of the Remotec ANDROS line of bomb disposal robots",
-    "Used by bomb squads and first responders around the world"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, MarkV-A1",
-     "url": "https://en.wikipedia.org/wiki/MarkV-A1",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, MarkV-A1 (Q1649885)",
-     "url": "https://www.wikidata.org/wiki/Q1649885",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q1649885"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -18096,40 +16936,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "matilda",
-   "name": "MATILDA",
-   "aka": [
-    "Mesa Associate's Tactical Integrated Light-Force Deployment Assembly"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Mesa Robotics",
-   "status": "production",
-   "def": "Remotely operated scouting and surveillance robot made by Mesa Robotics, sold in versions such as Urban Warrior, Block II and Scout.",
-   "facts": [
-    "Options include a manipulator arm, weapon mount, sensor mount and fiber optic reel",
-    "The basic system includes the platform, control unit and battery charger",
-    "Name stands for Mesa Associates' Tactical Integrated Light-Force Deployment Assembly"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, MATILDA",
-     "url": "https://en.wikipedia.org/wiki/MATILDA",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, MATILDA (Q6714554)",
-     "url": "https://www.wikidata.org/wiki/Q6714554",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q6714554"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -18419,6 +17225,11 @@
      "label": "Wikidata, Meinü robot (Q6810194)",
      "url": "https://www.wikidata.org/wiki/Q6810194",
      "kind": "wikidata"
+    },
+    {
+     "label": "Wikipedia, Meinü robot",
+     "url": "https://en.wikipedia.org/wiki/Mein%C3%BC_robot",
+     "kind": "wikipedia"
     }
    ],
    "ids": {
@@ -18648,42 +17459,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "milos",
-   "name": "Miloš",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Military Technical Institute Belgrade and Prva Petoletka",
-   "country": "Serbia",
-   "status": "production",
-   "def": "Serbian unmanned ground vehicle developed by the Military Technical Institute after its earlier Milica vehicle of 2009 and built in series for the Serbian Armed Forces.",
-   "facts": [
-    "Also known as Little Miloš",
-    "In serial production, with the Serbian Armed Forces as first customer"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Miloš (unmanned ground vehicle)",
-     "url": "https://en.wikipedia.org/wiki/Miloš_(unmanned_ground_vehicle)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Unmanned ground vehicle Miloš (Q55636729)",
-     "url": "https://www.wikidata.org/wiki/Q55636729",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Military Technical Institute Belgrade website",
-     "url": "http://www.vti.mod.gov.rs",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q55636729"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "mindar",
    "name": "Mindar",
    "aka": [
@@ -18692,6 +17467,7 @@
    ],
    "section": "humanoids",
    "kind": "android",
+   "country": "Japan",
    "year": "2019",
    "status": "service",
    "def": "Android at the Kōdai-ji Zen temple in Kyoto that preaches regularly on the Heart Sutra and was made to personify Kannon, the bodhisattva of compassion.",
@@ -18723,6 +17499,7 @@
    "section": "rovers",
    "kind": "asteroid rover",
    "maker": "JAXA",
+   "country": "Japan",
    "year": "2005",
    "status": "completed",
    "def": "Series of Japanese rovers built by JAXA to explore the surfaces of asteroids, carried on the Hayabusa and Hayabusa2 missions.",
@@ -18962,7 +17739,6 @@
    "status": "retired",
    "def": "A springy direct drive quadruped that climbed fences and opened doors on legs alone.",
    "see": [
-    "vision-60",
     "stanford-pupper"
    ],
    "refs": [
@@ -19179,52 +17955,6 @@
     {
      "label": "Enchanted Tools website",
      "url": "https://enchanted.tools",
-     "kind": "maker"
-    }
-   ],
-   "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "rheinmetall-mission-master-sp",
-   "name": "Mission Master SP",
-   "section": "wheeled",
-   "kind": "wheeled robot",
-   "maker": "Rheinmetall Canada",
-   "country": "Canada",
-   "status": "production",
-   "def": "Eight wheeled hybrid electric military ground vehicle that carries cargo or sensors, following soldiers or driving waypoint routes with a human in the loop.",
-   "specs": [
-    [
-     "Payload",
-     "600 kg"
-    ],
-    [
-     "Actuation",
-     "Eight wheeled skid steered amphibious chassis derived from the Argo all terrain platform"
-    ],
-    [
-     "Power",
-     "Diesel electric hybrid with a silent battery only mode"
-    ],
-    [
-     "Sensors",
-     "Lidar, cameras and satellite positioning"
-    ],
-    [
-     "Autonomy",
-     "Follow me, convoy and waypoint navigation with a soldier operator in the loop and human control of any weapon"
-    ]
-   ],
-   "facts": [
-    "Trialled by several NATO armed forces in cargo, surveillance and casualty evacuation roles",
-    "Developed by Rheinmetall Canada in Quebec as part of the wider Rheinmetall group",
-    "Sold in a family alongside tracked and larger wheeled Mission Master variants"
-   ],
-   "refs": [
-    {
-     "label": "Rheinmetall Canada website",
-     "url": "https://www.rheinmetall.com",
      "kind": "maker"
     }
    ],
@@ -19484,40 +18214,6 @@
     "batch": "Winter 2019",
     "status": "Active",
     "url": "https://www.ycombinator.com/companies/mobot"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "modular-advanced-armed-robotic-system",
-   "name": "Modular Advanced Armed Robotic System",
-   "aka": [
-    "MAARS"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "QinetiQ",
-   "status": "development",
-   "def": "Armed military ground robot developed by QinetiQ as part of the TALON family, intended to succeed the SWORDS robot on a larger chassis.",
-   "facts": [
-    "Member of the TALON robot family",
-    "Intended to replace the armed SWORDS robot",
-    "Shares little hardware with SWORDS and TALON because of its larger chassis"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Modular Advanced Armed Robotic System",
-     "url": "https://en.wikipedia.org/wiki/Modular_Advanced_Armed_Robotic_System",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Modular Advanced Armed Robotic System (Q17069611)",
-     "url": "https://www.wikidata.org/wiki/Q17069611",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q17069611"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -19934,60 +18630,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "mtgr",
-   "name": "MTGR",
-   "aka": [
-    "Micro Tactical Ground Robot"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "country": "Israel",
-   "def": "Small Israeli military ground robot whose name stands for Micro Tactical Ground Robot.",
-   "refs": [
-    {
-     "label": "Wikidata, MTGR (Q131149483)",
-     "url": "https://www.wikidata.org/wiki/Q131149483",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q131149483"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "mule",
-   "name": "MULE",
-   "section": "wheeled",
-   "kind": "unmanned ground vehicle",
-   "maker": "Lockheed Martin",
-   "country": "United States",
-   "status": "discontinued",
-   "def": "Autonomous unmanned ground combat vehicle developed by Lockheed Martin Missiles and Fire Control for the United States Army's Future Combat Systems effort.",
-   "facts": [
-    "Later renamed the multi mission unmanned ground vehicle",
-    "The last component of the programme was cancelled in July 2011"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Multifunctional utility/logistics and equipment vehicle",
-     "url": "https://en.wikipedia.org/wiki/Multifunctional_utility/logistics_and_equipment_vehicle",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Multifunctional Utility/Logistics and Equipment vehicle (Q1410264)",
-     "url": "https://www.wikidata.org/wiki/Q1410264",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q1410264"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "multiply-labs",
    "name": "Multiply Labs",
    "section": "arms",
@@ -20025,6 +18667,7 @@
    "section": "other",
    "kind": "animatronic attraction",
    "maker": "Walt Disney Imagineering",
+   "country": "United States",
    "status": "retired",
    "def": "Free roving animatronic attraction created by Walt Disney Imagineering and trialled at Disney theme parks in Anaheim, Orlando and Hong Kong.",
    "facts": [
@@ -20534,41 +19177,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "nazir",
-   "name": "Nazir",
-   "aka": [
-    "Nazir (military robot)"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Islamic Republic of Iran Army Ground Forces",
-   "country": "Iran",
-   "year": "2015",
-   "def": "Remote controlled armed robot built by Iran's Army Ground Forces that carries two missiles and about 600 kg of cargo, first unveiled in September 2015.",
-   "facts": [
-    "Unveiled on 12 September 2015",
-    "Carries two missiles and about 600 kg of cargo",
-    "Can carry out missions using instant planning and control"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Nazir rocket launcher (robot)",
-     "url": "https://en.wikipedia.org/wiki/Nazir_rocket_launcher_(robot)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Nazir rocket launcher (robot) (Q105546067)",
-     "url": "https://www.wikidata.org/wiki/Q105546067",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q105546067"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "necoro",
    "name": "NeCoRo",
    "section": "other",
@@ -20808,6 +19416,7 @@
    "section": "marine",
    "kind": "hybrid underwater vehicle",
    "maker": "Woods Hole Oceanographic Institution",
+   "country": "United States",
    "year": "2009",
    "def": "Hybrid uncrewed underwater vehicle from the Woods Hole Oceanographic Institution, made for research at full ocean depth, which reached the floor of the Challenger Deep in 2009.",
    "facts": [
@@ -21904,33 +20513,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "orca",
-   "name": "Orca",
-   "section": "marine",
-   "kind": "autonomous underwater vehicle",
-   "maker": "Boeing and Huntington Ingalls Industries",
-   "country": "United States",
-   "status": "development",
-   "def": "Autonomous underwater vehicle being developed by Boeing and Huntington Ingalls Industries for the United States Navy.",
-   "refs": [
-    {
-     "label": "Wikipedia, Orca (AUV)",
-     "url": "https://en.wikipedia.org/wiki/Orca_(AUV)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Orca (Q65172028)",
-     "url": "https://www.wikidata.org/wiki/Q65172028",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q65172028"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "origami-hand",
    "name": "Origami hand",
    "section": "arms",
@@ -22204,8 +20786,7 @@
     "Aimed at market gardening and aromatic plant growers working small plots"
    ],
    "see": [
-    "p800",
-    "packbot"
+    "p800"
    ],
    "refs": [
     {
@@ -22278,7 +20859,6 @@
    "status": "production",
    "def": "The flagship of China's largest AMR fleet, moving shelves in hundreds of warehouses.",
    "see": [
-    "packbot",
     "perseverance"
    ],
    "refs": [
@@ -22288,87 +20868,6 @@
      "kind": "maker"
     }
    ],
-   "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "packbot",
-   "name": "PackBot",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "iRobot",
-   "country": "United States",
-   "year": "2002",
-   "status": "service",
-   "def": "Tracked man portable ground robot used by military and emergency teams, including radiation surveys inside the Fukushima Daiichi buildings.",
-   "specs": [
-    [
-     "Mass",
-     "24 kg"
-    ],
-    [
-     "Actuation",
-     "Two tracks with articulated flipper arms"
-    ],
-    [
-     "Power",
-     "Rechargeable lithium ion batteries"
-    ],
-    [
-     "Sensors",
-     "Cameras, radiation and gas detectors, manipulator arm on some variants"
-    ],
-    [
-     "Autonomy",
-     "Teleoperated with self righting and assisted climbing"
-    ],
-    [
-     "Units",
-     "thousands fielded"
-    ],
-    [
-     "Service",
-     "Iraq; Afghanistan; Fukushima"
-    ]
-   ],
-   "facts": [
-    "First robots to enter the Fukushima Daiichi reactor buildings in 2011",
-    "Man portable design widely used for bomb disposal"
-   ],
-   "see": [
-    "perseverance",
-    "pioneer-3-dx"
-   ],
-   "refs": [
-    {
-     "label": "iRobot website",
-     "url": "https://www.irobot.com",
-     "kind": "maker"
-    },
-    {
-     "label": "Official website",
-     "url": "http://www.irobot.com/gi/ground/510_PackBot",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, PackBot",
-     "url": "https://en.wikipedia.org/wiki/PackBot",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, PackBot (Q2492936)",
-     "url": "https://www.wikidata.org/wiki/Q2492936",
-     "kind": "wikidata"
-    },
-    {
-     "label": "iRobot website",
-     "url": "https://www.irobot.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q2492936"
-   },
    "added": "2026-08-14",
    "revised": "2026-11-08"
   },
@@ -22629,6 +21128,7 @@
    "section": "arms",
    "kind": "laboratory robot arm",
    "maker": "Peak Robotics",
+   "year": "2020",
    "def": "Collaborative selective compliance assembly robot arm (SCARA) made by Peak Robotics for automating laboratory work in the life sciences.",
    "refs": [
     {
@@ -22902,37 +21402,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "phantom",
-   "name": "Phantom",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Spetstechnoexport",
-   "country": "Ukraine",
-   "year": "2016",
-   "def": "Ukrainian military unmanned ground vehicle from Spetstechnoexport, intended for scouting, fire support, carrying ammunition and evacuating wounded soldiers.",
-   "facts": [
-    "Designed in 2016 for Ukroboronprom",
-    "Can also be used for repair work"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Phantom (unmanned ground vehicle)",
-     "url": "https://en.wikipedia.org/wiki/Phantom_(unmanned_ground_vehicle)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Phantom (UGV) (Q27485865)",
-     "url": "https://www.wikidata.org/wiki/Q27485865",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q27485865"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "philip-k-dick-android",
    "name": "Philip K. Dick Android",
    "section": "humanoids",
@@ -23097,75 +21566,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "piap-hunter",
-   "name": "PIAP HUNTeR",
-   "aka": [
-    "HUNTeR",
-    "PIAP Hunter"
-   ],
-   "section": "wheeled",
-   "kind": "unmanned ground vehicle",
-   "maker": "Industrial Research Institute for Automation and Measurements",
-   "country": "Poland",
-   "year": "2017",
-   "def": "Heavy hybrid unmanned ground vehicle developed in Poland by the Industrial Research Institute for Automation and Measurements, weighing 4000 kg and 4.7 m long.",
-   "specs": [
-    [
-     "Height",
-     "2.2 m"
-    ],
-    [
-     "Mass",
-     "4000 kg"
-    ],
-    [
-     "Length",
-     "4.7 m"
-    ],
-    [
-     "Width",
-     "2.2 m"
-    ]
-   ],
-   "refs": [
-    {
-     "label": "Wikidata, PIAP HUNTeR (Q141488642)",
-     "url": "https://www.wikidata.org/wiki/Q141488642",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Cited source, piap.lukasiewicz.gov.pl",
-     "url": "https://piap.lukasiewicz.gov.pl/badanie/projekt-hunter/",
-     "kind": "cited"
-    },
-    {
-     "label": "Cited source, piap.lukasiewicz.gov.pl",
-     "url": "https://piap.lukasiewicz.gov.pl/2026/04/30/cwiczenia-cyfrowy-legionista-z-udzialem-robotow-lukasiewicz-piap/",
-     "kind": "cited"
-    },
-    {
-     "label": "Cited source, janes.com",
-     "url": "https://www.janes.com/defence-intelligence-insights/defence-news/lukasiewicz-piap-unveils-hunter-ugv",
-     "kind": "cited"
-    },
-    {
-     "label": "Cited source, piap.lukasiewicz.gov.pl",
-     "url": "https://piap.lukasiewicz.gov.pl/2025/08/27/lukasiewicz-piap-na-mspo-2025/",
-     "kind": "cited"
-    },
-    {
-     "label": "Industrial Research Institute for Automation and Measurements website",
-     "url": "http://www.antyterroryzm.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q141488642"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -23411,36 +21811,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "piranha-unmanned-surface-vessel",
-   "name": "Piranha Unmanned Surface Vessel",
-   "section": "marine",
-   "kind": "unmanned surface vessel",
-   "maker": "Zyvex Marine",
-   "year": "2010",
-   "def": "Unmanned surface vessel developed by Zyvex Marine in 2010, kept light by Arovex, a carbon nanotube material used in its construction.",
-   "facts": [
-    "Length 16 metres (52 ft), weight about 3,600 kg",
-    "Weighs less than other unmanned surface vessels thanks to Arovex"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Piranha Unmanned Surface Vessel",
-     "url": "https://en.wikipedia.org/wiki/Piranha_Unmanned_Surface_Vessel",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Piranha Unmanned Surface Vessel (Q7197733)",
-     "url": "https://www.wikidata.org/wiki/Q7197733",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q7197733"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "mit-planar-biped",
    "name": "Planar Biped",
    "aka": [
@@ -23541,37 +21911,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "pluto-plus",
-   "name": "Pluto Plus",
-   "section": "marine",
-   "kind": "mine disposal vehicle",
-   "maker": "Gaymarine",
-   "country": "Italy",
-   "def": "Battery powered unmanned underwater vehicle from Italian firm Gaymarine, used by armed forces to identify and destroy sea mines, with a top speed of 6 kt.",
-   "facts": [
-    "Top speed of 6 kt and endurance of 2 to 6 hours",
-    "Can be fitted with a wireless link for counterterrorism work",
-    "Built under exclusive licence in the United States by the Columbia Group"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Pluto Plus",
-     "url": "https://en.wikipedia.org/wiki/Pluto_Plus",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Pluto Plus (Q7205684)",
-     "url": "https://www.wikidata.org/wiki/Q7205684",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q7205684"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "engineai-pm01",
    "name": "PM01",
    "section": "humanoids",
@@ -23628,36 +21967,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "pointman-tactical-robot",
-   "name": "Pointman Tactical Robot",
-   "aka": [
-    "PTR",
-    "ROBOTICS POINTMAN"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Applied Research Associates",
-   "country": "United States",
-   "def": "Unmanned tactical ground robot intended for military use, built by the American company Applied Research Associates.",
-   "refs": [
-    {
-     "label": "Wikidata, Pointman Tactical Robot (Q128124689)",
-     "url": "https://www.wikidata.org/wiki/Q128124689",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Applied Research Associates (United States) website",
-     "url": "https://www.ara.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q128124689"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -24132,37 +22441,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "prowler",
-   "name": "PROWLER",
-   "aka": [
-    "R"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "status": "prototype",
-   "def": "Experimental armed robot from the mid 1980s that acted as a mobile sentry gun, built in the United States.",
-   "facts": [
-    "Name stood for Programmable Robot Observer With Logical Enemy Response"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, PROWLER",
-     "url": "https://en.wikipedia.org/wiki/PROWLER",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, PROWLER (Q7120413)",
-     "url": "https://www.wikidata.org/wiki/Q7120413",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q7120413"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "pudu-d9",
    "name": "PUDU D9",
    "section": "humanoids",
@@ -24259,6 +22537,7 @@
    "section": "arms",
    "kind": "industrial robot arm",
    "maker": "Victor Scheinman",
+   "year": "1978",
    "def": "Six axis industrial robot arm that Victor Scheinman developed at Unimation, first for General Motors, from designs he had begun at Stanford University.",
    "facts": [
     "Initially developed by Unimation for General Motors",
@@ -24288,6 +22567,7 @@
    "name": "Push the Talking Trash Can",
    "section": "other",
    "kind": "entertainment robot",
+   "country": "United States",
    "status": "service",
    "def": "Radio controlled talking trash can robot that toured Tomorrowland at several Disney parks and still patrols Hong Kong Disneyland daily.",
    "facts": [
@@ -25785,51 +24065,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "ripsaw",
-   "name": "Ripsaw",
-   "aka": [
-    "Ripsaw EV-2"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Howe & Howe Technologies",
-   "country": "United States",
-   "status": "prototype",
-   "def": "Series of experimental unmanned ground combat vehicles built by Howe & Howe Technologies for evaluation by the United States Army.",
-   "specs": [
-    [
-     "Height",
-     "1778 mm"
-    ]
-   ],
-   "facts": [
-    "Height is 1778 mm",
-    "Also referred to as Ripsaw EV-2"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Ripsaw (vehicle)",
-     "url": "https://en.wikipedia.org/wiki/Ripsaw_(vehicle)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Ripsaw (Q7335753)",
-     "url": "https://www.wikidata.org/wiki/Q7335753",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Howe & Howe Technologies website",
-     "url": "http://www.howeandhowe.com",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q7335753"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "rivr",
    "name": "RIVR",
    "section": "quadrupeds",
@@ -25851,32 +24086,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "robattle",
-   "name": "RoBattle",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Israel Aerospace Industries",
-   "country": "Israel",
-   "def": "Modular unmanned ground vehicle for military use, developed as a robotic platform by Israel Aerospace Industries.",
-   "refs": [
-    {
-     "label": "Wikipedia, Robattle",
-     "url": "https://en.wikipedia.org/wiki/Robattle",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Robattle (Q26941626)",
-     "url": "https://www.wikidata.org/wiki/Q26941626",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q26941626"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -26067,6 +24276,7 @@
    "name": "Robin the Robot",
    "section": "other",
    "kind": "companion robot",
+   "country": "Armenia",
    "def": "Robot developed in Armenia whose behaviour is driven by artificial intelligence software.",
    "refs": [
     {
@@ -26511,6 +24721,7 @@
    "section": "other",
    "kind": "robotic bird deterrent",
    "maker": "Robop Ltd",
+   "country": "United Kingdom",
    "year": "2001",
    "def": "Robotic peregrine falcon from the British firm Robop Ltd that deters pest birds by flapping its wings, turning its head and sounding a falcon's call.",
    "facts": [
@@ -26868,6 +25079,7 @@
    "name": "Roboshark",
    "section": "marine",
    "kind": "robotic shark",
+   "country": "United Kingdom",
    "year": "2003",
    "def": "Robotic shark built by Andrew Sneath in 2003 and fitted with a camera to film whale sharks, bull sharks and great white sharks for the BBC.",
    "facts": [
@@ -27021,37 +25233,6 @@
    ],
    "ids": {
     "wikidata": "Q39055742"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "robot-wolf",
-   "name": "Robot Wolf",
-   "section": "quadrupeds",
-   "kind": "military quadruped robot",
-   "maker": "China North Industries Group Corporation Limited",
-   "country": "China",
-   "def": "Armed four legged robot made by China North Industries Group as one component of an uncrewed combat vehicle system for China's People's Liberation Army.",
-   "refs": [
-    {
-     "label": "Wikipedia, Robot wolf",
-     "url": "https://en.wikipedia.org/wiki/Robot_wolf",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Robot wolf (Q137757742)",
-     "url": "https://www.wikidata.org/wiki/Q137757742",
-     "kind": "wikidata"
-    },
-    {
-     "label": "China North Industries Group Corporation Limited website",
-     "url": "http://www.norincogroup.com.cn/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q137757742"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -27236,6 +25417,7 @@
    "section": "other",
    "kind": "educational robot kit",
    "maker": "Robotis",
+   "country": "South Korea",
    "def": "Robot kit for hobbyists and education from the South Korean company Robotis, using modular servo units that combine into wheeled, legged or humanoid machines.",
    "facts": [
     "Built around daisy chained AX-12A Dynamixel servomotors",
@@ -27368,6 +25550,7 @@
    "section": "marine",
    "kind": "robotic fish",
    "maker": "Massachusetts Institute of Technology",
+   "country": "United States",
    "year": "1993",
    "status": "retired",
    "def": "Line of robotic fish that a team at the Massachusetts Institute of Technology built while investigating designs for autonomous underwater vehicles.",
@@ -27971,6 +26154,7 @@
    "section": "marine",
    "kind": "remotely operated vehicle",
    "maker": "International Submarine Engineering",
+   "country": "Canada",
    "status": "service",
    "def": "Remotely operated underwater vehicle used mainly for science, built in Vancouver by International Submarine Engineering and later purchased by the Canadian federal government.",
    "facts": [
@@ -28149,6 +26333,7 @@
    "section": "marine",
    "kind": "remotely operated vehicle",
    "maker": "Pelagic Research Services",
+   "country": "United States",
    "status": "service",
    "def": "Deep diving remotely operated vehicle from Pelagic Research Services of South Wellfleet, Massachusetts, rated to work as deep as 6,000 m of seawater.",
    "facts": [
@@ -28715,6 +26900,7 @@
    "name": "Sabor",
    "section": "humanoids",
    "kind": "humanoid robot",
+   "country": "Switzerland",
    "def": "Humanoid robot built in Switzerland, with a body shaped broadly like that of a person.",
    "refs": [
     {
@@ -28855,36 +27041,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "samsung-sgr-a1",
-   "name": "Samsung SGR-A1",
-   "section": "other",
-   "kind": "autonomous sentry gun",
-   "maker": "Samsung Techwin and Korea University",
-   "country": "South Korea",
-   "def": "Autonomous sentry gun developed by Samsung Techwin and Korea University to help South Korean soldiers guard the Korean Demilitarized Zone.",
-   "facts": [
-    "Often cited as the first such unit combining surveillance, tracking, firing and voice recognition",
-    "Reportedly deployed, though numbers are unknown because the project is classified"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, SGR-A1",
-     "url": "https://en.wikipedia.org/wiki/SGR-A1",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Samsung SGR-A1 (Q637078)",
-     "url": "https://www.wikidata.org/wiki/Q637078",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q637078"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "sanbot",
    "name": "Sanbot",
    "section": "humanoids",
@@ -28910,38 +27066,6 @@
    ],
    "ids": {
     "wikidata": "Q30598896"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "sand-flea",
-   "name": "Sand Flea",
-   "section": "wheeled",
-   "kind": "reconnaissance robot",
-   "maker": "Boston Dynamics",
-   "country": "United States",
-   "year": "2012",
-   "def": "Small reconnaissance robot built by Boston Dynamics in the United States, dating from 2012.",
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "https://www.bostondynamics.com/legacy",
-     "kind": "official"
-    },
-    {
-     "label": "Wikidata, Sandflea (robot) (Q96348637)",
-     "url": "https://www.wikidata.org/wiki/Q96348637",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Boston Dynamics website",
-     "url": "https://www.bostondynamics.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q96348637"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -29573,72 +27697,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "sea-hunter",
-   "name": "Sea Hunter",
-   "aka": [
-    "USV Sea Hunter"
-   ],
-   "section": "marine",
-   "kind": "unmanned surface vessel",
-   "maker": "Leidos and Christensen Shipyards",
-   "country": "United States",
-   "year": "2016",
-   "status": "prototype",
-   "def": "Experimental uncrewed trimaran of the US Navy, created by Leidos under DARPA's ACTUV antisubmarine programme and launched in 2016.",
-   "specs": [
-    [
-     "Mass",
-     "145 tonne"
-    ],
-    [
-     "Length",
-     "40.2 m"
-    ]
-   ],
-   "facts": [
-    "Christened in Portland, Oregon, on 7 April 2016",
-    "Christensen Shipyards handled construction as subcontractor",
-    "Measures 40.2 m long and weighs 145 tonnes"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Sea Hunter",
-     "url": "https://en.wikipedia.org/wiki/Sea_Hunter",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Sea Hunter (Q23806451)",
-     "url": "https://www.wikidata.org/wiki/Q23806451",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Cited source, naval-technology.com",
-     "url": "https://www.naval-technology.com/features/sea-hunter-inside-us-navys-autonomous-submarine-tracking-vessel/?cf-view",
-     "kind": "cited"
-    },
-    {
-     "label": "Cited source, automatedresearch.org",
-     "url": "https://automatedresearch.org/weapon/vigor-industrial-seahunter-usv/",
-     "kind": "cited"
-    },
-    {
-     "label": "Cited source, darpa.mil",
-     "url": "https://www.darpa.mil/news/2018/sea-hunter-prototype",
-     "kind": "cited"
-    },
-    {
-     "label": "Cited source, defense.gov",
-     "url": "https://www.defense.gov/News/News-Stories/Article/Article/716156/work-robot-warship-demonstrates-advances-in-autonomy-human-machine-collaboration/",
-     "kind": "cited"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q23806451"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "seabotix-rov",
    "name": "SeaBotix ROV",
    "aka": [
@@ -29657,43 +27715,6 @@
    ],
    "ids": {
     "wikidata": "Q128125049"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "seafox",
-   "name": "SeaFox",
-   "section": "marine",
-   "kind": "mine disposal vehicle",
-   "maker": "Atlas Elektronik",
-   "country": "Germany",
-   "status": "service",
-   "def": "German remotely operated underwater vehicle from Atlas Elektronik that finds and destroys seabed and moored sea mines, used by eleven navies.",
-   "facts": [
-    "Built in three versions, including one for training",
-    "SeaFox-C combat version carries a shaped charge of 1.4 kilograms",
-    "Orange SeaFox-I inspection version has sonar and inertial navigation"
-   ],
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "https://www.atlas-elektronik.com/what-we-do/mine-warfare-systems/seafox/",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, Seafox drone",
-     "url": "https://en.wikipedia.org/wiki/Seafox_drone",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Seafox drone (Q7440419)",
-     "url": "https://www.wikidata.org/wiki/Q7440419",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q7440419"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -30185,6 +28206,7 @@
    "section": "humanoids",
    "kind": "social humanoid robot",
    "maker": "Dinesh Kunwar Patel",
+   "country": "India",
    "def": "Humanoid robot for social interaction and teaching that Mumbai computer science teacher Dinesh Kunwar Patel built out of discarded materials.",
    "refs": [
     {
@@ -30337,6 +28359,7 @@
    "section": "other",
    "kind": "automaton",
    "maker": "James Cox",
+   "country": "United Kingdom",
    "year": "1773",
    "def": "Clockwork swan automaton made by James Cox in the 18th century, now displayed at the Bowes Museum in Barnard Castle, County Durham.",
    "facts": [
@@ -31802,6 +29825,7 @@
    "section": "marine",
    "kind": "autonomous underwater vehicle",
    "maker": "University of Washington Applied Physics Laboratory",
+   "country": "United States",
    "year": "1957",
    "status": "retired",
    "def": "Autonomous underwater research vehicle that the University of Washington's Applied Physics Laboratory built in 1957, becoming the US Navy's first AUV.",
@@ -32203,7 +30227,6 @@
     "Led directly to ANYmal and the ETH Zurich spin off ANYbotics"
    ],
    "see": [
-    "vision-60",
     "wildcat"
    ],
    "refs": [
@@ -32688,38 +30711,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "syrano",
-   "name": "SYRANO",
-   "aka": [
-    "Système Robotisé d'Acquisition pour la Neutralisation d'Objectifs"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "country": "France",
-   "status": "service",
-   "def": "French military robot, named for a robotic system for target acquisition and neutralization, that became the first battlefield robot in operational use with the French armed forces.",
-   "facts": [
-    "Name stands for Système Robotisé d'Acquisition pour la Neutralisation d'Objectifs"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, SYRANO",
-     "url": "https://en.wikipedia.org/wiki/SYRANO",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, SYRANO (Q3460322)",
-     "url": "https://www.wikidata.org/wiki/Q3460322",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q3460322"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "t-52-enryu",
    "name": "T-52 Enryu",
    "section": "wheeled",
@@ -32845,35 +30836,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "talisman",
-   "name": "Talisman",
-   "section": "marine",
-   "kind": "autonomous underwater vehicle",
-   "maker": "BAE Systems",
-   "def": "Small autonomous submarine made by BAE Systems to reconnoitre coastlines in conditions judged too dangerous or impractical for people to work in.",
-   "facts": [
-    "Built by BAE Systems",
-    "Carries out shoreline reconnaissance with no human operator aboard"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Talisman UUV",
-     "url": "https://en.wikipedia.org/wiki/Talisman_UUV",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Talisman UUV (Q7679573)",
-     "url": "https://www.wikidata.org/wiki/Q7679573",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q7679573"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "simbe-tally",
    "name": "Tally",
    "section": "wheeled",
@@ -32911,7 +30873,6 @@
     "In use in about 1,000 stores including BJ's Wholesale Club locations"
    ],
    "see": [
-    "talon",
     "temi"
    ],
    "refs": [
@@ -32921,48 +30882,6 @@
      "kind": "maker"
     }
    ],
-   "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "talon",
-   "name": "TALON",
-   "section": "wheeled",
-   "kind": "wheeled robot",
-   "maker": "Foster-Miller (QinetiQ)",
-   "country": "United States",
-   "year": "2000",
-   "status": "production",
-   "def": "A tracked military workhorse for ordnance disposal and reconnaissance.",
-   "see": [
-    "temi",
-    "tertill"
-   ],
-   "refs": [
-    {
-     "label": "Wikidata, TALON (Q128123261)",
-     "url": "https://www.wikidata.org/wiki/Q128123261",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Foster-Miller website",
-     "url": "http://foster-miller.qinetiq-na.com/lemming.htm",
-     "kind": "maker"
-    },
-    {
-     "label": "Wikipedia, Foster-Miller TALON",
-     "url": "https://en.wikipedia.org/wiki/Foster-Miller_TALON",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Foster-Miller TALON (Q18891264)",
-     "url": "https://www.wikidata.org/wiki/Q18891264",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q18891264"
-   },
    "added": "2026-08-14",
    "revised": "2026-11-08"
   },
@@ -33053,35 +30972,6 @@
     "batch": "Winter 2019",
     "status": "Active",
     "url": "https://www.ycombinator.com/companies/taobotics"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "taros",
-   "name": "TAROS",
-   "aka": [
-    "VOP Taros"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "VOP CZ",
-   "country": "Czechia",
-   "def": "Military unmanned ground vehicle made by the Czech manufacturer VOP CZ, a robotic platform that operates without a crew aboard.",
-   "refs": [
-    {
-     "label": "Wikidata, Taros (Q110206123)",
-     "url": "https://www.wikidata.org/wiki/Q110206123",
-     "kind": "wikidata"
-    },
-    {
-     "label": "VOP CZ website",
-     "url": "http://www.vop.cz/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q110206123"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -33263,7 +31153,6 @@
    "name": "Tekno the Robotic Puppy",
    "section": "quadrupeds",
    "kind": "robotic toy dog",
-   "country": "United Kingdom, United States relations",
    "year": "2000",
    "def": "Electronic robot dog toy launched in late 2000 that became a worldwide hit, with sales passing 40 million in its first four years.",
    "facts": [
@@ -33290,32 +31179,6 @@
    ],
    "ids": {
     "wikidata": "Q7695468"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "telemax",
-   "name": "TeleMAX",
-   "section": "wheeled",
-   "kind": "bomb disposal robot",
-   "maker": "Rheinmetall AG",
-   "country": "Germany",
-   "def": "Robot product model offered by Rheinmetall AG, a manufacturer based in Germany.",
-   "refs": [
-    {
-     "label": "Wikidata, TeleMAX (Q1317617)",
-     "url": "https://www.wikidata.org/wiki/Q1317617",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Rheinmetall AG website",
-     "url": "https://www.rheinmetall.com/de",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q1317617"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -33395,40 +31258,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "teletank",
-   "name": "Teletank",
-   "aka": [
-    "Unmanned tank",
-    "Radiotank"
-   ],
-   "section": "wheeled",
-   "kind": "remote controlled tank",
-   "country": "Soviet Union",
-   "status": "retired",
-   "def": "Series of experimental Soviet tanks from the 1930s to the early 1940s that ran without crews and were steered by radio from a nearby command tank.",
-   "facts": [
-    "Operated from a control tank 500 to 1,500 metres away",
-    "Built to reduce the combat risk to soldiers"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Teletank",
-     "url": "https://en.wikipedia.org/wiki/Teletank",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Teletank (Q2402088)",
-     "url": "https://www.wikidata.org/wiki/Q2402088",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q2402088"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "temi",
    "name": "temi",
    "section": "wheeled",
@@ -33439,8 +31268,7 @@
    "status": "production",
    "def": "A telepresence and assistant robot that follows its owner from room to room.",
    "see": [
-    "tertill",
-    "themis"
+    "tertill"
    ],
    "refs": [
     {
@@ -33595,37 +31423,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "terabot-s",
-   "name": "Terabot-S",
-   "section": "arms",
-   "kind": "robot manipulator arm",
-   "maker": "Oceaneering Space Systems",
-   "country": "United States",
-   "def": "Robotic manipulator arm from Oceaneering Space Systems that can be mounted on almost any unmanned ground vehicle for jobs such as bomb disposal, mining and hazardous material sampling.",
-   "facts": [
-    "Designed in Clear Lake, Texas",
-    "Joints have built in overload clutches and are sealed against water and dust",
-    "End effectors can be changed by hand without tools"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Terabot-S",
-     "url": "https://en.wikipedia.org/wiki/Terabot-S",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Terabot-S (Q17027386)",
-     "url": "https://www.wikidata.org/wiki/Q17027386",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q17027386"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "termes",
    "name": "TERMES",
    "section": "other",
@@ -33668,7 +31465,6 @@
    "status": "production",
    "def": "A solar garden weeding puck from a Roomba co inventor.",
    "see": [
-    "themis",
     "thymio"
    ],
    "refs": [
@@ -33688,6 +31484,7 @@
    "kind": "animatronic figure",
    "maker": "La Machine",
    "country": "United Kingdom",
+   "year": "2007",
    "def": "Giant animatronic elephant built by the French theater company La Machine, about 12 m tall and 8 m wide, with a top speed of 1 km/h.",
    "specs": [
     [
@@ -33760,49 +31557,6 @@
     "wikidata": "Q7770328"
    },
    "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "themis",
-   "name": "THeMIS",
-   "section": "wheeled",
-   "kind": "wheeled robot",
-   "maker": "Milrem Robotics",
-   "country": "Estonia",
-   "year": "2018",
-   "status": "production",
-   "def": "A tracked modular military vehicle serving in a dozen armies.",
-   "specs": [
-    [
-     "Service",
-     "Ukraine; 15+ armed forces"
-    ]
-   ],
-   "see": [
-    "thymio",
-    "aethon-tug"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, THeMIS",
-     "url": "https://en.wikipedia.org/wiki/THeMIS",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, THeMIS (Q63291769)",
-     "url": "https://www.wikidata.org/wiki/Q63291769",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Milrem Robotics website",
-     "url": "https://milremrobotics.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q63291769"
-   },
-   "added": "2026-08-14",
    "revised": "2026-11-08"
   },
   {
@@ -33891,29 +31645,6 @@
    ],
    "ids": {
     "wikidata": "Q54891502"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "throwbot-xt",
-   "name": "Throwbot XT",
-   "aka": [
-    "THROWBOT XT"
-   ],
-   "section": "wheeled",
-   "kind": "throwable ground robot",
-   "maker": "ReconRobotics, Inc.",
-   "def": "Throwable unmanned ground robot made by ReconRobotics for use by military units and law enforcement agencies.",
-   "refs": [
-    {
-     "label": "Wikidata, Throwbot XT (Q128124496)",
-     "url": "https://www.wikidata.org/wiki/Q128124496",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q128124496"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -34361,6 +32092,7 @@
    "section": "humanoids",
    "kind": "two legged humanoid robot",
    "maker": "TOSY",
+   "country": "Vietnam",
    "year": "2007",
    "def": "Two legged humanoid robot from the Vietnamese firm TOSY, built to compete against people at table tennis.",
    "facts": [
@@ -34806,6 +32538,7 @@
    "name": "Troody",
    "section": "quadrupeds",
    "kind": "experimental robot",
+   "country": "United States",
    "year": "1995",
    "def": "Experimental robot from the United States, dating from 1995, that was designed to imitate a dinosaur.",
    "refs": [
@@ -35121,71 +32854,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "type-x",
-   "name": "Type-X",
-   "section": "wheeled",
-   "kind": "robotic combat vehicle",
-   "maker": "Milrem Robotics",
-   "country": "Estonia",
-   "year": "2020",
-   "def": "Uncrewed ground combat vehicle from the Estonian firm Milrem Robotics, first presented in 2020 and the company's second robotic vehicle after THeMIS.",
-   "facts": [
-    "Unveiled in 2020",
-    "Milrem's second unmanned ground vehicle, following its flagship THeMIS"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Type-X (unmanned ground vehicle)",
-     "url": "https://en.wikipedia.org/wiki/Type-X_(unmanned_ground_vehicle)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Type-X (Q104870699)",
-     "url": "https://www.wikidata.org/wiki/Q104870699",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Milrem Robotics website",
-     "url": "https://milremrobotics.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q104870699"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "ulaq",
-   "name": "ULAQ",
-   "section": "marine",
-   "kind": "unmanned surface vessel",
-   "country": "Turkey",
-   "status": "prototype",
-   "def": "Armed unmanned surface vessel developed in Turkey, whose prototype was the country's first armed robotic boat.",
-   "facts": [
-    "Prototype of the first Turkish armed unmanned surface vessel"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, ULAQ",
-     "url": "https://en.wikipedia.org/wiki/ULAQ",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, ULAQ (AUSV) (Q105483757)",
-     "url": "https://www.wikidata.org/wiki/Q105483757",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q105483757"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "ultra",
    "name": "Ultra",
    "section": "arms",
@@ -35251,6 +32919,7 @@
    "name": "Ulysses",
    "section": "wheeled",
    "kind": "bomb detection robot",
+   "country": "Greece",
    "def": "Bomb detecting robot used at Athens International Airport Eleftherios Venizelos in Greece, the country's largest international airport.",
    "refs": [
     {
@@ -35307,6 +32976,7 @@
    "name": "Uniroo",
    "section": "quadrupeds",
    "kind": "one legged robot",
+   "country": "United States",
    "year": "1991",
    "status": "retired",
    "def": "One legged robot built in the United States in 1991 and now exhibited at the MIT Museum.",
@@ -36132,77 +33802,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "uran-9",
-   "name": "Uran-9",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "Rostec",
-   "country": "Russia",
-   "status": "production",
-   "def": "Russian tracked unmanned combat vehicle from JSC 766 UPTK, offered abroad through Rosoboronexport, that scouts and gives fire support from a distance.",
-   "specs": [
-    [
-     "Mass",
-     "12 tonne"
-    ]
-   ],
-   "facts": [
-    "Weighs 12 tonnes",
-    "Intended to support combat, reconnaissance and counterterrorism units"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Uran-9",
-     "url": "https://en.wikipedia.org/wiki/Uran-9",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Uran-9 (Q22737254)",
-     "url": "https://www.wikidata.org/wiki/Q22737254",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Rostec website",
-     "url": "http://www.rostec.ru/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q22737254"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "ursula",
-   "name": "Ursula",
-   "section": "marine",
-   "kind": "unmanned surface vessel",
-   "country": "Ukraine",
-   "def": "Ukrainian robotic river boat, built during the Russian invasion, that carries FPV drones and has been nicknamed the world's smallest aircraft carrier.",
-   "facts": [
-    "Developed in Ukraine during the Russian invasion",
-    "Nicknamed the world's smallest aircraft carrier"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Ursula (drone)",
-     "url": "https://en.wikipedia.org/wiki/Ursula_(drone)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Ursula (Q135622412)",
-     "url": "https://www.wikidata.org/wiki/Q135622412",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q135622412"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "usv-maxlimer",
    "name": "USV Maxlimer",
    "section": "marine",
@@ -36253,73 +33852,6 @@
    ],
    "ids": {
     "wikidata": "Q28457931"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "usx-1-defiant",
-   "name": "USX-1 Defiant",
-   "section": "marine",
-   "kind": "unmanned surface vessel",
-   "maker": "Serco Inc",
-   "country": "United States",
-   "year": "2025",
-   "status": "prototype",
-   "def": "Uncrewed surface warship built for DARPA as a technology demonstrator, completed in February 2025, with sea trials beginning a month later.",
-   "specs": [
-    [
-     "Height",
-     "12.8 m"
-    ],
-    [
-     "Mass",
-     "240 tonne"
-    ],
-    [
-     "Length",
-     "55 m"
-    ]
-   ],
-   "facts": [
-    "First seen publicly in March 2025 near Naval Air Station Whidbey Island",
-    "55 m long and 12.8 m high, with a displacement of 240 tonnes",
-    "Construction overseen by the shipbuilder Serco"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, USX-1 Defiant",
-     "url": "https://en.wikipedia.org/wiki/USX-1_Defiant",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, USX-1 Defiant (Q133249298)",
-     "url": "https://www.wikidata.org/wiki/Q133249298",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Cited source, navalnews.com",
-     "url": "https://www.navalnews.com/naval-news/2025/03/serco-darpa-launch-nomars-usx-1-defiant/",
-     "kind": "cited"
-    },
-    {
-     "label": "Cited source, serco.com",
-     "url": "https://www.serco.com/na/solutions/next-generation-solutions/usx-1-defiant",
-     "kind": "cited"
-    },
-    {
-     "label": "Cited source, darpa.mil",
-     "url": "https://www.darpa.mil/news/2025/nomars-christening",
-     "kind": "cited"
-    },
-    {
-     "label": "Serco Inc website",
-     "url": "http://www.serco-na.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q133249298"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -36885,114 +34417,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "vision-60",
-   "name": "Vision 60",
-   "aka": [
-    "Q-UGV"
-   ],
-   "section": "quadrupeds",
-   "kind": "rugged electric quadruped",
-   "maker": "Ghost Robotics",
-   "country": "United States",
-   "year": "2016",
-   "status": "production",
-   "def": "Rugged electric quadruped from Philadelphia sold mainly to defence and security customers for patrol and reconnaissance work.",
-   "specs": [
-    [
-     "Height",
-     "0.685 m"
-    ],
-    [
-     "Length",
-     "0.95 m"
-    ],
-    [
-     "Mass",
-     "51 kg"
-    ],
-    [
-     "Payload",
-     "10 kg"
-    ],
-    [
-     "Top speed",
-     "2.4 m/s (8.6 km/h)"
-    ],
-    [
-     "Degrees of freedom",
-     "12"
-    ],
-    [
-     "Runtime",
-     "3 h"
-    ],
-    [
-     "Actuation",
-     "Direct drive electric joint modules, three per leg"
-    ],
-    [
-     "Power",
-     "Swappable lithium ion battery"
-    ],
-    [
-     "Sensors",
-     "Five RGB cameras, four depth sensors, dual RTK GPS, inertial measurement unit"
-    ],
-    [
-     "Autonomy",
-     "Proprioceptive blind walking with waypoint navigation"
-    ],
-    [
-     "Endurance",
-     "approx. 3 hr"
-    ],
-    [
-     "Pace",
-     "approx. 3 m/s"
-    ]
-   ],
-   "facts": [
-    "Adopted by US Air Force security forces for base perimeter patrols from 2020",
-    "Built to keep walking after losing a leg or being turned over"
-   ],
-   "see": [
-    "minitaur",
-    "wildcat"
-   ],
-   "refs": [
-    {
-     "label": "Ghost Robotics website",
-     "url": "https://www.ghostrobotics.io",
-     "kind": "maker"
-    },
-    {
-     "label": "Official website",
-     "url": "https://www.ghostrobotics.io/vision-60",
-     "kind": "official"
-    },
-    {
-     "label": "Wikidata, Vision 60 (Q133575991)",
-     "url": "https://www.wikidata.org/wiki/Q133575991",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Cited source, military.com",
-     "url": "https://www.military.com/daily-news/2023/08/28/army-wants-slap-next-generation-squad-weapon-robot-dog.html",
-     "kind": "cited"
-    },
-    {
-     "label": "Cited source, heise.de",
-     "url": "https://www.heise.de/en/news/Bundeswehr-tests-Vision-60-from-Ghost-Robotics-10332491.html",
-     "kind": "cited"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q133575991"
-   },
-   "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "vitirover",
    "name": "Vitirover",
    "section": "wheeled",
@@ -37042,6 +34466,7 @@
    ],
    "section": "marine",
    "kind": "autonomous underwater vehicle",
+   "country": "Russia",
    "def": "Russian fully autonomous deep submergence vehicle built to reach full ocean depth, with a mass of 5650 kg.",
    "specs": [
     [
@@ -37732,37 +35157,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "wheelbarrow",
-   "name": "Wheelbarrow",
-   "section": "wheeled",
-   "kind": "bomb disposal robot",
-   "country": "United Kingdom",
-   "year": "1972",
-   "def": "Remote controlled bomb disposal robot created in 1972 for British Army teams and used in Iraq, Northern Ireland and mainland Britain.",
-   "facts": [
-    "Designed in 1972 for British Army bomb disposal teams",
-    "Deployed in Northern Ireland, mainland Britain and Iraq",
-    "More than 400 have been destroyed during operations"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Wheelbarrow (robot)",
-     "url": "https://en.wikipedia.org/wiki/Wheelbarrow_(robot)",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Wheelbarrow (Q7992054)",
-     "url": "https://www.wikidata.org/wiki/Q7992054",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q7992054"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "whiz",
    "name": "Whiz",
    "section": "wheeled",
@@ -38157,39 +35551,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "xm1216-sugv",
-   "name": "XM1216 SUGV",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "maker": "iRobot",
-   "def": "Small, man portable military ground robot derived from iRobot's PackBot and built for the Future Combat Systems programme.",
-   "facts": [
-    "Used for intelligence, surveillance and reconnaissance work"
-   ],
-   "refs": [
-    {
-     "label": "Official website",
-     "url": "http://www.sugv.com/",
-     "kind": "official"
-    },
-    {
-     "label": "Wikipedia, XM1216 small unmanned ground vehicle",
-     "url": "https://en.wikipedia.org/wiki/XM1216_small_unmanned_ground_vehicle",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, XM1216 small unmanned ground vehicle (Q1477263)",
-     "url": "https://www.wikidata.org/wiki/Q1477263",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q1477263"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -38947,6 +36308,11 @@
      "label": "Wikidata, Zoë (Q8074731)",
      "url": "https://www.wikidata.org/wiki/Q8074731",
      "kind": "wikidata"
+    },
+    {
+     "label": "Wikipedia, Zoë (robot)",
+     "url": "https://en.wikipedia.org/wiki/Zo%C3%AB_(robot)",
+     "kind": "wikipedia"
     }
    ],
    "ids": {

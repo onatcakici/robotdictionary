@@ -32,6 +32,11 @@
    "label": "Pudu Robotics website",
    "url": "https://www.pudurobotics.com",
    "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Kerfuś",
+   "url": "https://en.wikipedia.org/wiki/Kerfu%C5%9B",
+   "kind": "wikipedia"
   }
  ],
  "ids": {
