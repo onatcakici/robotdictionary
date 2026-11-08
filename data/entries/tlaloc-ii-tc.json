@@ -1,0 +1,38 @@
+{
+ "id": "tlaloc-ii-tc",
+ "name": "Tlaloc II-TC",
+ "aka": [],
+ "section": "other",
+ "kind": "exploration robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Robot built to explore the tunnel found in 2003 beneath the Temple of the Feathered Serpent at Teotihuacan, the ancient site in central Mexico.",
+ "body": [],
+ "facts": [
+  "Also known as the Tlaloc II Robot",
+  "Used at Teotihuacan, a site founded in the second century BC"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Tlaloc II-TC",
+   "url": "https://en.wikipedia.org/wiki/Tlaloc_II-TC",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Tlaloc II-TC (Q60741749)",
+   "url": "https://www.wikidata.org/wiki/Q60741749",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q60741749"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

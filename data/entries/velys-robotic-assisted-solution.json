@@ -1,0 +1,47 @@
+{
+ "id": "velys-robotic-assisted-solution",
+ "name": "VELYS Robotic-Assisted Solution",
+ "aka": [
+  "VELYS"
+ ],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "DePuy",
+ "country": "",
+ "year": "2021",
+ "status": "",
+ "def": "Orthopedic surgical robot introduced by DePuy in 2021 to assist surgeons with total knee replacement operations.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.jnjmedtech.com/en-US/product/velys-robotic-assisted-solution",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, VELYS Robotic-Assisted Solution (Q137881865)",
+   "url": "https://www.wikidata.org/wiki/Q137881865",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, accessdata.fda.gov",
+   "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K202769",
+   "kind": "cited"
+  },
+  {
+   "label": "DePuy website",
+   "url": "http://www.depuy.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q137881865"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

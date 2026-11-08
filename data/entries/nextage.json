@@ -1,0 +1,58 @@
+{
+ "id": "nextage",
+ "name": "NEXTAGE",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Kawada Robotics",
+ "country": "Japan",
+ "year": "2011",
+ "status": "production",
+ "def": "Dual arm humanoid torso sold for precision cell production, working at benches alongside people in electronics and precision assembly plants.",
+ "body": [
+  "NEXTAGE is a 15 axis humanoid made up of a two camera head, a rotating waist and two six axis arms, mounted on a bench stand or a movable cart rather than legs. It is designed to drop into workstations built for people, so a line can be converted without re tooling, and its head and hand cameras let it find parts whose position varies. Kawada supplies it with grippers and vision tools for electronics assembly, inspection and machine tending. It has been sold in Japan and exported since 2011 and descends from Kawada's earlier humanoid platform engineering."
+ ],
+ "facts": [
+  "Designed to occupy human workstations without re tooling the production line",
+  "Sold for electronics assembly, inspection and machine tending in Japan and abroad",
+  "Grew out of Kawada's earlier humanoid platform engineering"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "15"
+  ],
+  [
+   "Actuation",
+   "Electric servo joints in two six axis arms, a two axis head and a rotating waist"
+  ],
+  [
+   "Power",
+   "Mains powered controller cabinet"
+  ],
+  [
+   "Sensors",
+   "Stereo head cameras and hand mounted cameras for part location"
+  ],
+  [
+   "Autonomy",
+   "Task programming with vision based part detection and workstation calibration"
+  ]
+ ],
+ "see": [
+  "oceanonek",
+  "limx-oli"
+ ],
+ "refs": [
+  {
+   "label": "Kawada Robotics website",
+   "url": "https://www.kawadarobot.co.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

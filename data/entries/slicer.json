@@ -1,0 +1,35 @@
+{
+ "id": "slicer",
+ "name": "Slicer",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "combat robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Remote controlled combat robot that competed in the Dutch version of Robot Wars, the television series in which teams fight their machines in an arena.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Slicer (robot)",
+   "url": "https://en.wikipedia.org/wiki/Slicer_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Slicer (Q22908846)",
+   "url": "https://www.wikidata.org/wiki/Q22908846",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q22908846"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

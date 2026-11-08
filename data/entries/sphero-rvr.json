@@ -1,0 +1,28 @@
+{
+ "id": "sphero-rvr",
+ "name": "RVR",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "programmable robot",
+ "maker": "Sphero",
+ "country": "United States",
+ "year": "2019",
+ "status": "production",
+ "def": "Programmable tracked robot from Sphero with a port for adding single board computers and sensors.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Sphero website",
+   "url": "https://sphero.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

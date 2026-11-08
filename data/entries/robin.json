@@ -1,0 +1,40 @@
+{
+ "id": "robin",
+ "name": "Robin",
+ "aka": [],
+ "section": "other",
+ "kind": "research robot",
+ "maker": "University of Kaiserslautern",
+ "country": "Germany",
+ "year": "",
+ "status": "",
+ "def": "Research robot for studying interaction between robots and humans, developed at the University of Kaiserslautern in Germany.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://agrosy.informatik.uni-kl.de/en/robots/robin/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Robin (robot) (Q96743507)",
+   "url": "https://www.wikidata.org/wiki/Q96743507",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Kaiserslautern website",
+   "url": "https://www.uni-kl.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q96743507"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

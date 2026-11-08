@@ -1,0 +1,41 @@
+{
+ "id": "ultra",
+ "name": "Ultra",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot",
+ "maker": "Ultra",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "General purpose robot for repetitive industrial tasks such as packing, installed in hours without custom integration.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Ultra",
+   "url": "https://www.ycombinator.com/companies/ultra",
+   "kind": "yc"
+  },
+  {
+   "label": "Ultra website",
+   "url": "https://ultra.tech",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "ultra"
+ },
+ "yc": {
+  "company": "Ultra",
+  "batch": "Summer 2024",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/ultra"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

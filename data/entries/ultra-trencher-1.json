@@ -1,0 +1,39 @@
+{
+ "id": "ultra-trencher-1",
+ "name": "Ultra Trencher 1",
+ "aka": [],
+ "section": "marine",
+ "kind": "subsea trenching robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Submersible trenching robot that buries undersea pipelines by cutting trenches in the seabed, described as the largest submersible robot in the world.",
+ "body": [],
+ "facts": [
+  "Mass of 60 tons; 7.8 m long, 7.8 m wide and 5.6 m tall",
+  "Trenches pipelines up to 1 m in diameter at depths of up to 1,500 m",
+  "Cuts trenches with a pair of jet swords that force pressurised water into sediment"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Ultra Trencher 1",
+   "url": "https://en.wikipedia.org/wiki/Ultra_Trencher_1",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ultra Trencher 1 (Q16939394)",
+   "url": "https://www.wikidata.org/wiki/Q16939394",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q16939394"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

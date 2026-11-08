@@ -1,0 +1,38 @@
+{
+ "id": "talisman",
+ "name": "Talisman",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "BAE Systems",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Small autonomous submarine made by BAE Systems to reconnoitre coastlines in conditions judged too dangerous or impractical for people to work in.",
+ "body": [],
+ "facts": [
+  "Built by BAE Systems",
+  "Carries out shoreline reconnaissance with no human operator aboard"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Talisman UUV",
+   "url": "https://en.wikipedia.org/wiki/Talisman_UUV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Talisman UUV (Q7679573)",
+   "url": "https://www.wikidata.org/wiki/Q7679573",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7679573"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

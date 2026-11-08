@@ -1,0 +1,35 @@
+{
+ "id": "maya-auv",
+ "name": "Maya AUV",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "National Institute of Oceanography",
+ "country": "India",
+ "year": "",
+ "status": "",
+ "def": "Indian autonomous underwater vehicle built by the marine instrumentation team at the National Institute of Oceanography.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Maya AUV India",
+   "url": "https://en.wikipedia.org/wiki/Maya_AUV_India",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Maya AUV India (Q22906797)",
+   "url": "https://www.wikidata.org/wiki/Q22906797",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q22906797"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

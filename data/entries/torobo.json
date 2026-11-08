@@ -1,0 +1,31 @@
+{
+ "id": "torobo",
+ "name": "Torobo",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Tokyo Robotics",
+ "country": "Japan",
+ "year": "2015",
+ "status": "production",
+ "def": "A research grade torque controlled humanoid sold to manipulation labs.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "tron1",
+  "twendy-one"
+ ],
+ "refs": [
+  {
+   "label": "Tokyo Robotics website",
+   "url": "https://robotics.tokyo",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

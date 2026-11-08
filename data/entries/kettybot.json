@@ -1,0 +1,31 @@
+{
+ "id": "kettybot",
+ "name": "KettyBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Pudu Robotics",
+ "country": "China",
+ "year": "2021",
+ "status": "production",
+ "def": "A slim ad screen waiter robot built for narrow café aisles.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "pudu-d9",
+  "d7"
+ ],
+ "refs": [
+  {
+   "label": "Pudu Robotics website",
+   "url": "https://www.pudurobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

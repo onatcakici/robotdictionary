@@ -1,0 +1,39 @@
+{
+ "id": "terabot-s",
+ "name": "Terabot-S",
+ "aka": [],
+ "section": "arms",
+ "kind": "robot manipulator arm",
+ "maker": "Oceaneering Space Systems",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robotic manipulator arm from Oceaneering Space Systems that can be mounted on almost any unmanned ground vehicle for jobs such as bomb disposal, mining and hazardous material sampling.",
+ "body": [],
+ "facts": [
+  "Designed in Clear Lake, Texas",
+  "Joints have built in overload clutches and are sealed against water and dust",
+  "End effectors can be changed by hand without tools"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Terabot-S",
+   "url": "https://en.wikipedia.org/wiki/Terabot-S",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Terabot-S (Q17027386)",
+   "url": "https://www.wikidata.org/wiki/Q17027386",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17027386"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

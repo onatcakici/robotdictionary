@@ -1,0 +1,41 @@
+{
+ "id": "manifold",
+ "name": "Manifold",
+ "aka": [],
+ "section": "other",
+ "kind": "industrial robot",
+ "maker": "Manifold",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Drop in robotic labor from a 2026 Y Combinator company.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Manifold",
+   "url": "https://www.ycombinator.com/companies/manifold-2",
+   "kind": "yc"
+  },
+  {
+   "label": "Manifold website",
+   "url": "https://www.manifoldindustries.ai/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "manifold-2"
+ },
+ "yc": {
+  "company": "Manifold",
+  "batch": "Summer 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/manifold-2"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

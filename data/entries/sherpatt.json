@@ -1,0 +1,58 @@
+{
+ "id": "sherpatt",
+ "name": "SherpaTT",
+ "aka": [],
+ "section": "rovers",
+ "kind": "hybrid wheeled leg rover",
+ "maker": "DFKI Robotics Innovation Center",
+ "country": "Germany",
+ "year": "2016",
+ "status": "research",
+ "def": "Hybrid wheeled leg rover with actively articulated suspension, field tested in the Utah desert and in Morocco for Mars analogue work.",
+ "body": [
+  "SherpaTT has four legs, each ending in a driven and steered wheel with five degrees of freedom, so the body stays level and the footprint can grow from one metre square to well over two metres. Force torque sensors in every wheel let it adapt to loose slopes, and it can walk short distances where wheels alone would dig in. DFKI ran it for weeks in Utah's Mars analogue terrain in 2016 and later in Morocco, covering long autonomous traverses and cooperating with other robots."
+ ],
+ "facts": [
+  "Active suspension keeps the body level on rough slopes",
+  "Completed multi week Mars analogue field campaigns in Utah and Morocco"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "150 kg"
+  ],
+  [
+   "Top speed",
+   "0.7 m/s (2.5 km/h)"
+  ],
+  [
+   "Actuation",
+   "Four legs with driven and steered wheels and active ground adaption"
+  ],
+  [
+   "Power",
+   "Lithium polymer battery packs with autonomous switching"
+  ],
+  [
+   "Sensors",
+   "Rotating lidar, laser rangefinder, high resolution camera, wheel force torque sensors"
+  ],
+  [
+   "Autonomy",
+   "Autonomous navigation with active suspension control"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "DFKI Robotics Innovation Center website",
+   "url": "https://www.dfki.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,67 @@
+{
+ "id": "mit-cheetah-3",
+ "name": "MIT Cheetah 3",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "MIT Biomimetic Robotics Laboratory",
+ "country": "United States",
+ "year": "2018",
+ "status": "research",
+ "def": "Forty kilogram electric quadruped that climbed cluttered stairs and jumped onto tables using only proprioception, with no cameras.",
+ "body": [
+  "Cheetah 3 kept the proprioceptive actuators of the earlier Cheetah machines and added greater joint range and a stiffer frame. Two algorithms did the work: a contact detection routine that decided when each foot had truly touched down, and a model predictive controller that recomputed leg forces every fifty milliseconds. Working blind from gyroscopes, accelerometers and joint sensors alone, it climbed a debris strewn staircase and leapt onto a desk about seventy six centimetres high."
+ ],
+ "facts": [
+  "Climbed stairs littered with obstacles with no vision at all",
+  "Its control software became the basis of the open source stack used on Mini Cheetah"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "41 kg"
+  ],
+  [
+   "Top speed",
+   "3 m/s (10.8 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Proprioceptive brushless motors with low gear ratio transmissions"
+  ],
+  [
+   "Power",
+   "Onboard battery pack"
+  ],
+  [
+   "Sensors",
+   "Inertial measurement unit and joint encoders only"
+  ],
+  [
+   "Autonomy",
+   "Model predictive control with contact detection and no exteroceptive sensing"
+  ]
+ ],
+ "see": [
+  "mini-cheetah",
+  "corleo"
+ ],
+ "refs": [
+  {
+   "label": "MIT Biomimetic Robotics Laboratory website",
+   "url": "https://www.mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "cheetah-3"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "qrio",
+ "name": "QRIO",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Sony",
+ "country": "Japan",
+ "year": "2003",
+ "status": "retired",
+ "def": "Sony's running, dancing small humanoid, cancelled before sale but never forgotten.",
+ "body": [
+  "Sony's QRIO ran, danced in troupes and conducted an orchestra, then died in the 2006 cost cutting that also froze AIBO, robotics' great what if."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 58 cm"
+  ]
+ ],
+ "see": [
+  "aibo-ers-110",
+  "robonaut-1"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.sony.net/SonyInfo/News/Press_Archive/200310/03-1001E/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, QRIO",
+   "url": "https://en.wikipedia.org/wiki/QRIO",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, QRIO (Q1134062)",
+   "url": "https://www.wikidata.org/wiki/Q1134062",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1134062"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

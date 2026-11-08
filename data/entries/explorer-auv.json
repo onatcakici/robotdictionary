@@ -1,0 +1,38 @@
+{
+ "id": "explorer-auv",
+ "name": "Explorer AUV",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "",
+ "country": "China",
+ "year": "1994",
+ "status": "",
+ "def": "Chinese autonomous underwater vehicle that entered service in November 1994 and supplied the experience behind many later Chinese designs.",
+ "body": [],
+ "facts": [
+  "Later AUVs such as Wukong and the Sea Whale series built on its experience",
+  "Distinct from the American ABE and the Canadian Explorer AUV"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Explorer AUV",
+   "url": "https://en.wikipedia.org/wiki/Explorer_AUV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Explorer AUV (Q5421381)",
+   "url": "https://www.wikidata.org/wiki/Q5421381",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5421381"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "nadine",
+ "name": "Nadine",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "social robot",
+ "maker": "",
+ "country": "",
+ "year": "2013",
+ "status": "",
+ "def": "Lifelike female humanoid social robot whose looks are based on Professor Nadia Magnenat Thalmann, able to recognise people, remember past conversations and answer questions in several languages.",
+ "body": [],
+ "facts": [
+  "Its face and upper body have 27 degrees of freedom in total",
+  "Can serve as an office receptionist or a personal coach"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Nadine Social Robot",
+   "url": "https://en.wikipedia.org/wiki/Nadine_Social_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Nadine Social Robot (Q24911030)",
+   "url": "https://www.wikidata.org/wiki/Q24911030",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q24911030"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

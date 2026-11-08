@@ -1,0 +1,28 @@
+{
+ "id": "versius",
+ "name": "Versius",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "CMR Surgical",
+ "country": "United Kingdom",
+ "year": "2019",
+ "status": "production",
+ "def": "Modular surgical robot from CMR Surgical whose arms sit on separate carts so they can be arranged around the operating table.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "CMR Surgical website",
+   "url": "https://cmrsurgical.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

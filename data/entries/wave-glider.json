@@ -1,0 +1,28 @@
+{
+ "id": "wave-glider",
+ "name": "Wave Glider",
+ "aka": [],
+ "section": "marine",
+ "kind": "wave powered surface robot",
+ "maker": "Liquid Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Ocean surface robot whose submerged wing converts the motion of waves into forward thrust, with solar panels for its instruments.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Liquid Robotics website",
+   "url": "https://www.liquid-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

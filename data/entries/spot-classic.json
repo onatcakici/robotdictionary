@@ -1,0 +1,43 @@
+{
+ "id": "spot-classic",
+ "name": "Spot Classic",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2015",
+ "status": "retired",
+ "def": "The hydraulic middleweight between BigDog and today's Spot.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "atlas-hydraulic",
+  "atlas"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.bostondynamics.com/legacy",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, SpotClassic (Q96781450)",
+   "url": "https://www.wikidata.org/wiki/Q96781450",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://www.bostondynamics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q96781450"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

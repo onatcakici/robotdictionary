@@ -1,0 +1,66 @@
+{
+ "id": "locus-origin",
+ "name": "Locus Origin",
+ "aka": [
+  "LocusBot"
+ ],
+ "section": "wheeled",
+ "kind": "collaborative picking robot",
+ "maker": "Locus Robotics",
+ "country": "United States",
+ "year": "2016",
+ "status": "production",
+ "def": "Collaborative picking robot that carries totes to warehouse workers and shows pick instructions on a screen so people stay inside one zone.",
+ "body": [
+  "Origin is a waist high wheeled robot that holds totes or cartons and meets human pickers at each shelf location, displaying the item and quantity on its screen. It navigates with lidar and cameras against a stored map, needing no tape or floor markers, and moves in mixed traffic with staff and forklifts. Locus Robotics was founded in 2014 by the operators of a fulfillment company that lost access to Kiva robots after the Amazon acquisition. Fleets are used by third party logistics providers, retailers and pharmacies."
+ ],
+ "facts": [
+  "Locus reported more than 10,000 robots across more than 250 sites by 2023",
+  "Customers include DHL, GEODIS, CEVA Logistics and Boots UK",
+  "Locus fleets passed one billion units picked in September 2022"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.47 m"
+  ],
+  [
+   "Payload",
+   "36 kg"
+  ],
+  [
+   "Runtime",
+   "14 h"
+  ],
+  [
+   "Power",
+   "Lithium battery with about 50 minutes to a full charge"
+  ],
+  [
+   "Sensors",
+   "Lidar, cameras and an onboard barcode scanner"
+  ],
+  [
+   "Autonomy",
+   "Map based navigation with dynamic path planning around people and obstacles"
+  ]
+ ],
+ "see": [
+  "otto-1500",
+  "ottobot"
+ ],
+ "refs": [
+  {
+   "label": "Locus Robotics website",
+   "url": "https://locusrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "origin"
+ ]
+}

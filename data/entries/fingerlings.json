@@ -1,0 +1,43 @@
+{
+ "id": "fingerlings",
+ "name": "Fingerlings",
+ "aka": [],
+ "section": "other",
+ "kind": "toy robot",
+ "maker": "WowWee",
+ "country": "",
+ "year": "2017",
+ "status": "",
+ "def": "Line of small robotic toy creatures from WowWee that cling to a finger and blink or blow kisses when they sense touch or sound.",
+ "body": [],
+ "facts": [
+  "Released by WowWee in 2017",
+  "Larger plush Fingerlings Hugs versions offer the same interactivity"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Fingerlings (toy)",
+   "url": "https://en.wikipedia.org/wiki/Fingerlings_(toy)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Fingerlings (Q48967323)",
+   "url": "https://www.wikidata.org/wiki/Q48967323",
+   "kind": "wikidata"
+  },
+  {
+   "label": "WowWee website",
+   "url": "https://wowwee.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q48967323"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "boe-bot",
+ "name": "Boe-Bot",
+ "aka": [
+  "Boe Bot"
+ ],
+ "section": "wheeled",
+ "kind": "educational robot kit",
+ "maker": "Parallax",
+ "country": "",
+ "year": "1998",
+ "status": "production",
+ "def": "Wheeled educational robot kit sold by Parallax, built around a BASIC Stamp microcontroller board with two servo driven wheels on an aluminum chassis.",
+ "body": [],
+ "facts": [
+  "Its name abbreviates Board of Education robot",
+  "Produced and marketed by Parallax Inc from 1998 onward",
+  "Common in robotics courses from junior high through college"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Boe-Bot",
+   "url": "https://en.wikipedia.org/wiki/Boe-Bot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Boe-Bot (Q3641553)",
+   "url": "https://www.wikidata.org/wiki/Q3641553",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3641553"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

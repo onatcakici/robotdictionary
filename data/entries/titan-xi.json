@@ -1,0 +1,62 @@
+{
+ "id": "titan-xi",
+ "name": "TITAN XI",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Tokyo Institute of Technology",
+ "country": "Japan",
+ "year": "2004",
+ "status": "retired",
+ "def": "Seven tonne hydraulic quadruped built to drill anchor holes on steep slopes, among the largest walking machines ever completed.",
+ "body": [
+  "TITAN XI was developed in the Hirose laboratory for slope reinforcement work on Japanese mountainsides where wheeled machines cannot operate safely. Four legs with three hydraulic joints each carried the body and a drilling rig, and two winches paid out tethers anchored uphill to hold the machine on inclines of up to about thirty degrees. Field trials showed it stepping over the concrete grid frames used in slope protection while positioning its drill, a rare example of a working construction quadruped."
+ ],
+ "facts": [
+  "One of the heaviest walking robots ever built at about seven tonnes",
+  "Used tethered winches for stability while drilling on slopes of up to thirty degrees"
+ ],
+ "specs": [
+  [
+   "Height",
+   "3 m"
+  ],
+  [
+   "Length",
+   "4.8 m"
+  ],
+  [
+   "Mass",
+   "7000 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Hydraulic cylinders, three joints per leg"
+  ],
+  [
+   "Power",
+   "Engine driven hydraulic power unit"
+  ],
+  [
+   "Autonomy",
+   "Operator controlled with computer assisted gait and posture"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Tokyo Institute of Technology website",
+   "url": "https://www.titech.ac.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,50 @@
+{
+ "id": "yeti",
+ "name": "Yeti",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Dartmouth College",
+ "country": "United States",
+ "year": "",
+ "status": "research",
+ "def": "Four wheeled polar survey robot that tows radar over Antarctic and Greenland ice to find crevasses and buried structures.",
+ "body": [
+  "Yeti was built at Dartmouth's Thayer School of Engineering as a small battery powered vehicle, light enough to cross snow bridges that would swallow a tractor. Driving programmed grid patterns under satellite navigation, it carries ground penetrating radar to detect crevasses along traverse routes and to map buried infrastructure, including surveys at the South Pole and on the Greenland ice sheet. Because it is unmanned and expendable, it can be sent ahead of human convoys into hazardous terrain."
+ ],
+ "facts": [
+  "Surveys crevasse fields ahead of crewed polar traverses",
+  "Used to map buried structures at the South Pole station"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheel drive on a lightweight snow chassis"
+  ],
+  [
+   "Power",
+   "Rechargeable battery pack"
+  ],
+  [
+   "Sensors",
+   "Ground penetrating radar with satellite navigation for survey grids"
+  ],
+  [
+   "Autonomy",
+   "Autonomous waypoint following along programmed survey lines"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Dartmouth College website",
+   "url": "https://www.dartmouth.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

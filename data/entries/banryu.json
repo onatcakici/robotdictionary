@@ -1,0 +1,35 @@
+{
+ "id": "banryu",
+ "name": "Banryu",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "security robot",
+ "maker": "Sanyo",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Robot product model developed in Japan and manufactured by the electronics company Sanyo.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Banryu (Q12762910)",
+   "url": "https://www.wikidata.org/wiki/Q12762910",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Sanyo website",
+   "url": "https://www.sanyo-av.com/language.php",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q12762910"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

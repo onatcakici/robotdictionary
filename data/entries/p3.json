@@ -1,0 +1,36 @@
+{
+ "id": "p3",
+ "name": "P3",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Honda",
+ "country": "Japan",
+ "year": "1997",
+ "status": "retired",
+ "def": "Honda's first fully self contained walking humanoid, ancestor of ASIMO.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 160 cm"
+  ]
+ ],
+ "see": [
+  "asimo",
+  "e2-dr"
+ ],
+ "refs": [
+  {
+   "label": "Honda website",
+   "url": "https://global.honda",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

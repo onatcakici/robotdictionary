@@ -1,0 +1,28 @@
+{
+ "id": "ufactory-xarm-6",
+ "name": "xArm 6",
+ "aka": [],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "UFactory",
+ "country": "China",
+ "year": "",
+ "status": "production",
+ "def": "Low cost six axis arm from UFactory popular with universities and small workshops.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "UFactory website",
+   "url": "https://www.ufactory.cc",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

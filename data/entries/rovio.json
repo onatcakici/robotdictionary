@@ -1,0 +1,42 @@
+{
+ "id": "rovio",
+ "name": "Rovio",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "telepresence robot",
+ "maker": "WowWee",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Wireless networked robot made by WowWee that carries a webcam, letting its user watch the camera feed and drive it remotely over the internet.",
+ "body": [],
+ "facts": [
+  "Can be controlled from a PC, Mac, smartphone, PDA or PSP"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Rovio (robot)",
+   "url": "https://en.wikipedia.org/wiki/Rovio_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Rovio (Q5381853)",
+   "url": "https://www.wikidata.org/wiki/Q5381853",
+   "kind": "wikidata"
+  },
+  {
+   "label": "WowWee website",
+   "url": "https://wowwee.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5381853"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

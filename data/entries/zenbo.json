@@ -1,0 +1,43 @@
+{
+ "id": "zenbo",
+ "name": "Zenbo",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "ASUS",
+ "country": "Taiwan",
+ "year": "2016",
+ "status": "discontinued",
+ "def": "A rolling home assistant that read bedtime stories in Taiwanese households.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "zhurong",
+  "zoe"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia, Zenbo",
+   "url": "https://en.wikipedia.org/wiki/Zenbo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Zenbo (Q48902001)",
+   "url": "https://www.wikidata.org/wiki/Q48902001",
+   "kind": "wikidata"
+  },
+  {
+   "label": "ASUS website",
+   "url": "https://www.asus.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q48902001"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

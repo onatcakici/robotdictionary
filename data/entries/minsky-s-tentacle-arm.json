@@ -1,0 +1,30 @@
+{
+ "id": "minsky-s-tentacle-arm",
+ "name": "Minsky's Tentacle Arm",
+ "aka": [],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "",
+ "country": "",
+ "year": "1965",
+ "status": "retired",
+ "def": "Robot arm dating from 1965, built to imitate a human arm and now exhibited at the MIT Museum.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Minsky's Tentacle Arm (Q89986617)",
+   "url": "https://www.wikidata.org/wiki/Q89986617",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q89986617"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

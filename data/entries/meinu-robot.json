@@ -1,0 +1,38 @@
+{
+ "id": "meinu-robot",
+ "name": "Meinü robot",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "gynoid",
+ "maker": "",
+ "country": "China",
+ "year": "2006",
+ "status": "",
+ "def": "Female humanoid robot from China, reported by Chinese news outlets in 2006, whose Mandarin name is officially rendered in English as beauty robot.",
+ "body": [],
+ "facts": [
+  "The Mandarin name literally means beautiful woman robot",
+  "The first Meinü robot was later given the name Miss Rong Cheng"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Meinü robot",
+   "url": "https://en.wikipedia.org/wiki/Meinü_robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Meinü robot (Q6810194)",
+   "url": "https://www.wikidata.org/wiki/Q6810194",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6810194"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

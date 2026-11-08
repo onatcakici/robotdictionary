@@ -1,0 +1,56 @@
+{
+ "id": "albert-hubo",
+ "name": "Albert HUBO",
+ "aka": [
+  "HUBO",
+  "Hubo"
+ ],
+ "section": "humanoids",
+ "kind": "walking humanoid robot",
+ "maker": "Hanson Robotics",
+ "country": "Hong Kong",
+ "year": "2005",
+ "status": "",
+ "def": "Walking humanoid robot that mounts a head on a full size two legged frame, based on the HUBO biped from the Korea Advanced Institute of Science and Technology.",
+ "body": [],
+ "facts": [
+  "The HUBO platform was released on 6 January 2005",
+  "Stands 1.37 m tall and weighs 57 kg",
+  "Creator Jun-Ho Oh says the name Hubo is not an abbreviation"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.37 m"
+  ],
+  [
+   "Mass",
+   "57 kg"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Albert HUBO",
+   "url": "https://en.wikipedia.org/wiki/Albert_HUBO",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Albert Hubo (Q3535099)",
+   "url": "https://www.wikidata.org/wiki/Q3535099",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Hanson Robotics website",
+   "url": "https://www.hansonrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3535099"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

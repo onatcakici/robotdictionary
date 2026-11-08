@@ -1,0 +1,87 @@
+{
+ "id": "reem-c",
+ "name": "REEM-C",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "adult size biped",
+ "maker": "PAL Robotics",
+ "country": "Spain",
+ "year": "2013",
+ "status": "research",
+ "def": "Adult size biped from PAL Robotics with fully articulated hands, sold as a research platform for walking, manipulation and human robot interaction work.",
+ "body": [
+  "REEM-C stands 165 centimetres, weighs 80 kilograms and carries 68 degrees of freedom, of which 38 are in its two articulated hands. Six axis force and torque sensors in each ankle support balance control, and the head carries stereo cameras alongside a microphone array and sonar for interaction work. It runs for about three hours walking or six on standby, and lifts around ten kilograms with both arms. PAL Robotics has sold REEM-C to laboratories worldwide as the commercial descendant of its earlier wheeled REEM service robots."
+ ],
+ "facts": [
+  "Thirty eight of its 68 degrees of freedom are in the hands",
+  "Sold to research laboratories internationally as a commercial biped platform",
+  "Descended from PAL Robotics' earlier wheeled REEM service robots"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.65 m"
+  ],
+  [
+   "Mass",
+   "80 kg"
+  ],
+  [
+   "Payload",
+   "10 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "68"
+  ],
+  [
+   "Runtime",
+   "3 h"
+  ],
+  [
+   "Actuation",
+   "Electric servo joints with six axis force and torque sensors in each ankle"
+  ],
+  [
+   "Sensors",
+   "Stereo head cameras, rear camera, four linear array microphones, sonar"
+  ],
+  [
+   "Autonomy",
+   "ROS based walking and manipulation software supplied with the robot"
+  ]
+ ],
+ "see": [
+  "talos",
+  "ari"
+ ],
+ "refs": [
+  {
+   "label": "PAL Robotics website",
+   "url": "https://pal-robotics.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "http://www.pal-robotics.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, REEM",
+   "url": "https://en.wikipedia.org/wiki/REEM",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, REEM (Q775992)",
+   "url": "https://www.wikidata.org/wiki/Q775992",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q775992"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

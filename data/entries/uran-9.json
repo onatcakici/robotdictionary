@@ -1,0 +1,48 @@
+{
+ "id": "uran-9",
+ "name": "Uran-9",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "Rostec",
+ "country": "Russia",
+ "year": "",
+ "status": "production",
+ "def": "Russian tracked unmanned combat vehicle from JSC 766 UPTK, offered abroad through Rosoboronexport, that scouts and gives fire support from a distance.",
+ "body": [],
+ "facts": [
+  "Weighs 12 tonnes",
+  "Intended to support combat, reconnaissance and counterterrorism units"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "12 tonne"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Uran-9",
+   "url": "https://en.wikipedia.org/wiki/Uran-9",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Uran-9 (Q22737254)",
+   "url": "https://www.wikidata.org/wiki/Q22737254",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Rostec website",
+   "url": "http://www.rostec.ru/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q22737254"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

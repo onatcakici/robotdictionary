@@ -1,0 +1,42 @@
+{
+ "id": "honda-p-series",
+ "name": "Honda P series",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot series",
+ "maker": "Honda",
+ "country": "",
+ "year": "1993",
+ "status": "retired",
+ "def": "Line of prototype humanoid robots that Honda built from 1993 to 2000, the stage between its experimental E series and the ASIMO robot.",
+ "body": [],
+ "facts": [
+  "Honda president Hiroyuki Yoshino tied the program to improving human mobility"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Honda P series",
+   "url": "https://en.wikipedia.org/wiki/Honda_P_series",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Honda P series (Q3939314)",
+   "url": "https://www.wikidata.org/wiki/Q3939314",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Honda website",
+   "url": "https://global.honda",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3939314"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,43 @@
+{
+ "id": "robear",
+ "name": "ROBEAR",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "RIKEN",
+ "country": "Japan",
+ "year": "2015",
+ "status": "research",
+ "def": "A bear faced nursing robot strong enough to lift patients gently from bed to wheelchair.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Mass",
+   "approx. 140 kg"
+  ]
+ ],
+ "see": [
+  "robonaut-2",
+  "robothespian"
+ ],
+ "refs": [
+  {
+   "label": "Wikidata, Robear (Q114680273)",
+   "url": "https://www.wikidata.org/wiki/Q114680273",
+   "kind": "wikidata"
+  },
+  {
+   "label": "RIKEN website",
+   "url": "https://www.riken.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q114680273"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

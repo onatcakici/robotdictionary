@@ -1,0 +1,50 @@
+{
+ "id": "moonranger",
+ "name": "MoonRanger",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Carnegie Mellon University and Astrobotic",
+ "country": "United States",
+ "year": "",
+ "status": "prototype",
+ "def": "Suitcase sized autonomous lunar rover built to scout hundreds of metres from its lander without waiting for driving commands.",
+ "body": [
+  "MoonRanger is designed to drive itself between distant waypoints, building terrain maps onboard and returning to its lander to relay data, because it has no direct radio link to Earth. It is solar powered through a flip up panel and carries a neutron spectrometer to look for hydrogen near the lunar south pole. The rover was built at Carnegie Mellon, is in systems testing in a clean room there, and is manifested on a Firefly Aerospace Blue Ghost mission in 2029."
+ ],
+ "facts": [
+  "Built to navigate autonomously beyond radio contact with its lander",
+  "Scheduled to fly on a Blue Ghost lander in 2029"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheel drive with independent motors"
+  ],
+  [
+   "Power",
+   "Flip up solar panel with battery"
+  ],
+  [
+   "Sensors",
+   "Stereo cameras and neutron spectrometer"
+  ],
+  [
+   "Autonomy",
+   "Fully autonomous waypoint navigation with onboard mapping"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Carnegie Mellon University and Astrobotic website",
+   "url": "https://www.cmu.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

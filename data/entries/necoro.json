@@ -1,0 +1,35 @@
+{
+ "id": "necoro",
+ "name": "NeCoRo",
+ "aka": [],
+ "section": "other",
+ "kind": "robotic cat",
+ "maker": "Omron",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Robot built in the form of an animal and sold as a product by the Japanese company Omron.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Necoro (Q13537430)",
+   "url": "https://www.wikidata.org/wiki/Q13537430",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Omron website",
+   "url": "https://www.omron.co.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q13537430"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

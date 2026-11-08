@@ -1,0 +1,75 @@
+{
+ "id": "atrias",
+ "name": "ATRIAS",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "spring mass biped",
+ "maker": "Oregon State University, Dynamic Robotics Laboratory",
+ "country": "United States",
+ "year": "2013",
+ "status": "retired",
+ "def": "Spring mass biped from Oregon State built to test whether a legged robot could match the dynamics and efficiency of running birds.",
+ "body": [
+  "ATRIAS stands 171 cm tall and weighs 62 kg with batteries, yet uses only six motors, two series elastic leg drives acting through fiberglass plate springs on each leg plus one hip motor per leg for side to side control. Almost all mass sits in the torso so that the legs behave like the spring loaded inverted pendulum model drawn from studies of ground running birds. It walked untethered outdoors in 2015, appeared at the DARPA Robotics Challenge Finals, and what it taught about leg design shaped the Cassie bipeds that followed."
+ ],
+ "facts": [
+  "Physical test of the spring loaded inverted pendulum model of running",
+  "Demonstrated at the 2015 DARPA Robotics Challenge Finals"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.71 m"
+  ],
+  [
+   "Mass",
+   "62 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "6"
+  ],
+  [
+   "Actuation",
+   "Series elastic actuators with fiberglass leg springs"
+  ],
+  [
+   "Power",
+   "Onboard battery"
+  ],
+  [
+   "Sensors",
+   "Joint encoders and an inertial measurement unit"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Oregon State University, Dynamic Robotics Laboratory website",
+   "url": "https://oregonstate.edu",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "http://mime.oregonstate.edu/research/drl/atrias/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, ATRIAS",
+   "url": "https://en.wikipedia.org/wiki/ATRIAS",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ATRIAS (Q25001435)",
+   "url": "https://www.wikidata.org/wiki/Q25001435",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q25001435"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

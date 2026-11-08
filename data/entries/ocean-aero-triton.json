@@ -1,0 +1,52 @@
+{
+ "id": "ocean-aero-triton",
+ "name": "Ocean Aero Triton",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater and surface vehicle",
+ "maker": "Ocean Aero",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Autonomous vessel from the American company Ocean Aero that can travel both on the surface and underwater, propelled by solar and wind power for long missions.",
+ "body": [],
+ "facts": [
+  "As of 2026 the only naval drone able to operate autonomously both surfaced and submerged",
+  "Mass of 350 kg and length of 4.5 m"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "350 kg"
+  ],
+  [
+   "Length",
+   "4.5 m"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Ocean Aero Triton",
+   "url": "https://en.wikipedia.org/wiki/Ocean_Aero_Triton",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ocean Aero Triton (Q141845461)",
+   "url": "https://www.wikidata.org/wiki/Q141845461",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, newgeopolitics.org",
+   "url": "https://www.newgeopolitics.org/2025/04/02/triton-a-new-approach/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q141845461"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

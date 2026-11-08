@@ -1,0 +1,37 @@
+{
+ "id": "sofie",
+ "name": "SOFIE",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Eindhoven University of Technology",
+ "country": "Netherlands",
+ "year": "",
+ "status": "research",
+ "def": "Surgical robot developed at Eindhoven University of Technology as part of Linda van den Bedem's doctoral thesis, the first such robot to give the surgeon force feedback.",
+ "body": [],
+ "facts": [
+  "Name stands for Surgeon's Operating Force feedback Interface Eindhoven"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Sofie (surgical robot)",
+   "url": "https://en.wikipedia.org/wiki/Sofie_(surgical_robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sofie (Q7553720)",
+   "url": "https://www.wikidata.org/wiki/Q7553720",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7553720"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

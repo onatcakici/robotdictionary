@@ -1,0 +1,28 @@
+{
+ "id": "da-vinci-5",
+ "name": "da Vinci 5",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Intuitive Surgical",
+ "country": "United States",
+ "year": "2024",
+ "status": "production",
+ "def": "Fifth generation da Vinci system, cleared in the United States in 2024, adding force feedback instruments.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Intuitive website",
+   "url": "https://www.intuitive.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,33 @@
+{
+ "id": "rivr",
+ "name": "RIVR",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "wheel legged delivery quadruped",
+ "maker": "RIVR (Swiss-Mile)",
+ "country": "Switzerland",
+ "year": "2023",
+ "status": "pilot",
+ "def": "A wheel legged delivery quadruped that stands upright to hand over parcels; trained end to end in simulation.",
+ "body": [
+  "RIVR, formerly Swiss-Mile, put wheels on ANYmal lineage legs and trained the result end to end in simulation; it delivers parcels door to door in Zürich pilots, standing upright to ring the bell."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "solo-8",
+  "sparko"
+ ],
+ "refs": [
+  {
+   "label": "The Robot Report, Swiss-Mile rebrands to RIVR",
+   "url": "https://www.therobotreport.com/swiss-mile-rebrands-to-rivr-continues-developing-wheeled-quadrupeds/",
+   "kind": "press"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

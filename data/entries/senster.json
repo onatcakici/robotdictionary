@@ -1,0 +1,42 @@
+{
+ "id": "senster",
+ "name": "Senster",
+ "aka": [],
+ "section": "other",
+ "kind": "robotic sculpture",
+ "maker": "Edward Ihnatowicz",
+ "country": "",
+ "year": "1968",
+ "status": "",
+ "def": "Robotic artwork by Edward Ihnatowicz that Philips commissioned for the Evoluon in Eindhoven, the Netherlands, where it was exhibited from 1970 until its dismantling in 1974.",
+ "body": [],
+ "facts": [
+  "Dismantled in 1974; a restoration followed in the late 2010s"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Senster",
+   "url": "https://en.wikipedia.org/wiki/Senster",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Senster (Q1231464)",
+   "url": "https://www.wikidata.org/wiki/Q1231464",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, digitalcanon.nl",
+   "url": "https://www.digitalcanon.nl/#64",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1231464"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

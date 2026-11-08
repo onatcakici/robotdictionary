@@ -1,0 +1,73 @@
+{
+ "id": "unitree-h1",
+ "name": "Unitree H1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "full size electric biped",
+ "maker": "Unitree Robotics",
+ "country": "China",
+ "year": "2023",
+ "status": "production",
+ "def": "Full size electric biped sold at a fraction of Western prices, notable for a fast recorded walking speed and for widespread laboratory adoption.",
+ "body": [
+  "H1 is about 180 centimetres tall and weighs roughly 47 kilograms, with 18 degrees of freedom and knee joints rated near 360 newton metres of torque. Unitree measured it moving at 3.3 metres per second, among the fastest recorded for a full size humanoid, and perception comes from a 3D lidar and depth camera giving all round coverage. It ships with a software development kit and reinforcement learning training environments, and buyers add their own arms, hands and compute. Priced well below comparable Western machines, it became one of the most widely bought full size humanoids for research, demonstrations and media work.",
+  "Unitree's H1 arrived in 2023 at a fraction of the expected price of a full size humanoid and promptly set a speed record for its kind. It later performed synchronised folk dances on China's Spring Festival Gala, the country's most watched broadcast."
+ ],
+ "facts": [
+  "Recorded moving at 3.3 metres per second, among the fastest for a full size humanoid",
+  "Sold into research and demonstration work at a small fraction of Western humanoid prices",
+  "Widely used as a base platform for third party arms, hands and compute"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.8 m"
+  ],
+  [
+   "Mass",
+   "47 kg"
+  ],
+  [
+   "Top speed",
+   "3.3 m/s (11.9 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "18"
+  ],
+  [
+   "Actuation",
+   "In house electric joint modules with knee torque near 360 newton metres"
+  ],
+  [
+   "Sensors",
+   "3D lidar and depth camera giving 360-degree perception"
+  ],
+  [
+   "Autonomy",
+   "Software development kit with reinforcement learning training environments"
+  ],
+  [
+   "Pace",
+   "approx. 3.3 m/s"
+  ]
+ ],
+ "see": [
+  "unitree-h2",
+  "unitree-g1"
+ ],
+ "refs": [
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "h1"
+ ]
+}

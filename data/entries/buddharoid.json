@@ -1,0 +1,37 @@
+{
+ "id": "buddharoid",
+ "name": "Buddharoid",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Kyoto University",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Japanese robot monk created by Kyoto University researchers with technology company partners to give Buddhist spiritual guidance, unveiled at a temple in Kyoto.",
+ "body": [],
+ "facts": [
+  "First presented at Shoren in Temple, Kyoto"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Buddharoid",
+   "url": "https://en.wikipedia.org/wiki/Buddharoid",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Buddharoid (Q138660342)",
+   "url": "https://www.wikidata.org/wiki/Q138660342",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q138660342"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,44 @@
+{
+ "id": "roboquad",
+ "name": "Roboquad",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "toy robot",
+ "maker": "WowWee",
+ "country": "",
+ "year": "2007",
+ "status": "",
+ "def": "Four legged toy robot from WowWee, designed by Mark Tilden and announced at CES in January 2007, looking partly like a spider and partly like a dog.",
+ "body": [],
+ "facts": [
+  "Billed as the first true robotic arthropod",
+  "Has several personalities and some autonomous behaviour",
+  "Can also be steered by remote control"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.wowwee.com/en/products/toys/robots/robotics/robocreatures/roboquad",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Roboquad",
+   "url": "https://en.wikipedia.org/wiki/Roboquad",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Roboquad (Q7353297)",
+   "url": "https://www.wikidata.org/wiki/Q7353297",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7353297"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

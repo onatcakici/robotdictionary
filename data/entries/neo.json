@@ -1,0 +1,81 @@
+{
+ "id": "neo",
+ "name": "NEO",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "soft bodied household humanoid",
+ "maker": "1X Technologies",
+ "country": "United States",
+ "year": "2025",
+ "status": "prototype",
+ "def": "Soft bodied household humanoid sold for early access delivery from 2026, with a tendon drive and optional remote human operation for unfamiliar chores.",
+ "body": [
+  "NEO weighs about 30 kilograms and is built from knitted covers over 3D lattice polymer structures, keeping it light and quiet at a rated 22 decibels. Instead of geared joints at the limbs it uses a tendon drive pulling cables from high torque density motors, which lets it lift around 70 kilograms and carry about 25. Onboard speech and vision models handle known chores, and for anything it has not learned owners can schedule a 1X teleoperator to drive it. 1X opened orders in October 2025 at 20,000 dollars outright or 499 dollars a month, with first home deliveries promised in the United States during 2026."
+ ],
+ "facts": [
+  "Preorders opened in October 2025 at 20,000 dollars or a 499 dollar monthly subscription",
+  "Rated at 22 decibels of operating noise for household use",
+  "First United States home deliveries promised for 2026, other markets from 2027"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "30 kg"
+  ],
+  [
+   "Payload",
+   "25 kg"
+  ],
+  [
+   "Actuation",
+   "Tendon drive transmitting from high torque density electric motors"
+  ],
+  [
+   "Sensors",
+   "Head and body cameras with microphone array"
+  ],
+  [
+   "Autonomy",
+   "Onboard vision and speech models with scheduled human teleoperation fallback"
+  ],
+  [
+   "Height",
+   "66 in"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "1X Technologies website",
+   "url": "https://www.1x.tech",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.1x.tech/neo",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, 1X NEO (Q140674077)",
+   "url": "https://www.wikidata.org/wiki/Q140674077",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, engadget.com",
+   "url": "https://www.engadget.com/ai/1x-neo-is-a-20000-home-robot-that-will-learn-chores-via-teleoperation-040252200.html",
+   "kind": "cited"
+  },
+  {
+   "label": "1X website",
+   "url": "https://1x.tech",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140674077"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

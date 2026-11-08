@@ -1,0 +1,28 @@
+{
+ "id": "dexter-distalmotion",
+ "name": "Dexter",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Distalmotion",
+ "country": "Switzerland",
+ "year": "",
+ "status": "production",
+ "def": "Compact surgical robot from Distalmotion that hospitals can switch between robotic and ordinary keyhole surgery during a single operation.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Distalmotion website",
+   "url": "https://www.distalmotion.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

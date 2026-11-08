@@ -1,0 +1,42 @@
+{
+ "id": "oceanonek",
+ "name": "OceanOneK",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Stanford Robotics Lab",
+ "country": "United States",
+ "year": "2016",
+ "status": "research",
+ "def": "A haptic humanoid diver that explores shipwrecks a kilometre down while its pilot feels what it touches.",
+ "body": [
+  "Stanford's OceanOneK dives where humans cannot, its haptic hands letting a pilot on the surface feel a shipwreck's artifacts a kilometre down. It has explored a Roman wreck, a downed WWII plane and the liner La Lune."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Depth",
+   "approx. 1,000 m"
+  ],
+  [
+   "Wrecks",
+   "La Lune; Crispi; Roman sites"
+  ]
+ ],
+ "see": [
+  "limx-oli",
+  "optimus"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, OceanOneK",
+   "url": "https://en.wikipedia.org/w/index.php?search=OceanOneK+Stanford+Robotics+Lab",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

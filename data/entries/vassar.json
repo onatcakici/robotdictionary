@@ -1,0 +1,41 @@
+{
+ "id": "vassar",
+ "name": "Vassar",
+ "aka": [],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "Vassar Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Gearless robot joints and arms driven by high torque transverse flux motors, built for AI research labs.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Vassar Robotics",
+   "url": "https://www.ycombinator.com/companies/vassar-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Vassar Robotics website",
+   "url": "https://www.vassarrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "vassar-robotics"
+ },
+ "yc": {
+  "company": "Vassar Robotics",
+  "batch": "Spring 2025",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/vassar-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

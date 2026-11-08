@@ -1,0 +1,41 @@
+{
+ "id": "orangewood-labs",
+ "name": "Orangewood Labs",
+ "aka": [],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "Orangewood Labs",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "San Francisco maker of low cost robot arms and the software that lets them learn new tasks.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Orangewood Labs",
+   "url": "https://www.ycombinator.com/companies/orangewood-labs",
+   "kind": "yc"
+  },
+  {
+   "label": "Orangewood Labs website",
+   "url": "http://www.orangewood.co",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "orangewood-labs"
+ },
+ "yc": {
+  "company": "Orangewood Labs",
+  "batch": "Winter 2018",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/orangewood-labs"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

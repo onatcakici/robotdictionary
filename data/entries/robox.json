@@ -1,0 +1,44 @@
+{
+ "id": "robox",
+ "name": "RoboX",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "mobile robot",
+ "maker": "",
+ "country": "Switzerland",
+ "year": "2002",
+ "status": "",
+ "def": "Swiss mobile robot, 168 cm tall and 64 cm wide, that appeared at the Expo 02 exhibition in 2002.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "168 cm"
+  ],
+  [
+   "Width",
+   "64 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, RoboX (Q110371354)",
+   "url": "https://www.wikidata.org/wiki/Q110371354",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, etheritage.ethz.ch",
+   "url": "https://etheritage.ethz.ch/2021/12/17/ein-roboter-als-ausstellungsguide/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q110371354"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

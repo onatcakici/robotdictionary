@@ -1,0 +1,35 @@
+{
+ "id": "don-cuco-el-guapo",
+ "name": "Don Cuco El Guapo",
+ "aka": [],
+ "section": "other",
+ "kind": "piano playing robot",
+ "maker": "Universidad Autónoma de Puebla",
+ "country": "Mexico",
+ "year": "1992",
+ "status": "",
+ "def": "Piano playing robot created in 1992 by the microelectronics department of the Universidad Autónoma de Puebla in Mexico.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Don Cuco El Guapo",
+   "url": "https://en.wikipedia.org/wiki/Don_Cuco_El_Guapo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Don Cuco El Guapo (Q5292472)",
+   "url": "https://www.wikidata.org/wiki/Q5292472",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5292472"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

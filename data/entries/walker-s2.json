@@ -1,0 +1,90 @@
+{
+ "id": "walker-s2",
+ "name": "Walker S2",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "industrial humanoid",
+ "maker": "UBTECH Robotics",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "Industrial humanoid that swaps its own battery in about three minutes, sold to Chinese carmakers and electronics plants for continuous shift work.",
+ "body": [
+  "Walker S2 is UBTECH's second generation industrial humanoid, built around a dual battery system that keeps the robot powered while it exchanges a depleted pack, giving effectively continuous operation. It lifts 15 kilograms, works from floor level to 1.8 metres for stoop lifting, and its high torque waist servo rotates plus or minus 162 degrees and pitches 125 degrees. Binocular stereo vision with RGB cameras handles part location, and UBTECH's fleet software coordinates groups of robots on a line. UBTECH has announced large order books from Chinese automotive and electronics manufacturers, and earlier Walker S1 fleets worked at Zeekr and Foxconn sites."
+ ],
+ "facts": [
+  "Swaps its own battery in about three minutes for continuous operation",
+  "Predecessor Walker S1 fleets deployed at Zeekr and Foxconn plants",
+  "UBTECH has reported some of the largest disclosed humanoid order books in China"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "15 kg"
+  ],
+  [
+   "Actuation",
+   "Electric joints with a high torque waist servo, plus autonomous battery exchange"
+  ],
+  [
+   "Power",
+   "Dual dynamically balanced battery packs with autonomous swap in about three minutes"
+  ],
+  [
+   "Sensors",
+   "Binocular stereo vision with RGB cameras"
+  ],
+  [
+   "Autonomy",
+   "UBTECH fleet coordination software for multiple robots on a production line"
+  ]
+ ],
+ "see": [
+  "walker",
+  "walker-s"
+ ],
+ "refs": [
+  {
+   "label": "UBTECH Robotics website",
+   "url": "https://www.ubtrobot.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.ubtrobot.com/en/humanoid/products/walker-s2",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Walker S2 (Q140880152)",
+   "url": "https://www.wikidata.org/wiki/Q140880152",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, interestingengineering.com",
+   "url": "https://interestingengineering.com/ai-robotics/china-ubtech-humanoid-robots-international-border",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, prnewswire.com",
+   "url": "https://www.prnewswire.com/news-releases/ubtech-humanoid-robot-walker-s2-begins-mass-production-and-delivery-with-orders-exceeding-800-million-yuan-302616924.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, cnevpost.com",
+   "url": "https://cnevpost.com/2025/07/17/ubtech-humanoid-robot-autonomous-battery-swap/",
+   "kind": "cited"
+  },
+  {
+   "label": "UBtech Robotics website",
+   "url": "http://ubtrobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140880152"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

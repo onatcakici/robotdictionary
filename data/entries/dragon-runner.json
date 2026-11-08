@@ -1,0 +1,73 @@
+{
+ "id": "dragon-runner",
+ "name": "Dragon Runner",
+ "aka": [
+  "FOSTER MILLER DRAGON RUNNER"
+ ],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "Qinetiq North America and Foster-Miller",
+ "country": "United States",
+ "year": "2004",
+ "status": "",
+ "def": "Small throwable ground robot for urban combat, developed at Carnegie Mellon University with US Marine Corps funding and fitted with QinetiQ electronics and casing.",
+ "body": [],
+ "facts": [
+  "Measures 13 cm high and 39 cm long",
+  "Top speed of 6 km/h",
+  "Early design and field testing done at the US Naval Research Laboratory"
+ ],
+ "specs": [
+  [
+   "Height",
+   "13 cm"
+  ],
+  [
+   "Mass",
+   "7.3 kg"
+  ],
+  [
+   "Length",
+   "39 cm"
+  ],
+  [
+   "Top speed",
+   "6 km/h"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://qinetiq-na.com/products/unmanned-systems/dragon-runner/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Dragon Runner",
+   "url": "https://en.wikipedia.org/wiki/Dragon_Runner",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Dragon Runner (Q2600912)",
+   "url": "https://www.wikidata.org/wiki/Q2600912",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, qinetiq-na.com",
+   "url": "https://qinetiq-na.com/wp-content/uploads/DragonRunner20_Datasheet_LR.pdf",
+   "kind": "cited"
+  },
+  {
+   "label": "Qinetiq North America website",
+   "url": "https://www.qinetiq-na.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2600912"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

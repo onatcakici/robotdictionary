@@ -1,0 +1,38 @@
+{
+ "id": "liberdade-class-underwater-glider",
+ "name": "Liberdade class underwater glider",
+ "aka": [],
+ "section": "marine",
+ "kind": "underwater glider",
+ "maker": "Office of Naval Research",
+ "country": "United States",
+ "year": "",
+ "status": "research",
+ "def": "Experimental class of blended wing body underwater gliders developed by the US Office of Naval Research, originally meant to track quiet diesel electric submarines in coastal waters.",
+ "body": [],
+ "facts": [
+  "Moves at 1 to 3 knots and can stay on station for up to six months",
+  "Shares its name with Liberdade, a ship built by Joshua Slocum"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Liberdade class underwater glider",
+   "url": "https://en.wikipedia.org/wiki/Liberdade_class_underwater_glider",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Liberdade class underwater glider (Q6541072)",
+   "url": "https://www.wikidata.org/wiki/Q6541072",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6541072"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

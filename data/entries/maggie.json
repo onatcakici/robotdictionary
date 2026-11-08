@@ -1,0 +1,44 @@
+{
+ "id": "maggie",
+ "name": "MAGGIE",
+ "aka": [
+  "Mars Automated Giant Gizmo for Integrated Engineering",
+  "MAGGIE engineering test rover",
+  "MAGGIE rover"
+ ],
+ "section": "rovers",
+ "kind": "test rover",
+ "maker": "Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Engineering test rover, its name short for Mars Automated Giant Gizmo for Integrated Engineering, used by the Jet Propulsion Laboratory as an Earth testbed for NASA's Curiosity rover.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, MAGGIE (Q108699841)",
+   "url": "https://www.wikidata.org/wiki/Q108699841",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, nasa.gov",
+   "url": "https://www.nasa.gov/feature/jpl/nasa-readies-perseverance-mars-rovers-earthly-twin",
+   "kind": "cited"
+  },
+  {
+   "label": "Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q108699841"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

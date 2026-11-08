@@ -1,0 +1,28 @@
+{
+ "id": "spyce",
+ "name": "Spyce",
+ "aka": [],
+ "section": "arms",
+ "kind": "robotic kitchen",
+ "maker": "Spyce",
+ "country": "United States",
+ "year": "2018",
+ "status": "retired",
+ "def": "Boston restaurant whose automated woks cooked grain bowls, founded by MIT graduates and bought by Sweetgreen in 2021.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Sweetgreen website",
+   "url": "https://www.sweetgreen.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

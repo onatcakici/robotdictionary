@@ -1,0 +1,30 @@
+{
+ "id": "cincinnati-milacron-t3",
+ "name": "T3",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot",
+ "maker": "Cincinnati Milacron",
+ "country": "United States",
+ "year": "",
+ "status": "retired",
+ "def": "Hydraulic industrial robot from Cincinnati Milacron, the first commercially available industrial robot controlled by a minicomputer.",
+ "body": [],
+ "facts": [
+  "Name stands for The Tomorrow Tool"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/w/index.php?search=Cincinnati+Milacron+T3+robot",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

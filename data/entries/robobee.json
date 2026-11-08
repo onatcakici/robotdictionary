@@ -1,0 +1,39 @@
+{
+ "id": "robobee",
+ "name": "RoboBee",
+ "aka": [],
+ "section": "other",
+ "kind": "flying microrobot",
+ "maker": "Harvard University",
+ "country": "",
+ "year": "",
+ "status": "research",
+ "def": "Insect sized robot from Harvard University that flies, partly untethered, on wings flapped by artificial muscles.",
+ "body": [],
+ "facts": [
+  "Took twelve years of research to develop",
+  "Built with a fabrication method inspired by pop up books, at submillimeter scale",
+  "Its wings flap 120 times a second, driven by artificial muscles"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, RoboBee",
+   "url": "https://en.wikipedia.org/wiki/RoboBee",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RoboBee (Q12779901)",
+   "url": "https://www.wikidata.org/wiki/Q12779901",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q12779901"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

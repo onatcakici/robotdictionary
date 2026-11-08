@@ -1,0 +1,44 @@
+{
+ "id": "5dx",
+ "name": "5DX",
+ "aka": [],
+ "section": "arms",
+ "kind": "automated inspection robot",
+ "maker": "Agilent Technologies",
+ "country": "United States",
+ "year": "",
+ "status": "discontinued",
+ "def": "Automated inspection robot, made by Hewlett Packard and later Agilent Technologies, that took 3D radiographic images of assembled circuit boards to check the solder.",
+ "body": [],
+ "facts": [
+  "Production passed to Agilent when Hewlett Packard split in 1999",
+  "Showed solder thickness in 8 bit grayscale using laminography",
+  "Gave process feedback to surface mount assembly lines and caught defects"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, 5DX",
+   "url": "https://en.wikipedia.org/wiki/5DX",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, 5DX (Q4641049)",
+   "url": "https://www.wikidata.org/wiki/Q4641049",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Agilent Technologies website",
+   "url": "http://www.agilent.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4641049"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

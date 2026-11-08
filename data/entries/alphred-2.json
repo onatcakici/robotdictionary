@@ -1,0 +1,54 @@
+{
+ "id": "alphred-2",
+ "name": "ALPHRED 2",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "UCLA Robotics and Mechanisms Laboratory",
+ "country": "United States",
+ "year": "2019",
+ "status": "research",
+ "def": "Radially symmetric four limbed robot from UCLA that walks in any direction, uses two limbs as arms and can roll on its feet.",
+ "body": [
+  "ALPHRED 2 places four identical three joint limbs around a central body with no fixed front, so it can walk sideways, stand on two limbs and manipulate with the other two, or hop and roll. Its custom BEAR actuators are back drivable and torque controlled, giving the compliance needed for dynamic contact with the ground and with objects. Dennis Hong's group built it to explore multi modal locomotion for tasks such as package delivery, where a robot must both travel and handle loads."
+ ],
+ "facts": [
+  "Radially symmetric layout lets it walk in any direction without turning",
+  "Can convert two of its four limbs into arms for manipulation"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Custom back drivable BEAR electric actuators, three per limb"
+  ],
+  [
+   "Power",
+   "Onboard battery"
+  ],
+  [
+   "Sensors",
+   "Inertial measurement unit, joint sensing"
+  ],
+  [
+   "Autonomy",
+   "Onboard torque control with several locomotion modes"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "UCLA Robotics and Mechanisms Laboratory website",
+   "url": "https://www.romela.org",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

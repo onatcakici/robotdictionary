@@ -1,0 +1,28 @@
+{
+ "id": "mycobot-280",
+ "name": "myCobot 280",
+ "aka": [],
+ "section": "arms",
+ "kind": "desktop robot arm",
+ "maker": "Elephant Robotics",
+ "country": "China",
+ "year": "",
+ "status": "production",
+ "def": "Palm sized six axis arm from Elephant Robotics sold for teaching and hobby projects.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Elephant Robotics website",
+   "url": "https://www.elephantrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

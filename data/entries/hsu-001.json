@@ -1,0 +1,35 @@
+{
+ "id": "hsu-001",
+ "name": "HSU-001",
+ "aka": [],
+ "section": "marine",
+ "kind": "unmanned underwater vehicle",
+ "maker": "",
+ "country": "China",
+ "year": "",
+ "status": "",
+ "def": "Class of large displacement unmanned underwater vehicles built in China, with limited endurance, expected to work alongside longer range craft in Chinese service.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, HSU-001",
+   "url": "https://en.wikipedia.org/wiki/HSU-001",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, HSU-001 (Q106039669)",
+   "url": "https://www.wikidata.org/wiki/Q106039669",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q106039669"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

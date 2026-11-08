@@ -1,0 +1,41 @@
+{
+ "id": "hedgehog",
+ "name": "Hedgehog",
+ "aka": [],
+ "section": "arms",
+ "kind": "mushroom farming robot",
+ "maker": "Hedgehog",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robotic growing system that automates mushroom farms.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Hedgehog",
+   "url": "https://www.ycombinator.com/companies/hedgehog-2",
+   "kind": "yc"
+  },
+  {
+   "label": "Hedgehog website",
+   "url": "http://hedgehogfoods.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "hedgehog-2"
+ },
+ "yc": {
+  "company": "Hedgehog",
+  "batch": "Summer 2022",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/hedgehog-2"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

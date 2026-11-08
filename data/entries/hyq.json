@@ -1,0 +1,30 @@
+{
+ "id": "hyq",
+ "name": "HyQ",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "hydraulic quadruped robot",
+ "maker": "Italian Institute of Technology",
+ "country": "Italy",
+ "year": "2010",
+ "status": "research",
+ "def": "Hydraulically actuated quadruped from the Italian Institute of Technology used to study dynamic legged locomotion.",
+ "body": [],
+ "facts": [
+  "Predecessor of HyQReal"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Italian Institute of Technology website",
+   "url": "https://www.iit.it",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

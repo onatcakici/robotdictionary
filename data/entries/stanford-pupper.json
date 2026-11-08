@@ -1,0 +1,59 @@
+{
+ "id": "stanford-pupper",
+ "name": "Stanford Pupper",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Stanford Student Robotics",
+ "country": "United States",
+ "year": "2020",
+ "status": "research",
+ "def": "Open source servo driven quadruped derived from Stanford Doggo and designed as a teaching kit for legged robotics courses.",
+ "body": [
+  "Pupper is much smaller and cheaper than Doggo, using twelve hobby scale actuators, a Raspberry Pi and a small motor controller board. Its published bill of materials, printed parts and Python control stack let students build a trotting robot in a weekend and then modify the controller. It is used in university courses and workshops, and later revisions moved to brushless motors for more dynamic behaviour."
+ ],
+ "facts": [
+  "Designed as a low cost teaching kit and used in university legged robotics courses",
+  "Design and software published openly, spawning many derivative kits"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Hobby scale servo actuators, three per leg"
+  ],
+  [
+   "Power",
+   "Lithium polymer battery"
+  ],
+  [
+   "Sensors",
+   "Inertial measurement unit"
+  ],
+  [
+   "Autonomy",
+   "Python gait controller on a Raspberry Pi with game controller input"
+  ]
+ ],
+ "see": [
+  "stanford-doggo",
+  "stanford-cart"
+ ],
+ "refs": [
+  {
+   "label": "Stanford Student Robotics website",
+   "url": "https://www.stanford.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "pupper"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "silver-swan",
+ "name": "Silver Swan",
+ "aka": [],
+ "section": "other",
+ "kind": "automaton",
+ "maker": "James Cox",
+ "country": "",
+ "year": "1773",
+ "status": "",
+ "def": "Clockwork swan automaton made by James Cox in the 18th century, now displayed at the Bowes Museum in Barnard Castle, County Durham.",
+ "body": [],
+ "facts": [
+  "Dates from 1773",
+  "Bought by museum founder John Bowes from a Paris jeweller in 1872"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Silver Swan (automaton)",
+   "url": "https://en.wikipedia.org/wiki/Silver_Swan_(automaton)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Silver Swan (Q2056552)",
+   "url": "https://www.wikidata.org/wiki/Q2056552",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2056552"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

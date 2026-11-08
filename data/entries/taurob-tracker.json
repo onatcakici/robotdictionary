@@ -1,0 +1,42 @@
+{
+ "id": "taurob-tracker",
+ "name": "Taurob Tracker",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "reconnaissance robot",
+ "maker": "Taurob GmbH",
+ "country": "Austria",
+ "year": "",
+ "status": "production",
+ "def": "Austrian remote controlled ground robot made by Taurob, first developed for fire brigade reconnaissance and now also used by armed forces, universities and oil and gas companies.",
+ "body": [],
+ "facts": [
+  "Also used by civil defence units"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Taurob tracker",
+   "url": "https://en.wikipedia.org/wiki/Taurob_tracker",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Taurob tracker (Q30596203)",
+   "url": "https://www.wikidata.org/wiki/Q30596203",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Taurob GmbH website",
+   "url": "http://taurob.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q30596203"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

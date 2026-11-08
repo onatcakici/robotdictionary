@@ -1,0 +1,33 @@
+{
+ "id": "whiz",
+ "name": "Whiz",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "SoftBank Robotics",
+ "country": "Japan",
+ "year": "2019",
+ "status": "production",
+ "def": "A vacuum sweeper trained by walking it once, then set loose on office carpets.",
+ "body": [
+  "SoftBank's Whiz is taught its route once by hand, then vacuums office carpets nightly; tens of thousands were leased across Asia's commercial cleaning market."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "cainiao-xiaomanlv",
+  "yarbo"
+ ],
+ "refs": [
+  {
+   "label": "SoftBank Robotics website",
+   "url": "https://www.softbankrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,30 @@
+{
+ "id": "ekso",
+ "name": "Ekso",
+ "aka": [],
+ "section": "medical",
+ "kind": "powered exoskeleton",
+ "maker": "Ekso Bionics",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Powered exoskeleton used in rehabilitation clinics to help people with stroke or spinal cord injury practise walking.",
+ "body": [],
+ "facts": [
+  "Cleared by the US Food and Drug Administration in 2016 for stroke and spinal cord injury rehabilitation"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Ekso Bionics website",
+   "url": "https://eksobionics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

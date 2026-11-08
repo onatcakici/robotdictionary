@@ -1,0 +1,28 @@
+{
+ "id": "dyson-360-heurist",
+ "name": "Dyson 360 Heurist",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "Dyson",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "",
+ "def": "Successor to the Dyson 360 Eye, with a 360 degree camera and a ring of lights that let it navigate in dim rooms.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Dyson website",
+   "url": "https://www.dyson.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

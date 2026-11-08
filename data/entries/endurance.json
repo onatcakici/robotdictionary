@@ -1,0 +1,38 @@
+{
+ "id": "endurance",
+ "name": "ENDURANCE",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Stone Aerospace",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Autonomous underwater vehicle built by Stone Aerospace to chart Antarctic underwater terrain in 3D, recording its geochemistry and biology.",
+ "body": [],
+ "facts": [
+  "A reworked second version of the DEPTHX vehicle",
+  "Substantially reconfigured for Antarctic conditions"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, ENDURANCE",
+   "url": "https://en.wikipedia.org/wiki/ENDURANCE",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ENDURANCE (Q5323697)",
+   "url": "https://www.wikidata.org/wiki/Q5323697",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5323697"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

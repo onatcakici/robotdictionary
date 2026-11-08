@@ -1,0 +1,51 @@
+{
+ "id": "agrointelli-robotti",
+ "name": "Robotti",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "AGROINTELLI",
+ "country": "Denmark",
+ "year": "",
+ "status": "production",
+ "def": "Self propelled implement carrier that straddles crop beds and pulls seed drills, hoes and sprayers autonomously along pre planned tracks on European farms.",
+ "body": [
+  "Robotti is a wheeled implement carrier with a wide stance that straddles crop beds, carrying standard three point hitch tools and a power take off. Diesel power and hydraulic drive give it enough capacity to pull seed drills, hoes and sprayers at working speeds. Field boundaries and tracks are planned in software, and the machine then works unattended with safety lidar, bumpers and emergency stops, monitored from a phone or laptop. Growers use it for seeding, mechanical weeding and spot spraying in row crops."
+ ],
+ "facts": [
+  "Sold commercially in Europe as a CE marked autonomous field machine",
+  "Used for seeding, mechanical weeding and precision spraying in vegetables and arable crops",
+  "Developed in Denmark out of research at Aarhus University"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Self propelled wheeled implement carrier straddling the bed, with three point hitch and power take off"
+  ],
+  [
+   "Power",
+   "Diesel engine with hydraulic drive"
+  ],
+  [
+   "Sensors",
+   "Corrected satellite positioning with safety lidar and contact bumpers"
+  ],
+  [
+   "Autonomy",
+   "Autonomous work along pre planned tracks with remote monitoring and stop on obstacle detection"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "AGROINTELLI website",
+   "url": "https://www.agrointelli.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

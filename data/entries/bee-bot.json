@@ -1,0 +1,42 @@
+{
+ "id": "bee-bot",
+ "name": "Bee-Bot",
+ "aka": [
+  "Bee Bot"
+ ],
+ "section": "wheeled",
+ "kind": "educational robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Educational robot intended for use in teaching, giving learners a physical machine to experiment with during lessons.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Bee-Bot (Q31073927)",
+   "url": "https://www.wikidata.org/wiki/Q31073927",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, escolasantmartibcn.cat",
+   "url": "https://escolasantmartibcn.cat/?p=857",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, blocs.xtec.cat",
+   "url": "https://blocs.xtec.cat/roboticaalescola/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q31073927"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

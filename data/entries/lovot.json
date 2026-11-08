@@ -1,0 +1,55 @@
+{
+ "id": "lovot",
+ "name": "LOVOT",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "GROOVE X",
+ "country": "Japan",
+ "year": "2019",
+ "status": "production",
+ "def": "A warm bodied companion robot engineered solely to be loved.",
+ "body": [
+  "GROOVE X spent a hundred million dollars making LOVOT do nothing useful on purpose: it is warm to the touch, begs to be held, and exists to be loved, and Japanese buyers treat it as family."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "lucki",
+  "lunokhod-1"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://lovot.life/en/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, LOVOT (Q65229317)",
+   "url": "https://www.wikidata.org/wiki/Q65229317",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, forbes.com",
+   "url": "https://www.forbes.com/sites/japan/2019/02/06/a-machine-that-does-nothing-cuddly-lovot-may-be-the-most-innovative-japanese-robot-yet/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, techcrunch.com",
+   "url": "https://techcrunch.com/2020/01/05/you-can-buy-lovots-undying-robotic-love-for-3000/",
+   "kind": "cited"
+  },
+  {
+   "label": "GROOVE X, INC. website",
+   "url": "https://groove-x.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q65229317"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

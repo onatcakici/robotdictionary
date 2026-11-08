@@ -1,0 +1,35 @@
+{
+ "id": "tux-droid",
+ "name": "Tux Droid",
+ "aka": [],
+ "section": "other",
+ "kind": "entertainment robot",
+ "maker": "KYSOH",
+ "country": "",
+ "year": "2007",
+ "status": "",
+ "def": "Cordless penguin robot styled after Tux, the mascot of Linux, that was manufactured by the company KYSOH and came out around 2007.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Tux Droid",
+   "url": "https://en.wikipedia.org/wiki/Tux_Droid",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Tux Droid (Q3542474)",
+   "url": "https://www.wikidata.org/wiki/Q3542474",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3542474"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

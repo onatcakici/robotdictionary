@@ -1,0 +1,102 @@
+{
+ "id": "pragyan",
+ "name": "Pragyan",
+ "aka": [
+  "Chandrayaan-3 rover"
+ ],
+ "section": "rovers",
+ "kind": "solar rover",
+ "maker": "Indian Space Research Organisation",
+ "country": "India",
+ "year": "2023",
+ "status": "completed",
+ "def": "Indian solar rover that explored the high southern latitudes of the Moon for one lunar day after the Chandrayaan-3 landing.",
+ "body": [
+  "Pragyan drove down a ramp from the Vikram lander on 24 August 2023, a day after India became the fourth country to land softly on the Moon. Six wheels driven by a 50 watt solar supply carried a laser induced breakdown spectroscope and an alpha particle X ray spectrometer, both used to measure local soil chemistry. It confirmed sulphur and other elements in the regolith and traversed just over 100 metres before being parked and put to sleep on 2 September 2023 ahead of the lunar night."
+ ],
+ "facts": [
+  "First rover to work near the lunar south pole",
+  "Measured sulphur in regolith at high southern latitude",
+  "Completed its planned single lunar day mission"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "26 kg"
+  ],
+  [
+   "Distance driven",
+   "0.1 km"
+  ],
+  [
+   "Actuation",
+   "Six wheel rocker bogie drive"
+  ],
+  [
+   "Power",
+   "Solar panel supplying about 50 watts"
+  ],
+  [
+   "Sensors",
+   "Two navigation cameras, laser induced breakdown spectroscope, alpha particle X ray spectrometer"
+  ],
+  [
+   "Autonomy",
+   "Commanded from Earth through the lander with onboard hazard checks"
+  ],
+  [
+   "Mission",
+   "Chandrayaan-3, lunar south pole region"
+  ],
+  [
+   "Height",
+   "3.97 cm"
+  ],
+  [
+   "Length",
+   "9.17 cm"
+  ],
+  [
+   "Width",
+   "7.5 cm"
+  ]
+ ],
+ "see": [
+  "amazon-proteus",
+  "puductor"
+ ],
+ "refs": [
+  {
+   "label": "Indian Space Research Organisation website",
+   "url": "https://www.isro.gov.in",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, Pragyan (Q121788136)",
+   "url": "https://www.wikidata.org/wiki/Q121788136",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, tass.ru",
+   "url": "https://tass.ru/info/18569551",
+   "kind": "cited"
+  },
+  {
+   "label": "Wikipedia, Pragyan (Chandrayaan-3)",
+   "url": "https://en.wikipedia.org/wiki/Pragyan_(Chandrayaan-3)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Pragyan (Q63425869)",
+   "url": "https://www.wikidata.org/wiki/Q63425869",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q63425869"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,46 @@
+{
+ "id": "titan-viii",
+ "name": "TITAN VIII",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "compact wire driven quadruped",
+ "maker": "Tokyo Institute of Technology",
+ "country": "Japan",
+ "year": "1996",
+ "status": "retired",
+ "def": "Compact wire driven quadruped from the Hirose laboratory, built as a general purpose walking platform for research and teaching.",
+ "body": [
+  "TITAN VIII used a wire and pulley drive that kept its motors in the body and its legs light, an arrangement that allowed fast leg swings from modest actuators. It walked with a statically stable crawl gait over flat and uneven floors under joint level control from an external computer. It was used for gait and control experiments and for public demonstrations, and the drive layout was widely cited in later walking machine work."
+ ],
+ "facts": [
+  "Wire driven legs kept moving mass low, a design copied in later walking machines",
+  "One of the most cited members of the TITAN series of quadrupeds"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "DC motors in the body driving leg joints through wires and pulleys"
+  ],
+  [
+   "Power",
+   "External electrical supply"
+  ],
+  [
+   "Autonomy",
+   "External computer running statically stable crawl gaits"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Tokyo Institute of Technology website",
+   "url": "https://www.titech.ac.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

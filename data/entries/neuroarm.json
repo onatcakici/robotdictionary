@@ -1,0 +1,37 @@
+{
+ "id": "neuroarm",
+ "name": "NeuroArm",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "research",
+ "def": "Research robot for neurosurgery, the first image guided surgical robot compatible with magnetic resonance imaging that can carry out both microsurgery and stereotaxy.",
+ "body": [],
+ "facts": [
+  "First image guided, MR compatible surgical robot able to do microsurgery and stereotaxy"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, NeuroArm",
+   "url": "https://en.wikipedia.org/wiki/NeuroArm",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, NeuroArm (Q4045264)",
+   "url": "https://www.wikidata.org/wiki/Q4045264",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4045264"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

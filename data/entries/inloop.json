@@ -1,0 +1,41 @@
+{
+ "id": "inloop",
+ "name": "InLoop",
+ "aka": [],
+ "section": "arms",
+ "kind": "pick and pack robot",
+ "maker": "InLoop Robotics",
+ "country": "Germany",
+ "year": "",
+ "status": "",
+ "def": "Robot arms that pick and pack online orders, with remote operators stepping in when a grasp fails.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, InLoop Robotics",
+   "url": "https://www.ycombinator.com/companies/inloop-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "InLoop Robotics website",
+   "url": "https://inloop-robotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "inloop-robotics"
+ },
+ "yc": {
+  "company": "InLoop Robotics",
+  "batch": "Spring 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/inloop-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

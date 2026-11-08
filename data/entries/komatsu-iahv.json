@@ -1,0 +1,57 @@
+{
+ "id": "komatsu-iahv",
+ "name": "Innovative Autonomous Haulage Vehicle",
+ "aka": [
+  "IAHV"
+ ],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Komatsu",
+ "country": "Japan",
+ "year": "2016",
+ "status": "prototype",
+ "def": "Purpose built cabless mining haul truck with four wheel drive and four wheel steering that runs equally well in both directions without an operator station.",
+ "body": [
+  "The Innovative Autonomous Haulage Vehicle is a mining truck designed from scratch as an unmanned machine, with no cab, no ladder and no operator station at all. Four wheel drive, four wheel steering and retarder let it travel and brake equally well forwards or backwards, so it can load and haul without turning around in tight pits. Load is distributed evenly across the axles for traction on slippery ground. Komatsu unveiled it at MINExpo 2016 as a demonstrator for its autonomous haulage system."
+ ],
+ "facts": [
+  "Unveiled at MINExpo International 2016 in Las Vegas with a 230 tonne nominal payload",
+  "Measures about 15 metres long and 8.5 metres wide with a 15.9 metre turning radius",
+  "Komatsu's FrontRunner autonomous haulage system has been in commercial mine service on conventional trucks since 2008"
+ ],
+ "specs": [
+  [
+   "Length",
+   "15 m"
+  ],
+  [
+   "Payload",
+   "230000 kg"
+  ],
+  [
+   "Actuation",
+   "Cabless chassis with four wheel drive, four wheel steering and retarder for bidirectional travel"
+  ],
+  [
+   "Sensors",
+   "Satellite positioning, radar, lidar and vehicle to vehicle communication under Komatsu's FrontRunner system"
+  ],
+  [
+   "Autonomy",
+   "Fully driverless haulage supervised from a central control room"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Komatsu website",
+   "url": "https://www.komatsu.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "stompy",
+ "name": "Stompy",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "K-Scale Labs",
+ "country": "United States",
+ "year": "2024",
+ "status": "research",
+ "def": "An open source humanoid released with plans and firmware for anyone to build.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "surena-iv",
+  "t-hr3"
+ ],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, K-Scale Labs",
+   "url": "https://www.ycombinator.com/companies/k-scale-labs",
+   "kind": "yc"
+  }
+ ],
+ "ids": {
+  "yc": "k-scale-labs"
+ },
+ "yc": {
+  "company": "K-Scale Labs",
+  "batch": "Winter 2024",
+  "status": "Inactive",
+  "url": "https://www.ycombinator.com/companies/k-scale-labs"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

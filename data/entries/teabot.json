@@ -1,0 +1,41 @@
+{
+ "id": "teabot",
+ "name": "teaBOT",
+ "aka": [],
+ "section": "arms",
+ "kind": "tea brewing robot",
+ "maker": "teaBOT",
+ "country": "Canada",
+ "year": "",
+ "status": "",
+ "def": "Robotic kiosk that blends and brews loose leaf tea to order, placed in offices and showrooms as a workplace amenity.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, teaBOT",
+   "url": "https://www.ycombinator.com/companies/teabot",
+   "kind": "yc"
+  },
+  {
+   "label": "teaBOT website",
+   "url": "http://teaBOT.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "teabot"
+ },
+ "yc": {
+  "company": "teaBOT",
+  "batch": "Summer 2015",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/teabot"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

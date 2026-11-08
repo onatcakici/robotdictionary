@@ -1,0 +1,53 @@
+{
+ "id": "the-grand-elephant",
+ "name": "The Grand Elephant",
+ "aka": [],
+ "section": "other",
+ "kind": "animatronic figure",
+ "maker": "La Machine",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "",
+ "def": "Giant animatronic elephant built by the French theater company La Machine, about 12 m tall and 8 m wide, with a top speed of 1 km/h.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "12 m"
+  ],
+  [
+   "Width",
+   "8 m"
+  ],
+  [
+   "Top speed",
+   "1 km/h"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.lesmachines-nantes.fr/elephant.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, The Grand Elephant (Q3114857)",
+   "url": "https://www.wikidata.org/wiki/Q3114857",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, lesmachines-nantes.fr",
+   "url": "https://www.lesmachines-nantes.fr/decouvrir/le-grand-elephant/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3114857"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

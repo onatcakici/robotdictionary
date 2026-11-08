@@ -1,0 +1,31 @@
+{
+ "id": "enabot-ebo",
+ "name": "EBO X",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Enabot",
+ "country": "China",
+ "year": "2023",
+ "status": "production",
+ "def": "A rolling family guardian ball with a camera gimbal and Alexa inside.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "elsie",
+  "emo"
+ ],
+ "refs": [
+  {
+   "label": "Enabot website",
+   "url": "https://www.enabot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

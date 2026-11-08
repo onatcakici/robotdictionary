@@ -1,0 +1,31 @@
+{
+ "id": "seekur",
+ "name": "Seekur",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Adept MobileRobots",
+ "country": "United States",
+ "year": "2008",
+ "status": "retired",
+ "def": "An all weather omnidirectional research truck of the pre-AMR era.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "pioneer-3-dx",
+  "serve-gen3"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Seekur",
+   "url": "https://en.wikipedia.org/w/index.php?search=Seekur+Adept+MobileRobots",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

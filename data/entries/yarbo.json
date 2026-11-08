@@ -1,0 +1,31 @@
+{
+ "id": "yarbo",
+ "name": "Yarbo",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "modular yard robot",
+ "maker": "Yarbo",
+ "country": "China",
+ "year": "2023",
+ "status": "production",
+ "def": "A modular yard robot that swaps between snow blowing, mowing and leaf blowing bodies.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "yutu",
+  "yutu-2"
+ ],
+ "refs": [
+  {
+   "label": "Yarbo website",
+   "url": "https://www.yarbo.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

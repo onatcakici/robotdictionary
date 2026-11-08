@@ -1,0 +1,31 @@
+{
+ "id": "flashbot",
+ "name": "FlashBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "hotel delivery robot",
+ "maker": "Pudu Robotics",
+ "country": "China",
+ "year": "2022",
+ "status": "production",
+ "def": "A hotel delivery robot that calls elevators and phones guests on arrival.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "pudu-d9",
+  "d7"
+ ],
+ "refs": [
+  {
+   "label": "Pudu Robotics website",
+   "url": "https://www.pudurobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

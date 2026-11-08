@@ -1,0 +1,54 @@
+{
+ "id": "rbq-3",
+ "name": "RBQ-3",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "electric quadruped",
+ "maker": "Rainbow Robotics",
+ "country": "South Korea",
+ "year": "",
+ "status": "production",
+ "def": "Electric quadruped from the Korean maker of the HUBO humanoids, sold as a platform for research and field inspection.",
+ "body": [
+  "Rainbow Robotics, founded in 2011 out of the KAIST HUBO laboratory, developed the RBQ series as its legged mobile platform line. RBQ-3 has twelve electric joints, onboard balance control and a software development kit, and is offered with camera and lidar options for navigation research and inspection work. The company has since scaled the design up in the larger RBQ-10 and has worked with Hyundai Rotem on a multi legged robot for defence use."
+ ],
+ "facts": [
+  "Built by the KAIST spin off behind the HUBO humanoid robots",
+  "Basis of the larger RBQ-10 and of a defence quadruped studied with Hyundai Rotem"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Electric joint actuators, three per leg"
+  ],
+  [
+   "Power",
+   "Onboard swappable battery"
+  ],
+  [
+   "Sensors",
+   "Inertial measurement unit, optional cameras and lidar"
+  ],
+  [
+   "Autonomy",
+   "Onboard balance and gait control with a development kit"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Rainbow Robotics website",
+   "url": "https://www.rainbow-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

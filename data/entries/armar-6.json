@@ -1,0 +1,31 @@
+{
+ "id": "armar-6",
+ "name": "ARMAR-6",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "collaborative wheeled humanoid",
+ "maker": "Karlsruhe Institute of Technology",
+ "country": "Germany",
+ "year": "2018",
+ "status": "research",
+ "def": "A collaborative wheeled humanoid that hands tools to technicians and learns from demonstration.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "asimo",
+  "asra-c1"
+ ],
+ "refs": [
+  {
+   "label": "Karlsruhe Institute of Technology website",
+   "url": "https://www.kit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

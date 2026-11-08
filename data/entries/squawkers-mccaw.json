@@ -1,0 +1,35 @@
+{
+ "id": "squawkers-mccaw",
+ "name": "Squawkers McCaw",
+ "aka": [],
+ "section": "other",
+ "kind": "animatronic toy",
+ "maker": "",
+ "country": "",
+ "year": "2007",
+ "status": "",
+ "def": "Animatronic toy parrot from the Fur Real range, modelled on a blue and yellow macaw and made to behave like a real parrot.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Squawkers McCaw",
+   "url": "https://en.wikipedia.org/wiki/Squawkers_McCaw",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Squawkers McCaw (Q7582188)",
+   "url": "https://www.wikidata.org/wiki/Q7582188",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7582188"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

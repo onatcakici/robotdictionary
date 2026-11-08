@@ -1,0 +1,41 @@
+{
+ "id": "cosmic-1",
+ "name": "Cosmic-1",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "construction robot",
+ "maker": "Cosmic Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Autonomous heavy lift robot from Cosmic Robotics that installs solar panels; the company also works on lunar construction under a NASA contract.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Cosmic Robotics",
+   "url": "https://www.ycombinator.com/companies/cosmic-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Cosmic Robotics website",
+   "url": "https://www.cosmicrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "cosmic-robotics"
+ },
+ "yc": {
+  "company": "Cosmic Robotics",
+  "batch": "Summer 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/cosmic-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

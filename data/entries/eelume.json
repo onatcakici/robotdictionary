@@ -1,0 +1,35 @@
+{
+ "id": "eelume",
+ "name": "Eelume",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Eelume AS",
+ "country": "",
+ "year": "",
+ "status": "development",
+ "def": "Autonomous underwater vehicle under development by the company Eelume AS, intended to operate beneath the sea without a crew.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Eelume",
+   "url": "https://en.wikipedia.org/wiki/Eelume",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Eelume (Q55080152)",
+   "url": "https://www.wikidata.org/wiki/Q55080152",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q55080152"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

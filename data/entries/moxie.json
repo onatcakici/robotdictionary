@@ -1,0 +1,50 @@
+{
+ "id": "moxie",
+ "name": "Moxie",
+ "aka": [],
+ "section": "other",
+ "kind": "companion robot",
+ "maker": "Embodied",
+ "country": "",
+ "year": "",
+ "status": "discontinued",
+ "def": "Companion robot developed and produced by the company Embodied and later discontinued.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://moxierobot.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Moxie (Q92588735)",
+   "url": "https://www.wikidata.org/wiki/Q92588735",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, wired.com",
+   "url": "https://www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, wired.com",
+   "url": "https://www.wired.com/story/embodied-will-brick-moxie-emotional-support-robot-for-kids-without-refunds/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, dropbox.com",
+   "url": "https://www.dropbox.com/scl/fi/g7p5gbdzt94dosr02cfdq/A-devastating-message-to-our-community-Google-Docs.pdf?rlkey=9khnuuu5rnhosgzrw8y3lc9il&e=1&st=1dqemirc&dl=0",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q92588735"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,57 @@
+{
+ "id": "4ne-1",
+ "name": "4NE-1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Neura Robotics",
+ "country": "Germany",
+ "year": "2023",
+ "status": "research",
+ "def": "Europe's leading commercial humanoid effort, built on Neura's cognitive robot stack.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 180 cm"
+  ],
+  [
+   "Mass",
+   "80 kg"
+  ]
+ ],
+ "see": [
+  "mipa",
+  "richtech-adam"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://neura-robotics.com/products/4ne1/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, 4NE-1 (Q140880156)",
+   "url": "https://www.wikidata.org/wiki/Q140880156",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, bgr.com",
+   "url": "https://www.bgr.com/1961409/ifa-2025-neura-humanoid-robots/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, notebookcheck.net",
+   "url": "https://www.notebookcheck.net/Germany-s-answer-to-Musk-s-Optimus-Neura-s-4NE1-robot-promises-ironing-lifting-and-unloading-the-dishwasher.1044267.0.html",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140880156"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

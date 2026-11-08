@@ -1,0 +1,35 @@
+{
+ "id": "elliq",
+ "name": "ElliQ",
+ "aka": [],
+ "section": "other",
+ "kind": "companion robot",
+ "maker": "Intuition Robotics",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Companion robot for elderly people, developed by the company Intuition Robotics and run by artificial intelligence software.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, ElliQ",
+   "url": "https://en.wikipedia.org/wiki/ElliQ",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ElliQ (Q137799527)",
+   "url": "https://www.wikidata.org/wiki/Q137799527",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q137799527"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

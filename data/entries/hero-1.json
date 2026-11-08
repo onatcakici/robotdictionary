@@ -1,0 +1,43 @@
+{
+ "id": "hero-1",
+ "name": "HERO 1",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Heathkit",
+ "country": "United States",
+ "year": "1982",
+ "status": "retired",
+ "def": "The mail order home robot kit that taught a generation of hobbyists.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "holabot",
+  "panasonic-hospi"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia, HERO (robot)",
+   "url": "https://en.wikipedia.org/wiki/HERO_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, HERO (Q1563532)",
+   "url": "https://www.wikidata.org/wiki/Q1563532",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Heath Company website",
+   "url": "http://www.heathkit.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1563532"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

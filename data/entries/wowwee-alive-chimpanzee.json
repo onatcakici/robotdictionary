@@ -1,0 +1,44 @@
+{
+ "id": "wowwee-alive-chimpanzee",
+ "name": "WowWee Alive Chimpanzee",
+ "aka": [],
+ "section": "other",
+ "kind": "animatronic toy",
+ "maker": "WowWee",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Animatronic chimpanzee head from the WowWee Alive division of WowWee that uses motors and sensors to copy a live chimpanzee's facial expressions.",
+ "body": [],
+ "facts": [
+  "First product in the WowWee Alive range",
+  "Eight motors drive its facial expressions",
+  "Nine sensors include infrared sensors in the eyes and touch sensors on the head"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, WowWee Alive Chimpanzee",
+   "url": "https://en.wikipedia.org/wiki/WowWee_Alive_Chimpanzee",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, WowWee Alive Chimpanzee (Q8037455)",
+   "url": "https://www.wikidata.org/wiki/Q8037455",
+   "kind": "wikidata"
+  },
+  {
+   "label": "WowWee website",
+   "url": "https://wowwee.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q8037455"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

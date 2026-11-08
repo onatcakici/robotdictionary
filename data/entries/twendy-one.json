@@ -1,0 +1,31 @@
+{
+ "id": "twendy-one",
+ "name": "Twendy-One",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "wheeled care humanoid",
+ "maker": "Waseda University",
+ "country": "Japan",
+ "year": "2007",
+ "status": "research",
+ "def": "A wheeled care humanoid with soft hands able to hold an egg or support a person standing.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "wabot-1",
+  "wabian-2r"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Twendy-One",
+   "url": "https://en.wikipedia.org/w/index.php?search=Twendy-One+Waseda+University",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

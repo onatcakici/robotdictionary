@@ -1,0 +1,42 @@
+{
+ "id": "cuberover",
+ "name": "CubeRover",
+ "aka": [],
+ "section": "rovers",
+ "kind": "planetary rover",
+ "maker": "Astrobotic Technology",
+ "country": "United States",
+ "year": "",
+ "status": "development",
+ "def": "Class of small modular planetary rovers developed by Astrobotic Technology, applying the CubeSat approach of standard, inexpensive off the shelf parts.",
+ "body": [],
+ "facts": [
+  "Modelled on the CubeSat format, with standard components that work together"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, CubeRover",
+   "url": "https://en.wikipedia.org/wiki/CubeRover",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, CubeRover (Q60786877)",
+   "url": "https://www.wikidata.org/wiki/Q60786877",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Astrobotic Technology website",
+   "url": "https://www.astrobotic.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q60786877"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,37 @@
+{
+ "id": "sewbo",
+ "name": "Sewbo",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial sewing robot",
+ "maker": "Sewbo, Inc.",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Industrial robot that carries out sewing work, invented by the American company Sewbo, Inc.",
+ "body": [],
+ "facts": [
+  "Its maker is headquartered in Seattle, Washington"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Sewbo",
+   "url": "https://en.wikipedia.org/wiki/Sewbo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sewbo (Q130711400)",
+   "url": "https://www.wikidata.org/wiki/Q130711400",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q130711400"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

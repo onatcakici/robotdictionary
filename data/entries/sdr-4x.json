@@ -1,0 +1,37 @@
+{
+ "id": "sdr-4x",
+ "name": "SDR-4X",
+ "aka": [
+  "Sony Dream Robot."
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Sony Group",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Humanoid robot developed in Japan by Sony; its SDR designation stands for Sony Dream Robot.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, SDR-4x (Q12775711)",
+   "url": "https://www.wikidata.org/wiki/Q12775711",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Sony Group website",
+   "url": "https://www.sony.com/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q12775711"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

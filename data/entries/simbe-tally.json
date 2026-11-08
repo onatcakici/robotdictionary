@@ -1,0 +1,60 @@
+{
+ "id": "simbe-tally",
+ "name": "Tally",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "slim retail robot",
+ "maker": "Simbe",
+ "country": "United States",
+ "year": "2015",
+ "status": "production",
+ "def": "Slim retail robot that patrols store aisles photographing shelves to find out of stock items, misplaced products and wrong price labels.",
+ "body": [
+  "Tally is a narrow wheeled tower carrying more than a dozen high resolution cameras that read shelf labels and gauge stock depth as it passes. It drives well below walking pace on a stored store map, turning in place in tight aisles and working during trading hours or overnight. Results go to store staff as pick lists of gaps and pricing errors, and an option adds radio frequency identification reading. Simbe was founded in 2014 and Tally runs in around a thousand stores."
+ ],
+ "facts": [
+  "Reads roughly 15,000 to 30,000 shelf barcodes an hour",
+  "Schnucks Markets became the first retail customer in 2017",
+  "In use in about 1,000 stores including BJ's Wholesale Club locations"
+ ],
+ "specs": [
+  [
+   "Runtime",
+   "12 h"
+  ],
+  [
+   "Actuation",
+   "Slim wheeled base with a vertical camera tower and turn in place steering"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with a base station"
+  ],
+  [
+   "Sensors",
+   "More than a dozen high resolution cameras with depth sensing and optional radio frequency identification"
+  ],
+  [
+   "Autonomy",
+   "Map based aisle navigation with path planning and obstacle avoidance among shoppers"
+  ]
+ ],
+ "see": [
+  "talon",
+  "temi"
+ ],
+ "refs": [
+  {
+   "label": "Simbe website",
+   "url": "https://www.simberobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "tally"
+ ]
+}

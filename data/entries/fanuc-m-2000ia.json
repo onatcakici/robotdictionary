@@ -1,0 +1,33 @@
+{
+ "id": "fanuc-m-2000ia",
+ "name": "M-2000iA",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot arm",
+ "maker": "FANUC",
+ "country": "Japan",
+ "year": "",
+ "status": "production",
+ "def": "Very large six axis arm from FANUC that can lift car bodies and other loads weighing more than two tonnes.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "up to 2300 kg"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "FANUC website",
+   "url": "https://www.fanuc.co.jp/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,28 @@
+name: pipeline-test
+on:
+  push:
+    branches: [data-pipeline-2]
+permissions:
+  contents: write
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet pillow
+      - name: Pictures
+        run: MAX_IMAGES=900 python tools/images.py 2>&1 | tee images-log.txt
+      - name: News
+        run: python tools/news.py 2>&1 | tee news-log.txt
+      - name: Save
+        if: always()
+        run: |
+          git config user.name "onatcakici"
+          git config user.email "han2000cc@gmail.com"
+          git add -A img data/images.json data/news.json data/state images-log.txt news-log.txt || true
+          git commit -q -m "Pictures and news test" || true
+          git push || true

@@ -1,0 +1,54 @@
+{
+ "id": "hitchbot",
+ "name": "hitchBOT",
+ "aka": [],
+ "section": "other",
+ "kind": "hitchhiking robot",
+ "maker": "McMaster University",
+ "country": "Canada",
+ "year": "2013",
+ "status": "lost",
+ "def": "Hitchhiking robot from Canada, made by academics at McMaster and Ryerson universities, that crossed three countries on rides from strangers before it was destroyed.",
+ "body": [],
+ "facts": [
+  "Created in 2013 by David Harris Smith and Frauke Zeller",
+  "Completed trips through Canada, Germany and the Netherlands",
+  "Found stripped and dismembered in Philadelphia in 2015, ending its US trip"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.hitchbot.me/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, HitchBOT",
+   "url": "https://en.wikipedia.org/wiki/HitchBOT",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, hitchBOT (Q17450611)",
+   "url": "https://www.wikidata.org/wiki/Q17450611",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, twitter.com",
+   "url": "https://twitter.com/AndreaWBZ/status/627627830520770560",
+   "kind": "cited"
+  },
+  {
+   "label": "McMaster University website",
+   "url": "https://www.mcmaster.ca/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17450611"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

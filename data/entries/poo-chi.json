@@ -1,0 +1,62 @@
+{
+ "id": "poo-chi",
+ "name": "Poo-Chi",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Sega Toys",
+ "country": "Japan",
+ "year": "2000",
+ "status": "discontinued",
+ "def": "Low cost robotic puppy that walked on four legs, sold worldwide as a cheap toy alternative to expensive entertainment robots.",
+ "body": [
+  "Poo-Chi walked with a linked leg mechanism driven by a small geared motor, so it waddled forward rather than balancing on each leg in turn. Light, sound and touch sensors let it respond to claps, petting and a plastic bone, and an eight bit controller stepped its behaviour through simple growth stages. Tiger Electronics sold it in North America and Europe from 2000 and the line reportedly passed ten million units, making it one of the best selling robot toys ever made."
+ ],
+ "facts": [
+  "Sold in the millions worldwide and widely credited with popularising cheap robot pets",
+  "Marketed in North America and Europe by Tiger Electronics"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Geared electric motor driving a linked leg mechanism"
+  ],
+  [
+   "Power",
+   "AA dry cell batteries"
+  ],
+  [
+   "Sensors",
+   "Light sensor, sound sensor, touch switch"
+  ],
+  [
+   "Autonomy",
+   "Fixed behaviour program with growth stages"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Sega Toys website",
+   "url": "https://www.segatoys.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Poo-Chi",
+   "url": "https://en.wikipedia.org/wiki/Poo-Chi",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Poo-Chi (Q7228485)",
+   "url": "https://www.wikidata.org/wiki/Q7228485",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7228485"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

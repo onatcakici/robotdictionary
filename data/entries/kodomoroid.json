@@ -1,0 +1,31 @@
+{
+ "id": "kodomoroid",
+ "name": "Kodomoroid",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Ishiguro Laboratories",
+ "country": "Japan",
+ "year": "2014",
+ "status": "research",
+ "def": "A child faced android newsreader on permanent duty at Tokyo's Miraikan museum.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "erica",
+  "geminoid"
+ ],
+ "refs": [
+  {
+   "label": "Ishiguro Laboratories website",
+   "url": "http://www.geminoid.jp/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

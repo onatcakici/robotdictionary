@@ -1,0 +1,31 @@
+{
+ "id": "s-one",
+ "name": "S-One",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "SCHAFT",
+ "country": "Japan",
+ "year": "2013",
+ "status": "retired",
+ "def": "The DRC Trials winner from a Google acquired startup later shut down; its walking was years ahead.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "s1-astribot",
+  "se01"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, S-One",
+   "url": "https://en.wikipedia.org/w/index.php?search=S-One+SCHAFT",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

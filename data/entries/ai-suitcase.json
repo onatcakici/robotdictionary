@@ -1,0 +1,30 @@
+{
+ "id": "ai-suitcase",
+ "name": "AI Suitcase",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "navigation robot",
+ "maker": "",
+ "country": "",
+ "year": "2021",
+ "status": "",
+ "def": "Navigation robot in the form of a suitcase that guides people with visual impairments, developed in 2021 as part of a museum artificial intelligence project.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, AI Suitcase (Q123156497)",
+   "url": "https://www.wikidata.org/wiki/Q123156497",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q123156497"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

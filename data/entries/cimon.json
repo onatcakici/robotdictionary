@@ -1,0 +1,71 @@
+{
+ "id": "cimon",
+ "name": "CIMON",
+ "aka": [
+  "Crew Interactive Mobile companion",
+  "Pilot Study with the Crew Interactive MObile companioN (Cimon)",
+  "Mobile Companion"
+ ],
+ "section": "other",
+ "kind": "crew assistant robot",
+ "maker": "Airbus Commercial Aircraft",
+ "country": "Germany",
+ "year": "",
+ "status": "service",
+ "def": "Head shaped robot with artificial intelligence, built by Airbus in Germany as a crew companion aboard the International Space Station.",
+ "body": [],
+ "facts": [
+  "Name stands for Crew Interactive Mobile companion",
+  "Weighs 5 kg and measures 32 cm across"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "5 kg"
+  ],
+  [
+   "Width",
+   "32 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Cimon (robot)",
+   "url": "https://en.wikipedia.org/wiki/Cimon_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, CIMON (Q55260719)",
+   "url": "https://www.wikidata.org/wiki/Q55260719",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, airbus.com",
+   "url": "https://www.airbus.com/en/newsroom/press-releases/2018-02-hello-i-am-cimon",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, eea.spaceflight.esa.int",
+   "url": "https://eea.spaceflight.esa.int/portal/exp/?id=9686",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, theengineer.co.uk",
+   "url": "https://www.theengineer.co.uk/content/news/cimon-the-ai-based-astronaut-assistant-gets-working-on-the-iss",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, dlr.de",
+   "url": "https://www.dlr.de/en/latest/news/2018/1/20180302_cimon-the-intelligent-astronaut-assistant_26307",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q55260719"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

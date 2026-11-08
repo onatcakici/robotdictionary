@@ -1,0 +1,35 @@
+{
+ "id": "avantguard",
+ "name": "AvantGuard",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "G-NIUS Unmanned Ground Systems",
+ "country": "Israel",
+ "year": "",
+ "status": "",
+ "def": "Modular unmanned ground combat vehicle developed by G-NIUS Unmanned Ground Systems in Israel for military use.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, AvantGuard",
+   "url": "https://en.wikipedia.org/wiki/AvantGuard",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, AvantGuard (Q6660363)",
+   "url": "https://www.wikidata.org/wiki/Q6660363",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6660363"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

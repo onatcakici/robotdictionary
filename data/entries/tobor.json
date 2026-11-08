@@ -1,0 +1,39 @@
+{
+ "id": "tobor",
+ "name": "Tobor",
+ "aka": [],
+ "section": "other",
+ "kind": "toy robot",
+ "maker": "Schaper Toys",
+ "country": "United States",
+ "year": "1978",
+ "status": "",
+ "def": "Toy robot made in 1978 by Schaper Toys that responded to loud sounds or to a control box through the company's telesonic remote system.",
+ "body": [],
+ "facts": [
+  "Stood about nine inches high",
+  "Among the first toys with an inexpensive remote control",
+  "Released to cash in on the science fiction craze"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Tobor (toy)",
+   "url": "https://en.wikipedia.org/wiki/Tobor_(toy)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Tobor (Q7811728)",
+   "url": "https://www.wikidata.org/wiki/Q7811728",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7811728"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

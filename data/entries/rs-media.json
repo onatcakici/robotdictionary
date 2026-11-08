@@ -1,0 +1,44 @@
+{
+ "id": "rs-media",
+ "name": "RS Media",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "biomorphic robot",
+ "maker": "WowWee",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Biomorphic robot from WowWee built on the Robosapien V2 body, running Linux based software and able to record and replay sound, photos and video.",
+ "body": [],
+ "facts": [
+  "Body is based on the Robosapien V2",
+  "Software is built on a Linux kernel",
+  "Uses a walking system designed by Mark Tilden"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, RS Media",
+   "url": "https://en.wikipedia.org/wiki/RS_Media",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RS Media (Q7277786)",
+   "url": "https://www.wikidata.org/wiki/Q7277786",
+   "kind": "wikidata"
+  },
+  {
+   "label": "WowWee website",
+   "url": "https://wowwee.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7277786"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,63 @@
+{
+ "id": "atlas-hydraulic",
+ "name": "Atlas (hydraulic)",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "hydraulic research humanoid",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2013",
+ "status": "retired",
+ "def": "The hydraulic research humanoid whose parkour and backflips defined a decade of legged robotics.",
+ "body": [
+  "For a decade the hydraulic Atlas was the public face of advanced robotics: running woodland trails, vaulting boxes, and finally performing gymnastics few humans could match. Boston Dynamics retired it in April 2024 with a blooper reel, one day before revealing its electric successor."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 150 cm"
+  ],
+  [
+   "Mass",
+   "approx. 89 kg"
+  ],
+  [
+   "Feats",
+   "backflips; parkour; gymnastics"
+  ]
+ ],
+ "see": [
+  "atlas",
+  "petman"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://bostondynamics.com/atlas/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Atlas (robot)",
+   "url": "https://en.wikipedia.org/wiki/Atlas_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Atlas (Q14248859)",
+   "url": "https://www.wikidata.org/wiki/Q14248859",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://www.bostondynamics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q14248859"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

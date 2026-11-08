@@ -1,0 +1,33 @@
+{
+ "id": "kuavo",
+ "name": "Kuavo",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid",
+ "maker": "Leju Robotics",
+ "country": "China",
+ "year": "2023",
+ "status": "pilot",
+ "def": "A Harmony-OS-linked humanoid that performed at China's Spring Festival Gala.",
+ "body": [
+  "Leju's Kuavo, built on Huawei's HarmonyOS ecosystem, performed the yangge folk dance at the 2025 Spring Festival Gala and works pilot roles in Shenzhen government service halls."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "x1-agibot",
+  "x2-agibot"
+ ],
+ "refs": [
+  {
+   "label": "Huawei Central, Leju Kuavo",
+   "url": "https://www.huaweicentral.com/leju-launches-humanoid-robot-kuafu-with-openharmony-system/amp/",
+   "kind": "press"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

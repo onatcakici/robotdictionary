@@ -1,0 +1,50 @@
+{
+ "id": "unitree-r1",
+ "name": "Unitree R1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Unitree Robotics",
+ "country": "China",
+ "year": "2025",
+ "status": "",
+ "def": "Humanoid robot introduced by the Chinese company Unitree Robotics in 2025, standing 123 cm tall.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "123 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.unitree.com/R1",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Unitree R1 (Q140668441)",
+   "url": "https://www.wikidata.org/wiki/Q140668441",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, heise.de",
+   "url": "https://www.heise.de/news/Preiswerter-humanoider-Roboter-Unitree-R1-kostet-5900-US-Dollar-10501180.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140668441"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

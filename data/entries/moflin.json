@@ -1,0 +1,28 @@
+{
+ "id": "moflin",
+ "name": "Moflin",
+ "aka": [],
+ "section": "other",
+ "kind": "companion robot",
+ "maker": "Casio",
+ "country": "Japan",
+ "year": "2024",
+ "status": "production",
+ "def": "Furry palm sized companion robot that develops its own character as it responds to touch and voice.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Casio website",
+   "url": "https://www.casio.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

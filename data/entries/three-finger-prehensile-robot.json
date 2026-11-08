@@ -1,0 +1,30 @@
+{
+ "id": "three-finger-prehensile-robot",
+ "name": "Three finger prehensile robot",
+ "aka": [],
+ "section": "arms",
+ "kind": "robotic gripper",
+ "maker": "",
+ "country": "France",
+ "year": "1990",
+ "status": "",
+ "def": "Gripping unit with three fingers, dating from 1990, designed to fit the end of assembly robots in the car industry and lent by the Laboratoire de robotique de Paris.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Three-finger prehensile robot-FRE 2507 CNRS (Q54891502)",
+   "url": "https://www.wikidata.org/wiki/Q54891502",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q54891502"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

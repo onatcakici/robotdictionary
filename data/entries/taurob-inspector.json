@@ -1,0 +1,48 @@
+{
+ "id": "taurob-inspector",
+ "name": "Taurob Inspector",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "inspection robot",
+ "maker": "Taurob GmbH",
+ "country": "Austria",
+ "year": "",
+ "status": "",
+ "def": "Mobile robot certified under ATEX rules, made by the Austrian firm Taurob for offshore oil and gas sites and derived from its Taurob Tracker.",
+ "body": [],
+ "facts": [
+  "Holds ATEX certification",
+  "Grew out of the Taurob Tracker during the OGRIP project"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://taurob.com/taurob-inspector/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Taurob Inspector",
+   "url": "https://en.wikipedia.org/wiki/Taurob_Inspector",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Taurob Inspector (Q109255032)",
+   "url": "https://www.wikidata.org/wiki/Q109255032",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Taurob GmbH website",
+   "url": "http://taurob.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q109255032"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

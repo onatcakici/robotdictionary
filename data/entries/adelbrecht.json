@@ -1,0 +1,35 @@
+{
+ "id": "adelbrecht",
+ "name": "Adelbrecht",
+ "aka": [],
+ "section": "other",
+ "kind": "interactive robot",
+ "maker": "Martin Spanjaard",
+ "country": "",
+ "year": "",
+ "status": "retired",
+ "def": "Ball shaped robot that could talk and interact with people, designed by Martin Spanjaard.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Adelbrecht",
+   "url": "https://en.wikipedia.org/wiki/Adelbrecht",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Adelbrecht (Q4681861)",
+   "url": "https://www.wikidata.org/wiki/Q4681861",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4681861"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

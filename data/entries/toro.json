@@ -1,0 +1,63 @@
+{
+ "id": "toro",
+ "name": "TORO",
+ "aka": [
+  "TOrque controlled humanoid RObot"
+ ],
+ "section": "humanoids",
+ "kind": "torque controlled humanoid",
+ "maker": "German Aerospace Center DLR",
+ "country": "Germany",
+ "year": "2013",
+ "status": "research",
+ "def": "Torque controlled humanoid from DLR assembled from lightweight robot arm joint modules to test compliant whole body balancing and walking.",
+ "body": [
+  "TORO is 1.74 m tall, weighs 76.4 kg and has 25 torque controlled joints plus two position controlled ones, built from DLR lightweight robot drive units with integrated torque sensing. Force and torque sensors in the feet, a torso inertial unit and a stereo camera head feed whole body controllers based on passivity and capture point ideas rather than position tracking. DLR developed it from an earlier biped between 2010 and 2014 and has used it for multi contact balancing, walking on uneven ground and physical human robot interaction studies."
+ ],
+ "facts": [
+  "Assembled from DLR lightweight robot arm joint modules",
+  "Used to demonstrate multi contact whole body balancing"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.74 m"
+  ],
+  [
+   "Mass",
+   "76.4 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "27"
+  ],
+  [
+   "Actuation",
+   "Torque controlled electric drives with harmonic gears and joint torque sensors"
+  ],
+  [
+   "Sensors",
+   "Joint torque and position sensing, six axis foot force torque sensors, torso inertial unit, stereo camera head"
+  ],
+  [
+   "Autonomy",
+   "Torque level whole body control"
+  ]
+ ],
+ "see": [
+  "rollin-justin",
+  "torobo"
+ ],
+ "refs": [
+  {
+   "label": "German Aerospace Center DLR website",
+   "url": "https://www.dlr.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

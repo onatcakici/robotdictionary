@@ -1,0 +1,40 @@
+{
+ "id": "looj",
+ "name": "Looj",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "domestic robot",
+ "maker": "iRobot",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Domestic robot made by the American consumer robot company iRobot, the firm behind the Roomba robotic vacuum cleaners.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Looj",
+   "url": "https://en.wikipedia.org/wiki/Looj",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Looj (Q6674924)",
+   "url": "https://www.wikidata.org/wiki/Q6674924",
+   "kind": "wikidata"
+  },
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6674924"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,28 @@
+{
+ "id": "moon-maestro",
+ "name": "Maestro",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical assistant robot",
+ "maker": "Moon Surgical",
+ "country": "France",
+ "year": "",
+ "status": "production",
+ "def": "Pair of robotic arms from Moon Surgical that hold the camera and retract tissue for the surgeon during keyhole surgery.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Moon Surgical website",
+   "url": "https://www.moonsurgical.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

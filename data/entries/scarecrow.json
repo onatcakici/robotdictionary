@@ -1,0 +1,52 @@
+{
+ "id": "scarecrow",
+ "name": "Scarecrow",
+ "aka": [
+  "MSL mobility test rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "2010",
+ "status": "research",
+ "def": "Stripped down mobility twin of Curiosity built at reduced mass so its Earth weight matches the flight rover's weight on Mars.",
+ "body": [
+  "Scarecrow has Curiosity's suspension, wheels and drive actuators but no onboard computer, arm or instruments, which is where its nickname comes from. Because Martian gravity is about 38 percent of Earth's, building the testbed at roughly a third of Curiosity's mass makes its wheel loads on Earth match those of the flight rover on Mars. JPL drives it in the Mars Yard and on the Dumont dunes in California to check slopes, sand traps and wheel wear before commanding the real rover."
+ ],
+ "facts": [
+  "Mass tuned so Earth tests reproduce Martian wheel loading",
+  "Used to test escape routes from soft sand before commanding Curiosity"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Six wheel rocker bogie drive matching the flight rover"
+  ],
+  [
+   "Power",
+   "External umbilical or battery power during tests"
+  ],
+  [
+   "Sensors",
+   "Instrumented wheels with motion tracking during trials"
+  ],
+  [
+   "Autonomy",
+   "Manually commanded during mobility trials"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

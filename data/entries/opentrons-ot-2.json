@@ -1,0 +1,69 @@
+{
+ "id": "opentrons-ot-2",
+ "name": "OT-2",
+ "aka": [],
+ "section": "arms",
+ "kind": "liquid handling robot",
+ "maker": "Opentrons",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Benchtop pipetting robot from Opentrons with an open source protocol library, built to bring lab automation to ordinary biology labs.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "opentrons-flex"
+ ],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Opentrons",
+   "url": "https://www.ycombinator.com/companies/opentrons",
+   "kind": "yc"
+  },
+  {
+   "label": "Opentrons website",
+   "url": "http://opentrons.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Opentrons on Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Opentrons",
+   "kind": "press"
+  },
+  {
+   "label": "Official website",
+   "url": "https://opentrons.com/ot-2/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Opentrons OT-2 liquid handling bot (Q115147895)",
+   "url": "https://www.wikidata.org/wiki/Q115147895",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, github.com",
+   "url": "https://github.com/Opentrons/ot2",
+   "kind": "cited"
+  },
+  {
+   "label": "Opentrons Labworks website",
+   "url": "https://opentrons.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "opentrons",
+  "wikidata": "Q115147895"
+ },
+ "yc": {
+  "company": "Opentrons",
+  "batch": "Winter 2016",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/opentrons"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

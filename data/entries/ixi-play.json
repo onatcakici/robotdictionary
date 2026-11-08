@@ -1,0 +1,39 @@
+{
+ "id": "ixi-play",
+ "name": "IXI-Play",
+ "aka": [],
+ "section": "other",
+ "kind": "children's companion robot",
+ "maker": "Ixiplay",
+ "country": "United States",
+ "year": "",
+ "status": "discontinued",
+ "def": "Android based robot companion for young children that read picture cards, mimicked the emotions on them, and ran games from its own app store.",
+ "body": [],
+ "facts": [
+  "Announced with a retail price of $299",
+  "Designed to take swappable character skins"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Ixiplay",
+   "url": "https://www.ycombinator.com/companies/ixiplay",
+   "kind": "yc"
+  }
+ ],
+ "ids": {
+  "yc": "ixiplay"
+ },
+ "yc": {
+  "company": "Ixiplay",
+  "batch": "Summer 2013",
+  "status": "Inactive",
+  "url": "https://www.ycombinator.com/companies/ixiplay"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

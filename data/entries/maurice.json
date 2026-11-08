@@ -1,0 +1,46 @@
+{
+ "id": "maurice",
+ "name": "Maurice",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "personal robot",
+ "maker": "Innate",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Small home robot from Innate with a single arm, designed to be taught new chores through code, language and demonstration.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Innate",
+   "url": "https://www.ycombinator.com/companies/innate",
+   "kind": "yc"
+  },
+  {
+   "label": "Innate website",
+   "url": "https://innate.bot",
+   "kind": "maker"
+  },
+  {
+   "label": "Innate, Launch HN",
+   "url": "https://hn.svelte.dev/item/42451707",
+   "kind": "press"
+  }
+ ],
+ "ids": {
+  "yc": "innate"
+ },
+ "yc": {
+  "company": "Innate",
+  "batch": "Fall 2024",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/innate"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

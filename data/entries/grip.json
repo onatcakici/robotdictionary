@@ -1,0 +1,41 @@
+{
+ "id": "grip",
+ "name": "Grip",
+ "aka": [],
+ "section": "arms",
+ "kind": "waste sorting robot",
+ "maker": "Grip",
+ "country": "Switzerland",
+ "year": "",
+ "status": "",
+ "def": "Picking robot that removes contaminants from organic waste streams, learning from every successful and failed grasp.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Grip",
+   "url": "https://www.ycombinator.com/companies/grip",
+   "kind": "yc"
+  },
+  {
+   "label": "Grip website",
+   "url": "https://www.griprobotics.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "grip"
+ },
+ "yc": {
+  "company": "Grip",
+  "batch": "Summer 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/grip"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

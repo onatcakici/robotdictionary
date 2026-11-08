@@ -1,0 +1,35 @@
+{
+ "id": "amor",
+ "name": "AMOR",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "outdoor robot",
+ "maker": "University of Siegen",
+ "country": "Germany",
+ "year": "",
+ "status": "research",
+ "def": "Autonomous robot built for outdoor operation at the University of Siegen in Germany, working without direct human control.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, AMOR (Q295217)",
+   "url": "https://www.wikidata.org/wiki/Q295217",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Siegen website",
+   "url": "https://www.uni-siegen.de/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q295217"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

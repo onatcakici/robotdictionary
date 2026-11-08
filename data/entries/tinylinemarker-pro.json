@@ -1,0 +1,51 @@
+{
+ "id": "tinylinemarker-pro",
+ "name": "TinyLineMarker Pro",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "battery electric marking robot",
+ "maker": "TinyMobileRobots",
+ "country": "Denmark",
+ "year": "",
+ "status": "production",
+ "def": "Battery electric marking robot that sprays sports field lines and construction layout marks to satellite coordinates loaded from a drawing.",
+ "body": [
+  "The TinyLineMarker Pro is a compact battery electric robot with a paint spray head that drives itself along lines defined by corrected satellite positioning. An operator selects a pitch template or imports a site drawing on a tablet, and the robot then marks the geometry without strings, tapes or a marking frame. The same platform is used to transfer construction and utility layouts from drawings onto the ground. Groundskeepers, municipalities and contractors use it outdoors on turf and hard surfaces."
+ ],
+ "facts": [
+  "Marks football, rugby and athletics geometry from stored templates in minutes",
+  "Also used to set out construction and utility layouts directly from drawings",
+  "Sold to sports clubs, municipalities and contractors across Europe and North America"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Battery electric wheeled robot with a paint spray marking head"
+  ],
+  [
+   "Power",
+   "Rechargeable battery electric drive"
+  ],
+  [
+   "Sensors",
+   "Corrected satellite positioning with centimetre level accuracy"
+  ],
+  [
+   "Autonomy",
+   "Marks loaded geometry autonomously while the operator monitors from a tablet"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "TinyMobileRobots website",
+   "url": "https://www.tinymobilerobots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

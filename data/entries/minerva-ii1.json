@@ -1,0 +1,28 @@
+{
+ "id": "minerva-ii1",
+ "name": "MINERVA-II1",
+ "aka": [],
+ "section": "rovers",
+ "kind": "asteroid hopping rover",
+ "maker": "JAXA",
+ "country": "Japan",
+ "year": "2018",
+ "status": "completed",
+ "def": "Pair of small rovers released by Hayabusa2 onto asteroid Ryugu in 2018, the first rovers to move across the surface of an asteroid, which they did by hopping.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "JAXA Hayabusa2 project website",
+   "url": "https://www.hayabusa2.jaxa.jp/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

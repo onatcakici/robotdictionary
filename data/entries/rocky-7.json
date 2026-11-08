@@ -1,0 +1,50 @@
+{
+ "id": "rocky-7",
+ "name": "Rocky 7",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "1996",
+ "status": "retired",
+ "def": "JPL research microrover that added a camera mast and sampling arm to the Sojourner class design, field tested in the Mojave Desert.",
+ "body": [
+  "Rocky 7 was a rocker bogie microrover used to prototype the science operations later flown on the Mars Exploration Rovers, including a deployable mast for panoramic imaging and a small arm with a scoop. Engineers ran it at Lavic Lake and other Mojave Desert sites, letting remote science teams plan each day's activity from returned images alone. The trials shaped how mission teams sequence a rover day and how much a rover can achieve between contacts."
+ ],
+ "facts": [
+  "Prototyped mast based science operations later used on Mars",
+  "Used for remote science team field trials in the Mojave Desert"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Six wheel rocker bogie drive with two steered wheels"
+  ],
+  [
+   "Power",
+   "Solar panel with battery"
+  ],
+  [
+   "Sensors",
+   "Deployable camera mast, stereo cameras, sampling arm and scoop"
+  ],
+  [
+   "Autonomy",
+   "Waypoint driving with onboard hazard detection"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

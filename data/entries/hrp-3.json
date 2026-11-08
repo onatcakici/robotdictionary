@@ -1,0 +1,40 @@
+{
+ "id": "hrp-3",
+ "name": "HRP-3",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Kawada Technologies and National Institute of Advanced Industrial Science and Technology",
+ "country": "Japan",
+ "year": "2007",
+ "status": "",
+ "def": "Japanese humanoid robot introduced in 2007 by Kawada Technologies in partnership with the National Institute of Advanced Industrial Science and Technology.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, HRP-3 (Q11222873)",
+   "url": "https://www.wikidata.org/wiki/Q11222873",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, robot.watch.impress.co.jp",
+   "url": "https://robot.watch.impress.co.jp/cda/news/2007/06/21/528.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Kawada Technologies website",
+   "url": "https://www.kawada.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q11222873"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

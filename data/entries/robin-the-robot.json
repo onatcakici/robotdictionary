@@ -1,0 +1,30 @@
+{
+ "id": "robin-the-robot",
+ "name": "Robin the Robot",
+ "aka": [],
+ "section": "other",
+ "kind": "companion robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Robot developed in Armenia whose behaviour is driven by artificial intelligence software.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Robin the Robot (Q135455604)",
+   "url": "https://www.wikidata.org/wiki/Q135455604",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q135455604"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

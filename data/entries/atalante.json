@@ -1,0 +1,28 @@
+{
+ "id": "atalante",
+ "name": "Atalante",
+ "aka": [],
+ "section": "medical",
+ "kind": "self balancing exoskeleton",
+ "maker": "Wandercraft",
+ "country": "France",
+ "year": "",
+ "status": "production",
+ "def": "Self balancing exoskeleton from Wandercraft that lets people with paralysis walk without crutches.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wandercraft website",
+   "url": "https://www.wandercraft.eu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

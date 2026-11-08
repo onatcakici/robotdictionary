@@ -1,0 +1,28 @@
+{
+ "id": "zoomer",
+ "name": "Zoomer",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "toy robot dog",
+ "maker": "Spin Master",
+ "country": "Canada",
+ "year": "2014",
+ "status": "discontinued",
+ "def": "Interactive toy robot dog that responded to voice commands and learned tricks.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Spin Master website",
+   "url": "https://www.spinmaster.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

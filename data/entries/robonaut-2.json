@@ -1,0 +1,77 @@
+{
+ "id": "robonaut-2",
+ "name": "Robonaut 2",
+ "aka": [
+  "R2"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "NASA Johnson Space Center with General Motors",
+ "country": "United States",
+ "year": "2010",
+ "status": "retired",
+ "def": "First humanoid robot flown to the International Space Station, a dexterous torso that operated station equipment and human tools in orbit.",
+ "body": [
+  "Robonaut 2 measures about 1.0 m from waist to head, weighs close to 150 kg and has 42 degrees of freedom, twelve of them in each hand, with more than 350 sensors and dozens of onboard processors. It launched aboard the shuttle Discovery in February 2011, was activated inside the station and in 2014 was fitted with climbing legs, handling tasks such as flipping switches, measuring air flow and cleaning handrails. A hardware fault ended its work and it returned to Earth in May 2018 after seven years in orbit.",
+  "Robonaut 2 launched to the ISS in 2011 as the first humanoid in orbit, worked switch panels and taskboards, gained climbing legs, and returned to Earth in 2018 for repairs it never fully recovered from."
+ ],
+ "facts": [
+  "First humanoid robot in space, launched in February 2011",
+  "Fitted with climbing legs on orbit in 2014"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "150 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "42"
+  ],
+  [
+   "Actuation",
+   "Electric motors with tendon driven fingers and series elastic joints"
+  ],
+  [
+   "Sensors",
+   "More than 350 sensors including load cells in the hands and cameras behind the visor"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated from the ground or the station with onboard force control"
+  ]
+ ],
+ "see": [
+  "robothespian",
+  "roboy"
+ ],
+ "refs": [
+  {
+   "label": "NASA Johnson Space Center with General Motors website",
+   "url": "https://www.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.nasa.gov/robonaut2",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Robonaut 2 (Q3437236)",
+   "url": "https://www.wikidata.org/wiki/Q3437236",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Lyndon B. Johnson Space Center website",
+   "url": "http://www.nasa.gov/centers/johnson/home/index.html",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3437236"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

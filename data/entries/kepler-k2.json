@@ -1,0 +1,74 @@
+{
+ "id": "kepler-k2",
+ "name": "Forerunner K2",
+ "aka": [
+  "K2 Bumblebee"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Kepler Robotics",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "Industrial humanoid listed from about 30,000 dollars, with 52 joints and eleven degree of freedom hands, aimed at factory material handling.",
+ "body": [
+  "Forerunner K2 stands 175 centimetres, weighs 75 kilograms and has 52 degrees of freedom, with each hand offering eleven degrees of freedom, 25 force sensing contact points per finger and a six axis force and torque sensor at the wrist. More than 80 onboard sensors feed compute rated at 100 trillion operations per second, and Kepler quotes millimetre level placement precision. A one hour charge supports up to eight hours of work, helped by joints that draw almost no power when holding a static pose. Kepler demonstrated an eight hour continuous livestreamed work session at the 2025 World Artificial Intelligence Conference and lists the base robot from around 30,000 dollars."
+ ],
+ "facts": [
+  "Completed an eight hour continuous livestreamed work session at WAIC 2025",
+  "Listed from about 30,000 dollars for the base configuration",
+  "Each hand has eleven degrees of freedom with per finger force sensing"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.75 m"
+  ],
+  [
+   "Mass",
+   "75 kg"
+  ],
+  [
+   "Payload",
+   "30 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "52"
+  ],
+  [
+   "Runtime",
+   "8 h"
+  ],
+  [
+   "Actuation",
+   "Electric joint actuators with near zero static holding power draw"
+  ],
+  [
+   "Sensors",
+   "More than 80 onboard sensors, 25 force sensing contact points per finger, six axis wrist force torque sensors"
+  ],
+  [
+   "Autonomy",
+   "Onboard compute rated at 100 trillion operations per second with millimetre level placement"
+  ]
+ ],
+ "see": [
+  "unitree-g1",
+  "galbot-g1"
+ ],
+ "refs": [
+  {
+   "label": "Kepler Robotics website",
+   "url": "https://www.gotokepler.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "k2"
+ ]
+}

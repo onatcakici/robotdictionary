@@ -1,0 +1,58 @@
+{
+ "id": "serve-gen3",
+ "name": "Serve Gen3",
+ "aka": [
+  "Serve"
+ ],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Serve Robotics",
+ "country": "United States",
+ "year": "2024",
+ "status": "service",
+ "def": "Third generation four wheeled sidewalk delivery robot that carries restaurant orders on United States city sidewalks under Level 4 autonomy with remote assistance.",
+ "body": [
+  "Serve Gen3 is a four wheeled insulated cargo box on a sidewalk chassis, built to run city blocks rather than closed campuses. Onboard computing handles perception and path planning, and remote staff assist when the robot meets an obstruction it cannot resolve. Orders are placed through delivery apps and the lid unlocks for the customer at the kerb. The robots work Los Angeles and other United States metro markets alongside Uber Eats."
+ ],
+ "facts": [
+  "Cargo bin holds four sixteen inch pizzas, about fifteen percent more volume than the prior generation",
+  "Serve deployed its 1,000th robot and has since reported 2,000 robots operating on the Uber Eats platform",
+  "Grew out of the Postmates X robotics group before becoming an independent public company"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheeled electric drive with a lockable insulated cargo bin"
+  ],
+  [
+   "Power",
+   "Rechargeable battery, with roughly twice the range of the previous generation"
+  ],
+  [
+   "Sensors",
+   "Ouster REV7 digital lidar, camera suite and an NVIDIA Jetson Orin compute module"
+  ],
+  [
+   "Autonomy",
+   "Level 4 sidewalk autonomy with remote human assistance on request"
+  ]
+ ],
+ "see": [
+  "bear-robotics-servi",
+  "shakey"
+ ],
+ "refs": [
+  {
+   "label": "Serve Robotics website",
+   "url": "https://www.serverobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "serve"
+ ]
+}

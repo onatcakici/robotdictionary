@@ -1,0 +1,52 @@
+{
+ "id": "stackchan",
+ "name": "StackChan",
+ "aka": [
+  "M5StackChan, Stack-chan, スタックチャン, K151"
+ ],
+ "section": "other",
+ "kind": "desktop robot",
+ "maker": "M5Stack",
+ "country": "China",
+ "year": "",
+ "status": "",
+ "def": "Open source desktop robot sold as a product by the Chinese company M5Stack, with a mass of 187 g.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Mass",
+   "187 g"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://shop.m5stack.com/products/stackchan-kawaii-co-created-open-source-ai-desktop-robot",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, StackChan (Q141343242)",
+   "url": "https://www.wikidata.org/wiki/Q141343242",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, github.com",
+   "url": "https://github.com/stack-chan/stack-chan",
+   "kind": "cited"
+  },
+  {
+   "label": "M5Stack website",
+   "url": "https://m5stack.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q141343242"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

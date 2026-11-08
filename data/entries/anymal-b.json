@@ -1,0 +1,62 @@
+{
+ "id": "anymal-b",
+ "name": "ANYmal B",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "ANYbotics",
+ "country": "Switzerland",
+ "year": "2016",
+ "status": "research",
+ "def": "First ANYmal generation, a sealed electric quadruped with torque controlled joints sold to research groups and early industrial pilots.",
+ "body": [
+  "ANYmal B came out of the StarlETH work at ETH Zurich and used twelve ANYdrive series elastic actuators, giving accurate torque control at every joint. The sealed body carries its own computers, a rotating lidar and depth cameras, and runs onboard state estimation and terrain mapping. It was the platform on which reinforcement learning controllers for legged robots were first shown to transfer from simulation to real hardware."
+ ],
+ "facts": [
+  "Used in the 2019 Science Robotics work that transferred learned locomotion policies from simulation to hardware",
+  "First generation of the ANYmal line, derived from ETH Zurich's StarlETH"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "30 kg"
+  ],
+  [
+   "Payload",
+   "10 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Twelve ANYdrive series elastic electric actuators"
+  ],
+  [
+   "Power",
+   "Swappable lithium ion battery"
+  ],
+  [
+   "Sensors",
+   "Rotating lidar, depth cameras, joint torque sensors, inertial measurement unit"
+  ],
+  [
+   "Autonomy",
+   "Onboard state estimation, terrain mapping and navigation"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ANYbotics website",
+   "url": "https://www.anybotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

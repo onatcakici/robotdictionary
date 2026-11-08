@@ -1,0 +1,35 @@
+{
+ "id": "peak-robotics-kx-2",
+ "name": "Peak Robotics KX-2",
+ "aka": [],
+ "section": "arms",
+ "kind": "laboratory robot arm",
+ "maker": "Peak Robotics",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Collaborative selective compliance assembly robot arm (SCARA) made by Peak Robotics for automating laboratory work in the life sciences.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://peakrobotics.com/collections/kx2-robots",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Peak Robotics KX2 (Q107155741)",
+   "url": "https://www.wikidata.org/wiki/Q107155741",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q107155741"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

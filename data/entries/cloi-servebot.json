@@ -1,0 +1,31 @@
+{
+ "id": "cloi-servebot",
+ "name": "CLOi ServeBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "LG",
+ "country": "South Korea",
+ "year": "2020",
+ "status": "production",
+ "def": "LG's shelf carrying restaurant and building courier line.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "q9",
+  "lg-cloi-guidebot"
+ ],
+ "refs": [
+  {
+   "label": "LG website",
+   "url": "https://www.lg.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

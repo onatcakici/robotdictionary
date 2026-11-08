@@ -1,0 +1,28 @@
+{
+ "id": "milo-robokind",
+ "name": "Milo",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "social robot",
+ "maker": "RoboKind",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Small expressive humanoid robot used to teach social and emotional skills to children with autism.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "RoboKind website",
+   "url": "https://www.robokind.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

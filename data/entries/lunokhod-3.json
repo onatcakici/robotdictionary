@@ -1,0 +1,55 @@
+{
+ "id": "lunokhod-3",
+ "name": "Lunokhod 3",
+ "aka": [
+  "Ye-8 No.205"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NPO Lavochkin and VNII Transmash",
+ "country": "Soviet Union",
+ "year": "1977",
+ "status": "retired",
+ "def": "Third generation Lunokhod completed in 1977 for a mission that was never funded, now preserved as a museum exhibit near Moscow.",
+ "body": [
+  "Lunokhod 3 was finished as flight hardware with improved cameras and stereoscopic imaging, intended for a Luna 25 landing. No launcher or funding was allocated once the Soviet lunar programme wound down, so the rover never left Earth. It is displayed at the NPO Lavochkin museum in Khimki."
+ ],
+ "facts": [
+  "Flight ready rover that never launched",
+  "Preserved intact at the NPO Lavochkin museum"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Eight independently driven wheels"
+  ],
+  [
+   "Power",
+   "Lid mounted solar panel with radioisotope heater"
+  ],
+  [
+   "Sensors",
+   "Improved television and stereoscopic camera system"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NPO Lavochkin and VNII Transmash website",
+   "url": "https://www.laspace.ru",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, Lunokhod-3 (Q1877513)",
+   "url": "https://www.wikidata.org/wiki/Q1877513",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1877513"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

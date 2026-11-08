@@ -1,0 +1,41 @@
+{
+ "id": "trexo",
+ "name": "Trexo",
+ "aka": [],
+ "section": "medical",
+ "kind": "pediatric exoskeleton",
+ "maker": "Trexo Robotics",
+ "country": "Canada",
+ "year": "",
+ "status": "",
+ "def": "Powered walking exoskeleton that lets children with conditions such as cerebral palsy take steps, often for the first time.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Trexo Robotics",
+   "url": "https://www.ycombinator.com/companies/trexo-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Trexo Robotics website",
+   "url": "http://trexorobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "trexo-robotics"
+ },
+ "yc": {
+  "company": "Trexo Robotics",
+  "batch": "Winter 2019",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/trexo-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

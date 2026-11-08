@@ -1,0 +1,39 @@
+{
+ "id": "michelangelo-hand",
+ "name": "Michelangelo Hand",
+ "aka": [],
+ "section": "medical",
+ "kind": "prosthetic hand",
+ "maker": "Ottobock and Advanced Arm Dynamics",
+ "country": "Germany",
+ "year": "2010",
+ "status": "production",
+ "def": "Robotic prosthetic hand with full articulation made by the German company Ottobock with its American partner Advanced Arm Dynamics, the first prosthesis with an electronically driven thumb.",
+ "body": [],
+ "facts": [
+  "First fitted to an Austrian elective amputee in July 2010",
+  "Used by military and civilian amputees in the United States and United Kingdom since 2011",
+  "Its thumb movement imitates that of a natural human hand"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Michelangelo Hand",
+   "url": "https://en.wikipedia.org/wiki/Michelangelo_Hand",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Michelangelo Hand (Q6836660)",
+   "url": "https://www.wikidata.org/wiki/Q6836660",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6836660"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

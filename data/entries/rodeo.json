@@ -1,0 +1,41 @@
+{
+ "id": "rodeo",
+ "name": "Rodeo",
+ "aka": [],
+ "section": "arms",
+ "kind": "vehicle maintenance robot",
+ "maker": "Rodeo Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robotic technician that performs oil changes at fleet depots.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Rodeo Robotics",
+   "url": "https://www.ycombinator.com/companies/rodeo-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Rodeo Robotics website",
+   "url": "https://www.rodeorobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "rodeo-robotics"
+ },
+ "yc": {
+  "company": "Rodeo Robotics",
+  "batch": "Fall 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/rodeo-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "autopallet",
+ "name": "AutoPallet",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "warehouse robot",
+ "maker": "AutoPallet Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Swarm of small mobile robots that move cardboard boxes and install into existing warehouses.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, AutoPallet Robotics",
+   "url": "https://www.ycombinator.com/companies/autopallet-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "AutoPallet Robotics website",
+   "url": "https://autopallet.bot",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "autopallet-robotics"
+ },
+ "yc": {
+  "company": "AutoPallet Robotics",
+  "batch": "Summer 2024",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/autopallet-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

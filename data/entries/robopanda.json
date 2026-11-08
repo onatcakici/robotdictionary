@@ -1,0 +1,43 @@
+{
+ "id": "robopanda",
+ "name": "Robopanda",
+ "aka": [],
+ "section": "other",
+ "kind": "robotic companion toy",
+ "maker": "WowWee",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Interactive robotic companion toy from WowWee that loads personalities, stories and songs from swappable cartridges and reacts to touch and sound.",
+ "body": [],
+ "facts": [
+  "Uses interchangeable cartridges with personalities, stories and songs",
+  "Labeled for children aged 9 and up"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Robopanda",
+   "url": "https://en.wikipedia.org/wiki/Robopanda",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robopanda (Q7353293)",
+   "url": "https://www.wikidata.org/wiki/Q7353293",
+   "kind": "wikidata"
+  },
+  {
+   "label": "WowWee website",
+   "url": "https://wowwee.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7353293"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

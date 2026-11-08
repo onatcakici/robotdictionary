@@ -1,0 +1,31 @@
+{
+ "id": "xgo-mini",
+ "name": "XGO-Mini",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "desktop quadruped",
+ "maker": "Luwu Intelligence",
+ "country": "China",
+ "year": "2021",
+ "status": "production",
+ "def": "A desktop quadruped with an arm on its back for pick and place tricks.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "unitree-a1",
+  "agibot-a2"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, XGO-Mini",
+   "url": "https://en.wikipedia.org/w/index.php?search=XGO-Mini+Luwu+Intelligence",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "echo-seeker",
+ "name": "Echo Seeker",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Boeing",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Autonomous underwater vehicle built by Boeing, a robotic submersible that travels beneath the sea surface without a crew or remote pilot.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Echo Seeker",
+   "url": "https://en.wikipedia.org/wiki/Echo_Seeker",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Echo Seeker (Q104790969)",
+   "url": "https://www.wikidata.org/wiki/Q104790969",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boeing website",
+   "url": "https://boeing.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q104790969"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

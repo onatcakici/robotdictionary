@@ -1,0 +1,28 @@
+{
+ "id": "canadarm3",
+ "name": "Canadarm3",
+ "aka": [],
+ "section": "arms",
+ "kind": "space robot system",
+ "maker": "MDA",
+ "country": "Canada",
+ "year": "",
+ "status": "development",
+ "def": "Robotic system planned for the Gateway lunar space station, combining a large arm, a small dexterous arm and tools, built by MDA for the Canadian Space Agency.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Canadian Space Agency website",
+   "url": "https://www.asc-csa.gc.ca/eng/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

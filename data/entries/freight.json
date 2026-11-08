@@ -1,0 +1,31 @@
+{
+ "id": "freight",
+ "name": "Freight",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Fetch Robotics",
+ "country": "United States",
+ "year": "2015",
+ "status": "production",
+ "def": "A ROS native mobile base that carried research and warehouses alike; Zebra acquired its maker.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "gita",
+  "haipick"
+ ],
+ "refs": [
+  {
+   "label": "Fetch Robotics website",
+   "url": "https://fetchrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

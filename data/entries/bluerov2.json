@@ -1,0 +1,38 @@
+{
+ "id": "bluerov2",
+ "name": "BlueROV2",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Blue Robotics",
+ "country": "United States",
+ "year": "2016",
+ "status": "production",
+ "def": "Modular underwater remotely operated vehicle from the American company Blue Robotics, offered at low cost and run on open source control software.",
+ "body": [],
+ "facts": [
+  "Released in 2016",
+  "Used in underwater research, inspection and education"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, BlueROV2",
+   "url": "https://en.wikipedia.org/wiki/BlueROV2",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, BlueROV2 (Q138937740)",
+   "url": "https://www.wikidata.org/wiki/Q138937740",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q138937740"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

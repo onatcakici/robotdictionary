@@ -1,0 +1,44 @@
+{
+ "id": "aibo-ers-7",
+ "name": "AIBO ERS-7",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "entertainment robot dog",
+ "maker": "Sony",
+ "country": "",
+ "year": "2003",
+ "status": "discontinued",
+ "def": "Consumer entertainment robot in Sony's AIBO series, released in 2003 as the first model the company explicitly presented as a dog.",
+ "body": [],
+ "facts": [
+  "First released in 2003",
+  "Sony's final robot before its robotics division was dissolved in 2006",
+  "Succeeded in 2018 by the ERS-1000"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, ERS-7",
+   "url": "https://en.wikipedia.org/wiki/ERS-7",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ERS-7 (Q106707461)",
+   "url": "https://www.wikidata.org/wiki/Q106707461",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Sony website",
+   "url": "https://www.sony.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q106707461"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

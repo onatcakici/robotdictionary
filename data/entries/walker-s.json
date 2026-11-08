@@ -1,0 +1,33 @@
+{
+ "id": "walker-s",
+ "name": "Walker S",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "UBTech",
+ "country": "China",
+ "year": "2024",
+ "status": "pilot",
+ "def": "An industrial humanoid piloted on automotive lines for quality inspection and assembly; deployed in fleets.",
+ "body": [
+  "UBTech's Walker S series moved the Shenzhen company from consumer humanoids to factory fleets, with pilots at NIO, BYD, Zeekr and Foxconn plants performing inspection and logistics tasks. UBTech reports the largest orderbook of any Chinese humanoid maker."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "walker",
+  "alpha-mini"
+ ],
+ "refs": [
+  {
+   "label": "UBTech website",
+   "url": "https://www.ubtrobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

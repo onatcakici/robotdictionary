@@ -1,0 +1,111 @@
+{
+ "id": "spot",
+ "name": "Spot",
+ "aka": [
+  "SpotMini"
+ ],
+ "section": "quadrupeds",
+ "kind": "electric inspection quadruped",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2016",
+ "status": "production",
+ "def": "Electric inspection quadruped, the machine that turned legged robots into an off the shelf industrial product.",
+ "body": [
+  "Spot began as the battery powered SpotMini shown in 2016 and became Boston Dynamics' first product, leased from 2019 and sold openly from June 2020. Twelve electric joints drive its legs, five stereo camera pairs give obstacle avoidance in every direction, and mission software repeats inspection routes autonomously with a dock for charging. Payload ports carry lidar scanners, gas detectors, thermal cameras or a seven joint arm, and customers include power utilities, oil and gas operators, construction firms and police forces.",
+  "Spot turned Boston Dynamics from a viral video lab into a product company: over a thousand units patrol factories, offshore platforms and nuclear sites, and one danced with the Rolling Stones. Its yellow chassis is the most recognisable silhouette in robotics."
+ ],
+ "facts": [
+  "Offered for general sale in June 2020 at 74,500 US dollars",
+  "Used for autonomous inspection on offshore platforms and in power stations, and for radiation surveys at Chernobyl in 2020",
+  "Hyundai Motor Group took a controlling stake in Boston Dynamics in 2021"
+ ],
+ "specs": [
+  [
+   "Length",
+   "1.1 m"
+  ],
+  [
+   "Mass",
+   "33.8 kg"
+  ],
+  [
+   "Payload",
+   "14 kg"
+  ],
+  [
+   "Top speed",
+   "1.6 m/s (5.8 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Runtime",
+   "1.5 h"
+  ],
+  [
+   "Actuation",
+   "Electric geared joint actuators, three per leg"
+  ],
+  [
+   "Power",
+   "564 Wh swappable lithium ion battery"
+  ],
+  [
+   "Sensors",
+   "Five stereo camera pairs, inertial measurement unit, optional lidar and thermal payloads"
+  ],
+  [
+   "Autonomy",
+   "Autonomous route repetition with docking and remote operation"
+  ],
+  [
+   "Endurance",
+   "approx. 90 min"
+  ],
+  [
+   "Deployments",
+   "1,500+ units in industry"
+  ]
+ ],
+ "see": [
+  "atlas-hydraulic",
+  "atlas"
+ ],
+ "refs": [
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://bostondynamics.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.bostondynamics.com/spot",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Spot (Q57334737)",
+   "url": "https://www.wikidata.org/wiki/Q57334737",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, arstechnica.com",
+   "url": "https://arstechnica.com/gadgets/2020/06/boston-dynamics-robot-dog-can-be-yours-for-the-low-low-price-of-74500/",
+   "kind": "cited"
+  },
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://www.bostondynamics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q57334737"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

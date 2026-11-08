@@ -1,0 +1,31 @@
+{
+ "id": "360-eye",
+ "name": "360 Eye",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Dyson",
+ "country": "United Kingdom",
+ "year": "2016",
+ "status": "discontinued",
+ "def": "Dyson's tank tracked vacuum with a panoramic camera crown.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "farm-ng-amiga",
+  "ascento"
+ ],
+ "refs": [
+  {
+   "label": "Dyson website",
+   "url": "https://www.dyson.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

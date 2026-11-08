@@ -1,0 +1,28 @@
+{
+ "id": "iris-rover",
+ "name": "Iris",
+ "aka": [],
+ "section": "rovers",
+ "kind": "lunar rover",
+ "maker": "Carnegie Mellon University",
+ "country": "United States",
+ "year": "2024",
+ "status": "lost",
+ "def": "Two kilogram student built lunar rover that flew on the Peregrine lander in January 2024 but never reached the Moon after the lander failed.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Carnegie Mellon University website",
+   "url": "https://www.cmu.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,31 @@
+{
+ "id": "emo",
+ "name": "EMO",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "desktop pet robot",
+ "maker": "Living.ai",
+ "country": "China",
+ "year": "2021",
+ "status": "production",
+ "def": "A desktop pet robot that dances to music and recognises its owner's face.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "flashbot",
+  "freight"
+ ],
+ "refs": [
+  {
+   "label": "Living.ai website",
+   "url": "https://living.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

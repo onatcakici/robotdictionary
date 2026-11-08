@@ -1,0 +1,31 @@
+{
+ "id": "x20",
+ "name": "Jueying X20",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "DEEP Robotics",
+ "country": "China",
+ "year": "2021",
+ "status": "production",
+ "def": "A payload quadruped hauling sensors through disaster training rubble.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "x30",
+  "lite3"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Jueying X20",
+   "url": "https://en.wikipedia.org/w/index.php?search=Jueying+X20+DEEP+Robotics",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

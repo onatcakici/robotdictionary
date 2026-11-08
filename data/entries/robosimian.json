@@ -1,0 +1,28 @@
+{
+ "id": "robosimian",
+ "name": "RoboSimian",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "four limbed robot",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "2013",
+ "status": "retired",
+ "def": "Four limbed ape like robot from NASA's Jet Propulsion Laboratory built for the DARPA Robotics Challenge, where it finished fifth in the 2015 finals.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA JPL website",
+   "url": "https://www.jpl.nasa.gov",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

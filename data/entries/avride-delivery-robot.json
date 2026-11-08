@@ -1,0 +1,53 @@
+{
+ "id": "avride-delivery-robot",
+ "name": "Avride delivery robot",
+ "aka": [
+  "Yandex Rover"
+ ],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Avride",
+ "country": "United States",
+ "year": "2019",
+ "status": "service",
+ "def": "Six wheeled sidewalk delivery robot that carries Uber Eats orders in several United States cities, navigating autonomously with remote operators available to assist.",
+ "body": [
+  "The Avride robot is a six wheeled sidewalk courier with a lidar and camera sensor suite, descended from the rover built by Yandex's self driving group. It plans its own path along sidewalks and across crossings, and a remote operator can intervene. The same autonomy team also builds robotaxi software, so perception work is shared between the two products. Fleets run food delivery in Jersey City, Arlington, Miami, Dallas and Austin through Uber Eats."
+ ],
+ "facts": [
+  "Launched sidewalk delivery with Uber Eats in Jersey City in February 2025, then Arlington, Virginia, and Miami in 2026",
+  "Spun out of the Yandex self driving unit and reorganised as Avride under Nebius",
+  "Raised 375 million dollars from Uber and Nebius to scale its autonomy fleet"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Six wheeled electric drive with a lockable insulated cargo bin"
+  ],
+  [
+   "Power",
+   "Rechargeable battery electric drive"
+  ],
+  [
+   "Sensors",
+   "Lidar, cameras and satellite positioning"
+  ],
+  [
+   "Autonomy",
+   "Autonomous sidewalk navigation with remote operator assistance"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Avride website",
+   "url": "https://avride.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

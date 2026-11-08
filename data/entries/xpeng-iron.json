@@ -1,0 +1,65 @@
+{
+ "id": "xpeng-iron",
+ "name": "IRON",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid",
+ "maker": "XPeng Robotics",
+ "country": "China",
+ "year": "2024",
+ "status": "prototype",
+ "def": "Humanoid from a Chinese electric carmaker, built on automotive compute and battery technology with mass production targeted for late 2026.",
+ "body": [
+  "IRON is XPeng's bipedal humanoid, first shown at the company's 2024 technology day and heavily revised for the November 2025 version. The newer robot uses a full solid state battery pack, three of XPeng's in house Turing AI chips running a physical world foundation model that handles vision, language and locomotion together, and hands with 22 degrees of freedom. XPeng has carried vehicle engineering across directly, including an indoor automatic emergency braking function that stops the robot before collisions. The company says mass production will begin in late 2026 and has begun work on a dedicated robot factory, so the machine remains a company demonstrator rather than a delivered product.",
+  "XPeng's Iron shares the carmaker's Turing AI chips and works inside its own EV plants. The company drew headlines when a gala demonstration walked so smoothly that XPeng cut open the robot's leg onstage to prove no human was inside."
+ ],
+ "facts": [
+  "First shown at XPeng's 2024 technology day and substantially revised in November 2025",
+  "Uses a full solid state battery pack and three in house Turing AI chips",
+  "XPeng has stated a late 2026 start for mass production"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Electric joints with 22 degrees of freedom in the hands"
+  ],
+  [
+   "Power",
+   "Full solid state battery pack"
+  ],
+  [
+   "Sensors",
+   "Vehicle derived camera perception with indoor automatic emergency braking"
+  ],
+  [
+   "Autonomy",
+   "Three in house Turing AI chips running a vision language action foundation model"
+  ],
+  [
+   "Height",
+   "approx. 178 cm"
+  ],
+  [
+   "Degrees of freedom",
+   "approx. 60+ claimed"
+  ]
+ ],
+ "see": [
+  "isaac",
+  "kaleido"
+ ],
+ "refs": [
+  {
+   "label": "XPeng Robotics website",
+   "url": "https://www.xpeng.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "iron"
+ ]
+}

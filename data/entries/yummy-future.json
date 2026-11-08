@@ -1,0 +1,41 @@
+{
+ "id": "yummy-future",
+ "name": "Yummy Future",
+ "aka": [],
+ "section": "arms",
+ "kind": "food and beverage robot",
+ "maker": "Yummy Future",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robotic stations that take over repetitive preparation work in restaurants and food retail.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Yummy Future",
+   "url": "https://www.ycombinator.com/companies/yummy-future",
+   "kind": "yc"
+  },
+  {
+   "label": "Yummy Future website",
+   "url": "https://yummy-future.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "yummy-future"
+ },
+ "yc": {
+  "company": "Yummy Future",
+  "batch": "Summer 2019",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/yummy-future"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

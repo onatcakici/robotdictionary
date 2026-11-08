@@ -1,0 +1,43 @@
+{
+ "id": "musio",
+ "name": "Musio",
+ "aka": [],
+ "section": "other",
+ "kind": "social robot",
+ "maker": "AKA Intelligence",
+ "country": "",
+ "year": "2015",
+ "status": "",
+ "def": "Social robot from AKA Intelligence that converses with people to help them practise spoken English, recognising objects, reading facial expressions and showing expressions of its own.",
+ "body": [],
+ "facts": [
+  "Runs on MUSE, an AI engine built for conversation",
+  "Raised 201% of its goal, just over $100k, on Indiegogo in May 2015"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://themusio.com/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Musio",
+   "url": "https://en.wikipedia.org/wiki/Musio",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Musio (Q24729767)",
+   "url": "https://www.wikidata.org/wiki/Q24729767",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q24729767"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

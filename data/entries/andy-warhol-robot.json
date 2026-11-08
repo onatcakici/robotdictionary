@@ -1,0 +1,35 @@
+{
+ "id": "andy-warhol-robot",
+ "name": "Andy Warhol Robot",
+ "aka": [],
+ "section": "other",
+ "kind": "animatronic figure",
+ "maker": "Andy Warhol",
+ "country": "",
+ "year": "1981",
+ "status": "",
+ "def": "Animatronic figure of Andy Warhol that the artist created in 1981 to serve as a self portrait.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Andy Warhol Robot",
+   "url": "https://en.wikipedia.org/wiki/Andy_Warhol_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Andy Warhol Robot (Q121775600)",
+   "url": "https://www.wikidata.org/wiki/Q121775600",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q121775600"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

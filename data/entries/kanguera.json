@@ -1,0 +1,43 @@
+{
+ "id": "kanguera",
+ "name": "Kanguera",
+ "aka": [],
+ "section": "arms",
+ "kind": "robotic hand",
+ "maker": "University of São Paulo",
+ "country": "Brazil",
+ "year": "2007",
+ "status": "research",
+ "def": "Research robot hand from the University of São Paulo that models the kinematics of the human hand to help develop better humanlike grippers and manipulators.",
+ "body": [],
+ "facts": [
+  "Runs the VxWorks operating system",
+  "Its name is an ancient indigenous word meaning bones outside the body"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Kanguera",
+   "url": "https://en.wikipedia.org/wiki/Kanguera",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Kanguera (Q6362909)",
+   "url": "https://www.wikidata.org/wiki/Q6362909",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of São Paulo website",
+   "url": "https://www.usp.br",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6362909"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

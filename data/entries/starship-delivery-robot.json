@@ -1,0 +1,77 @@
+{
+ "id": "starship-delivery-robot",
+ "name": "Starship delivery robot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "six wheeled sidewalk robot",
+ "maker": "Starship Technologies",
+ "country": "Estonia and United States",
+ "year": "2015",
+ "status": "service",
+ "def": "Six wheeled sidewalk robot that carries groceries and meals a few kilometres from a hub to a customer, navigating autonomously with remote human oversight.",
+ "body": [
+  "The Starship robot is a knee high six wheeled electric container that crosses sidewalks and road crossings at walking pace. It drives itself using cameras, ultrasonic sensors, radar and satellite positioning, while remote operators monitor fleets and take over at difficult crossings. Cargo sits in a locked bin that the customer opens from a phone app. Fleets work university campuses, suburbs and town centres in the United States, the United Kingdom, Finland, Denmark and Estonia.",
+  "Starship's coolers on wheels have crossed streets in dozens of cities and campuses since 2016, passing millions of commercial deliveries years before any rival. The company was founded by two Skype co founders in Estonia."
+ ],
+ "facts": [
+  "Passed 9 million autonomous deliveries in October 2025, with a fleet of roughly 2,700 robots",
+  "Founded in 2014 in Tallinn, Estonia, by Skype co founders Ahti Heinla and Janus Friis",
+  "Delivers for Grubhub on university campuses, and for Co op and Tesco stores in the United Kingdom"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "25 kg"
+  ],
+  [
+   "Payload",
+   "9.1 kg"
+  ],
+  [
+   "Top speed",
+   "1.67 m/s (6 km/h)"
+  ],
+  [
+   "Actuation",
+   "Six wheels driven by electric hub motors"
+  ],
+  [
+   "Power",
+   "Rechargeable lithium ion battery pack"
+  ],
+  [
+   "Sensors",
+   "Cameras, ultrasonic sensors, radar, satellite positioning and inertial measurement"
+  ],
+  [
+   "Autonomy",
+   "Autonomous navigation with remote operators supervising and able to take control"
+  ],
+  [
+   "Deliveries",
+   "millions completed"
+  ],
+  [
+   "Pace",
+   "approx. 6 km/h"
+  ]
+ ],
+ "see": [
+  "stretch",
+  "robotnik-summit"
+ ],
+ "refs": [
+  {
+   "label": "Starship Technologies website",
+   "url": "https://www.starship.xyz",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "starship"
+ ]
+}

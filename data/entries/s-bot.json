@@ -1,0 +1,44 @@
+{
+ "id": "s-bot",
+ "name": "s-bot",
+ "aka": [],
+ "section": "other",
+ "kind": "swarm robot",
+ "maker": "EPFL",
+ "country": "Switzerland",
+ "year": "2004",
+ "status": "research",
+ "def": "Small differential wheeled mobile robot, 15 cm in size, developed at the EPFL in Lausanne between 2001 and 2004 for swarm robotics research in the Swarm bots project.",
+ "body": [],
+ "facts": [
+  "Ranked 39th in Wired magazine's 2006 list of The 50 Best Robots Ever",
+  "Swarm bots was coordinated by Marco Dorigo",
+  "Built by engineers in Dario Floreano's group with help from student projects"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, S-bot mobile robot",
+   "url": "https://en.wikipedia.org/wiki/S-bot_mobile_robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, S-bot mobile robot (Q7387095)",
+   "url": "https://www.wikidata.org/wiki/Q7387095",
+   "kind": "wikidata"
+  },
+  {
+   "label": "EPFL website",
+   "url": "https://www.epfl.ch",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7387095"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

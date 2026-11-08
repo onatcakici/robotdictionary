@@ -1,0 +1,63 @@
+{
+ "id": "asimo",
+ "name": "ASIMO",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Honda",
+ "country": "Japan",
+ "year": "2000",
+ "status": "retired",
+ "def": "The world's most famous walking robot for two decades; retired to museum duty in 2022.",
+ "body": [
+  "ASIMO crowned two decades of Honda's secret P series walking research and toured the world shaking hands with presidents. Honda retired the programme in 2022, folding its balance and actuation research into avatar robots and, eventually, a return announced for its 0 series era."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 130 cm"
+  ],
+  [
+   "Pace",
+   "approx. 2.5 m/s run"
+  ],
+  [
+   "Generations",
+   "2000 to 2011"
+  ]
+ ],
+ "see": [
+  "p3",
+  "e2-dr"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://world.honda.com/ASIMO",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, ASIMO",
+   "url": "https://en.wikipedia.org/wiki/ASIMO",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ASIMO (Q297769)",
+   "url": "https://www.wikidata.org/wiki/Q297769",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Honda website",
+   "url": "https://global.honda",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q297769"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

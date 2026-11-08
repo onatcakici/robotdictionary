@@ -1,0 +1,35 @@
+{
+ "id": "gsf-autovacc-6",
+ "name": "GSF AutoVacC 6",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "industrial cleaning robot",
+ "maker": "Robosoft",
+ "country": "France",
+ "year": "1990",
+ "status": "prototype",
+ "def": "French prototype industrial cleaning robot of the AutoVacC type, built by Robosoft in 1990.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, GSF AutoVacC 6 robot - CnAM 45112 (Q55237924)",
+   "url": "https://www.wikidata.org/wiki/Q55237924",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Robosoft website",
+   "url": "http://www.robosoft.com/en/home/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q55237924"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

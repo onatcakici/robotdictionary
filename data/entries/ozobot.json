@@ -1,0 +1,28 @@
+{
+ "id": "ozobot",
+ "name": "Ozobot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "educational robot",
+ "maker": "Evollve",
+ "country": "United States",
+ "year": "2014",
+ "status": "production",
+ "def": "Tiny line following robot that reads coloured codes drawn on paper or a screen, used to teach coding in schools.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Ozobot website",
+   "url": "https://ozobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

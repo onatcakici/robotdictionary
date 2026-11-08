@@ -1,0 +1,78 @@
+{
+ "id": "anymal-d",
+ "name": "ANYmal D",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "ANYbotics",
+ "country": "Switzerland",
+ "year": "2021",
+ "status": "production",
+ "def": "Current ANYbotics inspection quadruped, a fifty kilogram sealed machine that walks industrial plants on its own and returns to dock.",
+ "body": [
+  "ANYmal D refines the earlier generations with more powerful ANYdrive actuators, better sealing and a fixed inspection payload carrying a zoom camera, thermal camera, ultrasonic microphone and spotlight. It maps a site once, then runs inspection missions autonomously, climbing industrial stairs and passing through narrow walkways, with roughly ninety to one hundred and twenty minutes of walking per charge. ANYbotics sells it as a complete inspection package with data software, and units work in chemical plants, power stations, mines and offshore installations."
+ ],
+ "facts": [
+  "Rated IP67 and used for unmanned inspection on industrial sites including offshore platforms",
+  "Climbs standard industrial stairs, which lets it inspect multi level process plants"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.89 m"
+  ],
+  [
+   "Length",
+   "0.93 m"
+  ],
+  [
+   "Mass",
+   "50 kg"
+  ],
+  [
+   "Payload",
+   "10 kg"
+  ],
+  [
+   "Top speed",
+   "1.3 m/s (4.7 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Runtime",
+   "2 h"
+  ],
+  [
+   "Actuation",
+   "Twelve ANYdrive series elastic electric actuators"
+  ],
+  [
+   "Power",
+   "Swappable lithium ion battery with autonomous docking"
+  ],
+  [
+   "Sensors",
+   "Sixteen channel lidar, depth cameras, 4K zoom camera, thermal camera, ultrasonic microphone"
+  ],
+  [
+   "Autonomy",
+   "Autonomous mission execution with mapping, docking and remote supervision"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ANYbotics website",
+   "url": "https://www.anybotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

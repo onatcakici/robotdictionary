@@ -1,0 +1,46 @@
+{
+ "id": "bina48",
+ "name": "BINA48",
+ "aka": [
+  "Breakthrough Intelligence via Neural Architecture 48"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot head",
+ "maker": "Hanson Robotics",
+ "country": "Hong Kong",
+ "year": "2010",
+ "status": "",
+ "def": "Humanoid robot head with chatbot software for basic conversation, built by Hanson Robotics in 2010 and made to look like Bina Aspen.",
+ "body": [],
+ "facts": [
+  "Belongs to Martine Rothblatt's Terasem Movement",
+  "Bina Aspen, its model, is Rothblatt's wife",
+  "Name stands for Breakthrough Intelligence via Neural Architecture 48"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, BINA48",
+   "url": "https://en.wikipedia.org/wiki/BINA48",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, BINA48 (Q4835692)",
+   "url": "https://www.wikidata.org/wiki/Q4835692",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Hanson Robotics website",
+   "url": "https://www.hansonrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4835692"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

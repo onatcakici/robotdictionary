@@ -1,0 +1,39 @@
+{
+ "id": "isaac",
+ "name": "Isaac",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "folding home humanoid",
+ "maker": "Weave Robotics",
+ "country": "United States",
+ "year": "2024",
+ "status": "concept",
+ "def": "A folding home humanoid sold on preorder as a household assistant.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "kaleido",
+  "kengoro"
+ ],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Weave Robotics",
+   "url": "https://www.ycombinator.com/companies/weave-robotics",
+   "kind": "yc"
+  }
+ ],
+ "ids": {
+  "yc": "weave-robotics"
+ },
+ "yc": {
+  "company": "Weave Robotics",
+  "batch": "Summer 2024",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/weave-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

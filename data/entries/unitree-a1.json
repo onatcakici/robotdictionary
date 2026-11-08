@@ -1,0 +1,71 @@
+{
+ "id": "unitree-a1",
+ "name": "Unitree A1",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Unitree Robotics",
+ "country": "China",
+ "year": "2019",
+ "status": "discontinued",
+ "def": "Twelve kilogram electric quadruped that brought dynamic legged research hardware down to a price universities could buy in quantity.",
+ "body": [
+  "A1 replaced Laikago with lighter in house actuators, a top speed above three metres per second and a simpler shell. It exposes low level joint torque control through an interface that suits reinforcement learning and controller research, so many locomotion papers between 2020 and 2023 used it. Unitree sold it worldwide at a few thousand dollars before replacing it with the Go1 series."
+ ],
+ "facts": [
+  "Widely used as a low cost research platform for learned locomotion controllers",
+  "Priced at a small fraction of comparable Western research quadrupeds"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "12 kg"
+  ],
+  [
+   "Top speed",
+   "3.3 m/s (11.9 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "In house brushless motors with planetary gear reduction"
+  ],
+  [
+   "Power",
+   "Onboard lithium battery"
+  ],
+  [
+   "Sensors",
+   "Inertial measurement unit, foot contact sensors, optional depth camera"
+  ],
+  [
+   "Autonomy",
+   "Onboard balance control with a low level developer interface"
+  ],
+  [
+   "Pace",
+   "approx. 3.3 m/s"
+  ]
+ ],
+ "see": [
+  "unitree-h1",
+  "unitree-h2"
+ ],
+ "refs": [
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "a1"
+ ]
+}

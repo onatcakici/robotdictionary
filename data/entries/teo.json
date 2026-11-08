@@ -1,0 +1,52 @@
+{
+ "id": "teo",
+ "name": "TEO",
+ "aka": [
+  "RH-2"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Universidad Carlos III de Madrid, RoboticsLab",
+ "country": "Spain",
+ "year": "2012",
+ "status": "research",
+ "def": "Full size Spanish research humanoid used to study household tasks such as ironing, folding laundry and opening doors.",
+ "body": [
+  "TEO has 24 degrees of freedom, with six degree of freedom arms ending in three finger grippers and six degree of freedom legs, and runs distributed control across three onboard computers linked by the YARP middleware. Its sensing includes a monocular camera, an RGB-D sensor and six axis force torque sensors at the wrists and ankles for compliant contact with objects and doors. The RoboticsLab at Universidad Carlos III de Madrid built it in 2012 as successor to its RH-1 humanoid, published the software openly and has also tested it with a fuel cell power system."
+ ],
+ "facts": [
+  "Demonstrated ironing and laundry folding as household task research",
+  "Successor to the RH-1 humanoid at Universidad Carlos III de Madrid"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "24"
+  ],
+  [
+   "Actuation",
+   "Electric motors with harmonic drive gears"
+  ],
+  [
+   "Sensors",
+   "Monocular camera, RGB-D sensor, six axis force torque sensors at wrists and ankles"
+  ],
+  [
+   "Autonomy",
+   "Distributed control across three onboard computers on the YARP middleware"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Universidad Carlos III de Madrid, RoboticsLab website",
+   "url": "https://www.uc3m.es",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

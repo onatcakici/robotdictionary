@@ -1,0 +1,31 @@
+{
+ "id": "loona",
+ "name": "Loona",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "KEYi Tech",
+ "country": "China",
+ "year": "2022",
+ "status": "production",
+ "def": "A crowdfunded petbot that plays fetch and argues via a language model.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "lovot",
+  "lucki"
+ ],
+ "refs": [
+  {
+   "label": "KEYi Tech website",
+   "url": "https://www.keyirobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

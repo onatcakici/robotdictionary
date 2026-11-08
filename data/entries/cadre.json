@@ -1,0 +1,53 @@
+{
+ "id": "cadre",
+ "name": "CADRE",
+ "aka": [
+  "Cooperative Autonomous Distributed Robotic Exploration"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "",
+ "status": "prototype",
+ "def": "Set of three suitcase sized solar rovers built to explore the Moon as an autonomous team sharing a single radar measurement.",
+ "body": [
+  "CADRE is a technology demonstration of multi robot autonomy in which three identical four wheeled rovers elect a leader, divide up a survey area and drive without step by step commands from Earth. Each carries stereo cameras and an antenna for a multistatic ground penetrating radar that only works when several rovers cooperate, building a three dimensional picture of the subsurface. The flight rovers are complete and are to reach the Reiner Gamma region aboard the Intuitive Machines IM-3 lander, working for about one lunar day."
+ ],
+ "facts": [
+  "Three rovers designed to work as an autonomous team",
+  "Radar measurement requires several rovers operating together",
+  "Flight hardware built and awaiting launch on IM-3"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheel drive with independent steering on each rover"
+  ],
+  [
+   "Power",
+   "Solar panel with rechargeable battery on each rover"
+  ],
+  [
+   "Sensors",
+   "Stereo cameras, sun sensors, multistatic ground penetrating radar"
+  ],
+  [
+   "Autonomy",
+   "Distributed multi agent planning over mesh radio with an elected leader"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,56 @@
+{
+ "id": "marie-curie",
+ "name": "Marie Curie",
+ "aka": [
+  "Sojourner flight spare"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "1996",
+ "status": "retired",
+ "def": "Flight spare twin of the Sojourner microrover, built for Mars Pathfinder and later used for engineering work before museum preservation.",
+ "body": [
+  "Marie Curie was assembled alongside Sojourner as an identical flight spare, ready to substitute for it before the 1996 launch. JPL kept the rover on Earth for engineering and outreach work, and it was studied as a candidate payload for a later Mars lander that was never flown. It is now preserved in the collection of the Smithsonian National Air and Space Museum."
+ ],
+ "facts": [
+  "Identical twin of the first rover to drive on Mars",
+  "Never flew and is held in the Smithsonian collection"
+ ],
+ "specs": [
+  [
+   "Length",
+   "0.65 m"
+  ],
+  [
+   "Mass",
+   "10.6 kg"
+  ],
+  [
+   "Actuation",
+   "Six independently driven wheels on a rocker bogie chassis"
+  ],
+  [
+   "Power",
+   "Solar array with primary lithium batteries"
+  ],
+  [
+   "Sensors",
+   "Three cameras and laser stripe hazard detection"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

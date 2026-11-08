@@ -1,0 +1,41 @@
+{
+ "id": "servo7",
+ "name": "Servo7",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "container unloading robot",
+ "maker": "Servo7",
+ "country": "Netherlands",
+ "year": "",
+ "status": "",
+ "def": "Robot that unloads loose cartons from shipping containers, used by logistics firms including DHL and PostNL.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Servo7",
+   "url": "https://www.ycombinator.com/companies/servo7",
+   "kind": "yc"
+  },
+  {
+   "label": "Servo7 website",
+   "url": "https://servo7.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "servo7"
+ },
+ "yc": {
+  "company": "Servo7",
+  "batch": "Winter 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/servo7"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,56 @@
+{
+ "id": "charli-2",
+ "name": "CHARLI-2",
+ "aka": [
+  "CHARLI"
+ ],
+ "section": "humanoids",
+ "kind": "lightweight full size humanoid",
+ "maker": "Virginia Tech, Robotics and Mechanisms Laboratory",
+ "country": "United States",
+ "year": "2011",
+ "status": "retired",
+ "def": "Lightweight full size humanoid built by students at Virginia Tech that won the adult size soccer competition at RoboCup 2011.",
+ "body": [
+  "CHARLI-2 is 141 cm tall yet weighs only about 12 kg, built from aluminium alloy, titanium and carbon fibre with 25 degrees of freedom driven by direct current motors. It walks with a compliant gait, kicks a ball, tracks the field with an onboard camera and shifts posture to absorb pushes, working fully autonomously during matches. Dennis Hong's laboratory won the RoboCup 2011 adult size humanoid league and the Louis Vuitton Best Humanoid Award with it in Istanbul."
+ ],
+ "facts": [
+  "Won the RoboCup 2011 adult size humanoid league",
+  "Received the Louis Vuitton Best Humanoid Award in 2011"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.41 m"
+  ],
+  [
+   "Mass",
+   "12.1 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "25"
+  ],
+  [
+   "Actuation",
+   "32 direct current motors"
+  ],
+  [
+   "Autonomy",
+   "Fully autonomous during matches with onboard vision and gait control"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Virginia Tech, Robotics and Mechanisms Laboratory website",
+   "url": "https://www.vt.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

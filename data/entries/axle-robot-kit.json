@@ -1,0 +1,42 @@
+{
+ "id": "axle-robot-kit",
+ "name": "Axle Robot Kit",
+ "aka": [
+  "Axle robot"
+ ],
+ "section": "other",
+ "kind": "educational robot kit",
+ "maker": "True Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robot kit from the American company True Robotics that students in grades 6 to 8 build for classroom learning.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.truerobotics.org/robots/axle",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Axle Robot Kit (Q141648869)",
+   "url": "https://www.wikidata.org/wiki/Q141648869",
+   "kind": "wikidata"
+  },
+  {
+   "label": "True Robotics website",
+   "url": "https://www.truerobotics.org/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q141648869"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

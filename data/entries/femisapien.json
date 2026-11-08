@@ -1,0 +1,43 @@
+{
+ "id": "femisapien",
+ "name": "FemiSapien",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "toy robot",
+ "maker": "WowWee",
+ "country": "",
+ "year": "2008",
+ "status": "",
+ "def": "Female humanoid toy robot from WowWee that responds to what it sees, hears and feels, and accepts programmed sequences of movements.",
+ "body": [],
+ "facts": [
+  "Unveiled at CES in January 2008",
+  "Planned at $99 and selling for $89.99 by 2009"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, FemiSapien",
+   "url": "https://en.wikipedia.org/wiki/FemiSapien",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, FemiSapien (Q5442784)",
+   "url": "https://www.wikidata.org/wiki/Q5442784",
+   "kind": "wikidata"
+  },
+  {
+   "label": "WowWee website",
+   "url": "https://wowwee.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5442784"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

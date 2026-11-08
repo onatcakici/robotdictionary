@@ -1,0 +1,44 @@
+{
+ "id": "tekno-the-robotic-puppy",
+ "name": "Tekno the Robotic Puppy",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "robotic toy dog",
+ "maker": "",
+ "country": "United Kingdom, United States relations",
+ "year": "2000",
+ "status": "",
+ "def": "Electronic robot dog toy launched in late 2000 that became a worldwide hit, with sales passing 40 million in its first four years.",
+ "body": [],
+ "facts": [
+  "Launched in late 2000",
+  "Sold more than 7 million units in its first season",
+  "Featured on the cover of Time magazine"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://tekno-robotics.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Tekno the Robotic Puppy",
+   "url": "https://en.wikipedia.org/wiki/Tekno_the_Robotic_Puppy",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Tekno the Robotic Puppy (Q7695468)",
+   "url": "https://www.wikidata.org/wiki/Q7695468",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7695468"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

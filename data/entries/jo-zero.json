@@ -1,0 +1,37 @@
+{
+ "id": "jo-zero",
+ "name": "JO-ZERO",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Himeji Softworks",
+ "country": "",
+ "year": "2009",
+ "status": "",
+ "def": "Humanoid robot designed by manga artist Minoru Kamiya, creator of the anime Act On!, and manufactured by Himeji Softworks.",
+ "body": [],
+ "facts": [
+  "Presented at the International Robot Exhibition in 2009"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, JO-ZERO",
+   "url": "https://en.wikipedia.org/wiki/JO-ZERO",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, JO-ZERO (Q6108622)",
+   "url": "https://www.wikidata.org/wiki/Q6108622",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6108622"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

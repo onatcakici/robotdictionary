@@ -1,0 +1,56 @@
+{
+ "id": "saffir",
+ "name": "SAFFiR",
+ "aka": [
+  "Shipboard Autonomous Firefighting Robot"
+ ],
+ "section": "humanoids",
+ "kind": "bipedal firefighting robot",
+ "maker": "Virginia Tech with the US Naval Research Laboratory",
+ "country": "United States",
+ "year": "2014",
+ "status": "prototype",
+ "def": "Bipedal firefighting robot developed for the US Navy that walked a decommissioned ship's compartments and aimed a hose at a live fire.",
+ "body": [
+  "SAFFiR is 1.78 m tall and weighs about 65 kg, with legs driven by linear series elastic actuators and whole body momentum control so it can stay upright on a moving deck and step over door sills. It navigates smoke using infrared stereo vision and a rotating laser scanner, with a human supervisor able to take over any task. In November 2014 the Office of Naval Research tested it aboard the ex-USS Shadwell, where it walked uneven flooring, located overheated equipment by thermal imaging and suppressed a fire with a hose."
+ ],
+ "facts": [
+  "Fought a live fire aboard the ex-USS Shadwell in November 2014",
+  "Funded by the Office of Naval Research with the Naval Research Laboratory"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.78 m"
+  ],
+  [
+   "Mass",
+   "65 kg"
+  ],
+  [
+   "Actuation",
+   "Linear series elastic actuators with titanium springs"
+  ],
+  [
+   "Sensors",
+   "Infrared stereo vision, rotating lidar, six axis force and torque sensors in the ankles"
+  ],
+  [
+   "Autonomy",
+   "Semi autonomous task execution with a human supervisor in the loop"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Virginia Tech with the US Naval Research Laboratory website",
+   "url": "https://www.vt.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

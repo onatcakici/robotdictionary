@@ -1,0 +1,44 @@
+{
+ "id": "gd01",
+ "name": "GD01",
+ "aka": [],
+ "section": "medical",
+ "kind": "powered exoskeleton",
+ "maker": "Unitree Robotics",
+ "country": "China",
+ "year": "",
+ "status": "",
+ "def": "Large powered exoskeleton made by the Chinese company Unitree Robotics, standing 2.7 m tall with a mass of 500 kg.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "2.7 m"
+  ],
+  [
+   "Mass",
+   "500 kg"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, GD01 (Q139796077)",
+   "url": "https://www.wikidata.org/wiki/Q139796077",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q139796077"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

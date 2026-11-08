@@ -1,0 +1,33 @@
+{
+ "id": "european-robotic-arm",
+ "name": "European Robotic Arm",
+ "aka": [],
+ "section": "arms",
+ "kind": "space robot arm",
+ "maker": "Airbus Defence and Space",
+ "country": "Netherlands",
+ "year": "2021",
+ "status": "service",
+ "def": "Robotic arm for the Russian segment of the International Space Station, launched attached to the Nauka module in 2021.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Length",
+   "11.3 m"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "European Space Agency website",
+   "url": "https://www.esa.int",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

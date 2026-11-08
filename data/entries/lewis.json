@@ -1,0 +1,37 @@
+{
+ "id": "lewis",
+ "name": "Lewis",
+ "aka": [],
+ "section": "other",
+ "kind": "robot photographer",
+ "maker": "Washington University in St. Louis",
+ "country": "United States",
+ "year": "",
+ "status": "research",
+ "def": "Autonomous robot photographer from the Media and Machines Laboratory at Washington University in St. Louis that roams social events taking pictures of guests.",
+ "body": [],
+ "facts": [
+  "Built to do the job of a wedding photographer"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Lewis (robot)",
+   "url": "https://en.wikipedia.org/wiki/Lewis_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Lewis (Q6536231)",
+   "url": "https://www.wikidata.org/wiki/Q6536231",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6536231"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

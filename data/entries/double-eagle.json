@@ -1,0 +1,35 @@
+{
+ "id": "double-eagle",
+ "name": "Double Eagle",
+ "aka": [],
+ "section": "marine",
+ "kind": "mine disposal vehicle",
+ "maker": "Saab Underwater Systems",
+ "country": "Sweden",
+ "year": "",
+ "status": "service",
+ "def": "Remotely operated underwater vehicle built by the Swedish defense company Saab Underwater Systems for disposing of naval mines, in use with several navies.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Double Eagle (mine disposal vehicle)",
+   "url": "https://en.wikipedia.org/wiki/Double_Eagle_(mine_disposal_vehicle)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Double Eagle (Q5299759)",
+   "url": "https://www.wikidata.org/wiki/Q5299759",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5299759"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

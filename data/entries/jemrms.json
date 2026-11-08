@@ -1,0 +1,30 @@
+{
+ "id": "jemrms",
+ "name": "JEMRMS",
+ "aka": [],
+ "section": "arms",
+ "kind": "space robot arm",
+ "maker": "JAXA",
+ "country": "Japan",
+ "year": "2008",
+ "status": "service",
+ "def": "Robotic arm system of the Japanese Kibo module on the International Space Station, used to move experiments onto the module's exposed platform.",
+ "body": [],
+ "facts": [
+  "Pairs a main arm about 10 m long with a small fine arm for delicate work"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "JAXA website",
+   "url": "https://global.jaxa.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

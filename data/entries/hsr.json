@@ -1,0 +1,31 @@
+{
+ "id": "hsr",
+ "name": "HSR",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Toyota",
+ "country": "Japan",
+ "year": "2015",
+ "status": "research",
+ "def": "Toyota's Human Support Robot, a one armed home helper standard in RoboCup@Home.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "t-hr3",
+  "cue"
+ ],
+ "refs": [
+  {
+   "label": "Toyota website",
+   "url": "https://global.toyota",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,49 @@
+{
+ "id": "irobot-create",
+ "name": "iRobot Create",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "hobbyist robot",
+ "maker": "iRobot",
+ "country": "United States",
+ "year": "2007",
+ "status": "",
+ "def": "Hobbyist robot made by iRobot from its Roomba vacuum platform, with the cleaning hardware replaced by a cargo bay for robotics development work.",
+ "body": [],
+ "facts": [
+  "Introduced in 2007",
+  "Cargo bay holds a DB-9 port for serial data, input, output and power",
+  "Takes motor commands through the iRobot Roomba Open Interface protocol"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.irobot.com/global/en/home.aspx",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, IRobot Create",
+   "url": "https://en.wikipedia.org/wiki/IRobot_Create",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, iRobot Create (Q1949014)",
+   "url": "https://www.wikidata.org/wiki/Q1949014",
+   "kind": "wikidata"
+  },
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1949014"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

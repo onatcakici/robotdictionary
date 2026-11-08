@@ -1,0 +1,37 @@
+{
+ "id": "discovery",
+ "name": "Discovery",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Specialist Machine Development",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "",
+ "def": "Remotely operated underwater vehicle built in Britain by Specialist Machine Development for use in China; little has been published about it.",
+ "body": [],
+ "facts": [
+  "CSR Corporation Limited acquired builder SMD in April 2015"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Discovery ROUV",
+   "url": "https://en.wikipedia.org/wiki/Discovery_ROUV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Discovery ROUV (Q111944420)",
+   "url": "https://www.wikidata.org/wiki/Q111944420",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q111944420"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,28 @@
+{
+ "id": "duckiebot",
+ "name": "Duckiebot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "educational robot",
+ "maker": "Duckietown",
+ "country": "United States",
+ "year": "2016",
+ "status": "production",
+ "def": "Small camera guided robot car used in the Duckietown course on autonomy, which began at MIT in 2016.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Duckietown website",
+   "url": "https://www.duckietown.org",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

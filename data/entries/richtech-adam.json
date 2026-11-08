@@ -1,0 +1,78 @@
+{
+ "id": "richtech-adam",
+ "name": "ADAM",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "two armed beverage robot",
+ "maker": "Richtech Robotics",
+ "country": "United States",
+ "year": "2023",
+ "status": "service",
+ "def": "Two armed beverage robot that mixes and serves drinks in arenas, hotels and hospitals, leased to venues as a staffed kiosk replacement.",
+ "body": [
+  "ADAM is a fixed humanoid torso with two collaborative arms and a screen face, mounted in a bar or coffee kiosk rather than walking on legs. It works from recipe programs with vision guided grasping on NVIDIA Jetson compute, pouring, shaking and garnishing drinks while displaying an animated face to customers. Richtech leases the units, and they have poured drinks at a Vegas Golden Knights arena, the 2024 Major League Baseball All-Star Game and a Kaiser Permanente hospital cafe in Santa Clarita."
+ ],
+ "facts": [
+  "Served drinks at the 2024 Major League Baseball All-Star Game",
+  "Operates as a robot barista at a Kaiser Permanente hospital cafe in California",
+  "Deployed at NHL arena concession stands under a leasing model"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Two collaborative robot arms on a fixed torso"
+  ],
+  [
+   "Power",
+   "Mains powered kiosk installation"
+  ],
+  [
+   "Sensors",
+   "Cameras for cup and ingredient detection with an animated display face"
+  ],
+  [
+   "Autonomy",
+   "Recipe driven task sequencing with vision guided grasping on NVIDIA Jetson compute"
+  ]
+ ],
+ "see": [
+  "aeo",
+  "aeon"
+ ],
+ "refs": [
+  {
+   "label": "Richtech Robotics website",
+   "url": "https://www.richtechrobotics.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Robot Scientist",
+   "url": "https://en.wikipedia.org/wiki/Robot_Scientist",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Adam (robot scientist) (Q4048358)",
+   "url": "https://www.wikidata.org/wiki/Q4048358",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, economist.com",
+   "url": "https://www.economist.com/science-and-technology/2023/09/13/could-ai-transform-science-itself",
+   "kind": "cited"
+  },
+  {
+   "label": "Ross D. King website",
+   "url": "http://www.mib.ac.uk/people/staffprofile/kingr.aspx",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4048358"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "adam"
+ ]
+}

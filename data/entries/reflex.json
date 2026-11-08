@@ -1,0 +1,31 @@
+{
+ "id": "reflex",
+ "name": "Reflex",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "wheeled telepresence trained humanoid",
+ "maker": "Reflex Robotics",
+ "country": "United States",
+ "year": "2024",
+ "status": "pilot",
+ "def": "A wheeled telepresence trained humanoid that gets to work minutes out of the crate.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "robear",
+  "robonaut-2"
+ ],
+ "refs": [
+  {
+   "label": "Supply Chain 247, Reflex Robotics showcases humanoid",
+   "url": "https://www.supplychain247.com/article/reflex_robotics_showcases_humanoid_robot",
+   "kind": "press"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": "bionickangaroo",
+ "name": "BionicKangaroo",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "jumping robot",
+ "maker": "Festo",
+ "country": "",
+ "year": "",
+ "status": "research",
+ "def": "Kangaroo shaped jumping robot from Festo that, like the animal, recovers energy from each hop and puts it into the next.",
+ "body": [],
+ "facts": [
+  "Design drew on Festo's study of how kangaroos move"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.festo.com/group/en/cms/10219.htm",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, BionicKangaroo",
+   "url": "https://en.wikipedia.org/wiki/BionicKangaroo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, BionicKangaroo (Q22906768)",
+   "url": "https://www.wikidata.org/wiki/Q22906768",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q22906768"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

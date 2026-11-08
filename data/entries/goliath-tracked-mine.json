@@ -1,0 +1,45 @@
+{
+ "id": "goliath-tracked-mine",
+ "name": "Goliath tracked mine",
+ "aka": [
+  "beetle tank"
+ ],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "",
+ "country": "Nazi Germany",
+ "year": "",
+ "status": "retired",
+ "def": "Unmanned single use tracked vehicle used by the German Army in the Second World War to carry a warhead against tanks, infantry, buildings and bridges.",
+ "body": [],
+ "facts": [
+  "Fielded by the German Army during World War II",
+  "Also known as the beetle tank"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Goliath tracked mine",
+   "url": "https://en.wikipedia.org/wiki/Goliath_tracked_mine",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Goliath tracked mine (Q571184)",
+   "url": "https://www.wikidata.org/wiki/Q571184",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Maker website",
+   "url": "http://www.borgward.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q571184"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

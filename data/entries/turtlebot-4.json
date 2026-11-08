@@ -1,0 +1,33 @@
+{
+ "id": "turtlebot-4",
+ "name": "TurtleBot 4",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Clearpath and Open Robotics",
+ "country": "Canada",
+ "year": "2022",
+ "status": "production",
+ "def": "The standard issue teaching robot of the ROS curriculum.",
+ "body": [
+  "TurtleBot is how roboticists learn ROS: four generations of affordable teaching robots, the latest built by Clearpath on iRobot's Create 3 base."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "uvd-robot",
+  "vector"
+ ],
+ "refs": [
+  {
+   "label": "Clearpath and Open Robotics website",
+   "url": "https://clearpathrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

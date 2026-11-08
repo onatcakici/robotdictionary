@@ -1,0 +1,39 @@
+{
+ "id": "depthx",
+ "name": "DEPTHX",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Stone Aerospace",
+ "country": "United States",
+ "year": "",
+ "status": "research",
+ "def": "Autonomous underwater vehicle that Stone Aerospace of Austin, Texas, built to map and sample flooded sinkholes in northern Mexico, as a NASA funded step toward exploring Europa.",
+ "body": [],
+ "facts": [
+  "First of three NASA funded vehicles built by Stone Aerospace",
+  "Built to gather water samples and cores from sinkhole walls",
+  "Name stands for Deep Phreatic Thermal Explorer"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, DEPTHX",
+   "url": "https://en.wikipedia.org/wiki/DEPTHX",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, DEPTHX (Q1182383)",
+   "url": "https://www.wikidata.org/wiki/Q1182383",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1182383"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

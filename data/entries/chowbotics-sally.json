@@ -1,0 +1,28 @@
+{
+ "id": "chowbotics-sally",
+ "name": "Sally",
+ "aka": [],
+ "section": "arms",
+ "kind": "salad making robot",
+ "maker": "Chowbotics",
+ "country": "United States",
+ "year": "",
+ "status": "discontinued",
+ "def": "Vending machine sized robot that assembled salads and bowls from refrigerated canisters, bought by DoorDash in 2021.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/w/index.php?search=Chowbotics+Sally",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

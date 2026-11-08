@@ -1,0 +1,37 @@
+{
+ "id": "levo-3d",
+ "name": "LeVO 3D",
+ "aka": [
+  "LeVO3D"
+ ],
+ "section": "wheeled",
+ "kind": "autonomous reach truck",
+ "maker": "Atlas Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Autonomous industrial truck that serves as a stacker and reach truck, part of the LeVO line from the American company Atlas Robotics.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, LeVO 3D (Q140450888)",
+   "url": "https://www.wikidata.org/wiki/Q140450888",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Atlas Robotics website",
+   "url": "https://www.atlas-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140450888"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

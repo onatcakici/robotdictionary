@@ -1,0 +1,37 @@
+{
+ "id": "bluefin-21",
+ "name": "Bluefin-21",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Bluefin Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Autonomous underwater vehicle from Bluefin Robotics for defence, commercial and scientific tasks, best known for its part in the 2014 hunt for Malaysia Airlines Flight 370.",
+ "body": [],
+ "facts": [
+  "Searched for the wreckage of Malaysia Airlines Flight 370 in April 2014"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Bluefin-21",
+   "url": "https://en.wikipedia.org/wiki/Bluefin-21",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Bluefin-21 (Q16735899)",
+   "url": "https://www.wikidata.org/wiki/Q16735899",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q16735899"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

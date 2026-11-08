@@ -1,0 +1,56 @@
+{
+ "id": "ai-da",
+ "name": "Ai-Da",
+ "aka": [
+  "Aida",
+  "Ai da"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Engineered Arts",
+ "country": "United Kingdom",
+ "year": "2019",
+ "status": "service",
+ "def": "Humanoid robot artist, completed in 2019 by Engineered Arts, that produces drawings, paintings and sculptures.",
+ "body": [],
+ "facts": [
+  "Named after Ada Lovelace",
+  "Draws people in pencil using a bionic hand and cameras in its eyes"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.ai-darobot.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Ai-Da",
+   "url": "https://en.wikipedia.org/wiki/Ai-Da",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ai-Da (Q65588986)",
+   "url": "https://www.wikidata.org/wiki/Q65588986",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, science.sciencemag.org",
+   "url": "https://science.sciencemag.org/content/365/6448/38.full",
+   "kind": "cited"
+  },
+  {
+   "label": "Engineered Arts website",
+   "url": "https://www.engineeredarts.co.uk/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q65588986"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

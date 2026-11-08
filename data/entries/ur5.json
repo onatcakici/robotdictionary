@@ -1,0 +1,40 @@
+{
+ "id": "ur5",
+ "name": "UR5",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Universal Robots",
+ "country": "Denmark",
+ "year": "2008",
+ "status": "discontinued",
+ "def": "Six axis arm from Universal Robots that was among the first robots sold to work beside people without a safety cage.",
+ "body": [],
+ "facts": [
+  "Payload of 5 kg and reach of 850 mm",
+  "Succeeded by the UR5e in 2018"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "5 kg"
+  ],
+  [
+   "Reach",
+   "850 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Universal Robots website",
+   "url": "https://www.universal-robots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

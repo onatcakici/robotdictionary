@@ -1,0 +1,31 @@
+{
+ "id": "n1-fourier",
+ "name": "N1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Fourier",
+ "country": "China",
+ "year": "2025",
+ "status": "research",
+ "def": "An open source compact humanoid released with full build files.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "gr-3",
+  "n2-noetix"
+ ],
+ "refs": [
+  {
+   "label": "Fourier website",
+   "url": "https://www.fftai.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

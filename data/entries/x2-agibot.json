@@ -1,0 +1,31 @@
+{
+ "id": "x2-agibot",
+ "name": "Lingxi X2",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "nimble small humanoid",
+ "maker": "AgiBot",
+ "country": "China",
+ "year": "2025",
+ "status": "research",
+ "def": "A nimble small humanoid that rides bicycles and skateboards in viral demonstrations.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "agibot-a2",
+  "x1-agibot"
+ ],
+ "refs": [
+  {
+   "label": "AgiBot website",
+   "url": "https://www.agibot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

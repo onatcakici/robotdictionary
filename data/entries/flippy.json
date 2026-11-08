@@ -1,0 +1,28 @@
+{
+ "id": "flippy",
+ "name": "Flippy",
+ "aka": [],
+ "section": "arms",
+ "kind": "kitchen robot",
+ "maker": "Miso Robotics",
+ "country": "United States",
+ "year": "2017",
+ "status": "production",
+ "def": "Robot arm from Miso Robotics that flips burgers and runs deep fryers in fast food kitchens, first placed at CaliBurger.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Miso Robotics website",
+   "url": "https://misorobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

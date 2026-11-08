@@ -1,0 +1,28 @@
+{
+ "id": "roborock-s5",
+ "name": "Roborock S5",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "Roborock",
+ "country": "China",
+ "year": "2018",
+ "status": "discontinued",
+ "def": "Robot vacuum and mop from Roborock that maps rooms with a spinning laser distance sensor.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Roborock website",
+   "url": "https://www.roborock.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

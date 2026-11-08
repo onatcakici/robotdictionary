@@ -1,0 +1,51 @@
+{
+ "id": "marvin",
+ "name": "Marvin",
+ "aka": [
+  "Mobile Autonomous Robot Vehicle for Indoor Navigation"
+ ],
+ "section": "wheeled",
+ "kind": "research robot",
+ "maker": "University of Kaiserslautern",
+ "country": "Germany",
+ "year": "",
+ "status": "research",
+ "def": "Indoor mobile research robot from the Robotics Lab at the University of Kaiserslautern, using laser scanners, ultrasonic sensors and a camera to navigate and map rooms.",
+ "body": [],
+ "facts": [
+  "Name stands for Mobile Autonomous Robot Vehicle for Indoor Navigation",
+  "Uses a differential drive and a behaviour based control system",
+  "Has a stereo microphone system to locate sound sources"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://agrosy.informatik.uni-kl.de/en/robots/marvin/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Marvin (robot)",
+   "url": "https://en.wikipedia.org/wiki/Marvin_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Marvin (Q6778277)",
+   "url": "https://www.wikidata.org/wiki/Q6778277",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Kaiserslautern website",
+   "url": "https://www.uni-kl.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6778277"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

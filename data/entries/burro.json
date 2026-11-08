@@ -1,0 +1,31 @@
+{
+ "id": "burro",
+ "name": "Burro",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Burro",
+ "country": "United States",
+ "year": "2019",
+ "status": "production",
+ "def": "A self driving farm cart following grape pickers down vineyard rows.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "care-o-bot",
+  "cc1"
+ ],
+ "refs": [
+  {
+   "label": "Burro website",
+   "url": "https://burro.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

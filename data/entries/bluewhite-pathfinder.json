@@ -1,0 +1,51 @@
+{
+ "id": "bluewhite-pathfinder",
+ "name": "Pathfinder",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Bluewhite",
+ "country": "Israel",
+ "year": "",
+ "status": "production",
+ "def": "Retrofit autonomy kit that turns conventional orchard and vineyard tractors into driverless machines supervised from a control room by one operator running several tractors.",
+ "body": [
+  "Pathfinder is a retrofit kit rather than a new vehicle, adding steering, throttle, brake and implement actuation plus a sensor mast to tractors a grower already owns. Lidar, radar, cameras and corrected satellite positioning let the tractor drive orchard and vineyard rows driverless while pulling sprayers, mowers and harvest aids. A supervisor watches a fleet from a dashboard and can stop or reroute any machine. It runs in California almond, citrus and vineyard operations as well as in Israel."
+ ],
+ "facts": [
+  "Works as a brand agnostic kit fitted to tractors from several manufacturers",
+  "Announced a collaboration with the farm equipment maker CNH on autonomous tractors",
+  "Bluewhite was acquired by the defence and technology group Elbit Systems"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Retrofit actuation of steering, throttle, brakes and implement controls on existing tractors"
+  ],
+  [
+   "Power",
+   "The host tractor's diesel engine"
+  ],
+  [
+   "Sensors",
+   "Lidar, radar, cameras and corrected satellite positioning"
+  ],
+  [
+   "Autonomy",
+   "Driverless row work supervised from a control room and mobile app, one operator overseeing several tractors"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Bluewhite website",
+   "url": "https://www.bluewhite.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

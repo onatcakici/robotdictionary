@@ -1,0 +1,28 @@
+{
+ "id": "delaval-vms",
+ "name": "DeLaval VMS",
+ "aka": [],
+ "section": "arms",
+ "kind": "milking robot",
+ "maker": "DeLaval",
+ "country": "Sweden",
+ "year": "",
+ "status": "production",
+ "def": "Voluntary milking system in which a robot arm attaches the teat cups as each cow enters the stall.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "DeLaval website",
+   "url": "https://www.delaval.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

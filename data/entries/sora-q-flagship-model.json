@@ -1,0 +1,40 @@
+{
+ "id": "sora-q-flagship-model",
+ "name": "SORA-Q Flagship Model",
+ "aka": [],
+ "section": "other",
+ "kind": "toy robot",
+ "maker": "Tomy",
+ "country": "Japan",
+ "year": "2023",
+ "status": "",
+ "def": "Radio controlled mobile toy robot released in 2023 by the Japanese toy company Tomy as the flagship model bearing the SORA-Q name.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.takaratomy.co.jp/products/space-toy/flagshipmodel/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, SORA-Q Flagship Model (Q117829450)",
+   "url": "https://www.wikidata.org/wiki/Q117829450",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Tomy website",
+   "url": "https://www.takaratomy.co.jp/english/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q117829450"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

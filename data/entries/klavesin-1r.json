@@ -1,0 +1,30 @@
+{
+ "id": "klavesin-1r",
+ "name": "Klavesin-1R",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "",
+ "country": "Russia",
+ "year": "",
+ "status": "",
+ "def": "Russian autonomous underwater vehicle, a type of uncrewed submersible that navigates and operates underwater without direct human control.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Klavesin-1R (Q113412269)",
+   "url": "https://www.wikidata.org/wiki/Q113412269",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q113412269"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

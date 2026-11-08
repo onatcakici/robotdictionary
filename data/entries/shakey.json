@@ -1,0 +1,67 @@
+{
+ "id": "shakey",
+ "name": "Shakey",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "mobile robot",
+ "maker": "SRI International",
+ "country": "United States",
+ "year": "1966",
+ "status": "retired",
+ "def": "The first mobile robot able to reason about its own actions, a wheeled machine that pushed blocks around laboratory rooms under program control.",
+ "body": [
+  "Shakey was built at Stanford Research Institute between 1966 and 1972 as a tall wheeled cart carrying a television camera, sonar range finders and bump detectors, linked by radio to a mainframe. Given a command such as pushing a block off a platform, it broke the task into steps using the STRIPS planner, then drove, found a ramp and pushed the block. Work on the project produced the A star search algorithm and the Hough transform, both still in use. The robot is retired and displayed at the Computer History Museum in California.",
+  "Shakey, built at SRI between 1966 and 1972, was the first robot to plan its own actions, and the research around it produced the A* search algorithm and the Hough transform, foundations of computing far beyond robotics."
+ ],
+ "facts": [
+  "Work on Shakey produced the A star search algorithm and the Hough transform",
+  "Inducted into the Robot Hall of Fame in 2004 and marked with an IEEE Milestone",
+  "On display at the Computer History Museum in Mountain View, California"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Wheeled cart with a drive base and a camera mast"
+  ],
+  [
+   "Power",
+   "Onboard batteries with a radio link to a mainframe computer"
+  ],
+  [
+   "Sensors",
+   "Television camera, sonar range finders and bump detectors"
+  ],
+  [
+   "Autonomy",
+   "Off board planning with the STRIPS planner over a radio link"
+  ]
+ ],
+ "see": [
+  "exotec-skypod",
+  "sojourner"
+ ],
+ "refs": [
+  {
+   "label": "SRI International website",
+   "url": "https://www.sri.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Shakey the robot",
+   "url": "https://en.wikipedia.org/wiki/Shakey_the_robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Shakey the robot (Q1810639)",
+   "url": "https://www.wikidata.org/wiki/Q1810639",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1810639"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

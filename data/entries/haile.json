@@ -1,0 +1,39 @@
+{
+ "id": "haile",
+ "name": "Haile",
+ "aka": [],
+ "section": "other",
+ "kind": "robotic musician",
+ "maker": "Georgia Institute of Technology",
+ "country": "",
+ "year": "2006",
+ "status": "research",
+ "def": "Robotic percussionist from the Georgia Institute of Technology that listens to live music through a microphone and plays its own rhythm on a real drum.",
+ "body": [],
+ "facts": [
+  "Designed in 2006 by Georgia Tech professor Gil Weinberg with student Scott Driscoll",
+  "Billed as the first robot to make acoustic percussion rather than play through speakers",
+  "Switches between leading and following roles based on what it hears"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Haile (robot)",
+   "url": "https://en.wikipedia.org/wiki/Haile_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Haile (Q5639231)",
+   "url": "https://www.wikidata.org/wiki/Q5639231",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5639231"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

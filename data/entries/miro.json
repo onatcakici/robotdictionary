@@ -1,0 +1,43 @@
+{
+ "id": "miro",
+ "name": "MiRo",
+ "aka": [
+  "MIRO",
+  "Miro"
+ ],
+ "section": "other",
+ "kind": "social robot",
+ "maker": "Consequential Robotics",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "",
+ "def": "Social robot made by the British company Consequential Robotics, intended to interact and communicate with people.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.miro-e.com/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, MiRo (Q108800525)",
+   "url": "https://www.wikidata.org/wiki/Q108800525",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Consequential Robotics website",
+   "url": "http://consequentialrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q108800525"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

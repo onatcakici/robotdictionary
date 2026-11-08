@@ -1,0 +1,74 @@
+{
+ "id": "wildcat",
+ "name": "WildCat",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "untethered petrol powered quadruped",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2013",
+ "status": "retired",
+ "def": "Untethered petrol powered quadruped built to run fast in the open, the free running successor to the treadmill bound Cheetah.",
+ "body": [
+  "WildCat carried its own two stroke engine and hydraulic power unit, so it could gallop and bound across a car park rather than on a treadmill. Its gait control came from the same DARPA funded work as Cheetah, with an articulated body and hydraulic legs tuned for high stride rates. In 2013 Boston Dynamics released video of it running at about 26 kilometres per hour on flat ground, the fastest untethered legged robot at the time."
+ ],
+ "facts": [
+  "Ran untethered at about 26 km/h, then the fastest recorded for a legged robot",
+  "Built under the DARPA Maximum Mobility and Manipulation programme"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "7.1 m/s (25.6 km/h)"
+  ],
+  [
+   "Actuation",
+   "Hydraulic actuators with an articulated body"
+  ],
+  [
+   "Power",
+   "Onboard two stroke petrol engine driving a hydraulic pump"
+  ],
+  [
+   "Autonomy",
+   "Onboard gait and balance control, remotely piloted"
+  ],
+  [
+   "Pace",
+   "approx. 8.8 m/s"
+  ]
+ ],
+ "see": [
+  "atlas-hydraulic",
+  "atlas"
+ ],
+ "refs": [
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://bostondynamics.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.bostondynamics.com/legacy",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Wildcat (robot) (Q96574312)",
+   "url": "https://www.wikidata.org/wiki/Q96574312",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://www.bostondynamics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q96574312"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

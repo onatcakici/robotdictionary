@@ -1,0 +1,31 @@
+{
+ "id": "garmi",
+ "name": "GARMI",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "TU Munich",
+ "country": "Germany",
+ "year": "2021",
+ "status": "research",
+ "def": "A wheeled geriatric care humanoid doubling as a telemedicine avatar.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "lola",
+  "geminoid"
+ ],
+ "refs": [
+  {
+   "label": "TU Munich website",
+   "url": "https://www.tum.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,31 @@
+{
+ "id": "temi",
+ "name": "temi",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Temi",
+ "country": "Israel",
+ "year": "2019",
+ "status": "production",
+ "def": "A telepresence and assistant robot that follows its owner from room to room.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "tertill",
+  "themis"
+ ],
+ "refs": [
+  {
+   "label": "Temi website",
+   "url": "https://www.robotemi.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

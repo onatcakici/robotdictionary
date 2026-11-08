@@ -1,0 +1,40 @@
+{
+ "id": "creoqode-nova",
+ "name": "Creoqode NOVA",
+ "aka": [],
+ "section": "other",
+ "kind": "educational robot",
+ "maker": "Creoqode",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "",
+ "def": "Educational robot model from the British company Creoqode, intended for teaching and learning about robotics.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.creoqode.com/nova",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Creoqode NOVA (Q114357916)",
+   "url": "https://www.wikidata.org/wiki/Q114357916",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Maker website",
+   "url": "https://www.creoqode.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q114357916"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

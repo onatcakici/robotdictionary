@@ -1,0 +1,38 @@
+{
+ "id": "roo-ver",
+ "name": "Roo ver",
+ "aka": [],
+ "section": "rovers",
+ "kind": "lunar rover",
+ "maker": "ELO2",
+ "country": "Australia",
+ "year": "",
+ "status": "development",
+ "def": "Lunar rover funded by the Australian Space Agency and under construction by the ELO2 consortium, with launch to the Moon's south polar region planned for 2030.",
+ "body": [],
+ "facts": [
+  "The first Australian lunar rover",
+  "Scheduled to fly on the Intuitive Machines Nova-D lander"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Roo-ver (lunar rover)",
+   "url": "https://en.wikipedia.org/wiki/Roo-ver_(lunar_rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Roo-ver (Q141431261)",
+   "url": "https://www.wikidata.org/wiki/Q141431261",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q141431261"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

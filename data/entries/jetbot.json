@@ -1,0 +1,28 @@
+{
+ "id": "jetbot",
+ "name": "JetBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "educational robot",
+ "maker": "NVIDIA",
+ "country": "United States",
+ "year": "2019",
+ "status": "",
+ "def": "Open source robot kit built around an NVIDIA Jetson Nano computer, used to learn vision based navigation.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "NVIDIA website",
+   "url": "https://www.nvidia.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

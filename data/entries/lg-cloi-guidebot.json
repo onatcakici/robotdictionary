@@ -1,0 +1,70 @@
+{
+ "id": "lg-cloi-guidebot",
+ "name": "LG CLOi GuideBot",
+ "aka": [
+  "AirStar"
+ ],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "LG Electronics",
+ "country": "South Korea",
+ "year": "2017",
+ "status": "production",
+ "def": "Airport and lobby guide robot with a large touch screen that answers questions in several languages and escorts visitors to their destination.",
+ "body": [
+  "The CLOi GuideBot is a chest high wheeled robot with a 27 inch touch display on its body and a small face screen on the head. Lidar, time of flight and depth sensors let it plan routes in real time through crowds and across marble, carpet, tile and wood floors. Travellers can ask for a gate, shop or check in desk and have the robot lead them there. It was first fielded as an airport guide at Incheon International Airport in 2017 and is now sold for hotels, malls, offices and museums."
+ ],
+ "facts": [
+  "First deployed as an airport guide at Incheon International Airport in 2017",
+  "Carries a 27 inch body touch display and a 9.2 inch face display",
+  "Launched with Korean and English, with more languages added later"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.5 m"
+  ],
+  [
+   "Mass",
+   "80 kg"
+  ],
+  [
+   "Top speed",
+   "0.98 m/s (3.5 km/h)"
+  ],
+  [
+   "Runtime",
+   "9 h"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with about five hours to charge"
+  ],
+  [
+   "Sensors",
+   "Lidar, time of flight and depth cameras with bumper and magnetic sensors"
+  ],
+  [
+   "Autonomy",
+   "Real time route planning with obstacle recognition on mixed floor surfaces"
+  ]
+ ],
+ "see": [
+  "q9",
+  "cloi-servebot"
+ ],
+ "refs": [
+  {
+   "label": "LG Electronics website",
+   "url": "https://www.lg.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "cloi-guidebot"
+ ]
+}

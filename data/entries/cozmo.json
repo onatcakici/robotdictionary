@@ -1,0 +1,55 @@
+{
+ "id": "cozmo",
+ "name": "Cozmo",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Anki",
+ "country": "United States",
+ "year": "2016",
+ "status": "discontinued",
+ "def": "A toy forklift with the soul of a Pixar character; a million sold before its maker folded.",
+ "body": [
+  "Cozmo out charmed toys costing ten times more, animated by former Pixar talent; a million sold before Anki's 2019 shutdown became the industry's cautionary tale about consumer robotics."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "create-3",
+  "curiosity"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.digitaldreamlabs.com/pages/cozmo",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Cozmo",
+   "url": "https://en.wikipedia.org/wiki/Cozmo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Cozmo (Q114771888)",
+   "url": "https://www.wikidata.org/wiki/Q114771888",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, wired.com",
+   "url": "https://www.wired.com/2016/06/anki-cozmo-ai-robot-toy/",
+   "kind": "cited"
+  },
+  {
+   "label": "Anki website",
+   "url": "https://anki.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q114771888"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,37 @@
+{
+ "id": "fanuc-lr-mate-200id",
+ "name": "LR Mate 200iD",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot arm",
+ "maker": "FANUC",
+ "country": "Japan",
+ "year": "",
+ "status": "production",
+ "def": "Compact six axis arm from FANUC, one of the most widely installed small industrial robots.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "7 kg"
+  ],
+  [
+   "Reach",
+   "717 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "FANUC website",
+   "url": "https://www.fanuc.co.jp/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

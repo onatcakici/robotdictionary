@@ -1,0 +1,37 @@
+{
+ "id": "robostrider",
+ "name": "Robostrider",
+ "aka": [],
+ "section": "other",
+ "kind": "biomimetic robot",
+ "maker": "",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Self propelled robot that copies the way water striders move so it can skim across the surface of water, developed in Cambridge, Massachusetts.",
+ "body": [],
+ "facts": [
+  "Developed in Cambridge, Massachusetts"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Robostrider",
+   "url": "https://en.wikipedia.org/wiki/Robostrider",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robostrider (Q7353311)",
+   "url": "https://www.wikidata.org/wiki/Q7353311",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7353311"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

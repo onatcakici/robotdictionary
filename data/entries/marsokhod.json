@@ -1,0 +1,62 @@
+{
+ "id": "marsokhod",
+ "name": "Marsokhod",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "VNII Transmash",
+ "country": "Russia",
+ "year": "1993",
+ "status": "research",
+ "def": "Soviet designed six wheeled rover chassis used in Russian, French and American field trials at volcanoes and deserts through the 1990s.",
+ "body": [
+  "The Marsokhod chassis carries three pairs of large conical titanium wheels on articulated segments, letting the body flex and climb obstacles taller than the wheels themselves. Built for a Soviet Mars mission that never flew, the chassis was instead used in international field campaigns, including tests on the volcanic terrain of Kamchatka in 1993 and desert sites in California, often with NASA Ames supplying science payloads and remote operations. Those trials fed directly into later rover mobility designs and remote science practice."
+ ],
+ "facts": [
+  "Flexing chassis can climb obstacles larger than its wheels",
+  "Used in joint Russian, French and American analogue field tests"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Three articulated segments, each with a pair of driven conical wheels"
+  ],
+  [
+   "Power",
+   "Battery electric with solar options in some trials"
+  ],
+  [
+   "Sensors",
+   "Stereo cameras, imaging mast and campaign specific science payloads"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated with limited onboard navigation"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "VNII Transmash website",
+   "url": "https://www.rovercompany.ru",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Marsokhod",
+   "url": "https://en.wikipedia.org/wiki/Marsokhod",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Marsokhod (Q18474242)",
+   "url": "https://www.wikidata.org/wiki/Q18474242",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q18474242"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

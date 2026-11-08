@@ -1,0 +1,31 @@
+{
+ "id": "rev-1",
+ "name": "REV-1",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Refraction AI",
+ "country": "United States",
+ "year": "2019",
+ "status": "pilot",
+ "def": "A three wheeled delivery robot sized between bicycle and car, riding in bike lanes.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "robomaster-s1",
+  "roomba"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, REV-1",
+   "url": "https://en.wikipedia.org/w/index.php?search=REV-1+Refraction+AI",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

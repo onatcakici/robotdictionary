@@ -1,0 +1,42 @@
+{
+ "id": "cotton-candy-dan",
+ "name": "Cotton Candy Dan",
+ "aka": [
+  "Stirring Cotton Candy Clown"
+ ],
+ "section": "other",
+ "kind": "animatronic figure",
+ "maker": "Spirit Halloween",
+ "country": "",
+ "year": "2024",
+ "status": "",
+ "def": "Animatronic clown prop shown stirring cotton candy, sold by the retailer Spirit Halloween for the 2024 Halloween season.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.spirithalloween.com/product/266672.uts",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Cotton Candy Dan (Q138796138)",
+   "url": "https://www.wikidata.org/wiki/Q138796138",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Spirit Halloween website",
+   "url": "https://www.spirithalloween.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q138796138"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

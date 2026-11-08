@@ -1,0 +1,31 @@
+{
+ "id": "corleo",
+ "name": "CORLEO",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Kawasaki",
+ "country": "Japan",
+ "year": "2025",
+ "status": "concept",
+ "def": "A hydrogen powered rideable quadruped concept steered by the rider's body.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "kaleido",
+  "bex"
+ ],
+ "refs": [
+  {
+   "label": "Kawasaki website",
+   "url": "https://kawasakirobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

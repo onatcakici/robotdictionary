@@ -1,0 +1,39 @@
+{
+ "id": "jason",
+ "name": "Jason",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Woods Hole Oceanographic Institution",
+ "country": "",
+ "year": "1988",
+ "status": "service",
+ "def": "Two body remotely operated vehicle built and operated by the National Deep Submergence Laboratory of the Woods Hole Oceanographic Institution, first launched in 1988.",
+ "body": [],
+ "facts": [
+  "Construction began in 1982",
+  "Rebuilt in 2002 as the second version of the vehicle",
+  "By 2020 it had completed 147 cruises, over 1,200 dives and over 16,000 dive hours"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Jason (ROV)",
+   "url": "https://en.wikipedia.org/wiki/Jason_(ROV)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Jason (Q6161888)",
+   "url": "https://www.wikidata.org/wiki/Q6161888",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6161888"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

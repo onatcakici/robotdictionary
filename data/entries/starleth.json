@@ -1,0 +1,61 @@
+{
+ "id": "starleth",
+ "name": "StarlETH",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "series elastic electric quadruped",
+ "maker": "ETH Zurich",
+ "country": "Switzerland",
+ "year": "2012",
+ "status": "retired",
+ "def": "Series elastic electric quadruped from ETH Zurich that showed compliant actuation could give small legged robots dynamic gaits.",
+ "body": [
+  "StarlETH used series elastic actuators, motors coupled to their joints through springs, which let it absorb impacts and estimate joint torque without separate force sensors. Onboard computers ran a virtual model controller that produced walking, trotting and jumping, and the machine was tested on rubble, slopes and stairs. It was the direct predecessor of ANYmal and of the ANYdrive actuator that ANYbotics later commercialised."
+ ],
+ "facts": [
+  "Demonstrated torque controllable series elastic legs on a fully battery powered quadruped",
+  "Led directly to ANYmal and the ETH Zurich spin off ANYbotics"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "23 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Series elastic electric actuators, three joints per leg"
+  ],
+  [
+   "Power",
+   "Onboard lithium polymer battery"
+  ],
+  [
+   "Sensors",
+   "Joint encoders, spring deflection sensing, inertial measurement unit"
+  ],
+  [
+   "Autonomy",
+   "Onboard virtual model and torque control"
+  ]
+ ],
+ "see": [
+  "vision-60",
+  "wildcat"
+ ],
+ "refs": [
+  {
+   "label": "ETH Zurich website",
+   "url": "https://ethz.ch",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

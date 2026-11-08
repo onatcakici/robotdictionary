@@ -1,0 +1,41 @@
+{
+ "id": "os3",
+ "name": "OS3",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "mobile humanoid",
+ "maker": "OS3",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Low cost mobile humanoid designed and built in the United States by a two person team.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, OS3",
+   "url": "https://www.ycombinator.com/companies/os3",
+   "kind": "yc"
+  },
+  {
+   "label": "OS3 website",
+   "url": "https://os3robotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "os3"
+ },
+ "yc": {
+  "company": "OS3",
+  "batch": "Summer 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/os3"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

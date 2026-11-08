@@ -1,0 +1,28 @@
+{
+ "id": "worx-landroid",
+ "name": "Landroid",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robotic lawn mower",
+ "maker": "Worx",
+ "country": "China",
+ "year": "",
+ "status": "production",
+ "def": "Family of battery robot lawn mowers from Worx sold for home gardens.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Worx website",
+   "url": "https://www.worx.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

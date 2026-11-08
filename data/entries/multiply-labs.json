@@ -1,0 +1,41 @@
+{
+ "id": "multiply-labs",
+ "name": "Multiply Labs",
+ "aka": [],
+ "section": "arms",
+ "kind": "pharmaceutical manufacturing robot",
+ "maker": "Multiply Labs",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Cloud controlled modular robotic system that manufactures individualized drugs, a process normally done by hand.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Multiply Labs",
+   "url": "https://www.ycombinator.com/companies/multiply-labs",
+   "kind": "yc"
+  },
+  {
+   "label": "Multiply Labs website",
+   "url": "http://multiplylabs.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "multiply-labs"
+ },
+ "yc": {
+  "company": "Multiply Labs",
+  "batch": "Summer 2016",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/multiply-labs"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,58 @@
+{
+ "id": "drc-hubo-plus",
+ "name": "DRC-Hubo+",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "KAIST with Rainbow Robotics",
+ "country": "South Korea",
+ "year": "2015",
+ "status": "research",
+ "def": "Transformable KAIST humanoid that won the 2015 DARPA Robotics Challenge Finals by switching between walking and rolling on knee wheels.",
+ "body": [
+  "DRC-Hubo+ is 1.7 m tall, weighs 80 kg and has 32 degrees of freedom, with rotating hips and wheels in the knees so it can kneel forward and drive across flat ground instead of balancing on two feet. Operators supervised it through a teleoperation interface while onboard software handled balance, grasping and perception from a rotating laser scanner and cameras. Team KAIST completed all eight disaster response tasks in 44 minutes and 28 seconds to take the two million dollar first prize in Pomona, California, and a unit of the family carried the torch in the 2018 PyeongChang Winter Olympics relay."
+ ],
+ "facts": [
+  "Won the 2015 DARPA Robotics Challenge Finals",
+  "Switches between bipedal walking and kneeling wheeled locomotion"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.7 m"
+  ],
+  [
+   "Mass",
+   "80 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "32"
+  ],
+  [
+   "Actuation",
+   "Electric servo motors with harmonic drive gears"
+  ],
+  [
+   "Sensors",
+   "Rotating laser scanner, cameras, joint and force sensing"
+  ],
+  [
+   "Autonomy",
+   "Supervised teleoperation with onboard balance and grasp control"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "KAIST with Rainbow Robotics website",
+   "url": "https://www.kaist.ac.kr",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

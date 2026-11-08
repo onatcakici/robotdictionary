@@ -1,0 +1,54 @@
+{
+ "id": "spring-flamingo",
+ "name": "Spring Flamingo",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "MIT Leg Laboratory",
+ "country": "United States",
+ "year": "1996",
+ "status": "retired",
+ "def": "Planar walking biped at MIT that pioneered series elastic actuators and force controlled walking on flat ground and shallow slopes.",
+ "body": [
+  "Spring Flamingo is 90 cm tall, weighs about 13.5 kg and has six force controlled joints, an actuated hip, knee and ankle on each leg, with motors in the body driving them through cables. Jerry Pratt built it around series elastic actuators, which place a spring between motor and load so joint force can be measured and controlled precisely, and used simple intuitive control laws instead of tracking precomputed trajectories. The robot walked continuous laps around a boom and its control ideas carried into later humanoid work at IHMC."
+ ],
+ "facts": [
+  "Early demonstration of series elastic actuation for legged robots",
+  "Control approach carried forward into later IHMC humanoid work"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.9 m"
+  ],
+  [
+   "Mass",
+   "13.5 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "6"
+  ],
+  [
+   "Actuation",
+   "Series elastic actuators with cable drives from body mounted motors"
+  ],
+  [
+   "Autonomy",
+   "Intuitive force based walking control, boom constrained to the sagittal plane"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "MIT Leg Laboratory website",
+   "url": "https://www.mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": "jessiko",
+ "name": "Jessiko",
+ "aka": [],
+ "section": "marine",
+ "kind": "robot fish",
+ "maker": "Robotswim",
+ "country": "France",
+ "year": "",
+ "status": "",
+ "def": "Small autonomous robotic fish, 22 cm long, created by the French startup Robotswim, based in Palaiseau near Paris.",
+ "body": [],
+ "facts": [
+  "Measures 22 cm (8.7 in) in length"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.robotswim.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Jessiko",
+   "url": "https://en.wikipedia.org/wiki/Jessiko",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Jessiko (Q10662761)",
+   "url": "https://www.wikidata.org/wiki/Q10662761",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q10662761"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

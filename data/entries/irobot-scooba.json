@@ -1,0 +1,28 @@
+{
+ "id": "irobot-scooba",
+ "name": "Scooba",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "floor washing robot",
+ "maker": "iRobot",
+ "country": "United States",
+ "year": "2005",
+ "status": "discontinued",
+ "def": "Floor washing robot from iRobot that sprayed, scrubbed and squeegeed hard floors.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

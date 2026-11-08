@@ -1,0 +1,28 @@
+{
+ "id": "excelsiusgps",
+ "name": "ExcelsiusGPS",
+ "aka": [],
+ "section": "medical",
+ "kind": "spine surgery robot",
+ "maker": "Globus Medical",
+ "country": "United States",
+ "year": "2017",
+ "status": "production",
+ "def": "Robotic navigation system that holds instruments on a planned path for placing screws in the spine.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Globus Medical website",
+   "url": "https://www.globusmedical.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

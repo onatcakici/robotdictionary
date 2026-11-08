@@ -1,0 +1,33 @@
+{
+ "id": "anymal-x",
+ "name": "ANYmal X",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "ANYbotics",
+ "country": "Switzerland",
+ "year": "2023",
+ "status": "production",
+ "def": "The explosion proof ANYmal certified for oil, gas and chemical plants.",
+ "body": [
+  "ANYmal X carries its certification like armour: the first explosion proof legged robot, cleared for the gas soaked zones of chemical and energy plants where a spark is catastrophe."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "anymal",
+  "unitree-b2"
+ ],
+ "refs": [
+  {
+   "label": "ANYbotics website",
+   "url": "https://www.anybotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

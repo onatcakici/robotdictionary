@@ -1,0 +1,39 @@
+{
+ "id": "mini-rover-rov",
+ "name": "Mini Rover ROV",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Deep Sea Systems International",
+ "country": "United States",
+ "year": "1983",
+ "status": "",
+ "def": "Tethered underwater remotely operated vehicle created by Chris Nicholson of Deep Sea Systems International, introduced in 1983 as the first compact and inexpensive ROV.",
+ "body": [],
+ "facts": [
+  "Launched at $26,850 when the next cheapest ROV cost $100,000",
+  "First unit built in Nicholson's garage in Falmouth, Massachusetts",
+  "26 inches long and 55 pounds, small enough to travel as airline luggage"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Mini Rover ROV",
+   "url": "https://en.wikipedia.org/wiki/Mini_Rover_ROV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Mini Rover ROV (Q17069296)",
+   "url": "https://www.wikidata.org/wiki/Q17069296",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17069296"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

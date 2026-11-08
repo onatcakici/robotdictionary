@@ -1,0 +1,28 @@
+{
+ "id": "senhance",
+ "name": "Senhance",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Asensus Surgical",
+ "country": "United States",
+ "year": "2017",
+ "status": "production",
+ "def": "Laparoscopic surgical robot with eye tracking camera control and haptic feedback for the surgeon.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Asensus Surgical website",
+   "url": "https://www.asensus.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

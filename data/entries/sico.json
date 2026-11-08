@@ -1,0 +1,35 @@
+{
+ "id": "sico",
+ "name": "SICO",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "entertainment robot",
+ "maker": "International Robotics Inc.",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Entertainment robot made by International Robotics and offered commercially, featured in the film Rocky IV.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://internationalrobotics.com/rocky-4-robot/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, SICO (Q112666887)",
+   "url": "https://www.wikidata.org/wiki/Q112666887",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q112666887"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

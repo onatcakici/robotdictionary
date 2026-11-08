@@ -1,0 +1,93 @@
+{
+ "id": "zhurong",
+ "name": "Zhurong",
+ "aka": [
+  "Tianwen-1 rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "China Academy of Space Technology",
+ "country": "China",
+ "year": "2020",
+ "status": "lost",
+ "def": "China's first Mars rover, which explored southern Utopia Planitia for a year and found evidence of water altered soils and buried shorelines.",
+ "body": [
+  "Zhurong rode the Tianwen-1 orbiter to Mars and landed in Utopia Planitia in May 2021, making China the second country to operate a rover on the Martian surface. Four foldable solar panels powered a six wheel active suspension that could lift a wheel or crab sideways, with ground penetrating radar, a laser induced breakdown spectrometer and a magnetometer. It drove 1,921 metres in about a year and reported hydrated minerals in young dune deposits and radar layering read as ancient coastal sediments, then entered hibernation in May 2022 and never responded again."
+ ],
+ "facts": [
+  "Made China the second nation to drive a rover on Mars",
+  "Travelled 1,921 metres before hibernating in May 2022",
+  "Radar data supported the case for ancient shoreline deposits"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.85 m"
+  ],
+  [
+   "Mass",
+   "240 kg"
+  ],
+  [
+   "Distance driven",
+   "1.921 km"
+  ],
+  [
+   "Actuation",
+   "Six wheel active suspension able to crab sideways and lift wheels"
+  ],
+  [
+   "Power",
+   "Four foldable solar panels with a phase change heat storage system"
+  ],
+  [
+   "Sensors",
+   "Navigation and topography cameras, multispectral camera, ground penetrating radar, laser induced breakdown spectrometer, magnetometer, weather station"
+  ],
+  [
+   "Autonomy",
+   "Ground planned drives with onboard hazard detection"
+  ],
+  [
+   "Length",
+   "2.6 m"
+  ],
+  [
+   "Width",
+   "3 m"
+  ]
+ ],
+ "see": [
+  "yutu-2",
+  "yutu"
+ ],
+ "refs": [
+  {
+   "label": "China Academy of Space Technology website",
+   "url": "https://www.cnsa.gov.cn",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Zhurong (rover)",
+   "url": "https://en.wikipedia.org/wiki/Zhurong_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Zhurong (Q106614244)",
+   "url": "https://www.wikidata.org/wiki/Q106614244",
+   "kind": "wikidata"
+  },
+  {
+   "label": "China Academy of Space Technology website",
+   "url": "https://www.cast.cn/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q106614244"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

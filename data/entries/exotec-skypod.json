@@ -1,0 +1,64 @@
+{
+ "id": "exotec-skypod",
+ "name": "Skypod",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "warehouse robot",
+ "maker": "Exotec",
+ "country": "France",
+ "year": "2018",
+ "status": "production",
+ "def": "Warehouse robot that drives across the floor and then climbs the face of the racking to retrieve bins stored up to 14 metres high.",
+ "body": [
+  "A Skypod is a four wheel drive robot that travels on the floor at up to 4 m per second, then grips rails on a rack upright and climbs vertically to reach a bin. Each robot carries one bin of up to 30 kg and delivers it to a picking station, so throughput scales by adding robots rather than rebuilding the rack. Onboard navigation and Exotec fleet software coordinate the movement, and the robots can drive under racking to change aisles. Systems are installed for grocers, sporting goods retailers, apparel brands and manufacturers."
+ ],
+ "facts": [
+  "Climbs racking to about 14 m to reach stored bins",
+  "Named customers include Carrefour, Decathlon and Gap",
+  "Throughput is scaled by adding robots to an existing rack"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "30 kg"
+  ],
+  [
+   "Top speed",
+   "4 m/s (14.4 km/h)"
+  ],
+  [
+   "Actuation",
+   "Four wheel drive chassis that grips rack rails and climbs vertically"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with automatic charging"
+  ],
+  [
+   "Sensors",
+   "Onboard cameras and laser sensing"
+  ],
+  [
+   "Autonomy",
+   "Onboard navigation coordinated by Exotec fleet software"
+  ]
+ ],
+ "see": [
+  "sojourner",
+  "sphero"
+ ],
+ "refs": [
+  {
+   "label": "Exotec website",
+   "url": "https://www.exotec.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "skypod"
+ ]
+}

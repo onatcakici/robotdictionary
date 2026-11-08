@@ -1,0 +1,28 @@
+{
+ "id": "aesop",
+ "name": "AESOP",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Computer Motion",
+ "country": "United States",
+ "year": "1994",
+ "status": "retired",
+ "def": "Robotic arm that held and moved the endoscope camera during keyhole surgery, the first surgical robot cleared by the US Food and Drug Administration.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/w/index.php?search=AESOP+robot+surgery",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

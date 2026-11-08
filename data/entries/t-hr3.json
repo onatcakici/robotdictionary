@@ -1,0 +1,31 @@
+{
+ "id": "t-hr3",
+ "name": "T-HR3",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "teleoperated avatar humanoid",
+ "maker": "Toyota",
+ "country": "Japan",
+ "year": "2017",
+ "status": "research",
+ "def": "A teleoperated avatar humanoid that mirrors its pilot through force feedback exoskeleton controls.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "cue",
+  "hsr"
+ ],
+ "refs": [
+  {
+   "label": "Toyota website",
+   "url": "https://global.toyota",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,88 @@
+{
+ "id": "khr-3-hubo",
+ "name": "HUBO",
+ "aka": [
+  "KHR-3",
+  "KHR-3 HUBO"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "KAIST Humanoid Robot Research Center",
+ "country": "South Korea",
+ "year": "2005",
+ "status": "research",
+ "def": "Third generation KAIST biped with five fingered hands and independently moving eyes that walked at 1.25 km/h, danced and gripped objects.",
+ "body": [
+  "HUBO is 125 cm tall, weighs 56 kg and has 41 degrees of freedom driven by electric motors through harmonic drive gears. It walks using zero moment point based control on an onboard computer and adds voice recognition, independently steerable eyes and hands able to grasp and gesture. Jun Ho Oh's group built it in 2005 as the basis for the later HUBO 2 and DRC-Hubo machines, and copies were supplied to laboratories in the United States for shared humanoid research.",
+  "KAIST's HUBO line culminated in DRC-HUBO, which won the 2015 DARPA Robotics Challenge and its two million dollar prize by kneeling into a wheeled stance its rivals lacked, finishing the disaster course in under forty five minutes."
+ ],
+ "facts": [
+  "Basis for Albert HUBO and the later DRC-Hubo machines",
+  "Copies used in the United States as a shared humanoid research platform"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.25 m"
+  ],
+  [
+   "Mass",
+   "56 kg"
+  ],
+  [
+   "Top speed",
+   "0.35 m/s (1.3 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "41"
+  ],
+  [
+   "Actuation",
+   "Electric servo motors with harmonic drive gears"
+  ],
+  [
+   "Autonomy",
+   "Onboard computer running zero moment point walking control"
+  ],
+  [
+   "Prize",
+   "2015 DRC winner, $2M"
+  ]
+ ],
+ "see": [
+  "hound",
+  "ibuki"
+ ],
+ "refs": [
+  {
+   "label": "KAIST Humanoid Robot Research Center website",
+   "url": "https://www.kaist.ac.kr",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, HUBO",
+   "url": "https://en.wikipedia.org/wiki/HUBO",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, HUBO (Q495049)",
+   "url": "https://www.wikidata.org/wiki/Q495049",
+   "kind": "wikidata"
+  },
+  {
+   "label": "KAIST website",
+   "url": "https://kaist.ac.kr",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q495049"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "hubo"
+ ]
+}

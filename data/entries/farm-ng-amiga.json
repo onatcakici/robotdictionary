@@ -1,0 +1,56 @@
+{
+ "id": "farm-ng-amiga",
+ "name": "Amiga",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "farm-ng",
+ "country": "United States",
+ "year": "2021",
+ "status": "production",
+ "def": "Modular open source electric farm robot with adjustable track width, used by small farms and researchers to carry tools, sensors and custom implements.",
+ "body": [
+  "The Amiga is a modular electric platform with four independently driven wheels on a frame whose width and height can be reconfigured for different bed spacings. It is sold with open hardware and an open source software stack, so growers, universities and startups can bolt on their own tools and write their own autonomy behaviours. Standard kits include tool bars, seeders and camera rigs. It is used for small scale vegetable production, orchard work and as a research base."
+ ],
+ "facts": [
+  "Hardware and software are published openly and used as a teaching and research platform",
+  "Founded by robotics engineer Ethan Rublee, previously a computer vision engineer in industry",
+  "Marketed to small and mid sized specialty crop farms rather than broadacre operations"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four independently driven electric wheels on a reconfigurable frame with adjustable track width"
+  ],
+  [
+   "Power",
+   "Swappable lithium battery packs"
+  ],
+  [
+   "Sensors",
+   "Depth cameras and satellite positioning, with expansion ports for user sensors"
+  ],
+  [
+   "Autonomy",
+   "Open source stack supporting teleoperation, taught routes and row following, extensible by the user"
+  ]
+ ],
+ "see": [
+  "ascento",
+  "astro"
+ ],
+ "refs": [
+  {
+   "label": "farm-ng website",
+   "url": "https://farm-ng.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "amiga"
+ ]
+}

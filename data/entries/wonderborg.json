@@ -1,0 +1,38 @@
+{
+ "id": "wonderborg",
+ "name": "WonderBorg",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "programmable robot kit",
+ "maker": "Bandai",
+ "country": "",
+ "year": "2000",
+ "status": "",
+ "def": "Programmable six legged robot kit shaped like a beetle, released by Bandai in 2000 for use with the WonderSwan and Windows PCs.",
+ "body": [],
+ "facts": [
+  "Released by Bandai in 2000",
+  "Has working antennae and six legs, imitating a beetle"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, WonderBorg",
+   "url": "https://en.wikipedia.org/wiki/WonderBorg",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, WonderBorg (Q8031712)",
+   "url": "https://www.wikidata.org/wiki/Q8031712",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q8031712"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

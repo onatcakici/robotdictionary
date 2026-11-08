@@ -1,0 +1,91 @@
+{
+ "id": "aibo-ers-110",
+ "name": "AIBO ERS-110",
+ "aka": [
+  "AIBO"
+ ],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Sony",
+ "country": "Japan",
+ "year": "1999",
+ "status": "discontinued",
+ "def": "Sony's first consumer robot dog, an eighteen joint autonomous quadruped sold as an entertainment pet rather than a research machine.",
+ "body": [
+  "The ERS-110 walked on four legs driven by small geared servo actuators and carried a colour camera, microphones and touch sensors in a moulded plastic body. Onboard software gave it moods, reflexes and a learning behaviour system, so owners interacted with it instead of programming paths. Sony offered the first batch in Japan in June 1999 at about 250,000 yen and the initial three thousand units sold within minutes, making AIBO the first mass market legged robot.",
+  "Sony's aibo defined the robot companion: the 1999 original sold out in minutes, and when support ended, Japanese owners held Buddhist funerals for theirs. The 2018 revival added cloud memories and a subscription heartbeat."
+ ],
+ "facts": [
+  "First three thousand units sold in about twenty minutes in Japan in June 1999",
+  "Opened the consumer entertainment robot market at about 250,000 yen per unit"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "1.6 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "18"
+  ],
+  [
+   "Actuation",
+   "Geared electric servo actuators"
+  ],
+  [
+   "Power",
+   "Removable lithium ion battery"
+  ],
+  [
+   "Sensors",
+   "Colour camera, stereo microphones, touch and acceleration sensors"
+  ],
+  [
+   "Autonomy",
+   "Onboard behaviour and emotion software"
+  ],
+  [
+   "Height",
+   "approx. 30 cm"
+  ],
+  [
+   "Generations",
+   "ERS-110 (1999) to ERS-1000 (2018)"
+  ]
+ ],
+ "see": [
+  "qrio",
+  "aliengo"
+ ],
+ "refs": [
+  {
+   "label": "Sony website",
+   "url": "https://www.sony.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, AIBO",
+   "url": "https://en.wikipedia.org/wiki/AIBO",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, AIBO (Q403438)",
+   "url": "https://www.wikidata.org/wiki/Q403438",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Maker website",
+   "url": "https://sorayama.net",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q403438"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "aibo"
+ ]
+}

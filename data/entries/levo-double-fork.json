@@ -1,0 +1,35 @@
+{
+ "id": "levo-double-fork",
+ "name": "LeVO Double Fork",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "autonomous pallet jack",
+ "maker": "Atlas Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Autonomous pallet jack with a double fork, a variant of the LeVO made by the American company Atlas Robotics.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, LeVO Double Fork (Q140450763)",
+   "url": "https://www.wikidata.org/wiki/Q140450763",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Atlas Robotics website",
+   "url": "https://www.atlas-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140450763"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

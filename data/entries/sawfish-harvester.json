@@ -1,0 +1,40 @@
+{
+ "id": "sawfish-harvester",
+ "name": "Sawfish harvester",
+ "aka": [
+  "Sawfish"
+ ],
+ "section": "marine",
+ "kind": "underwater logging robot",
+ "maker": "Triton Logging Inc.",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Submersible logging robot made by Triton Logging that uses large pincers and a chainsaw to fell trees flooded by dams and float them to the surface.",
+ "body": [],
+ "facts": [
+  "Targets forests flooded when dams are built nearby",
+  "Submerged wood stays usable for long periods"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Sawfish harvester",
+   "url": "https://en.wikipedia.org/wiki/Sawfish_harvester",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sawfish harvester (Q7428628)",
+   "url": "https://www.wikidata.org/wiki/Q7428628",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7428628"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

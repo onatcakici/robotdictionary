@@ -1,0 +1,37 @@
+{
+ "id": "sensei-x",
+ "name": "Sensei X",
+ "aka": [],
+ "section": "medical",
+ "kind": "robotic catheter system",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Medical robot that helps physicians guide a catheter, a small flexible tube, during complex minimally invasive operations.",
+ "body": [],
+ "facts": [
+  "Guides catheters used to treat target tissue and deliver medicines"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Sensei robotic catheter system",
+   "url": "https://en.wikipedia.org/wiki/Sensei_robotic_catheter_system",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sensei robotic catheter system (Q3478619)",
+   "url": "https://www.wikidata.org/wiki/Q3478619",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3478619"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,35 @@
+{
+ "id": "mantis",
+ "name": "Mantis",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "case picking robot",
+ "maker": "Atlas Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Autonomous robot from the American company Atlas Robotics that works as a pallet jack and can also pick individual cases.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Mantis (Q140450900)",
+   "url": "https://www.wikidata.org/wiki/Q140450900",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Atlas Robotics website",
+   "url": "https://www.atlas-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140450900"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

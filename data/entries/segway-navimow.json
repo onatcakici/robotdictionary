@@ -1,0 +1,56 @@
+{
+ "id": "segway-navimow",
+ "name": "Navimow",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Segway",
+ "country": "China",
+ "year": "2021",
+ "status": "production",
+ "def": "Wire free robotic lawn mower that uses satellite positioning to stay inside a mapped area, aimed at residential lawns in Europe and North America.",
+ "body": [
+  "Navimow is a residential robotic mower that dispensed with the buried boundary wire, using a satellite reference antenna and corrected positioning to hold a virtual boundary drawn in a phone app. The user walks the perimeter once during setup, then edits zones and schedules from the app. Later models add cameras for obstacle recognition alongside the satellite fix, and the mower docks itself to recharge between cuts. Segway sells it for domestic lawns through consumer and garden machinery channels."
+ ],
+ "facts": [
+  "Launched in Europe in 2021 as one of the first mainstream wire free robotic mowers",
+  "Uses a satellite reference station mounted on the house or a pole for centimetre level positioning",
+  "Built by Segway, better known for self balancing personal transporters and scooters"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Two driven wheels with a rear caster and a rotating blade disc"
+  ],
+  [
+   "Power",
+   "Lithium battery with an automatic charging base"
+  ],
+  [
+   "Sensors",
+   "Satellite positioning with a reference antenna, plus cameras for obstacle recognition on later models"
+  ],
+  [
+   "Autonomy",
+   "Wire free autonomous mowing inside app defined virtual boundaries and zones"
+  ]
+ ],
+ "see": [
+  "neo-avidbots",
+  "neolix-x3"
+ ],
+ "refs": [
+  {
+   "label": "Segway website",
+   "url": "https://www.segway.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "navimow"
+ ]
+}

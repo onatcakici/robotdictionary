@@ -1,0 +1,37 @@
+{
+ "id": "ur30",
+ "name": "UR30",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Universal Robots",
+ "country": "Denmark",
+ "year": "2023",
+ "status": "production",
+ "def": "Compact high payload arm from Universal Robots that shares the joint design of the UR20.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "30 kg"
+  ],
+  [
+   "Reach",
+   "1300 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Universal Robots website",
+   "url": "https://www.universal-robots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

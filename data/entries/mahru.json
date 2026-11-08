@@ -1,0 +1,43 @@
+{
+ "id": "mahru",
+ "name": "MAHRU",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Korea Institute of Science and Technology",
+ "country": "South Korea",
+ "year": "",
+ "status": "research",
+ "def": "Humanoid robot developed by the Korea Institute of Science and Technology that draws its artificial intelligence from networks, created together with the related robot AHRA.",
+ "body": [],
+ "facts": [
+  "Described as one of the first network based humanoids",
+  "Made public appearances in South Korea"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, MAHRU & AHRA",
+   "url": "https://en.wikipedia.org/wiki/MAHRU_&_AHRA",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, MAHRU (Q6714220)",
+   "url": "https://www.wikidata.org/wiki/Q6714220",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Korea Institute of Science and Technology website",
+   "url": "http://eng.kist.re.kr/kist_eng/main/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6714220"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

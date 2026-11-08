@@ -1,0 +1,35 @@
+{
+ "id": "gakutensoku",
+ "name": "Gakutensoku",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "early robot",
+ "maker": "Makoto Nishimura",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Early Japanese robot made by biologist Makoto Nishimura in Osaka during the late 1920s, regarded as the first robot built in East Asia.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Gakutensoku",
+   "url": "https://en.wikipedia.org/wiki/Gakutensoku",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Gakutensoku (Q3094442)",
+   "url": "https://www.wikidata.org/wiki/Q3094442",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3094442"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

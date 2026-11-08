@@ -1,0 +1,76 @@
+{
+ "id": "robonaut-1",
+ "name": "Robonaut 1",
+ "aka": [
+  "R1"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "NASA Johnson Space Center with DARPA",
+ "country": "United States",
+ "year": "2000",
+ "status": "retired",
+ "def": "NASA's first dexterous humanoid torso, built with DARPA to test whether a teleoperated robot could handle astronaut tools and handrails.",
+ "body": [
+  "Robonaut 1 paired two arms and five fingered hands with a stereo camera head on a torso sized to an astronaut's work envelope, and was driven through telepresence gloves and a head mounted display. Two units, R1A and R1B, were tested with a zero gravity leg that grips handrail sockets, on a Segway based Robotic Mobility Platform in 2003 and on the four wheeled Centaur 1 chassis in 2006. None flew in space, but its hands and control software led directly to Robonaut 2."
+ ],
+ "facts": [
+  "First NASA humanoid built to use the same tools as astronauts",
+  "Tested on Segway based and four wheeled Centaur mobility platforms"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Electric brushless motors with tendon driven fingers"
+  ],
+  [
+   "Sensors",
+   "Stereo camera head with position, force and tactile sensing through the arms and hands"
+  ],
+  [
+   "Autonomy",
+   "Telepresence operation with some autonomous grasping"
+  ],
+  [
+   "Price",
+   "approx. $5,900"
+  ]
+ ],
+ "see": [
+  "rb-y1",
+  "reem-c"
+ ],
+ "refs": [
+  {
+   "label": "NASA Johnson Space Center with DARPA website",
+   "url": "https://www.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://icub.iit.it/products/r1-robot",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, R1 (Q115858991)",
+   "url": "https://www.wikidata.org/wiki/Q115858991",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Istituto Italiano di Tecnologia website",
+   "url": "https://www.iit.it/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q115858991"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "r1-galaxea",
+  "r1-iit",
+  "r1-unitree"
+ ]
+}

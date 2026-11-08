@@ -1,0 +1,38 @@
+{
+ "id": "murata-boy-and-murata-girl",
+ "name": "Murata Boy and Murata Girl",
+ "aka": [],
+ "section": "other",
+ "kind": "self balancing robots",
+ "maker": "Murata Manufacturing",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Pair of self balancing robots built by Japanese electronic components maker Murata Manufacturing to demonstrate its products and attract publicity.",
+ "body": [],
+ "facts": [
+  "Designed to use as little energy as possible",
+  "Include an automatic sleep mode to save power"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Murata Boy and Murata Girl",
+   "url": "https://en.wikipedia.org/wiki/Murata_Boy_and_Murata_Girl",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Murata Boy and Murata Girl (Q18378299)",
+   "url": "https://www.wikidata.org/wiki/Q18378299",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q18378299"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

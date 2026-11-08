@@ -1,0 +1,39 @@
+{
+ "id": "allen",
+ "name": "Allen",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "research robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "retired",
+ "def": "Wheeled research robot that Rodney Brooks's group built in the late 1980s, the first they based on the subsumption architecture.",
+ "body": [],
+ "facts": [
+  "Carried sonar range sensing and odometry",
+  "Relied on a separate Lisp machine off board to run its control system",
+  "Looked like a footstool on wheels"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Allen (robot)",
+   "url": "https://en.wikipedia.org/wiki/Allen_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Allen (Q4731499)",
+   "url": "https://www.wikidata.org/wiki/Q4731499",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4731499"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,59 @@
+{
+ "id": "skyfood",
+ "name": "SkyFood",
+ "aka": [
+  "Robô SkyFood",
+  "SkyFood Airport Delivery",
+  "SkyFood by TracFtech"
+ ],
+ "section": "wheeled",
+ "kind": "delivery robot",
+ "maker": "TracFtech",
+ "country": "Brazil",
+ "year": "",
+ "status": "",
+ "def": "Autonomous delivery robot from the Brazilian robotics company TracFtech that doubles as a mobile digital advertising display.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://skyfood.app/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, SkyFood Robot Delivery (Q141752818)",
+   "url": "https://www.wikidata.org/wiki/Q141752818",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, diariodocomercio.com.br",
+   "url": "https://diariodocomercio.com.br/negocios/robo-entregas-bh-airport/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, passageirodeprimeira.com",
+   "url": "https://passageirodeprimeira.com/aeroporto-belo-horizonte-primeiro-brasil-robo-autonomo-entregas/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, tracftech.com.br",
+   "url": "https://tracftech.com.br/skyfood.html",
+   "kind": "cited"
+  },
+  {
+   "label": "TracFtech website",
+   "url": "https://tracftech.com.br/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q141752818"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

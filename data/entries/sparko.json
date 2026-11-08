@@ -1,0 +1,31 @@
+{
+ "id": "sparko",
+ "name": "Sparko",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Westinghouse",
+ "country": "United States",
+ "year": "1940",
+ "status": "retired",
+ "def": "The world's fair robot dog who barked, begged and sat beside Elektro.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "spot",
+  "spot-classic"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Sparko",
+   "url": "https://en.wikipedia.org/w/index.php?search=Sparko+Westinghouse",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,91 @@
+{
+ "id": "space-exploration-vehicle",
+ "name": "Space Exploration Vehicle",
+ "aka": [
+  "SEV",
+  "Lunar Electric Rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA",
+ "country": "United States",
+ "year": "2008",
+ "status": "prototype",
+ "def": "NASA pressurised rover prototype on a twelve wheel chassis, tested in Arizona desert campaigns as a mobile habitat for two crew.",
+ "body": [
+  "The vehicle pairs a small pressurised cabin with rear mounted suit ports and the Chariot chassis, whose twelve wheels are grouped in pairs that can each pivot through a full circle so the vehicle can crab sideways or turn in place. NASA drove two units on multi day traverses at the Black Point Lava Flow in Arizona during the Desert RATS field campaigns, with crews living aboard for up to two weeks. It remains an engineering prototype, but its cabin and suit port concepts feed current pressurised rover studies."
+ ],
+ "facts": [
+  "Wheel pairs pivot through a full circle for sideways driving",
+  "Crews lived aboard during two week desert field tests"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Twelve wheels in six pivoting pairs allowing omnidirectional driving"
+  ],
+  [
+   "Power",
+   "Rechargeable battery electric drive"
+  ],
+  [
+   "Sensors",
+   "Driving cameras and navigation displays"
+  ],
+  [
+   "Autonomy",
+   "Crew driven with a remote teleoperation capability"
+  ],
+  [
+   "Height",
+   "3 m"
+  ],
+  [
+   "Mass",
+   "3000 kg"
+  ],
+  [
+   "Length",
+   "4.5 m"
+  ],
+  [
+   "Top speed",
+   "10 km/h"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA website",
+   "url": "https://www.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Space Exploration Vehicle",
+   "url": "https://en.wikipedia.org/wiki/Space_Exploration_Vehicle",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Space Exploration Vehicle (Q4049635)",
+   "url": "https://www.wikidata.org/wiki/Q4049635",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, nasa.gov",
+   "url": "https://www.nasa.gov/pdf/284669main_LER_FactSheet_web.pdf",
+   "kind": "cited"
+  },
+  {
+   "label": "National Aeronautics and Space Administration website",
+   "url": "https://www.nasa.gov/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4049635"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

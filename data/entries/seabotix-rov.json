@@ -1,0 +1,32 @@
+{
+ "id": "seabotix-rov",
+ "name": "SeaBotix ROV",
+ "aka": [
+  "Seabotix LBV-300-5 ROV"
+ ],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Teledyne Marine",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Series of underwater remotely operated vehicles marketed by Teledyne Marine under the SeaBotix brand name.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Seabotix ROV (Q128125049)",
+   "url": "https://www.wikidata.org/wiki/Q128125049",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q128125049"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

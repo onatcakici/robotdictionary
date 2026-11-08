@@ -1,0 +1,33 @@
+{
+ "id": "asea-irb-6",
+ "name": "IRB 6",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot arm",
+ "maker": "ASEA",
+ "country": "Sweden",
+ "year": "1974",
+ "status": "retired",
+ "def": "Early industrial arm from ASEA, the forerunner of ABB, often described as the first all electric microprocessor controlled industrial robot.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "6 kg"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ABB Robotics website",
+   "url": "https://new.abb.com/products/robotics",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

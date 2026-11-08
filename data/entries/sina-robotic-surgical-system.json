@@ -1,0 +1,38 @@
+{
+ "id": "sina-robotic-surgical-system",
+ "name": "Sina Robotic Surgical System",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Sina Robotics and Medical Innovators",
+ "country": "",
+ "year": "",
+ "status": "service",
+ "def": "Surgical robot for minimally invasive procedures made by Sina Robotics and Medical Innovators, used for prostatectomies and a growing range of other operations.",
+ "body": [],
+ "facts": [
+  "Growing use in heart valve repair",
+  "Also applied to renal and gynaecological procedures"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Sina Robotic Surgical System",
+   "url": "https://en.wikipedia.org/wiki/Sina_Robotic_Surgical_System",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sina Surgical System (Q118745256)",
+   "url": "https://www.wikidata.org/wiki/Q118745256",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q118745256"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

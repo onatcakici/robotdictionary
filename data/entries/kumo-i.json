@@ -1,0 +1,50 @@
+{
+ "id": "kumo-i",
+ "name": "KUMO-I",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "spider inspired research quadruped",
+ "maker": "Tokyo Institute of Technology",
+ "country": "Japan",
+ "year": "1976",
+ "status": "retired",
+ "def": "Spider inspired research quadruped by Shigeo Hirose and Yoji Umetani, the first machine in the long walking robot programme at Tokyo Institute of Technology.",
+ "body": [
+  "KUMO-I was a light frame quadruped with long legs modelled on a daddy longlegs spider, built to study statically stable walking on rough ground. Electric motors drove its hip and knee joints, and it walked through preprogrammed gait sequences rather than sensor feedback. The machine showed that four legs are the minimum for a statically stable walk and that a legged frame can move omnidirectionally without sliding its feet, which shaped the TITAN series that followed."
+ ],
+ "facts": [
+  "First machine in the Tokyo Institute of Technology line that became the TITAN series",
+  "Demonstrated omnidirectional walking without foot slip"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "14 kg"
+  ],
+  [
+   "Actuation",
+   "Electric motors driving hip and knee joints"
+  ],
+  [
+   "Power",
+   "External electrical supply"
+  ],
+  [
+   "Autonomy",
+   "Preprogrammed gait sequences"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Tokyo Institute of Technology website",
+   "url": "https://www.titech.ac.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

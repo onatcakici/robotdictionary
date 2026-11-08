@@ -1,0 +1,28 @@
+{
+ "id": "sphero-bb-8",
+ "name": "BB-8 by Sphero",
+ "aka": [],
+ "section": "other",
+ "kind": "app controlled toy robot",
+ "maker": "Sphero",
+ "country": "United States",
+ "year": "2015",
+ "status": "discontinued",
+ "def": "App controlled rolling toy modelled on the droid from the 2015 Star Wars film, a ball with a magnetically held head.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Sphero website",
+   "url": "https://sphero.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

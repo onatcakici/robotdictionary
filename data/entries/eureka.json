@@ -1,0 +1,46 @@
+{
+ "id": "eureka",
+ "name": "Eureka",
+ "aka": [],
+ "section": "marine",
+ "kind": "seabed collection robot",
+ "maker": "Impossible Metals",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Autonomous underwater vehicle from Impossible Metals that hovers above the seabed and uses a robotic arm and vision to pick polymetallic nodules one at a time.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Impossible Metals",
+   "url": "https://www.ycombinator.com/companies/impossible-metals",
+   "kind": "yc"
+  },
+  {
+   "label": "Impossible Metals website",
+   "url": "https://impossiblemetals.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Impossible Metals proof of concept announcement",
+   "url": "https://www.businesswire.com/news/home/20221206005047/en",
+   "kind": "press"
+  }
+ ],
+ "ids": {
+  "yc": "impossible-metals"
+ },
+ "yc": {
+  "company": "Impossible Metals",
+  "batch": "Winter 2022",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/impossible-metals"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

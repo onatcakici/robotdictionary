@@ -1,0 +1,69 @@
+{
+ "id": "littledog",
+ "name": "LittleDog",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2005",
+ "status": "retired",
+ "def": "Small electric quadruped supplied to university teams as the shared hardware of the DARPA Learning Locomotion programme.",
+ "body": [
+  "LittleDog was deliberately simple and identical across teams so that research groups could compare footstep planning and control algorithms on the same machine. Each of its four legs had three electric joints with position sensing, and the robot walked over modular rock fields while an external motion capture system tracked it. Teams from Carnegie Mellon, MIT, Stanford, the University of Pennsylvania and elsewhere used it to develop terrain aware footstep planning that fed into later legged robots."
+ ],
+ "facts": [
+  "Common platform of the DARPA Learning Locomotion programme from 2006",
+  "Its rock field benchmark shaped modern footstep planning research"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Electric geared motors, three joints per leg"
+  ],
+  [
+   "Power",
+   "Onboard lithium polymer battery"
+  ],
+  [
+   "Sensors",
+   "Joint encoders, inertial sensing, external motion capture"
+  ],
+  [
+   "Autonomy",
+   "Off board planning and control over a wireless link"
+  ]
+ ],
+ "see": [
+  "atlas-hydraulic",
+  "atlas"
+ ],
+ "refs": [
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://bostondynamics.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, LittleDog (robot) (Q96348636)",
+   "url": "https://www.wikidata.org/wiki/Q96348636",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://www.bostondynamics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q96348636"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

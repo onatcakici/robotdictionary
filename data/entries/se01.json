@@ -1,0 +1,31 @@
+{
+ "id": "se01",
+ "name": "SE01",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "EngineAI",
+ "country": "China",
+ "year": "2024",
+ "status": "research",
+ "def": "EngineAI's full size humanoid with a strikingly natural human gait.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "engineai-pm01",
+  "sophia"
+ ],
+ "refs": [
+  {
+   "label": "EngineAI website",
+   "url": "https://www.engineai.com.cn",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

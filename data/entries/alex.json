@@ -1,0 +1,31 @@
+{
+ "id": "alex",
+ "name": "Alex",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "upper body humanoid",
+ "maker": "Boardwalk Robotics",
+ "country": "United States",
+ "year": "2023",
+ "status": "research",
+ "def": "An upper body humanoid from IHMC lineage, aimed at manipulation research and industry.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "alpha-mini",
+  "alter-3"
+ ],
+ "refs": [
+  {
+   "label": "Boardwalk Robotics website",
+   "url": "https://www.boardwalkrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,46 @@
+{
+ "id": "bisam",
+ "name": "BISAM",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "FZI Forschungszentrum Informatik",
+ "country": "Germany",
+ "year": "1997",
+ "status": "retired",
+ "def": "Mammal like four legged walking machine from Karlsruhe, built to study adaptive gait control with an articulated trunk.",
+ "body": [
+  "BISAM followed the body plan of small mammals, with four legs and a jointed trunk that helped it shift weight while walking. Electric motors drove the joints and a layered controller combined reflex like reactions with higher level gait selection so the machine could cross uneven ground. It served as a testbed for biologically inspired control in the German legged locomotion community of the late 1990s."
+ ],
+ "facts": [
+  "Used an actuated spine as well as four legs, unusual for the period",
+  "Part of the wave of biologically inspired walking machines built in Germany in the 1990s"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Electric motors with gear drives"
+  ],
+  [
+   "Power",
+   "External electrical supply"
+  ],
+  [
+   "Autonomy",
+   "Layered reflex and gait selection controller"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "FZI Forschungszentrum Informatik website",
+   "url": "https://www.fzi.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

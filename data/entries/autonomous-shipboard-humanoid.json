@@ -1,0 +1,38 @@
+{
+ "id": "autonomous-shipboard-humanoid",
+ "name": "Autonomous Shipboard Humanoid",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "United States Naval Research Laboratory",
+ "country": "United States",
+ "year": "",
+ "status": "research",
+ "def": "Humanoid robot developed at the United States Naval Research Laboratory with Virginia Tech and the University of Pennsylvania to move around ships, climb ladders and fight fires.",
+ "body": [],
+ "facts": [
+  "Meant to respond to emergencies and follow visual commands from people",
+  "Already able to walk, among other abilities"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Autonomous Shipboard Humanoid",
+   "url": "https://en.wikipedia.org/wiki/Autonomous_Shipboard_Humanoid",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Autonomous Shipboard Humanoid (Q4826814)",
+   "url": "https://www.wikidata.org/wiki/Q4826814",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4826814"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

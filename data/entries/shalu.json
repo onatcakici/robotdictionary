@@ -1,0 +1,35 @@
+{
+ "id": "shalu",
+ "name": "Shalu",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "social humanoid robot",
+ "maker": "Dinesh Kunwar Patel",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Humanoid robot for social interaction and teaching that Mumbai computer science teacher Dinesh Kunwar Patel built out of discarded materials.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Shalu Robot",
+   "url": "https://en.wikipedia.org/wiki/Shalu_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Shalu Robot (Q107105423)",
+   "url": "https://www.wikidata.org/wiki/Q107105423",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q107105423"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

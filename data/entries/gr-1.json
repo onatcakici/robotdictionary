@@ -1,0 +1,38 @@
+{
+ "id": "gr-1",
+ "name": "GR-1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Fourier Intelligence",
+ "country": "China",
+ "year": "2023",
+ "status": "production",
+ "def": "A rehabilitation born humanoid produced in volume before most rivals shipped one.",
+ "body": [
+  "Fourier built the GR-1 out of a rehabilitation robotics business, and its first deployments returned there: patient transfer and therapy research. It was among the first humanoids anywhere produced in the hundreds."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 165 cm"
+  ]
+ ],
+ "see": [
+  "fourier-gr-2",
+  "gr-3"
+ ],
+ "refs": [
+  {
+   "label": "Fourier Intelligence website",
+   "url": "https://www.fftai.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

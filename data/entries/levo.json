@@ -1,0 +1,35 @@
+{
+ "id": "levo",
+ "name": "LeVO",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "autonomous pallet jack",
+ "maker": "Atlas Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Autonomous pallet jack built by the American company Atlas Robotics to move pallets without a human operator.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, LeVO (Q140450729)",
+   "url": "https://www.wikidata.org/wiki/Q140450729",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Atlas Robotics website",
+   "url": "https://www.atlas-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140450729"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

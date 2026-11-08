@@ -1,0 +1,38 @@
+{
+ "id": "icemole",
+ "name": "IceMole",
+ "aka": [],
+ "section": "other",
+ "kind": "ice melting probe",
+ "maker": "FH Aachen",
+ "country": "Germany",
+ "year": "2010",
+ "status": "research",
+ "def": "Autonomous, steerable ice probe developed at FH Aachen in Germany that melts and screws its way through ice for polar, glacier and space research.",
+ "body": [],
+ "facts": [
+  "Steerable while melting through ice, and retrievable once its work is done",
+  "Uses a driving ice screw to push through soil layers and debris in the ice"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, IceMole",
+   "url": "https://en.wikipedia.org/wiki/IceMole",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, IceMole (Q1656079)",
+   "url": "https://www.wikidata.org/wiki/Q1656079",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1656079"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

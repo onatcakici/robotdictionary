@@ -1,0 +1,39 @@
+{
+ "id": "eric",
+ "name": "Eric",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "",
+ "country": "United Kingdom",
+ "year": "1928",
+ "status": "",
+ "def": "Early British humanoid robot made in 1928 by William Richards and Alan Reffell, which stood, bowed and gave a speech to open an exhibition at London's Royal Horticultural Hall.",
+ "body": [],
+ "facts": [
+  "Regarded as the first robot built in Britain",
+  "Built to take the place of George VI after he cancelled",
+  "Its opening speech lasted four minutes"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Eric (robot)",
+   "url": "https://en.wikipedia.org/wiki/Eric_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Eric (Q28457668)",
+   "url": "https://www.wikidata.org/wiki/Q28457668",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q28457668"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

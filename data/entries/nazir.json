@@ -1,0 +1,41 @@
+{
+ "id": "nazir",
+ "name": "Nazir",
+ "aka": [
+  "Nazir (military robot)"
+ ],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "Islamic Republic of Iran Army Ground Forces",
+ "country": "Iran",
+ "year": "2015",
+ "status": "",
+ "def": "Remote controlled armed robot built by Iran's Army Ground Forces that carries two missiles and about 600 kg of cargo, first unveiled in September 2015.",
+ "body": [],
+ "facts": [
+  "Unveiled on 12 September 2015",
+  "Carries two missiles and about 600 kg of cargo",
+  "Can carry out missions using instant planning and control"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Nazir rocket launcher (robot)",
+   "url": "https://en.wikipedia.org/wiki/Nazir_rocket_launcher_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Nazir rocket launcher (robot) (Q105546067)",
+   "url": "https://www.wikidata.org/wiki/Q105546067",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q105546067"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

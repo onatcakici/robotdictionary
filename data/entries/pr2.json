@@ -1,0 +1,38 @@
+{
+ "id": "pr2",
+ "name": "PR2",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Willow Garage",
+ "country": "United States",
+ "year": "2010",
+ "status": "retired",
+ "def": "The wheeled two armed research platform that seeded ROS and a generation of manipulation papers.",
+ "body": [
+  "Willow Garage gave PR2s to eleven universities in 2010, and the software written to share them became ROS, the operating system of modern robotics. Milestones on PR2 include folded laundry, fetched beer and baked cookies."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Arms",
+   "two, 7 DoF"
+  ]
+ ],
+ "see": [
+  "promobot",
+  "qinglong"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, PR2",
+   "url": "https://en.wikipedia.org/w/index.php?search=PR2+Willow+Garage",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

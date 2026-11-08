@@ -1,0 +1,45 @@
+{
+ "id": "t-52-enryu",
+ "name": "T-52 Enryu",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "rescue robot",
+ "maker": "Tmsuk",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Rescue robot produced by the Japanese robotics company Tmsuk for use in rescue work.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.enryu.jp/t52/index.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, T-52 Enryu",
+   "url": "https://en.wikipedia.org/wiki/T-52_Enryu",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, T-52 Enryu (Q7667759)",
+   "url": "https://www.wikidata.org/wiki/Q7667759",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Tmsuk website",
+   "url": "http://www.tmsuk.co.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7667759"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

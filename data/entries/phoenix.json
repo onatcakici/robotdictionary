@@ -1,0 +1,63 @@
+{
+ "id": "phoenix",
+ "name": "Phoenix",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Sanctuary AI",
+ "country": "Canada",
+ "year": "2023",
+ "status": "prototype",
+ "def": "Hydraulically actuated general purpose humanoid built around highly dexterous hands, trialled in a Canadian retail store and with automotive supplier Magna.",
+ "body": [
+  "Phoenix stands about 1.7 metres and weighs roughly 70 kilograms, and Sanctuary rates it to lift 25 kilograms. Unusually for the current wave it is driven by miniaturised hydraulics, which Sanctuary uses to get high force density in the hands and wrists; successive generations cut weight and power draw while adding wrist and elbow range. Behaviour is produced by Sanctuary's Carbon control system, which mixes learned policies with teleoperated demonstration capture. Sanctuary ran a commercial pilot at a Canadian Tire store in Ontario in 2023 and announced an automotive manufacturing partnership with Magna in March 2024.",
+  "Sanctuary AI bet on hands: Phoenix's hydraulic fingers are among the most dexterous ever built, trained through teleoperation to learn tasks in hours. The Vancouver company positions its Carbon control system, rather than the body, as the product."
+ ],
+ "facts": [
+  "Completed a commercial pilot at a Canadian Tire store in Ontario in 2023",
+  "Automotive manufacturing partnership with Magna announced in March 2024",
+  "One of the few current humanoids using hydraulic rather than electric actuation"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.7 m"
+  ],
+  [
+   "Mass",
+   "70 kg"
+  ],
+  [
+   "Payload",
+   "25 kg"
+  ],
+  [
+   "Actuation",
+   "Miniaturised hydraulic actuators, particularly in the hands and wrists"
+  ],
+  [
+   "Sensors",
+   "Stereo vision with tactile sensing in the fingers"
+  ],
+  [
+   "Autonomy",
+   "Carbon control system blending learned policies with teleoperation"
+  ]
+ ],
+ "see": [
+  "engineai-pm01",
+  "poppy"
+ ],
+ "refs": [
+  {
+   "label": "Sanctuary AI website",
+   "url": "https://www.sanctuary.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,31 @@
+{
+ "id": "mipa",
+ "name": "MiPA",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Neura Robotics",
+ "country": "Germany",
+ "year": "2024",
+ "status": "pilot",
+ "def": "A wheeled household and care humanoid intended for serial production in Europe.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "4ne-1",
+  "mirokai"
+ ],
+ "refs": [
+  {
+   "label": "Neura Robotics website",
+   "url": "https://neura-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

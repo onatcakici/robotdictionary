@@ -1,0 +1,37 @@
+{
+ "id": "ropid",
+ "name": "Ropid",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "small humanoid robot",
+ "maker": "Robo Garage",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Small humanoid robot created by Tomotaka Takahashi of Robo Garage at Kyoto University.",
+ "body": [],
+ "facts": [
+  "Its name combines the words robot and rapid"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Ropid",
+   "url": "https://en.wikipedia.org/wiki/Ropid",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ropid (Q7366758)",
+   "url": "https://www.wikidata.org/wiki/Q7366758",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7366758"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

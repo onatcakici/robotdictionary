@@ -1,0 +1,41 @@
+{
+ "id": "charge-robotics",
+ "name": "Charge Robotics",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "solar construction robot",
+ "maker": "Charge Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robots that automate the most repetitive work of building utility scale solar farms.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Charge Robotics",
+   "url": "https://www.ycombinator.com/companies/charge-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Charge Robotics website",
+   "url": "https://chargerobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "charge-robotics"
+ },
+ "yc": {
+  "company": "Charge Robotics",
+  "batch": "Summer 2021",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/charge-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

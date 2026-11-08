@@ -1,0 +1,31 @@
+{
+ "id": "warthog",
+ "name": "Warthog",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "amphibious heavyweight research vehicle",
+ "maker": "Clearpath Robotics",
+ "country": "Canada",
+ "year": "2016",
+ "status": "production",
+ "def": "An amphibious heavyweight research vehicle for mines, farms and shorelines.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "husky",
+  "jackal"
+ ],
+ "refs": [
+  {
+   "label": "Clearpath Robotics website",
+   "url": "https://clearpathrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "autonomous-benthic-explorer",
+ "name": "Autonomous Benthic Explorer",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "",
+ "country": "United States",
+ "year": "1996",
+ "status": "lost",
+ "def": "Autonomous underwater vehicle operated by the Woods Hole Oceanographic Institution that surveyed broad stretches of seabed down to 4500 m until its loss at sea in 2010.",
+ "body": [],
+ "facts": [
+  "Completed 222 missions between 1996 and 2010",
+  "Depth rating of 4500 m (14,674 ft)",
+  "Scouted targets for more capable crewed vehicles and ROVs"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Autonomous Benthic Explorer",
+   "url": "https://en.wikipedia.org/wiki/Autonomous_Benthic_Explorer",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Autonomous Benthic Explorer (Q123418422)",
+   "url": "https://www.wikidata.org/wiki/Q123418422",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q123418422"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

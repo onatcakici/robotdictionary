@@ -1,0 +1,31 @@
+{
+ "id": "asra-c1",
+ "name": "ASRA C1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Sony AI",
+ "country": "Japan",
+ "year": "2023",
+ "status": "research",
+ "def": "Sony's dual armed cooking research robot developed with Carnegie Mellon.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "atlas",
+  "atlas-hydraulic"
+ ],
+ "refs": [
+  {
+   "label": "Sony AI website",
+   "url": "https://ai.sony",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

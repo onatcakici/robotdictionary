@@ -1,0 +1,31 @@
+{
+ "id": "d7",
+ "name": "D7",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Pudu Robotics",
+ "country": "China",
+ "year": "2024",
+ "status": "pilot",
+ "def": "A wheeled semi humanoid bridging Pudu's delivery machines and true bipeds.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "pudu-d9",
+  "flashbot"
+ ],
+ "refs": [
+  {
+   "label": "Pudu Robotics website",
+   "url": "https://www.pudurobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

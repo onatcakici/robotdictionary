@@ -1,0 +1,37 @@
+{
+ "id": "auv-150",
+ "name": "AUV-150",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Central Mechanical Engineering Research Institute",
+ "country": "India",
+ "year": "",
+ "status": "development",
+ "def": "Indian autonomous underwater vehicle under development by scientists at the Central Mechanical Engineering Research Institute in Durgapur, West Bengal, with support from IIT Kharagpur.",
+ "body": [],
+ "facts": [
+  "Sponsored by India's Ministry of Earth Sciences"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, AUV-150",
+   "url": "https://en.wikipedia.org/wiki/AUV-150",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, AUV-150 (Q4655011)",
+   "url": "https://www.wikidata.org/wiki/Q4655011",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4655011"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

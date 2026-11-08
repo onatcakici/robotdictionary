@@ -1,0 +1,52 @@
+{
+ "id": "hal",
+ "name": "HAL",
+ "aka": [
+  "Hybrid Assistive Limb",
+  "HAL 5",
+  "The great robot"
+ ],
+ "section": "medical",
+ "kind": "powered exoskeleton",
+ "maker": "University of Tsukuba and Cyberdyne Inc.",
+ "country": "Japan",
+ "year": "2004",
+ "status": "",
+ "def": "Powered exoskeleton suit with a soft body, known in full as the Hybrid Assistive Limb, built by Japan's University of Tsukuba and Cyberdyne to boost its wearers' physical abilities.",
+ "body": [],
+ "facts": [
+  "HAL 3 supports leg function only",
+  "HAL 5 is a full body version covering arms, legs and torso"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.cyberdyne.jp/english/index.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Hybrid Assistive Limb",
+   "url": "https://en.wikipedia.org/wiki/Hybrid_Assistive_Limb",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, HAL (Q79194)",
+   "url": "https://www.wikidata.org/wiki/Q79194",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Tsukuba website",
+   "url": "http://www.tsukuba.ac.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q79194"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,92 @@
+{
+ "id": "robothespian",
+ "name": "RoboThespian",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Engineered Arts",
+ "country": "United Kingdom",
+ "year": "2005",
+ "status": "production",
+ "def": "Life size interactive performing humanoid sold to science centres and visitor attractions since 2005, one of the longest running commercial humanoid products.",
+ "body": [
+  "RoboThespian is a full size humanoid standing on a fixed base, originally driven by pneumatic actuators and later offered in fully electric form. It is built to perform: it delivers scripted presentations, sings, tells jokes, responds to touchscreen or remote prompts and can be driven live by an operator over the internet. Engineered Arts runs it on the same Tritium software used by Ameca and sells or leases units with content packages. Large numbers have been installed in science museums, planetariums, corporate visitor centres and exhibitions worldwide over two decades."
+ ],
+ "facts": [
+  "In continuous commercial production since 2005",
+  "Installed in science centres and visitor attractions on several continents",
+  "Can be operated live over the internet by a remote presenter"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Pneumatic actuators in early versions and fully electric in later ones, on a fixed base"
+  ],
+  [
+   "Power",
+   "Mains powered installation"
+  ],
+  [
+   "Sensors",
+   "Cameras, microphones, touchscreen and proximity sensing for audience interaction"
+  ],
+  [
+   "Autonomy",
+   "Tritium operating system running scripted performances with live remote operation"
+  ],
+  [
+   "Height",
+   "175 cm"
+  ],
+  [
+   "Mass",
+   "33 kg"
+  ],
+  [
+   "Length",
+   "30 cm"
+  ],
+  [
+   "Width",
+   "41 cm"
+  ]
+ ],
+ "see": [
+  "ameca",
+  "roboy"
+ ],
+ "refs": [
+  {
+   "label": "Engineered Arts website",
+   "url": "https://engineeredarts.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, RoboThespian (Q18114355)",
+   "url": "https://www.wikidata.org/wiki/Q18114355",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, theguardian.com",
+   "url": "https://www.theguardian.com/technology/2014/aug/17/robothespian-engineered-arts-robot-human-behaviour",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, robots.ieee.org",
+   "url": "https://robots.ieee.org/robots/robothespian/",
+   "kind": "cited"
+  },
+  {
+   "label": "Engineered Arts website",
+   "url": "https://www.engineeredarts.co.uk/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q18114355"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

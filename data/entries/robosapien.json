@@ -1,0 +1,44 @@
+{
+ "id": "robosapien",
+ "name": "Robosapien",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "toy robot",
+ "maker": "WowWee",
+ "country": "",
+ "year": "2004",
+ "status": "",
+ "def": "Biomorphic toy robot created by Mark Tilden and made by WowWee, released in 2004 with preset moves and infrared remote control.",
+ "body": [],
+ "facts": [
+  "Released in 2004",
+  "Sold more than 1.5 million units from April to December 2004",
+  "Named Toy of the Year by the Toy Retailers Association"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.wowwee.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, RoboSapien",
+   "url": "https://en.wikipedia.org/wiki/RoboSapien",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RoboSapien (Q953727)",
+   "url": "https://www.wikidata.org/wiki/Q953727",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q953727"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

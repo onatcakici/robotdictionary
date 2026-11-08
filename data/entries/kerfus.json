@@ -1,0 +1,44 @@
+{
+ "id": "kerfus",
+ "name": "Kerfuś",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "store delivery robot",
+ "maker": "Pudu Robotics",
+ "country": "China",
+ "year": "2022",
+ "status": "service",
+ "def": "Autonomous delivery robot with a cartoon cat face used as Carrefour's store mascot in Poland, giving out snacks after its 2022 debut in Warsaw.",
+ "body": [],
+ "facts": [
+  "Introduced in Warsaw stores in 2022",
+  "Launched as a joint Carrefour and PepsiCo advertising campaign",
+  "Went viral and turned into an internet meme"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Kerfuś",
+   "url": "https://en.wikipedia.org/wiki/Kerfuś",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Kerfuś (Q114740479)",
+   "url": "https://www.wikidata.org/wiki/Q114740479",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Pudu Robotics website",
+   "url": "https://www.pudurobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q114740479"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

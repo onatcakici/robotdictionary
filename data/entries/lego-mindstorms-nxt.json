@@ -1,0 +1,44 @@
+{
+ "id": "lego-mindstorms-nxt",
+ "name": "Lego Mindstorms NXT",
+ "aka": [],
+ "section": "other",
+ "kind": "programmable robotics kit",
+ "maker": "The Lego Group",
+ "country": "Denmark",
+ "year": "2006",
+ "status": "",
+ "def": "Robot building and programming kit from Lego, launched in August 2006 as the second generation of Mindstorms after the Robotics Invention System.",
+ "body": [],
+ "facts": [
+  "Released on 2 August 2006",
+  "NXT 2.0 followed on 1 August 2009 with a color sensor",
+  "Succeeded by the third generation EV3 in September 2013"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Lego Mindstorms NXT",
+   "url": "https://en.wikipedia.org/wiki/Lego_Mindstorms_NXT",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Lego Mindstorms NXT (Q926094)",
+   "url": "https://www.wikidata.org/wiki/Q926094",
+   "kind": "wikidata"
+  },
+  {
+   "label": "The Lego Group website",
+   "url": "https://www.lego.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q926094"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

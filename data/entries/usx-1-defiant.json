@@ -1,0 +1,72 @@
+{
+ "id": "usx-1-defiant",
+ "name": "USX-1 Defiant",
+ "aka": [],
+ "section": "marine",
+ "kind": "unmanned surface vessel",
+ "maker": "Serco Inc",
+ "country": "United States",
+ "year": "2025",
+ "status": "prototype",
+ "def": "Uncrewed surface warship built for DARPA as a technology demonstrator, completed in February 2025, with sea trials beginning a month later.",
+ "body": [],
+ "facts": [
+  "First seen publicly in March 2025 near Naval Air Station Whidbey Island",
+  "55 m long and 12.8 m high, with a displacement of 240 tonnes",
+  "Construction overseen by the shipbuilder Serco"
+ ],
+ "specs": [
+  [
+   "Height",
+   "12.8 m"
+  ],
+  [
+   "Mass",
+   "240 tonne"
+  ],
+  [
+   "Length",
+   "55 m"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, USX-1 Defiant",
+   "url": "https://en.wikipedia.org/wiki/USX-1_Defiant",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, USX-1 Defiant (Q133249298)",
+   "url": "https://www.wikidata.org/wiki/Q133249298",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, navalnews.com",
+   "url": "https://www.navalnews.com/naval-news/2025/03/serco-darpa-launch-nomars-usx-1-defiant/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, serco.com",
+   "url": "https://www.serco.com/na/solutions/next-generation-solutions/usx-1-defiant",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, darpa.mil",
+   "url": "https://www.darpa.mil/news/2025/nomars-christening",
+   "kind": "cited"
+  },
+  {
+   "label": "Serco Inc website",
+   "url": "http://www.serco-na.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q133249298"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,31 @@
+{
+ "id": "ottobot",
+ "name": "Ottobot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Ottonomy",
+ "country": "United States",
+ "year": "2021",
+ "status": "production",
+ "def": "An airport and curbside delivery robot rolling through terminals in several countries.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "naio-oz",
+  "p800"
+ ],
+ "refs": [
+  {
+   "label": "Ottonomy website",
+   "url": "https://ottonomy.io",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

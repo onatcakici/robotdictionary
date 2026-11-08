@@ -1,0 +1,37 @@
+{
+ "id": "isaacrobot",
+ "name": "IsaacRobot",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "two legged humanoid robot",
+ "maker": "IsaacTeam",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Two legged humanoid robot designed and built by the IsaacTeam, a student group at the Politecnico di Torino in Italy.",
+ "body": [],
+ "facts": [
+  "Built by students of the Politecnico di Torino"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, IsaacRobot",
+   "url": "https://en.wikipedia.org/wiki/IsaacRobot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, IsaacRobot (Q3802220)",
+   "url": "https://www.wikidata.org/wiki/Q3802220",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3802220"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,28 @@
+{
+ "id": "kuka-youbot",
+ "name": "youBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "mobile manipulator",
+ "maker": "KUKA",
+ "country": "Germany",
+ "year": "",
+ "status": "discontinued",
+ "def": "Small omnidirectional base with a five axis arm, sold by KUKA to universities for research and teaching.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "KUKA website",
+   "url": "https://www.kuka.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

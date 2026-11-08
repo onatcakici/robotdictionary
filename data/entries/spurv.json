@@ -1,0 +1,38 @@
+{
+ "id": "spurv",
+ "name": "SPURV",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "University of Washington Applied Physics Laboratory",
+ "country": "",
+ "year": "1957",
+ "status": "retired",
+ "def": "Autonomous underwater research vehicle that the University of Washington's Applied Physics Laboratory built in 1957, becoming the US Navy's first AUV.",
+ "body": [],
+ "facts": [
+  "Development was funded by the US Office of Naval Research",
+  "The navy used seven SPURVs until 1979"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, SPURV",
+   "url": "https://en.wikipedia.org/wiki/SPURV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, SPURV (Q7392694)",
+   "url": "https://www.wikidata.org/wiki/Q7392694",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7392694"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

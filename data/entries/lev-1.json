@@ -1,0 +1,28 @@
+{
+ "id": "lev-1",
+ "name": "LEV-1",
+ "aka": [],
+ "section": "rovers",
+ "kind": "hopping lunar robot",
+ "maker": "JAXA",
+ "country": "Japan",
+ "year": "2024",
+ "status": "completed",
+ "def": "Small hopping robot released from JAXA's SLIM lander in January 2024 that relayed pictures taken by its companion SORA-Q back to Earth.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "JAXA website",
+   "url": "https://global.jaxa.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

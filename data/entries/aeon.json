@@ -1,0 +1,31 @@
+{
+ "id": "aeon",
+ "name": "AEON",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "industrial humanoid",
+ "maker": "Hexagon",
+ "country": "Sweden",
+ "year": "2025",
+ "status": "concept",
+ "def": "An industrial humanoid from the metrology giant, aimed at scanning and inspection work.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "alex",
+  "alpha-mini"
+ ],
+ "refs": [
+  {
+   "label": "Hexagon website",
+   "url": "https://hexagon.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

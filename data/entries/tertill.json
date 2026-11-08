@@ -1,0 +1,33 @@
+{
+ "id": "tertill",
+ "name": "Tertill",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Franklin Robotics",
+ "country": "United States",
+ "year": "2017",
+ "status": "production",
+ "def": "A solar garden weeding puck from a Roomba co inventor.",
+ "body": [
+  "Tertill applies Roomba logic to gardens: a solar puck that patrols beds daily, whacking weed seedlings while they are small; it came from Roomba co inventor Joe Jones."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "themis",
+  "thymio"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Tertill",
+   "url": "https://en.wikipedia.org/w/index.php?search=Tertill+Franklin+Robotics",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

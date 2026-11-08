@@ -1,0 +1,39 @@
+{
+ "id": "canadarm2",
+ "name": "Canadarm2",
+ "aka": [],
+ "section": "arms",
+ "kind": "space robot arm",
+ "maker": "MDA",
+ "country": "Canada",
+ "year": "2001",
+ "status": "service",
+ "def": "Robotic arm of the International Space Station, built in Canada, that moves end over end between fixtures and captures visiting cargo ships.",
+ "body": [],
+ "facts": [
+  "Launched on Space Shuttle mission STS-100 in April 2001"
+ ],
+ "specs": [
+  [
+   "Length",
+   "17.6 m"
+  ],
+  [
+   "Joints",
+   "7"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Canadian Space Agency website",
+   "url": "https://www.asc-csa.gc.ca/eng/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

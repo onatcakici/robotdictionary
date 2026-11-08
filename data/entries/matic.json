@@ -1,0 +1,31 @@
+{
+ "id": "matic",
+ "name": "Matic",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "camera only home vacuum",
+ "maker": "Matic Robots",
+ "country": "United States",
+ "year": "2023",
+ "status": "production",
+ "def": "A camera only home vacuum that maps like a self driving car and keeps data on device.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "mir250",
+  "misty-ii"
+ ],
+ "refs": [
+  {
+   "label": "Matic Robots website",
+   "url": "https://maticrobots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

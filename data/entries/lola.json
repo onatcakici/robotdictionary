@@ -1,0 +1,65 @@
+{
+ "id": "lola",
+ "name": "LOLA",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "research biped",
+ "maker": "Technical University of Munich",
+ "country": "Germany",
+ "year": "2010",
+ "status": "research",
+ "def": "Munich research biped built for fast walking, with 25 actuated joints and a light structure that reached 3.34 km/h in experiments.",
+ "body": [
+  "LOLA stands 180 cm tall and weighs about 55 kg, with seven joints per leg, two at the pelvis and three per arm, all driven by brushless motors in modular joint units. Knee and ankle drives sit high in the leg to cut swing inertia, and the control system plans footholds and body motion in real time from state estimation, force sensing feet and vision. The Munich group demonstrated it walking at up to 3.34 km/h, stepping over obstacles and adapting to unknown ground, including at Hannover Messe."
+ ],
+ "facts": [
+  "Walked at 3.34 km/h, among the faster European research bipeds",
+  "Successor to Johnnie in the Munich biped programme"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.8 m"
+  ],
+  [
+   "Mass",
+   "55 kg"
+  ],
+  [
+   "Top speed",
+   "0.93 m/s (3.3 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "25"
+  ],
+  [
+   "Actuation",
+   "Brushless motors in modular joint units"
+  ],
+  [
+   "Sensors",
+   "Six axis force and torque sensing in the feet, inertial unit, stereo vision"
+  ],
+  [
+   "Autonomy",
+   "Real time walking pattern generation with vision based planning"
+  ]
+ ],
+ "see": [
+  "garmi",
+  "magicbot"
+ ],
+ "refs": [
+  {
+   "label": "Technical University of Munich website",
+   "url": "https://www.tum.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

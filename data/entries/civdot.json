@@ -1,0 +1,56 @@
+{
+ "id": "civdot",
+ "name": "CivDot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "battery electric surveying rover",
+ "maker": "Civ Robotics",
+ "country": "United States",
+ "year": "2025",
+ "status": "production",
+ "def": "Battery electric surveying rover that drives to precise coordinates and marks each point with paint, laying out pile positions on solar construction sites.",
+ "body": [
+  "CivDot is a compact four wheeled rover that takes a list of surveyed coordinates and drives to each one in turn, dropping a paint mark at centimetre accuracy. Corrected satellite positioning provides the reference, so a single operator can lay out a site that would otherwise need a survey crew with stakes and tapes. It is designed for the repetitive point marking that dominates utility scale solar and infrastructure earthworks. Contractors use it on solar farms, roads and pipeline corridors."
+ ],
+ "facts": [
+  "Used to lay out pile and tracker positions on utility scale solar construction in the United States",
+  "Replaces manual stakeout by survey crews on large repetitive layouts",
+  "Also applied to road, pipeline and site grading layout work"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheeled electric drive rover with a paint marking head"
+  ],
+  [
+   "Power",
+   "Battery electric drive"
+  ],
+  [
+   "Sensors",
+   "Corrected satellite positioning with centimetre level accuracy"
+  ],
+  [
+   "Autonomy",
+   "Drives autonomously to coordinates loaded from a file and marks each point, supervised by one operator"
+  ]
+ ],
+ "see": [
+  "double-3",
+  "e-puck"
+ ],
+ "refs": [
+  {
+   "label": "Civ Robotics website",
+   "url": "https://www.civrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "dot"
+ ]
+}

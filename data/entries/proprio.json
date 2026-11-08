@@ -1,0 +1,41 @@
+{
+ "id": "proprio",
+ "name": "Proprio",
+ "aka": [],
+ "section": "other",
+ "kind": "data center robot",
+ "maker": "Proprio Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robots for building out, maintaining and decommissioning data centers.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Proprio Robotics",
+   "url": "https://www.ycombinator.com/companies/proprio-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Proprio Robotics website",
+   "url": "https://www.propriorobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "proprio-robotics"
+ },
+ "yc": {
+  "company": "Proprio Robotics",
+  "batch": "Summer 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/proprio-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

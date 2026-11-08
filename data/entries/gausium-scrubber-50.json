@@ -1,0 +1,72 @@
+{
+ "id": "gausium-scrubber-50",
+ "name": "Scrubber 50",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "commercial scrubbing robot",
+ "maker": "Gausium",
+ "country": "China",
+ "year": "2020",
+ "status": "production",
+ "def": "Commercial scrubbing robot the size of a walk behind machine that cleans roughly 500 to 1,300 square metres an hour without a driver.",
+ "body": [
+  "The Scrubber 50 is a compact autonomous scrubber with a 30 litre clean water tank and a 24 litre recovery tank, offered with disc or roller brush decks. A 2D lidar, 3D depth camera, colour camera and collision sensors let it map a site and repeat cleaning plans while avoiding people and obstacles. It runs about three hours scrubbing or six to eight hours dust mopping between two hour charges. Gausium, founded in Shanghai in 2013, sells it for malls, offices, transport hubs and hospitals."
+ ],
+ "facts": [
+  "Clean water tank holds 30 litres and the recovery tank 24 litres",
+  "Practical cleaning rate of about 500 to 1,300 square metres an hour",
+  "Gausium was founded in Shanghai in 2013"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.07 m"
+  ],
+  [
+   "Length",
+   "0.81 m"
+  ],
+  [
+   "Mass",
+   "157 kg"
+  ],
+  [
+   "Top speed",
+   "1.2 m/s (4.3 km/h)"
+  ],
+  [
+   "Runtime",
+   "3 h"
+  ],
+  [
+   "Power",
+   "24 V 60 Ah lithium iron phosphate battery with a two hour charge"
+  ],
+  [
+   "Sensors",
+   "2D lidar, 3D depth camera, colour camera and collision sensors"
+  ],
+  [
+   "Autonomy",
+   "Maps the site and repeats cleaning plans with obstacle avoidance"
+  ]
+ ],
+ "see": [
+  "seekur",
+  "serve-gen3"
+ ],
+ "refs": [
+  {
+   "label": "Gausium website",
+   "url": "https://gausium.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "scrubber-50"
+ ]
+}

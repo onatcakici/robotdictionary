@@ -1,0 +1,58 @@
+{
+ "id": "cainiao-xiaomanlv",
+ "name": "Xiaomanlv",
+ "aka": [
+  "Little Donkey"
+ ],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Cainiao, Alibaba Group",
+ "country": "China",
+ "year": "2020",
+ "status": "service",
+ "def": "Low speed autonomous parcel van that delivers packages on Chinese university campuses and residential districts, developed by Alibaba and operated by its Cainiao logistics arm.",
+ "body": [
+  "Xiaomanlv is a compact low speed electric delivery vehicle with a locker body, built to run the final stretch from a campus parcel station to a dormitory or apartment block. It navigates with lidar and cameras at bicycle speeds and drops parcels at pickup points where recipients unlock a hatch with a code. The vehicle came out of Alibaba's DAMO Academy research group and was folded into Cainiao's logistics operation. Fleets work several hundred Chinese campuses."
+ ],
+ "facts": [
+  "Passed 10 million parcels delivered in 2022",
+  "Unveiled at Alibaba's Apsara conference in September 2020 as a DAMO Academy project",
+  "Deployed across several hundred university campuses in China"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheeled low speed electric vehicle with a parcel locker body"
+  ],
+  [
+   "Power",
+   "Battery electric drive with swappable batteries"
+  ],
+  [
+   "Sensors",
+   "Lidar and cameras"
+  ],
+  [
+   "Autonomy",
+   "Level 4 autonomy limited to campuses and low speed roads, with remote monitoring"
+  ]
+ ],
+ "see": [
+  "yarbo",
+  "yutu"
+ ],
+ "refs": [
+  {
+   "label": "Cainiao, Alibaba Group website",
+   "url": "https://www.cainiao.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "xiaomanlv"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "da-vinci-sp",
+ "name": "da Vinci SP",
+ "aka": [],
+ "section": "medical",
+ "kind": "single port surgical robot",
+ "maker": "Intuitive Surgical",
+ "country": "United States",
+ "year": "2018",
+ "status": "production",
+ "def": "Version of the da Vinci system that passes a camera and three instruments through a single small incision.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Intuitive website",
+   "url": "https://www.intuitive.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

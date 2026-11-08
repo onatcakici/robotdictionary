@@ -1,0 +1,52 @@
+{
+ "id": "somnox-sleep-robot",
+ "name": "Somnox Sleep Robot",
+ "aka": [],
+ "section": "other",
+ "kind": "sleep aid robot",
+ "maker": "Somnox",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Capsule shaped robot that rises and falls in a fixed breathing rhythm, meant to help users fall asleep by matching their own breathing to it.",
+ "body": [],
+ "facts": [
+  "Its maker claims users fall asleep by subconsciously matching its breathing"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Somnox Sleep Robot",
+   "url": "https://en.wikipedia.org/wiki/Somnox_Sleep_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Somnox Sleep Robot (Q60742819)",
+   "url": "https://www.wikidata.org/wiki/Q60742819",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, wired.com",
+   "url": "https://www.wired.com/story/somnox-sleep-robot/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, digitaltrends.com",
+   "url": "https://www.digitaltrends.com/cool-tech/somnox-sleep-robot-one-night-stand/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, bbc.com",
+   "url": "https://www.bbc.com/news/av/technology-45369165/somnox-robot-aims-to-put-owners-to-sleep",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q60742819"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

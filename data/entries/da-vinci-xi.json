@@ -1,0 +1,28 @@
+{
+ "id": "da-vinci-xi",
+ "name": "da Vinci Xi",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Intuitive Surgical",
+ "country": "United States",
+ "year": "2014",
+ "status": "production",
+ "def": "Fourth generation da Vinci system with arms mounted on an overhead boom, so the robot can reach several parts of the abdomen without being moved.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Intuitive website",
+   "url": "https://www.intuitive.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

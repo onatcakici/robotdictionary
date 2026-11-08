@@ -1,0 +1,51 @@
+{
+ "id": "fetch-freight500",
+ "name": "Freight500",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Fetch Robotics",
+ "country": "United States",
+ "year": "2017",
+ "status": "production",
+ "def": "Flat deck autonomous mobile robot that carries up to 500 kg of goods on pallets or roll cages through warehouse and factory aisles.",
+ "body": [
+  "The Freight500 is the mid size member of the Fetch Freight family, a low platform that drives under or receives a load and delivers it across a site. Safety laser scanners and 3D cameras support laser SLAM, and jobs are dispatched from cloud fleet software that also handles charging and traffic. The smaller Freight100 base from the same family became a common research platform in university robotics labs because it ships with ROS support. Fetch Robotics of San Jose was acquired by Zebra Technologies in 2021."
+ ],
+ "facts": [
+  "Zebra Technologies acquired Fetch Robotics in 2021",
+  "The smaller Freight100 base is widely used in university labs with ROS",
+  "A larger Freight1500 handles pallet sized loads"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "500 kg"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with autonomous charging"
+  ],
+  [
+   "Sensors",
+   "Safety laser scanners and 3D depth cameras"
+  ],
+  [
+   "Autonomy",
+   "Laser SLAM with cloud based fleet management and no floor markers"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Fetch Robotics website",
+   "url": "https://fetchrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

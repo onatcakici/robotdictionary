@@ -1,0 +1,40 @@
+{
+ "id": "robotuna",
+ "name": "RoboTuna",
+ "aka": [],
+ "section": "marine",
+ "kind": "robotic fish",
+ "maker": "Massachusetts Institute of Technology",
+ "country": "",
+ "year": "1993",
+ "status": "retired",
+ "def": "Line of robotic fish that a team at the Massachusetts Institute of Technology built while investigating designs for autonomous underwater vehicles.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, RoboTuna",
+   "url": "https://en.wikipedia.org/wiki/RoboTuna",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RoboTuna (Q3437226)",
+   "url": "https://www.wikidata.org/wiki/Q3437226",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Massachusetts Institute of Technology website",
+   "url": "https://mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3437226"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,37 @@
+{
+ "id": "ur20",
+ "name": "UR20",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Universal Robots",
+ "country": "Denmark",
+ "year": "2022",
+ "status": "production",
+ "def": "Redesigned collaborative arm from Universal Robots with new joints, aimed at palletising and welding.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "20 kg"
+  ],
+  [
+   "Reach",
+   "1750 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Universal Robots website",
+   "url": "https://www.universal-robots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

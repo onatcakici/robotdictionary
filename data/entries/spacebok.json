@@ -1,0 +1,69 @@
+{
+ "id": "spacebok",
+ "name": "SpaceBok",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "jumping quadruped",
+ "maker": "ETH Zurich Robotic Systems Lab",
+ "country": "Switzerland",
+ "year": "2018",
+ "status": "retired",
+ "def": "Jumping quadruped built by Swiss students to study legged movement in low gravity for lunar and asteroid exploration.",
+ "body": [
+  "SpaceBok has four two joint legs with springs that store energy for repeated hops, plus an optional reaction wheel for controlling attitude while airborne. Started as a student project at ETH Zurich and ZHAW, it was tested on gantries and tilted planes that simulate lunar and asteroid gravity, including at the European Space Agency's orbital robotics laboratory. The work showed that a legged robot can travel by bounding in low gravity and reorient itself in flight like a spacecraft."
+ ],
+ "facts": [
+  "Tested in simulated lunar and microgravity conditions at the European Space Agency's ESTEC laboratory",
+  "Used a reaction wheel to control body orientation during long jumps"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.5 m"
+  ],
+  [
+   "Mass",
+   "22 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "8"
+  ],
+  [
+   "Actuation",
+   "Electric motors with spring energy storage in each leg"
+  ],
+  [
+   "Power",
+   "Onboard battery"
+  ],
+  [
+   "Sensors",
+   "Inertial measurement unit, joint encoders"
+  ],
+  [
+   "Autonomy",
+   "Onboard jump and attitude control"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ETH Zurich Robotic Systems Lab website",
+   "url": "https://ethz.ch",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, SpaceBok (Q65595489)",
+   "url": "https://www.wikidata.org/wiki/Q65595489",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q65595489"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "laundroid",
+ "name": "Laundroid",
+ "aka": [],
+ "section": "other",
+ "kind": "laundry folding robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Home robot that was meant to take clothes through washing, drying, ironing, sorting and folding automatically, promoted as the first machine of its kind.",
+ "body": [],
+ "facts": [
+  "Sales were to begin in Japan, followed by a limited run in the United States",
+  "Release was set for 2017, with preorders from March 2017"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Laundroid",
+   "url": "https://en.wikipedia.org/wiki/Laundroid",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Laundroid (Q28324936)",
+   "url": "https://www.wikidata.org/wiki/Q28324936",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q28324936"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

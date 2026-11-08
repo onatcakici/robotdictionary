@@ -1,0 +1,39 @@
+{
+ "id": "double-3",
+ "name": "Double 3",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Double Robotics",
+ "country": "United States",
+ "year": "2019",
+ "status": "production",
+ "def": "The self balancing tablet on a stick that lets remote workers roam the office.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "e-puck",
+  "enabot-ebo"
+ ],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Double Robotics",
+   "url": "https://www.ycombinator.com/companies/double-robotics",
+   "kind": "yc"
+  }
+ ],
+ "ids": {
+  "yc": "double-robotics"
+ },
+ "yc": {
+  "company": "Double Robotics",
+  "batch": "Summer 2012",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/double-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

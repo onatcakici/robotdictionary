@@ -1,0 +1,31 @@
+{
+ "id": "atom",
+ "name": "Atom",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Dobot",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "A desktop arm maker's leap to full humanoids, priced to undercut the field.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "calvin-40",
+  "cassie"
+ ],
+ "refs": [
+  {
+   "label": "Dobot website",
+   "url": "https://www.dobot-robots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

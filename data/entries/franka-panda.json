@@ -1,0 +1,44 @@
+{
+ "id": "franka-panda",
+ "name": "Panda",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Franka Emika",
+ "country": "Germany",
+ "year": "2017",
+ "status": "discontinued",
+ "def": "Seven axis arm with torque sensing in every joint, sold at a low price and widely adopted by research laboratories.",
+ "body": [],
+ "facts": [
+  "Its designers received the German Future Prize in 2017",
+  "Succeeded by the Franka Research 3"
+ ],
+ "specs": [
+  [
+   "Axes",
+   "7"
+  ],
+  [
+   "Payload",
+   "3 kg"
+  ],
+  [
+   "Reach",
+   "855 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Franka Robotics website",
+   "url": "https://franka.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

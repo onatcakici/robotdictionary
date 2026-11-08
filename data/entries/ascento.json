@@ -1,0 +1,31 @@
+{
+ "id": "ascento",
+ "name": "Ascento Guard",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Ascento",
+ "country": "Switzerland",
+ "year": "2023",
+ "status": "pilot",
+ "def": "A two wheeled jumping security robot balancing on legs with wheels for feet.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "astro",
+  "athlete"
+ ],
+ "refs": [
+  {
+   "label": "Ascento website",
+   "url": "https://www.ascento.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

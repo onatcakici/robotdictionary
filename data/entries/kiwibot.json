@@ -1,0 +1,56 @@
+{
+ "id": "kiwibot",
+ "name": "Kiwibot",
+ "aka": [
+  "Kiwibot 4.0"
+ ],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Kiwibot",
+ "country": "United States",
+ "year": "2017",
+ "status": "service",
+ "def": "Compact four wheeled campus and city delivery robot that carries food orders short distances, driving itself with human operators supervising and intervening remotely.",
+ "body": [
+  "Kiwibot is a small four wheeled box robot designed around low cost hardware and heavy use of remote human supervision. Cameras and satellite positioning drive routine sidewalk navigation, and operators in a control centre handle crossings and edge cases. It was built for university food service, where fixed routes and predictable sidewalks suit its short range. Deployments run on college campuses and in city districts in the United States and Latin America."
+ ],
+ "facts": [
+  "Announced with Sodexo a plan to bring more than a thousand robots to fifty college campuses",
+  "Runs campus delivery integrations with Grubhub dining accounts",
+  "Started as a student project at the University of California, Berkeley, with engineering in Medellin, Colombia; the company rebranded itself Robot.com in 2025"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheeled electric drive with a top loading insulated bin"
+  ],
+  [
+   "Power",
+   "Rechargeable lithium battery, swapped or charged between shifts"
+  ],
+  [
+   "Sensors",
+   "Cameras, ultrasonic sensors and satellite positioning"
+  ],
+  [
+   "Autonomy",
+   "Sidewalk autonomy backed by a remote operations centre that can drive the robot"
+  ]
+ ],
+ "see": [
+  "kuri",
+  "carbon-robotics-laserweeder"
+ ],
+ "refs": [
+  {
+   "label": "Kiwibot website",
+   "url": "https://www.kiwibot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,31 @@
+{
+ "id": "mini-pupper",
+ "name": "Mini Pupper",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "MangDang",
+ "country": "China",
+ "year": "2021",
+ "status": "production",
+ "def": "A ROS native open source desktop quadruped crowdfunded by hobbyists.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "minitaur",
+  "stanford-pupper"
+ ],
+ "refs": [
+  {
+   "label": "MangDang website",
+   "url": "https://mangdang.store",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

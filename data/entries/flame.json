@@ -1,0 +1,42 @@
+{
+ "id": "flame",
+ "name": "Flame",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid walking robot",
+ "maker": "Delft University of Technology",
+ "country": "Netherlands",
+ "year": "2008",
+ "status": "research",
+ "def": "Humanoid walking robot built by Daan Hobbelen at Delft University of Technology to study how humans walk, standing 130 cm tall and weighing 15 kg.",
+ "body": [],
+ "facts": [
+  "Came out of Delft University's Mechanical Engineering department"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Flame (robot)",
+   "url": "https://en.wikipedia.org/wiki/Flame_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Flame (Q5457132)",
+   "url": "https://www.wikidata.org/wiki/Q5457132",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Delft University of Technology website",
+   "url": "https://www.tudelft.nl/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5457132"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

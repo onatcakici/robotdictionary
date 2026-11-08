@@ -1,0 +1,28 @@
+{
+ "id": "tiago",
+ "name": "TIAGo",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "mobile manipulator",
+ "maker": "PAL Robotics",
+ "country": "Spain",
+ "year": "2015",
+ "status": "production",
+ "def": "Wheeled robot with a lifting torso and one arm from PAL Robotics, widely used as a research platform for home and care tasks.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "PAL Robotics website",
+   "url": "https://pal-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

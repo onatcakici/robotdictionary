@@ -1,0 +1,35 @@
+{
+ "id": "genghis",
+ "name": "Genghis",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "hexapod robot",
+ "maker": "MIT",
+ "country": "",
+ "year": "",
+ "status": "research",
+ "def": "Six legged walking robot resembling an insect, built by Rodney Brooks at MIT and associated with his reactive subsumption architecture for robot behaviour.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Genghis (robot)",
+   "url": "https://en.wikipedia.org/wiki/Genghis_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Genghis Robot (Q11301651)",
+   "url": "https://www.wikidata.org/wiki/Q11301651",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q11301651"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

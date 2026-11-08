@@ -1,0 +1,85 @@
+{
+ "id": "ameca",
+ "name": "Ameca",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Engineered Arts",
+ "country": "United Kingdom",
+ "year": "2021",
+ "status": "production",
+ "def": "The grey faced expressive android whose stunned expressions became the face of the AI era.",
+ "body": [
+  "Ameca's grey skinned double takes made it the most photographed face of the AI boom, headlining trade shows and museum halls. Engineered Arts builds each unit in Cornwall around its Mesmer facial actuation system."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "robothespian",
+  "apollo"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.engineeredarts.co.uk/robot/ameca/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Ameca (Q110441390)",
+   "url": "https://www.wikidata.org/wiki/Q110441390",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, theverge.com",
+   "url": "https://www.theverge.com/2021/12/5/22819328/humanoid-robot-eerily-lifelike-facial-expressions",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, cnet.com",
+   "url": "https://www.cnet.com/news/you-have-to-distance-yourself-from-it-being-a-human-ameca-engineered-arts/",
+   "kind": "cited"
+  },
+  {
+   "label": "Engineered Arts website",
+   "url": "https://www.engineeredarts.co.uk/",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://engineeredarts.co.uk/robot/ameca",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Ameca (robot)",
+   "url": "https://en.wikipedia.org/wiki/Ameca_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ameca (Q114350510)",
+   "url": "https://www.wikidata.org/wiki/Q114350510",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, theverge.com",
+   "url": "https://www.theverge.com/23054881/engineered-arts-robotic-humanoid-ai-ameca-artificial-intelligence",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, sciencetimes.com",
+   "url": "https://www.sciencetimes.com/articles/48302/20240122/worlds-advanced-bot-ameca-speaks-experiences-being-humanoid-robot.htm",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, thenationalrobotarium.com",
+   "url": "https://thenationalrobotarium.com/worlds-most-advanced-humanoid-robot-arrives-at-the-national-robotarium/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q114350510"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

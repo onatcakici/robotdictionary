@@ -1,0 +1,49 @@
+{
+ "id": "eve",
+ "name": "EVE",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "wheeled humanoid",
+ "maker": "1X Technologies",
+ "country": "Norway",
+ "year": "2019",
+ "status": "production",
+ "def": "A wheeled humanoid used for security patrol and logistics; 1X's first commercial platform.",
+ "body": [
+  "EVE patrolled warehouses and offices as 1X's first commercial product, and its teleoperation data became the training corpus for the company's home humanoid NEO."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Base",
+   "wheeled"
+  ],
+  [
+   "Pace",
+   "approx. 14 km/h"
+  ]
+ ],
+ "see": [
+  "avidbots-neo",
+  "fedor"
+ ],
+ "refs": [
+  {
+   "label": "Wikidata, Eve (Q63790055)",
+   "url": "https://www.wikidata.org/wiki/Q63790055",
+   "kind": "wikidata"
+  },
+  {
+   "label": "1X website",
+   "url": "https://1x.tech",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q63790055"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

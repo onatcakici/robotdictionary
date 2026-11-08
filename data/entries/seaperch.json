@@ -1,0 +1,44 @@
+{
+ "id": "seaperch",
+ "name": "SeaPerch",
+ "aka": [],
+ "section": "marine",
+ "kind": "educational remotely operated vehicle",
+ "maker": "MIT Sea Grant College Program",
+ "country": "United States",
+ "year": "2003",
+ "status": "",
+ "def": "Educational kit and curriculum in which school students build a basic remotely operated underwater vehicle from PVC pipe and other everyday materials.",
+ "body": [],
+ "facts": [
+  "Launched in 2003 by the MIT Sea Grant College Program",
+  "Inspired by the 1997 book Build Your Own Underwater Robot and other Wet Projects",
+  "Backed by the Office of Naval Research to develop future naval engineers"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.seaperch.org/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, SeaPerch",
+   "url": "https://en.wikipedia.org/wiki/SeaPerch",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, SeaPerch (Q3476645)",
+   "url": "https://www.wikidata.org/wiki/Q3476645",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3476645"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

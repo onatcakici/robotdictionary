@@ -1,0 +1,35 @@
+{
+ "id": "squirrel-robot",
+ "name": "Squirrel Robot",
+ "aka": [],
+ "section": "other",
+ "kind": "nuclear inspection robot",
+ "maker": "LIST",
+ "country": "France",
+ "year": "1990",
+ "status": "",
+ "def": "Inspection robot built in France in 1990 by LIST to get into hazardous parts of nuclear plants and send back reports on conditions there.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Squirel robot - CnAM 45281 (Q55138855)",
+   "url": "https://www.wikidata.org/wiki/Q55138855",
+   "kind": "wikidata"
+  },
+  {
+   "label": "LIST website",
+   "url": "http://www-list.cea.fr/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q55138855"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

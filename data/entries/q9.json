@@ -1,0 +1,31 @@
+{
+ "id": "q9",
+ "name": "Q9",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "LG",
+ "country": "South Korea",
+ "year": "2025",
+ "status": "concept",
+ "def": "LG's two legged wheeled home agent that emotes through a screen face.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "cloi-servebot",
+  "lg-cloi-guidebot"
+ ],
+ "refs": [
+  {
+   "label": "LG website",
+   "url": "https://www.lg.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

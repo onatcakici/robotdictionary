@@ -1,0 +1,41 @@
+{
+ "id": "shinkei",
+ "name": "Shinkei",
+ "aka": [],
+ "section": "arms",
+ "kind": "fish processing robot",
+ "maker": "Shinkei Systems",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robot for fishing boats that uses computer vision to apply the Japanese ikejime method, which keeps fish fresher for longer.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Shinkei Systems",
+   "url": "https://www.ycombinator.com/companies/shinkei-systems",
+   "kind": "yc"
+  },
+  {
+   "label": "Shinkei Systems website",
+   "url": "http://www.shinkei.systems",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "shinkei-systems"
+ },
+ "yc": {
+  "company": "Shinkei Systems",
+  "batch": "Winter 2022",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/shinkei-systems"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

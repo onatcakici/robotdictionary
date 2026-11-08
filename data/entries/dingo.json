@@ -1,0 +1,31 @@
+{
+ "id": "dingo",
+ "name": "Dingo",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Clearpath Robotics",
+ "country": "Canada",
+ "year": "2020",
+ "status": "production",
+ "def": "An indoor research base light enough for a lab bench.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "husky",
+  "jackal"
+ ],
+ "refs": [
+  {
+   "label": "Clearpath Robotics website",
+   "url": "https://clearpathrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

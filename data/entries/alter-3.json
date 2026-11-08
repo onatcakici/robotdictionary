@@ -1,0 +1,31 @@
+{
+ "id": "alter-3",
+ "name": "Alter 3",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Osaka University and mixi",
+ "country": "Japan",
+ "year": "2019",
+ "status": "research",
+ "def": "An android artist with a neural network nervous system; conducted an opera.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "ameca",
+  "apollo"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Alter 3",
+   "url": "https://en.wikipedia.org/w/index.php?search=Alter+3+Osaka+University+and+mixi",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

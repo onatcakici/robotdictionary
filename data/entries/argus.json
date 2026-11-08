@@ -1,0 +1,35 @@
+{
+ "id": "argus",
+ "name": "Argus",
+ "aka": [],
+ "section": "other",
+ "kind": "robotic camera system",
+ "maker": "",
+ "country": "",
+ "year": "1990",
+ "status": "",
+ "def": "Robotic camera platform from MIT's City Scanning project that captured omnidirectional images tagged with their geographic position, dating from 1990.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://city.csail.mit.edu/city.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Argus robot at MIT (Q89999415)",
+   "url": "https://www.wikidata.org/wiki/Q89999415",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q89999415"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,28 @@
+{
+ "id": "jia-jia",
+ "name": "Jia Jia",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "University of Science and Technology of China",
+ "country": "China",
+ "year": "2016",
+ "status": "research",
+ "def": "Lifelike female humanoid robot unveiled at the University of Science and Technology of China in 2016.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "USTC website",
+   "url": "https://en.ustc.edu.cn",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}
