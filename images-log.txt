@@ -1,0 +1,69 @@
+entries without pictures to try 1058
+candidate files 285
+skip 2-xl may show people
+skip adelbrecht too small
+skip ai-da may show people
+skip aibo-ers-7 type image/svg+xml
+skip armatron may show people
+skip autonomous-shipboard-humanoid may show people
+skip bluerov2 may show people
+skip boaty-mcboatface not a photograph
+skip canadarm may show people
+pictures 25
+skip cimon may show people
+skip clone-alpha too small
+skip dragon-runner licence OGL v1.0
+skip elektro may show people
+skip enon personality rights
+skip ever too small
+skip fedor not a photograph
+skip festo-robotino may show people
+pictures 50
+skip furby type image/svg+xml
+skip hal personality rights
+skip hero-1 too small
+skip hrp-4c too small
+skip inkha may show people
+pictures 75
+skip irobot-create may show people
+skip kaspar may show people
+skip kilobot may show people
+skip kirobo too small
+skip lego-mindstorms-nxt may show people
+skip ls3 may show people
+pictures 100
+skip marsokhod type image/gif
+skip modular-advanced-armed-robotic-system may show people
+skip muppet-mobile-lab may show people
+skip opportunity may show people
+pictures 125
+skip papero not a photograph
+skip patrolbot too small
+skip perseverance licence unknown
+skip pio type image/svg+xml
+skip pragyan licence GODL-India
+skip pudu-bellabot type image/gif
+skip push-the-talking-trash-can may show people
+skip rb5x may show people
+skip ripsaw may show people
+pictures 150
+skip robug-iii too small
+skip rollin-justin may show people
+skip rosalind-franklin may show people
+skip seafox licence OGL v1.0
+skip sentry not a photograph
+skip shadow-dexterous-hand too small
+pictures 175
+skip space-exploration-vehicle may show people
+skip spheres may show people
+skip stanford-arm may show people
+skip tekbots may show people
+skip tipu-s-tiger may show people
+skip tobor too small
+pictures 200
+skip unimate may show people
+skip vaimos not a photograph
+skip videoray-rovs may show people
+skip vyommitra licence GODL-India
+skip wheelbarrow licence OGL v1.0
+new pictures 222 total 222
