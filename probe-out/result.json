@@ -1,0 +1,5246 @@
+{
+ "total_instances": {
+  "ok": true,
+  "secs": 2.8,
+  "rows": [
+   {
+    "n": "1447"
+   }
+  ]
+ },
+ "fictional_instances": {
+  "ok": true,
+  "secs": 39.3,
+  "rows": [
+   {
+    "n": "46"
+   }
+  ]
+ },
+ "enwiki_instances": {
+  "ok": true,
+  "secs": 1.3,
+  "rows": [
+   {
+    "n": "911"
+   }
+  ]
+ },
+ "subclass_with_maker": {
+  "ok": true,
+  "secs": 0.7,
+  "rows": [
+   {
+    "n": "198"
+   }
+  ]
+ },
+ "subclass_with_maker_enwiki": {
+  "ok": true,
+  "secs": 1.0,
+  "rows": [
+   {
+    "n": "119"
+   }
+  ]
+ },
+ "classes": {
+  "ok": true,
+  "secs": 0.6,
+  "rows": [
+   {
+    "cls": "http://www.wikidata.org/entity/Q1142930",
+    "clsLabel": "CubeSat",
+    "n": "385"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q11012",
+    "clsLabel": "robot",
+    "n": "202"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q26529",
+    "clsLabel": "space probe",
+    "n": "153"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q7248527",
+    "clsLabel": "Progress-M",
+    "n": "117"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q584529",
+    "clsLabel": "humanoid robot",
+    "n": "56"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q7248542",
+    "clsLabel": "Progress 7K-TG",
+    "n": "43"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q18819669",
+    "clsLabel": "flyby probe",
+    "n": "34"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q2098169",
+    "clsLabel": "planetary probe",
+    "n": "32"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q116036777",
+    "clsLabel": "Five Nights at Freddy's animatronic",
+    "n": "30"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q111914880",
+    "clsLabel": "lunar orbiter",
+    "n": "29"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q257406",
+    "clsLabel": "autonomous underwater vehicle",
+    "n": "21"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q5380490",
+    "clsLabel": "entertainment robot",
+    "n": "19"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q1944346",
+    "clsLabel": "lunar probe",
+    "n": "19"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q1235833",
+    "clsLabel": "military robot",
+    "n": "17"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q136334580",
+    "clsLabel": "Cygnus Enhanced",
+    "n": "17"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q21804540",
+    "clsLabel": "Progress-MS",
+    "n": "16"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q236448",
+    "clsLabel": "Dragon",
+    "n": "14"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q494002",
+    "clsLabel": "animatronics",
+    "n": "13"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q2916098",
+    "clsLabel": "autonomous robot",
+    "n": "13"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q3625949",
+    "clsLabel": "3MV",
+    "n": "13"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q56681792",
+    "clsLabel": "combat robot",
+    "n": "13"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q1378139",
+    "clsLabel": "robotic spacecraft",
+    "n": "12"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q40301424",
+    "clsLabel": "robotic dog",
+    "n": "11"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q12054919",
+    "clsLabel": "solar probe",
+    "n": "11"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q13425084",
+    "clsLabel": "comet probe",
+    "n": "10"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q7248528",
+    "clsLabel": "Progress-M1",
+    "n": "10"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q266487",
+    "clsLabel": "H-II Transfer Vehicle",
+    "n": "9"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q15905312",
+    "clsLabel": "Tianzhou",
+    "n": "9"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q181787",
+    "clsLabel": "android",
+    "n": "8"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q2005645",
+    "clsLabel": "social robot",
+    "n": "6"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q4030620",
+    "clsLabel": "2MV",
+    "n": "6"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q15832656",
+    "clsLabel": "loitering munition",
+    "n": "6"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q138544061",
+    "clsLabel": "servicing spacecraft",
+    "n": "6"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q40687",
+    "clsLabel": "robotic arm",
+    "n": "5"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q6806593",
+    "clsLabel": "medical robots",
+    "n": "5"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q1195578",
+    "clsLabel": "unmanned combat aerial vehicle",
+    "n": "5"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q127924",
+    "clsLabel": "Cygnus",
+    "n": "5"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q153257",
+    "clsLabel": "Automated Transfer Vehicle",
+    "n": "5"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q7455797",
+    "clsLabel": "service robot",
+    "n": "4"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q18713403",
+    "clsLabel": "bipedal robot",
+    "n": "4"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q109621203",
+    "clsLabel": "delivery robot",
+    "n": "4"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q4414810",
+    "clsLabel": "agricultural robot",
+    "n": "3"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q1424704",
+    "clsLabel": "legged robot",
+    "n": "3"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q1442634",
+    "clsLabel": "interstellar probe",
+    "n": "3"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q111188618",
+    "clsLabel": "autonomous watercraft",
+    "n": "3"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q13663086",
+    "clsLabel": "Luna E-1",
+    "n": "3"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q109782713",
+    "clsLabel": "Q109782713",
+    "n": "3"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q105754308",
+    "clsLabel": "HTV-X",
+    "n": "3"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q109743523",
+    "clsLabel": "Cargo Dragon",
+    "n": "3"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q132129508",
+    "clsLabel": "Q132129508",
+    "n": "3"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q125406633",
+    "clsLabel": "attack drone",
+    "n": "3"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q1128980",
+    "clsLabel": "industrial robot",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q7315030",
+    "clsLabel": "rescue robot",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q7353392",
+    "clsLabel": "Robot kit",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q168577",
+    "clsLabel": "robotic vacuum cleaner",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q402330",
+    "clsLabel": "cargo spacecraft",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q10636097",
+    "clsLabel": "EOD robots",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q55080236",
+    "clsLabel": "autonomous truck",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q127899",
+    "clsLabel": "Multi-Purpose Logistics Module",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q181309",
+    "clsLabel": "CUTE-1.7",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q4788306",
+    "clsLabel": "ArduSat",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q14822753",
+    "clsLabel": "COMPASS",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q17145779",
+    "clsLabel": "Mission Extension Vehicle",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q730863",
+    "clsLabel": "gynoid",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q116285085",
+    "clsLabel": "autonomous vehicle",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q123757475",
+    "clsLabel": "Boeing X-37B Orbital Test Vehicle",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q136334581",
+    "clsLabel": "Cygnus XL",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q113840995",
+    "clsLabel": "SORA-Q",
+    "n": "2"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q1331972",
+    "clsLabel": "domestic robot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q2072119",
+    "clsLabel": "personal robot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q3180664",
+    "clsLabel": "articulated robot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q4810574",
+    "clsLabel": "mobile robot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q6557442",
+    "clsLabel": "liquid handling robot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q7187936",
+    "clsLabel": "phototrope",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q7576715",
+    "clsLabel": "Spherical robot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q10329563",
+    "clsLabel": "microbot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q741490",
+    "clsLabel": "autonomous car",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q1484792",
+    "clsLabel": "selective compliance assembly robot arm",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q27114029",
+    "clsLabel": "sex robot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q106864612",
+    "clsLabel": "autonomous bus",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q114772316",
+    "clsLabel": "shopping robot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q475494",
+    "clsLabel": "Dream Chaser",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q2634473",
+    "clsLabel": "underwater glider",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q25327011",
+    "clsLabel": "4MV",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q1938887",
+    "clsLabel": "Actroid",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q17190252",
+    "clsLabel": "Pepper",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q55541780",
+    "clsLabel": "cocktail robot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q55608217",
+    "clsLabel": "companion robot",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q122644059",
+    "clsLabel": "robot scientist",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q28735708",
+    "clsLabel": "DIDO satellites",
+    "n": "1"
+   },
+   {
+    "cls": "http://www.wikidata.org/entity/Q121878470",
+    "clsLabel": "Venus probe",
+    "n": "1"
+   }
+  ]
+ },
+ "known": {
+  "ok": true,
+  "secs": 3.2,
+  "rows": [
+   {
+    "item": "http://www.wikidata.org/entity/Q74050",
+    "p31": "http://www.wikidata.org/entity/Q431289",
+    "itemLabel": "Roomba",
+    "itemDescription": "series of autonomous robotic vacuum cleaners sold by iRobot",
+    "p31Label": "brand",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q102520",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Atlas",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q130818",
+    "p31": "http://www.wikidata.org/entity/Q45713",
+    "itemLabel": "Atlas",
+    "itemDescription": "deity in Greek mythology",
+    "p31Label": "titan",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q159054",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "2008 film by Bryan Singer",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q198249",
+    "p31": "http://www.wikidata.org/entity/Q178885",
+    "itemLabel": "Zhurong",
+    "itemDescription": "legendary ruler in prehistoric China associated with Chu (central Yangtze), later venerated as a fire diety and culture hero responsible for cooking and music",
+    "p31Label": "deity",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q198249",
+    "p31": "http://www.wikidata.org/entity/Q977690",
+    "itemLabel": "Zhurong",
+    "itemDescription": "legendary ruler in prehistoric China associated with Chu (central Yangtze), later venerated as a fire diety and culture hero responsible for cooking and music",
+    "p31Label": "culture hero",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q198249",
+    "p31": "http://www.wikidata.org/entity/Q12334344",
+    "itemLabel": "Zhurong",
+    "itemDescription": "legendary ruler in prehistoric China associated with Chu (central Yangtze), later venerated as a fire diety and culture hero responsible for cooking and music",
+    "p31Label": "legendary hero",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q237630",
+    "p31": "http://www.wikidata.org/entity/Q4022",
+    "itemLabel": "Atlas",
+    "itemDescription": "river in Russia",
+    "p31Label": "river",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q250143",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Baxter",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q250827",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Spot",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q261052",
+    "p31": "http://www.wikidata.org/entity/Q1007767",
+    "itemLabel": "Lunokhod 1",
+    "itemDescription": "Soviet lunar rover; first rover to operate on the Moon",
+    "p31Label": "lunar rover",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q261052",
+    "p31": "http://www.wikidata.org/entity/Q1136730",
+    "itemLabel": "Lunokhod 1",
+    "itemDescription": "Soviet lunar rover; first rover to operate on the Moon",
+    "p31Label": "solar vehicle",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q271671",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "Byzantine empress",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q297769",
+    "p31": "http://www.wikidata.org/entity/Q584529",
+    "itemLabel": "ASIMO",
+    "itemDescription": "humanoid robot created by Honda",
+    "p31Label": "humanoid robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q342009",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Optimus",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q413584",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Curiosity",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q530502",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Sophia",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q546165",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "Queen of Hungary (1065\u20131072)",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q559298",
+    "p31": "http://www.wikidata.org/entity/Q40687",
+    "itemLabel": "Canadarm2",
+    "itemDescription": "robotic arm on the International Space Station",
+    "p31Label": "robotic arm",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q577703",
+    "p31": "http://www.wikidata.org/entity/Q936518",
+    "itemLabel": "Atlas",
+    "itemDescription": "1965-1992 aerospace manufacturer in South Africa",
+    "p31Label": "aerospace manufacturer",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q621022",
+    "p31": "http://www.wikidata.org/entity/Q1348589",
+    "itemLabel": "Atlas",
+    "itemDescription": "Moon crater",
+    "p31Label": "lunar crater",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q624513",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Sophia",
+    "itemDescription": "British musical group; indie rock band",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q742860",
+    "p31": "http://www.wikidata.org/entity/Q5741069",
+    "itemLabel": "Pepper",
+    "itemDescription": "American reggae rock band",
+    "p31Label": "rock band",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q757048",
+    "p31": "http://www.wikidata.org/entity/Q786820",
+    "itemLabel": "Atlas",
+    "itemDescription": "1951 automobile",
+    "p31Label": "automobile manufacturer",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q757089",
+    "p31": "http://www.wikidata.org/entity/Q22988604",
+    "itemLabel": "Atlas",
+    "itemDescription": "king in Greek mythology",
+    "p31Label": "mythological Greek character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q780422",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Atlas",
+    "itemDescription": "Hungarian band",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q812042",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Baxter",
+    "itemDescription": "American musicial group; Chicago punk band",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q812052",
+    "p31": "http://www.wikidata.org/entity/Q1093829",
+    "itemLabel": "Baxter",
+    "itemDescription": "city in Putnam County, Tennessee, United States",
+    "p31Label": "city in the United States",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q827561",
+    "p31": "http://www.wikidata.org/entity/Q4022",
+    "itemLabel": "Ameca",
+    "itemDescription": "river in Mexico",
+    "p31Label": "river",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q852268",
+    "itemLabel": "Robonaut",
+    "itemDescription": "NASA humanoid robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q858422",
+    "p31": "http://www.wikidata.org/entity/Q1235833",
+    "itemLabel": "BigDog",
+    "itemDescription": "quadruped robot",
+    "p31Label": "military robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q980700",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Pepper",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1048351",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Cassie",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1171162",
+    "p31": "http://www.wikidata.org/entity/Q26401003",
+    "itemLabel": "Digit",
+    "itemDescription": "favourite gorilla of Dian Fossey",
+    "p31Label": "individual animal",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1224674",
+    "p31": "http://www.wikidata.org/entity/Q131436",
+    "itemLabel": "Digit",
+    "itemDescription": "game",
+    "p31Label": "board game",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1237061",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Ameca",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1266539",
+    "p31": "http://www.wikidata.org/entity/Q101352",
+    "itemLabel": "Baxter",
+    "itemDescription": "family name",
+    "p31Label": "family name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1266539",
+    "p31": "http://www.wikidata.org/entity/Q829026",
+    "itemLabel": "Baxter",
+    "itemDescription": "family name",
+    "p31Label": "occupational surname",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1464170",
+    "p31": "http://www.wikidata.org/entity/Q584529",
+    "itemLabel": "Nao",
+    "itemDescription": "small humanoid robot developed by the French company Aldebaran Robotics",
+    "p31Label": "humanoid robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1468374",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "eldest known child of King Coloman of Hungary",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1516542",
+    "p31": "http://www.wikidata.org/entity/Q1128980",
+    "itemLabel": "Unimate",
+    "itemDescription": "world's first industrial robot, first produced in 1961",
+    "p31Label": "industrial robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1770537",
+    "p31": "http://www.wikidata.org/entity/Q389459",
+    "itemLabel": "Sojourner",
+    "itemDescription": "former NASA Mars rover",
+    "p31Label": "Mars rover",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1770537",
+    "p31": "http://www.wikidata.org/entity/Q1136730",
+    "itemLabel": "Sojourner",
+    "itemDescription": "former NASA Mars rover",
+    "p31Label": "solar vehicle",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1770537",
+    "p31": "http://www.wikidata.org/entity/Q15893266",
+    "itemLabel": "Sojourner",
+    "itemDescription": "former NASA Mars rover",
+    "p31Label": "former entity",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1810639",
+    "p31": "http://www.wikidata.org/entity/Q4810574",
+    "itemLabel": "Shakey the robot",
+    "itemDescription": "general-purpose mobile robot",
+    "p31Label": "mobile robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1933795",
+    "p31": "http://www.wikidata.org/entity/Q1093829",
+    "itemLabel": "Baxter",
+    "itemDescription": "human settlement in Jasper County, Iowa, United States of America",
+    "p31Label": "city in the United States",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q1933985",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Perseverance",
+    "itemDescription": "2002 studio album by Hatebreed",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2045671",
+    "p31": "http://www.wikidata.org/entity/Q1093829",
+    "itemLabel": "Baxter",
+    "itemDescription": "city in Crow Wing County, Minnesota, United States",
+    "p31Label": "city in the United States",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2071939",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Perseverance",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2087622",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "consort countess of Chiny",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2112274",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Spot",
+    "itemDescription": "album by And One",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2115582",
+    "p31": "http://www.wikidata.org/entity/Q15081032",
+    "itemLabel": "Atlas",
+    "itemDescription": "UK historical motorcycle manufacturer",
+    "p31Label": "historical motorcycle manufacturer",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2128793",
+    "p31": "http://www.wikidata.org/entity/Q1114461",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "comic book character",
+    "p31Label": "comics character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2298001",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Sojourner",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2302787",
+    "p31": "http://www.wikidata.org/entity/Q11879590",
+    "itemLabel": "Sophia",
+    "itemDescription": "female given name",
+    "p31Label": "female given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2311211",
+    "p31": "http://www.wikidata.org/entity/Q207174",
+    "itemLabel": "Sophia",
+    "itemDescription": "personification of wisdom in Hellenistic philosophy",
+    "p31Label": "personification",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2311211",
+    "p31": "http://www.wikidata.org/entity/Q33104279",
+    "itemLabel": "Sophia",
+    "itemDescription": "personification of wisdom in Hellenistic philosophy",
+    "p31Label": "philosophical concept",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2348505",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Spot",
+    "itemDescription": "American record producer (1951\u20132023)",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2383789",
+    "p31": "http://www.wikidata.org/entity/Q15056993",
+    "itemLabel": "Atlas",
+    "itemDescription": "1925 army cooperation aircraft family by Armstrong Whitworth",
+    "p31Label": "aircraft family",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2400838",
+    "p31": "http://www.wikidata.org/entity/Q3658341",
+    "itemLabel": "Cassie",
+    "p31Label": "literary character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2400838",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Cassie",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2575377",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Cassie",
+    "itemDescription": "2006 album by Cassie",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2700575",
+    "p31": "http://www.wikidata.org/entity/Q169930",
+    "itemLabel": "Curiosity",
+    "itemDescription": "2012 EP by Carly Rae Jepsen",
+    "p31Label": "extended play",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2782804",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Atlas",
+    "itemDescription": "2012 album by Parkway Drive",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2869431",
+    "p31": "http://www.wikidata.org/entity/Q811979",
+    "itemLabel": "Atlas",
+    "itemDescription": "Art Deco statue of Atlas at the Rockefeller Center, New York City, U.S.A.",
+    "p31Label": "built structure",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2869431",
+    "p31": "http://www.wikidata.org/entity/Q860861",
+    "itemLabel": "Atlas",
+    "itemDescription": "Art Deco statue of Atlas at the Rockefeller Center, New York City, U.S.A.",
+    "p31Label": "sculpture",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2879657",
+    "p31": "http://www.wikidata.org/entity/Q15127012",
+    "itemLabel": "Sophia",
+    "itemDescription": "town in West Virginia, USA",
+    "p31Label": "town in the United States",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2885918",
+    "p31": "http://www.wikidata.org/entity/Q498162",
+    "itemLabel": "Atlas",
+    "itemDescription": "census-designated place in Northumberland County, Pennsylvania",
+    "p31Label": "census-designated place in the United States",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2885918",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Atlas",
+    "itemDescription": "census-designated place in Northumberland County, Pennsylvania",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q2892144",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Baxter",
+    "itemDescription": "1989 film by J\u00e9r\u00f4me Boivin",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q3031868",
+    "p31": "http://www.wikidata.org/entity/Q1114461",
+    "itemLabel": "Spot",
+    "itemDescription": "fictional character in Marvel Comics",
+    "p31Label": "comics character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q3031868",
+    "p31": "http://www.wikidata.org/entity/Q14831768",
+    "itemLabel": "Spot",
+    "itemDescription": "fictional character in Marvel Comics",
+    "p31Label": "mutate",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q3473494",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Sophia",
+    "itemDescription": "human settlement in North Carolina, United States of America",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q3490808",
+    "p31": "http://www.wikidata.org/entity/Q14350",
+    "itemLabel": "Sophia",
+    "itemDescription": "French Radio Station",
+    "p31Label": "radio station",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q3575459",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Zhurong",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q3628243",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Atlas",
+    "itemDescription": "1961 film directed by Roger Corman",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q3628246",
+    "p31": "http://www.wikidata.org/entity/Q134556",
+    "itemLabel": "Atlas",
+    "itemDescription": "2007 single by Battles",
+    "p31Label": "single",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q3699616",
+    "p31": "http://www.wikidata.org/entity/Q5398426",
+    "itemLabel": "Curiosity",
+    "itemDescription": "American television series by Discover",
+    "p31Label": "television series",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q3884254",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Optimus",
+    "itemDescription": "album by John Norum",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q3964940",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Sophia",
+    "itemDescription": "band",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4043459",
+    "p31": "http://www.wikidata.org/entity/Q16521",
+    "itemLabel": "Sophia",
+    "itemDescription": "genus of insects",
+    "p31Label": "taxon",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4049784",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "singer",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816754",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Atlas",
+    "itemDescription": "unincorporated community in California",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816756",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Atlas",
+    "itemDescription": "unincorporated community in Upshur County, West Virginia",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816758",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Atlas",
+    "itemDescription": "human settlement in Illinois, United States of America",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816759",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Atlas",
+    "itemDescription": "unincorporated community in the Town of Laketown, Polk County, Wisconsin",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816766",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "sailing ship and convict ship launched in 1811",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816768",
+    "p31": "http://www.wikidata.org/entity/Q277759",
+    "itemLabel": "Atlas",
+    "itemDescription": "comic book series by Dylan Horrocks",
+    "p31Label": "book series",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816769",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "sailing ship and convict ship launched in 1801",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816773",
+    "p31": "http://www.wikidata.org/entity/Q786820",
+    "itemLabel": "Atlas",
+    "itemDescription": "automobile manufacturer in Pennsylvania (1906\u20131907)",
+    "p31Label": "automobile manufacturer",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816778",
+    "p31": "http://www.wikidata.org/entity/Q5741069",
+    "itemLabel": "Atlas",
+    "itemDescription": "New Zealand rock band, formed in 2005 and disbanded in 2008",
+    "p31Label": "rock band",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816779",
+    "p31": "http://www.wikidata.org/entity/Q786820",
+    "itemLabel": "Atlas",
+    "itemDescription": "Greek manufacturer of light trucks and auto parts",
+    "p31Label": "automobile manufacturer",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816781",
+    "p31": "http://www.wikidata.org/entity/Q41298",
+    "itemLabel": "Atlas",
+    "itemDescription": "Turkish monthly magazine",
+    "p31Label": "magazine",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4816782",
+    "p31": "http://www.wikidata.org/entity/Q121117",
+    "itemLabel": "Atlas",
+    "itemDescription": "supercomputer of the 1960s",
+    "p31Label": "supercomputer",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873819",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Baxter",
+    "itemDescription": "unincorporated community in California",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873821",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Baxter",
+    "itemDescription": "unincorporated community in Harlan County, Kentucky",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873823",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Baxter",
+    "itemDescription": "unincorporated community in Berkeley County, West Virginia",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873824",
+    "p31": "http://www.wikidata.org/entity/Q3257686",
+    "itemLabel": "Baxter",
+    "itemDescription": "locality in Victoria, Australia",
+    "p31Label": "locality",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873824",
+    "p31": "http://www.wikidata.org/entity/Q45242174",
+    "itemLabel": "Baxter",
+    "itemDescription": "locality in Victoria, Australia",
+    "p31Label": "gazetted locality of Victoria",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873825",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Baxter",
+    "itemDescription": "unincorporated community in Marion County, West Virginia",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q23760822",
+    "p31": "http://www.wikidata.org/entity/Q22569957",
+    "itemLabel": "Atlas",
+    "itemDescription": "serigraph - serigraph on paper by Toon Verhoef (De Pont 1997.TV.06)",
+    "p31Label": "screen print",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q24026921",
+    "p31": "http://www.wikidata.org/entity/Q204577",
+    "itemLabel": "Perseverance",
+    "itemDescription": "merchant ship",
+    "p31Label": "schooner",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q24026921",
+    "p31": "http://www.wikidata.org/entity/Q848944",
+    "itemLabel": "Perseverance",
+    "itemDescription": "merchant ship",
+    "p31Label": "merchant vessel",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q24084955",
+    "p31": "http://www.wikidata.org/entity/Q144",
+    "itemLabel": "Baxter",
+    "itemDescription": "former first dog of Maine",
+    "p31Label": "dog",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q24175951",
+    "p31": "http://www.wikidata.org/entity/Q15773347",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "fictional character from the Marvel Cinematic Universe",
+    "p31Label": "film character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q24175951",
+    "p31": "http://www.wikidata.org/entity/Q66311261",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "fictional character from the Marvel Cinematic Universe",
+    "p31Label": "Asgardian",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q24640421",
+    "p31": "http://www.wikidata.org/entity/Q26211545",
+    "itemLabel": "Nao",
+    "itemDescription": "village in Manggarai Regency, East Nusa Tenggara, Indonesia",
+    "p31Label": "desa",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q24883679",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Baxter",
+    "itemDescription": "unincorporated community in Pueblo County, Colorado, United States",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q25095241",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Curiosity",
+    "itemDescription": "album by Wampire",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q25245388",
+    "p31": "http://www.wikidata.org/entity/Q43229",
+    "itemLabel": "Starship Technologies",
+    "itemDescription": "Estonian company that performs last-mile deliveries using robots",
+    "p31Label": "organization",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q25245388",
+    "p31": "http://www.wikidata.org/entity/Q1468664",
+    "itemLabel": "Starship Technologies",
+    "itemDescription": "Estonian company that performs last-mile deliveries using robots",
+    "p31Label": "logistics company",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q26828714",
+    "p31": "http://www.wikidata.org/entity/Q860861",
+    "itemLabel": "Atlas",
+    "itemDescription": "sculpture by Agostino Zoppo",
+    "p31Label": "sculpture",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q27200689",
+    "p31": "http://www.wikidata.org/entity/Q15711870",
+    "itemLabel": "Spot",
+    "itemDescription": "character from 101 Dalmatians: The Series",
+    "p31Label": "animated character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q27200689",
+    "p31": "http://www.wikidata.org/entity/Q88590505",
+    "itemLabel": "Spot",
+    "itemDescription": "character from 101 Dalmatians: The Series",
+    "p31Label": "anthropomorphic chicken",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q27787563",
+    "p31": "http://www.wikidata.org/entity/Q20202352",
+    "itemLabel": "Ameca",
+    "itemDescription": "municipal seat of Ameca, State of Jalisco, Mexico",
+    "p31Label": "locality of Mexico",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q27994907",
+    "p31": "http://www.wikidata.org/entity/Q2085381",
+    "itemLabel": "Atlas",
+    "itemDescription": "academic publisher in Japan",
+    "p31Label": "publishing house",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q27995286",
+    "p31": "http://www.wikidata.org/entity/Q74047",
+    "itemLabel": "Baxter",
+    "itemDescription": "human settlement in Missouri, United States of America",
+    "p31Label": "ghost town",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q28153557",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Spot",
+    "itemDescription": "human settlement in United States of America",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q28336860",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q28451279",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "album by Glass Hammer",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q28451846",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Digit",
+    "itemDescription": "album by Echobelly",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q28457768",
+    "p31": "http://www.wikidata.org/entity/Q35127",
+    "itemLabel": "Curiosity",
+    "p31Label": "website",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q28736939",
+    "p31": "http://www.wikidata.org/entity/Q41298",
+    "itemLabel": "Sophia",
+    "itemDescription": "magazine",
+    "p31Label": "magazine",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q28858815",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Sophia",
+    "itemDescription": "fictional character from The Moon-Spinners",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q28858815",
+    "p31": "http://www.wikidata.org/entity/Q15773347",
+    "itemLabel": "Sophia",
+    "itemDescription": "fictional character from The Moon-Spinners",
+    "p31Label": "film character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q28864899",
+    "p31": "http://www.wikidata.org/entity/Q11060274",
+    "itemLabel": "Atlas",
+    "itemDescription": "print by Marcel Broodthaers, MAC's N\u00ba d\u00e9posant : APC 1.082",
+    "p31Label": "print",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q29704426",
+    "p31": "http://www.wikidata.org/entity/Q970092",
+    "itemLabel": "Atlas",
+    "p31Label": "crane vessel",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q30766846",
+    "p31": "http://www.wikidata.org/entity/Q3257686",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "locality in Queensland, Australia",
+    "p31Label": "locality",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q31872982",
+    "p31": "http://www.wikidata.org/entity/Q820477",
+    "itemLabel": "Atlas",
+    "itemDescription": "mine in Matabeleland South Province, Zimbabwe",
+    "p31Label": "mine",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q31985513",
+    "p31": "http://www.wikidata.org/entity/Q820477",
+    "itemLabel": "Pepper",
+    "itemDescription": "mine in Zimbabwe",
+    "p31Label": "mine",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q35174687",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese singer, member of Negicco",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q37017830",
+    "p31": "http://www.wikidata.org/entity/Q101352",
+    "itemLabel": "Atlas",
+    "itemDescription": "family name",
+    "p31Label": "family name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q37519502",
+    "p31": "http://www.wikidata.org/entity/Q101352",
+    "itemLabel": "Sojourner",
+    "itemDescription": "family name",
+    "p31Label": "family name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q37557041",
+    "p31": "http://www.wikidata.org/entity/Q101352",
+    "itemLabel": "Nao",
+    "itemDescription": "family name",
+    "p31Label": "family name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q40327264",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Pepper",
+    "itemDescription": "part of Chip and Pepper",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q41775364",
+    "p31": "http://www.wikidata.org/entity/Q15731356",
+    "itemLabel": "Baxter",
+    "itemDescription": "apple cultivar",
+    "p31Label": "apple cultivar",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q42291506",
+    "p31": "http://www.wikidata.org/entity/Q973740",
+    "itemLabel": "Perseverance",
+    "itemDescription": "UK whaling ship 1801\u20131841",
+    "p31Label": "whaler",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q42531738",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Sophia",
+    "itemDescription": "character from 2009 film 'Princess Protection Program'",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q42531738",
+    "p31": "http://www.wikidata.org/entity/Q15773347",
+    "itemLabel": "Sophia",
+    "itemDescription": "character from 2009 film 'Princess Protection Program'",
+    "p31Label": "film character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q42886728",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Perseverance",
+    "itemDescription": "1799 ship",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q42886730",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Perseverance",
+    "itemDescription": "1801 EIC ship",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q42896748",
+    "p31": "http://www.wikidata.org/entity/Q15623926",
+    "itemLabel": "Perseverance",
+    "itemDescription": "list of ships with the same or similar names",
+    "p31Label": "Wikimedia set index article",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q43080570",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Baxter",
+    "itemDescription": "human settlement in Union County, Georgia, United States",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q43894913",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Baxter",
+    "itemDescription": "company in Lurago d'Erba, Italy",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q45533995",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Aibo",
+    "itemDescription": "Yuan dynasty person CBDB = 114680",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q47012488",
+    "p31": "http://www.wikidata.org/entity/Q148401",
+    "itemLabel": "Pepper",
+    "itemDescription": "fictional witch from webcomic Pepper&Carrot",
+    "p31Label": "magician",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q47012488",
+    "p31": "http://www.wikidata.org/entity/Q1114461",
+    "itemLabel": "Pepper",
+    "itemDescription": "fictional witch from webcomic Pepper&Carrot",
+    "p31Label": "comics character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q47012488",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Pepper",
+    "itemDescription": "fictional witch from webcomic Pepper&Carrot",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q48173011",
+    "p31": "http://www.wikidata.org/entity/Q18487055",
+    "itemLabel": "Atlas",
+    "itemDescription": "1970s anti-tank missile program by British Aircraft Corporation and Fabrique Nationale",
+    "p31Label": "missile model",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q49056375",
+    "p31": "http://www.wikidata.org/entity/Q8502",
+    "itemLabel": "Nao",
+    "itemDescription": "mountain in Hawaii, United States of America",
+    "p31Label": "mountain",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q49440027",
+    "p31": "http://www.wikidata.org/entity/Q820477",
+    "itemLabel": "Perseverance",
+    "itemDescription": "mine in Lewis and Clark County, Montana, United States of America",
+    "p31Label": "mine",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q49850507",
+    "p31": "http://www.wikidata.org/entity/Q486972",
+    "itemLabel": "Ameca",
+    "p31Label": "human settlement",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q50534586",
+    "p31": "http://www.wikidata.org/entity/Q737498",
+    "itemLabel": "Sophia",
+    "itemDescription": "Academic journal published by Universidad La Gran Colombia, covering the subjects: Education: Education (General) | Education: Theory and practice of education",
+    "p31Label": "academic journal",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q50534586",
+    "p31": "http://www.wikidata.org/entity/Q108440863",
+    "itemLabel": "Sophia",
+    "itemDescription": "Academic journal published by Universidad La Gran Colombia, covering the subjects: Education: Education (General) | Education: Theory and practice of education",
+    "p31Label": "diamond open-access journal",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q51206642",
+    "p31": "http://www.wikidata.org/entity/Q21191270",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "episode of Castle (S6 E1)",
+    "p31Label": "television series episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q51574145",
+    "p31": "http://www.wikidata.org/entity/Q21191270",
+    "itemLabel": "Cassie",
+    "itemDescription": "episode of Skins (S2 E9)",
+    "p31Label": "television series episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q52316199",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "heavy lift vessel built in 1975",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q52808330",
+    "p31": "http://www.wikidata.org/entity/Q9842",
+    "itemLabel": "Nao",
+    "itemDescription": "primary school in Jonadi, Vibo Valentia, Calabria, Italy",
+    "p31Label": "primary school",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q55011358",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Atlas",
+    "itemDescription": "2013 film directed by Antoine D'Agata",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q55649621",
+    "p31": "http://www.wikidata.org/entity/Q620615",
+    "itemLabel": "Pepper",
+    "itemDescription": "mobile app",
+    "p31Label": "mobile app",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q56184221",
+    "p31": "http://www.wikidata.org/entity/Q170483",
+    "itemLabel": "Sophia",
+    "itemDescription": "merchant ship",
+    "p31Label": "sailing ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q56184221",
+    "p31": "http://www.wikidata.org/entity/Q848944",
+    "itemLabel": "Sophia",
+    "itemDescription": "merchant ship",
+    "p31Label": "merchant vessel",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q56411248",
+    "p31": "http://www.wikidata.org/entity/Q134556",
+    "itemLabel": "Sophia",
+    "itemDescription": "2017 single by Masami Okui",
+    "p31Label": "single",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q59543447",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Atlas",
+    "itemDescription": "painting by Annie Beaugrand-Champagne",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q60677054",
+    "p31": "http://www.wikidata.org/entity/Q278379",
+    "itemLabel": "Nao",
+    "itemDescription": "constructed planned language",
+    "p31Label": "a priori language",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q60677054",
+    "p31": "http://www.wikidata.org/entity/Q1790577",
+    "itemLabel": "Nao",
+    "itemDescription": "constructed planned language",
+    "p31Label": "planned language",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q61314175",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "-1110",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q61413370",
+    "p31": "http://www.wikidata.org/entity/Q1569167",
+    "itemLabel": "Sophia",
+    "itemDescription": "fictional character from Granblue Fantasy",
+    "p31Label": "video game character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q61413370",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Sophia",
+    "itemDescription": "fictional character from Granblue Fantasy",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q61993978",
+    "p31": "http://www.wikidata.org/entity/Q726",
+    "itemLabel": "Curiosity",
+    "itemDescription": "horse",
+    "p31Label": "horse",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q61997340",
+    "p31": "http://www.wikidata.org/entity/Q726",
+    "itemLabel": "Sophia",
+    "itemDescription": "horse born in 1871",
+    "p31Label": "horse",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q62027607",
+    "p31": "http://www.wikidata.org/entity/Q726",
+    "itemLabel": "Sophia",
+    "itemDescription": "horse born in 1798",
+    "p31Label": "horse",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q62078318",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Baxter",
+    "itemDescription": "character of the television series Mom",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q62078318",
+    "p31": "http://www.wikidata.org/entity/Q15773317",
+    "itemLabel": "Baxter",
+    "itemDescription": "character of the television series Mom",
+    "p31Label": "television character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63034578",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Atlas",
+    "itemDescription": "2018 film by David Nawrath",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63053215",
+    "p31": "http://www.wikidata.org/entity/Q3947",
+    "itemLabel": "Atlas",
+    "itemDescription": "building in Prague, former department store,",
+    "p31Label": "house",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63487446",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Cassie",
+    "itemDescription": "operatic character in the opera Pontalba by Thea Musgrave",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63487446",
+    "p31": "http://www.wikidata.org/entity/Q50386450",
+    "itemLabel": "Cassie",
+    "itemDescription": "operatic character in the opera Pontalba by Thea Musgrave",
+    "p31Label": "operatic character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63518035",
+    "p31": "http://www.wikidata.org/entity/Q28931760",
+    "itemLabel": "Baxter",
+    "itemDescription": "parish of Monteagle County, New South Wales, Australia",
+    "p31Label": "parish of New South Wales",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63884467",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Sophia",
+    "itemDescription": "musical character in the musical Death Takes a Holiday by Maury Yeston",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63884467",
+    "p31": "http://www.wikidata.org/entity/Q63975020",
+    "itemLabel": "Sophia",
+    "itemDescription": "musical character in the musical Death Takes a Holiday by Maury Yeston",
+    "p31Label": "musical theatre character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63885940",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Cassie",
+    "itemDescription": "musical character in the musical 13 by Jason Robert Brown",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63885940",
+    "p31": "http://www.wikidata.org/entity/Q63975020",
+    "itemLabel": "Cassie",
+    "itemDescription": "musical character in the musical 13 by Jason Robert Brown",
+    "p31Label": "musical theatre character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63887280",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Pepper",
+    "itemDescription": "musical character in the musical Mamma Mia! by Benny Andersson,Bj\u00f6rn Ulvaeus",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63887280",
+    "p31": "http://www.wikidata.org/entity/Q63975020",
+    "itemLabel": "Pepper",
+    "itemDescription": "musical character in the musical Mamma Mia! by Benny Andersson,Bj\u00f6rn Ulvaeus",
+    "p31Label": "musical theatre character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63891287",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Sophia",
+    "itemDescription": "musical character in the musical La Strada by Lionel Bart",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63891287",
+    "p31": "http://www.wikidata.org/entity/Q63975020",
+    "itemLabel": "Sophia",
+    "itemDescription": "musical character in the musical La Strada by Lionel Bart",
+    "p31Label": "musical theatre character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63892805",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Pepper",
+    "itemDescription": "musical character in the musical The Girl from Kays; page Boy of Flacton Hotel",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63892805",
+    "p31": "http://www.wikidata.org/entity/Q63975020",
+    "itemLabel": "Pepper",
+    "itemDescription": "musical character in the musical The Girl from Kays; page Boy of Flacton Hotel",
+    "p31Label": "musical theatre character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q65227402",
+    "p31": "http://www.wikidata.org/entity/Q7889",
+    "itemLabel": "Atlas",
+    "itemDescription": "2018 video game",
+    "p31Label": "video game",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q65576837",
+    "p31": "http://www.wikidata.org/entity/Q11060274",
+    "itemLabel": "Spot",
+    "itemDescription": "print in the National Gallery of Art (NGA 56035)",
+    "p31Label": "print",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q66126588",
+    "p31": "http://www.wikidata.org/entity/Q12308941",
+    "itemLabel": "Baxter",
+    "itemDescription": "male given name",
+    "p31Label": "male given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q66195918",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Sophia",
+    "itemDescription": "fictional character from 2018 film 'Black Panther'",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q66195918",
+    "p31": "http://www.wikidata.org/entity/Q15773347",
+    "itemLabel": "Sophia",
+    "itemDescription": "fictional character from 2018 film 'Black Panther'",
+    "p31Label": "film character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q73111651",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese idol",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q73848122",
+    "p31": "http://www.wikidata.org/entity/Q121117",
+    "itemLabel": "Atlas",
+    "itemDescription": "Cray supercomputer",
+    "p31Label": "supercomputer",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q76527913",
+    "p31": "http://www.wikidata.org/entity/Q3375722",
+    "itemLabel": "Sophia",
+    "itemDescription": "theatrical character in the play \"Thanassakis o politevomenos\"",
+    "p31Label": "theatrical character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q76527913",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Sophia",
+    "itemDescription": "theatrical character in the play \"Thanassakis o politevomenos\"",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q78886962",
+    "p31": "http://www.wikidata.org/entity/Q1002697",
+    "itemLabel": "Atlas",
+    "itemDescription": "Swedish periodical",
+    "p31Label": "periodical",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q80040847",
+    "p31": "http://www.wikidata.org/entity/Q13464614",
+    "itemLabel": "Curiosity",
+    "itemDescription": "ceramic by unknown artist (1964.525)",
+    "p31Label": "ceramic art",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873830",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Baxter",
+    "itemDescription": "album by Baxter",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873831",
+    "p31": "http://www.wikidata.org/entity/Q5398426",
+    "itemLabel": "Baxter",
+    "itemDescription": "TV series",
+    "p31Label": "television series",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873832",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Baxter",
+    "itemDescription": "Swedish electronic band",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873833",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Baxter",
+    "itemDescription": "Cambridgeshire cricketer",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873870",
+    "p31": "http://www.wikidata.org/entity/Q55488",
+    "itemLabel": "Baxter",
+    "itemDescription": "railway station in Baxter, Melbourne, Victoria, Australia",
+    "p31Label": "railway station",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873870",
+    "p31": "http://www.wikidata.org/entity/Q22808404",
+    "itemLabel": "Baxter",
+    "itemDescription": "railway station in Baxter, Melbourne, Victoria, Australia",
+    "p31Label": "station located on surface",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q5049389",
+    "p31": "http://www.wikidata.org/entity/Q21191270",
+    "itemLabel": "Cassie",
+    "itemDescription": "episode of Skins (S1 E2)",
+    "p31Label": "television series episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q5049394",
+    "p31": "http://www.wikidata.org/entity/Q105543609",
+    "itemLabel": "Cassie",
+    "itemDescription": "song composed by Lacey Sturm performed by Flyleaf",
+    "p31Label": "musical work/composition",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q5194765",
+    "p31": "http://www.wikidata.org/entity/Q24862",
+    "itemLabel": "Curiosity",
+    "itemDescription": "2009 short film",
+    "p31Label": "short film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q5194766",
+    "p31": "http://www.wikidata.org/entity/Q105543609",
+    "itemLabel": "Curiosity",
+    "itemDescription": "1985 song performed by The Jets",
+    "p31Label": "musical work/composition",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q5275752",
+    "p31": "http://www.wikidata.org/entity/Q41298",
+    "itemLabel": "Digit",
+    "itemDescription": "Indian technology magazine",
+    "p31Label": "magazine",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q6133427",
+    "p31": "http://www.wikidata.org/entity/Q15773317",
+    "itemLabel": "Spot",
+    "itemDescription": "fictional dragon",
+    "p31Label": "television character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q6133427",
+    "p31": "http://www.wikidata.org/entity/Q30170627",
+    "itemLabel": "Spot",
+    "itemDescription": "fictional dragon",
+    "p31Label": "fictional dragon",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q6905143",
+    "p31": "http://www.wikidata.org/entity/Q17051044",
+    "itemLabel": "Atlas",
+    "itemDescription": "mahalle (administrative quarter) in Nil\u00fcfer, Bursa, northwestern Turkey",
+    "p31Label": "mahalle",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q6905179",
+    "p31": "http://www.wikidata.org/entity/Q17051044",
+    "itemLabel": "Atlas",
+    "itemDescription": "mahalle (administrative quarter) in \u00c7ifteler, Eski\u015fehir, west-central Turkey",
+    "p31Label": "mahalle",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q6964505",
+    "p31": "http://www.wikidata.org/entity/Q3409032",
+    "itemLabel": "Nao",
+    "itemDescription": "undifferentiated Japanese kana unisex given name (\u306a\u304a)",
+    "p31Label": "unisex given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q6964505",
+    "p31": "http://www.wikidata.org/entity/Q88865478",
+    "itemLabel": "Nao",
+    "itemDescription": "undifferentiated Japanese kana unisex given name (\u306a\u304a)",
+    "p31Label": "undifferentiated Japanese kana given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7098983",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Optimus",
+    "itemDescription": "unincorporated community in Stone County, Arkansas",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7166340",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Pepper",
+    "itemDescription": "unincorporated community in Barbour County, West Virginia",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7166343",
+    "p31": "http://www.wikidata.org/entity/Q134556",
+    "itemLabel": "Pepper",
+    "itemDescription": "song",
+    "p31Label": "single",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7166344",
+    "p31": "http://www.wikidata.org/entity/Q144",
+    "itemLabel": "Pepper",
+    "itemDescription": "dalmatian dog from Pennsylvania, United States",
+    "p31Label": "dog",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7166346",
+    "p31": "http://www.wikidata.org/entity/Q134556",
+    "itemLabel": "Pepper",
+    "itemDescription": "single by the Butthole Surfers",
+    "p31Label": "single",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7170142",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Perseverance",
+    "itemDescription": "2007 studio album by Percee P",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7170143",
+    "p31": "http://www.wikidata.org/entity/Q142714",
+    "itemLabel": "Perseverance",
+    "itemDescription": "solo card game",
+    "p31Label": "card game",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7170146",
+    "p31": "http://www.wikidata.org/entity/Q171043",
+    "itemLabel": "Perseverance",
+    "itemDescription": "Early steam locomotive",
+    "p31Label": "steam locomotive",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7555040",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Sojourner",
+    "itemDescription": "compilation album by Jason Molina",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7562836",
+    "p31": "http://www.wikidata.org/entity/Q169930",
+    "itemLabel": "Sophia",
+    "itemDescription": "EP by The Cr\u00fcxshadows",
+    "p31Label": "extended play",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7562837",
+    "p31": "http://www.wikidata.org/entity/Q7366",
+    "itemLabel": "Sophia",
+    "itemDescription": "2006 song by Nerina Pallot",
+    "p31Label": "song",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7562837",
+    "p31": "http://www.wikidata.org/entity/Q134556",
+    "itemLabel": "Sophia",
+    "itemDescription": "2006 song by Nerina Pallot",
+    "p31Label": "single",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7562838",
+    "p31": "http://www.wikidata.org/entity/Q5633421",
+    "itemLabel": "Sophia",
+    "itemDescription": "academic journal",
+    "p31Label": "scientific journal",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7585771",
+    "p31": "http://www.wikidata.org/entity/Q8513",
+    "itemLabel": "Atlas",
+    "itemDescription": "database of artworks of mus\u00e9e du Louvre",
+    "p31Label": "database",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7911768",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "American band",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7911770",
+    "p31": "http://www.wikidata.org/entity/Q41298",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "magazine",
+    "p31Label": "magazine",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q7911771",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "MMA promoter based in Tokyo, Japan",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q8933552",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q9016384",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese AV idol",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q9207449",
+    "p31": "http://www.wikidata.org/entity/Q41298",
+    "itemLabel": "Digit",
+    "itemDescription": "magazine",
+    "p31Label": "magazine",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q9391696",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Sophia",
+    "itemDescription": "1976 film by Ryszard Czeka\u0142a",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q10421672",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Atlas",
+    "itemDescription": "Swedish musical group",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q11079414",
+    "itemLabel": "Digit",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q11236360",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese composer",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q11313025",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Spot",
+    "itemDescription": "Japanese business",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q11315237",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Sophia",
+    "itemDescription": "business in Japan",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q11315240",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Sophia",
+    "itemDescription": "Japanese company",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q11323663",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Nao",
+    "itemDescription": "company in Tokyo, Japan",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q12271028",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "Augusta and spouse of Christopher Lekapenos",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q12302418",
+    "p31": "http://www.wikidata.org/entity/Q41298",
+    "itemLabel": "Atlas",
+    "p31Label": "magazine",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q12776474",
+    "p31": "http://www.wikidata.org/entity/Q41298",
+    "itemLabel": "Sophia",
+    "p31Label": "magazine",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13018028",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Pepper",
+    "itemDescription": "musical group",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13455459",
+    "p31": "http://www.wikidata.org/entity/Q24862",
+    "itemLabel": "Curiosity",
+    "itemDescription": "1912 film by Arthur Mackley",
+    "p31Label": "short film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13886327",
+    "p31": "http://www.wikidata.org/entity/Q24862",
+    "itemLabel": "Curiosity",
+    "itemDescription": "1915 silent short film",
+    "p31Label": "short film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q14633433",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese seiy\u016b and singer, former vocalist of fripSide",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q14846927",
+    "p31": "http://www.wikidata.org/entity/Q134556",
+    "itemLabel": "Atlas",
+    "itemDescription": "Coldplay song",
+    "p31Label": "single",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q14948166",
+    "p31": "http://www.wikidata.org/entity/Q310890",
+    "itemLabel": "Ameca",
+    "itemDescription": "genus of fishes",
+    "p31Label": "monotypic taxon",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q15273284",
+    "p31": "http://www.wikidata.org/entity/Q1007767",
+    "itemLabel": "Yutu",
+    "itemDescription": "Chinese lunar rover",
+    "p31Label": "lunar rover",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q15275352",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Yutu",
+    "itemDescription": "Wikimedia disambiguation page",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q15299398",
+    "p31": "http://www.wikidata.org/entity/Q55818",
+    "itemLabel": "Sophia",
+    "itemDescription": "crater on Venus",
+    "p31Label": "impact crater",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q15757247",
+    "p31": "http://www.wikidata.org/entity/Q5633421",
+    "itemLabel": "Spot",
+    "itemDescription": "American scientific journal",
+    "p31Label": "scientific journal",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q15943157",
+    "p31": "http://www.wikidata.org/entity/Q16521",
+    "itemLabel": "Sophia",
+    "itemDescription": "genus of plants",
+    "p31Label": "taxon",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q16242741",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Atlas",
+    "itemDescription": "2014 Real Estate album",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q16420002",
+    "p31": "http://www.wikidata.org/entity/Q12308941",
+    "itemLabel": "Atlas",
+    "itemDescription": "male given name",
+    "p31Label": "male given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q16529306",
+    "p31": "http://www.wikidata.org/entity/Q43229",
+    "itemLabel": "Atlas",
+    "itemDescription": "French furniture manufacturer",
+    "p31Label": "organization",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q16682264",
+    "p31": "http://www.wikidata.org/entity/Q1114461",
+    "itemLabel": "Valkyrie",
+    "p31Label": "comics character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q16881110",
+    "p31": "http://www.wikidata.org/entity/Q101352",
+    "itemLabel": "Pepper",
+    "itemDescription": "family name",
+    "p31Label": "family name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q16919691",
+    "p31": "http://www.wikidata.org/entity/Q4167410",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "comics",
+    "p31Label": "Wikimedia disambiguation page",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q16932135",
+    "p31": "http://www.wikidata.org/entity/Q205985",
+    "itemLabel": "Sophia",
+    "itemDescription": "feminine figure in Gnosticism",
+    "p31Label": "goddess",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q16962879",
+    "p31": "http://www.wikidata.org/entity/Q58483083",
+    "itemLabel": "Atlas",
+    "itemDescription": "1991 Meredith Monk opera by Meredith Monk",
+    "p31Label": "dramatico-musical work",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q17217024",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Digit",
+    "itemDescription": "former Japanese IT company",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q17224654",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Nao",
+    "itemDescription": "singer-songwriter",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q18278038",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q18387769",
+    "p31": "http://www.wikidata.org/entity/Q3257686",
+    "itemLabel": "Perseverance",
+    "itemDescription": "locality in Queensland, Australia",
+    "p31Label": "locality",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q18485213",
+    "p31": "http://www.wikidata.org/entity/Q169930",
+    "itemLabel": "Sophia",
+    "itemDescription": "extended play by Sophia Abrah\u00e3o",
+    "p31Label": "extended play",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q18573205",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "painting by Peter Nicolai Arbo",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q18613249",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Curiosity",
+    "itemDescription": "1911 film",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q18615019",
+    "p31": "http://www.wikidata.org/entity/Q838795",
+    "itemLabel": "Curiosity",
+    "itemDescription": "1091st strip of the webcomic xkcd",
+    "p31Label": "comic strip",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q18938118",
+    "p31": "http://www.wikidata.org/entity/Q79007",
+    "itemLabel": "Atlas",
+    "itemDescription": "street in Amersfoort, the Netherlands",
+    "p31Label": "street",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q18938120",
+    "p31": "http://www.wikidata.org/entity/Q79007",
+    "itemLabel": "Atlas",
+    "itemDescription": "street in Heeze, the Netherlands",
+    "p31Label": "street",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q18938122",
+    "p31": "http://www.wikidata.org/entity/Q79007",
+    "itemLabel": "Atlas",
+    "itemDescription": "street in Hoogezand, the Netherlands",
+    "p31Label": "street",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q18938124",
+    "p31": "http://www.wikidata.org/entity/Q79007",
+    "itemLabel": "Atlas",
+    "itemDescription": "street in Purmerend, the Netherlands",
+    "p31Label": "street",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q19061319",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Curiosity",
+    "itemDescription": "painting by Jean-Honor\u00e9 Fragonard",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q19071592",
+    "p31": "http://www.wikidata.org/entity/Q7725634",
+    "itemLabel": "Curiosity",
+    "itemDescription": "poem by Paul Laurence Dunbar",
+    "p31Label": "literary work",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q19601744",
+    "p31": "http://www.wikidata.org/entity/Q15731356",
+    "itemLabel": "Atlas",
+    "itemDescription": "apple cultivar",
+    "p31Label": "apple cultivar",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q19888715",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Perseverance",
+    "itemDescription": "painting by Francesco Clemente",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q19896576",
+    "p31": "http://www.wikidata.org/entity/Q5084",
+    "itemLabel": "Atlas",
+    "itemDescription": "human settlement in M\u00f6slim District, Tatarstan",
+    "p31Label": "hamlet",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q19902785",
+    "p31": "http://www.wikidata.org/entity/Q7725634",
+    "itemLabel": "Sophia",
+    "itemDescription": "book by Charlotte Lennox",
+    "p31Label": "literary work",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q19963541",
+    "p31": "http://www.wikidata.org/entity/Q202444",
+    "itemLabel": "Cassie",
+    "itemDescription": "given name",
+    "p31Label": "given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q20217901",
+    "p31": "http://www.wikidata.org/entity/Q486972",
+    "itemLabel": "Ameca",
+    "itemDescription": "human settlement in Mexico",
+    "p31Label": "human settlement",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q20274471",
+    "p31": "http://www.wikidata.org/entity/Q486972",
+    "itemLabel": "Ameca",
+    "itemDescription": "human settlement in Mexico",
+    "p31Label": "human settlement",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q20426811",
+    "p31": "http://www.wikidata.org/entity/Q27120684",
+    "itemLabel": "Spot",
+    "itemDescription": "fictional cat",
+    "p31Label": "fictional cat",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q20479852",
+    "p31": "http://www.wikidata.org/entity/Q515",
+    "itemLabel": "Ameca",
+    "p31Label": "city",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q20760257",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Spot",
+    "itemDescription": "album by Lyrical School",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q21196331",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Atlas",
+    "itemDescription": "human settlement in Lamar County, Texas, United States",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q21527954",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Pepper",
+    "itemDescription": "1936 film by James Tinling",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q21869269",
+    "p31": "http://www.wikidata.org/entity/Q24862",
+    "itemLabel": "Curiosity",
+    "itemDescription": "1967 film",
+    "p31Label": "short film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q22072686",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Baxter",
+    "itemDescription": "human settlement in Jefferson County, Pennsylvania, United States",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q22076406",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Baxter",
+    "itemDescription": "human settlement in Henderson County, Texas, United States of America",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q22083307",
+    "p31": "http://www.wikidata.org/entity/Q7725634",
+    "itemLabel": "Atlas",
+    "itemDescription": "book by Michel Serres",
+    "p31Label": "literary work",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q22123158",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese actress",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q22279360",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Nao",
+    "itemDescription": "British singer-songwriter",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q22460859",
+    "p31": "http://www.wikidata.org/entity/Q8502",
+    "itemLabel": "Atlas",
+    "itemDescription": "mountain in Switzerland",
+    "p31Label": "mountain",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117072472",
+    "p31": "http://www.wikidata.org/entity/Q191826",
+    "itemLabel": "Atlas",
+    "itemDescription": "tug boat built in 1987",
+    "p31Label": "tug",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117073347",
+    "p31": "http://www.wikidata.org/entity/Q14970",
+    "itemLabel": "Atlas",
+    "itemDescription": "chemical/oil tanker built in 1989",
+    "p31Label": "tanker",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117073620",
+    "p31": "http://www.wikidata.org/entity/Q970092",
+    "itemLabel": "Atlas",
+    "itemDescription": "crane vessel built in 1972",
+    "p31Label": "crane vessel",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117103184",
+    "p31": "http://www.wikidata.org/entity/Q191826",
+    "itemLabel": "Perseverance",
+    "itemDescription": "tug boat built in 2004",
+    "p31Label": "tug",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117113727",
+    "p31": "http://www.wikidata.org/entity/Q115497568",
+    "itemLabel": "Sophia",
+    "itemDescription": "pollution control vessel built in 1993",
+    "p31Label": "pollution control vessel",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117315473",
+    "p31": "http://www.wikidata.org/entity/Q20742776",
+    "itemLabel": "Sojourner",
+    "itemDescription": "artwork by Cauleen Smith",
+    "p31Label": "video artwork",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117323038",
+    "p31": "http://www.wikidata.org/entity/Q216337",
+    "itemLabel": "Atlas",
+    "itemDescription": "Thai boy band",
+    "p31Label": "boy band",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117421225",
+    "p31": "http://www.wikidata.org/entity/Q202444",
+    "itemLabel": "Pepper",
+    "itemDescription": "given name",
+    "p31Label": "given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117453742",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Optimus",
+    "itemDescription": "Dutch progamer",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117807784",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Curiosity",
+    "itemDescription": "painting by Nikolai Karlovich Grandkovsky",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117807885",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Curiosity",
+    "itemDescription": "painting by Silvestro Lega",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117956539",
+    "p31": "http://www.wikidata.org/entity/Q2085381",
+    "itemLabel": "Atlas",
+    "itemDescription": "Czech publishing house",
+    "p31Label": "publishing house",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q118188544",
+    "p31": "http://www.wikidata.org/entity/Q15711870",
+    "itemLabel": "Atlas",
+    "itemDescription": "fictional character from Dogs in Space",
+    "p31Label": "animated character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q118188544",
+    "p31": "http://www.wikidata.org/entity/Q15773317",
+    "itemLabel": "Atlas",
+    "itemDescription": "fictional character from Dogs in Space",
+    "p31Label": "television character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q118188544",
+    "p31": "http://www.wikidata.org/entity/Q88552181",
+    "itemLabel": "Atlas",
+    "itemDescription": "fictional character from Dogs in Space",
+    "p31Label": "anthropomorphic dog",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q119139018",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Optimus",
+    "itemDescription": "LNG bunkering ship",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q119139018",
+    "p31": "http://www.wikidata.org/entity/Q1009603",
+    "itemLabel": "Optimus",
+    "itemDescription": "LNG bunkering ship",
+    "p31Label": "bunkering",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q119348550",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Spot",
+    "itemDescription": "painting by Peter John Morrell (b.1931), Arts Council Collection, Southbank Centre",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q119383864",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Curiosity",
+    "itemDescription": "2018 studio album by Nakajima Megumi",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q119435566",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Sophia",
+    "itemDescription": "painting by Ewart Johns (1923\u20132013), St John's College, University of Cambridge",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q119861573",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "painting by Frederick Sandys (1829\u20131904), Williamson Art Gallery & Museum",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q119904107",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Curiosity",
+    "itemDescription": "painting by Ernest Leopold Sichel (1862\u20131941), Cartwright Hall Art Gallery",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q120032954",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Curiosity",
+    "itemDescription": "painting by William Fettes Douglas (1822\u20131891), Perth Art Gallery (managed by Culture Perth and Kinross)",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q120476457",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "shipwreck wrecked in 1826 in New South Wales, Australia",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q120676740",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Sojourner",
+    "itemDescription": "international metal band formed in Dunedin, New Zealand",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q121097214",
+    "p31": "http://www.wikidata.org/entity/Q838948",
+    "itemLabel": "Atlas",
+    "itemDescription": "Artwork by J\u00f6rn Pfab in Hamburg-Neustadt",
+    "p31Label": "work of art",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q121541177",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Atlas",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q121541180",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Atlas",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q121541181",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Atlas",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q121811070",
+    "p31": "http://www.wikidata.org/entity/Q41176",
+    "itemLabel": "Pepper",
+    "itemDescription": "building in Amsterdam, the Netherlands",
+    "p31Label": "building",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q121865483",
+    "p31": "http://www.wikidata.org/entity/Q55850593",
+    "itemLabel": "Curiosity",
+    "itemDescription": "vocal track by Carly Rae Jepsen; 2012 studio recording",
+    "p31Label": "music track with vocals",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q121872524",
+    "p31": "http://www.wikidata.org/entity/Q193977",
+    "itemLabel": "Curiosity",
+    "itemDescription": "2012 official music video by Carly Rae Jepsen; directed by Colin Minihan",
+    "p31Label": "music video",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q121872538",
+    "p31": "http://www.wikidata.org/entity/Q134556",
+    "itemLabel": "Curiosity",
+    "itemDescription": "2012 single by Carly Rae Jepsen",
+    "p31Label": "single",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q122010496",
+    "p31": "http://www.wikidata.org/entity/Q188628",
+    "itemLabel": "Optimus",
+    "itemDescription": "organisation for primary education in North Brabant, the Netherlands",
+    "p31Label": "board of directors",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q122010496",
+    "p31": "http://www.wikidata.org/entity/Q138573992",
+    "itemLabel": "Optimus",
+    "itemDescription": "organisation for primary education in North Brabant, the Netherlands",
+    "p31Label": "school association",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q122158040",
+    "p31": "http://www.wikidata.org/entity/Q860861",
+    "itemLabel": "Atlas",
+    "itemDescription": "statue by Andr\u00e9 Bucher",
+    "p31Label": "sculpture",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q122574638",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "unnamed (first) wife of Gerard I of Guelders",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q122641860",
+    "p31": "http://www.wikidata.org/entity/Q7889",
+    "itemLabel": "Atlas",
+    "itemDescription": "1991 video game",
+    "p31Label": "video game",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q122784957",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "ship built in 1979",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q122787451",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "ship built in 1977",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q122799627",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "ship built in 1984",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q122825747",
+    "p31": "http://www.wikidata.org/entity/Q7889",
+    "itemLabel": "Curiosity",
+    "itemDescription": "2016 video game",
+    "p31Label": "video game",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q122909207",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Atlas",
+    "itemDescription": "2023 studio album by Laurel Halo",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q123367305",
+    "p31": "http://www.wikidata.org/entity/Q11707",
+    "itemLabel": "Atlas",
+    "itemDescription": "restaurant in Atlanta, Georgia, U.S",
+    "p31Label": "restaurant",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q123717676",
+    "p31": "http://www.wikidata.org/entity/Q11879590",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese female given name (\u83dc\u4fdd)",
+    "p31Label": "female given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q123717676",
+    "p31": "http://www.wikidata.org/entity/Q22812564",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese female given name (\u83dc\u4fdd)",
+    "p31Label": "Japanese given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q123890131",
+    "p31": "http://www.wikidata.org/entity/Q28020127",
+    "itemLabel": "Atlas",
+    "itemDescription": "fictional character from One Piece",
+    "p31Label": "fictional humanoid",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q123890131",
+    "p31": "http://www.wikidata.org/entity/Q80447738",
+    "itemLabel": "Atlas",
+    "itemDescription": "fictional character from One Piece",
+    "p31Label": "anime character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q123890131",
+    "p31": "http://www.wikidata.org/entity/Q87576284",
+    "itemLabel": "Atlas",
+    "itemDescription": "fictional character from One Piece",
+    "p31Label": "manga character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q123926089",
+    "p31": "http://www.wikidata.org/entity/Q1002697",
+    "itemLabel": "Baxter",
+    "itemDescription": "Belgian periodical",
+    "p31Label": "periodical",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q124014005",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Atlas",
+    "itemDescription": "2004 album by Minimum Vital",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q124073709",
+    "p31": "http://www.wikidata.org/entity/Q7889",
+    "itemLabel": "Sojourner",
+    "itemDescription": "2017 video game",
+    "p31Label": "video game",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q124289800",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Perseverance",
+    "itemDescription": "painting by Giovanni Bellini in the Gallerie dell'Accademia, Venice",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q124413641",
+    "p31": "http://www.wikidata.org/entity/Q55488",
+    "itemLabel": "Perseverance",
+    "itemDescription": "South African railway station",
+    "p31Label": "railway station",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q125095064",
+    "p31": "http://www.wikidata.org/entity/Q631931",
+    "itemLabel": "Sophia",
+    "itemDescription": "decorative artwork (ceramic) by Toshiko Takaezu",
+    "p31Label": "decorative art",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q125095064",
+    "p31": "http://www.wikidata.org/entity/Q13464614",
+    "itemLabel": "Sophia",
+    "itemDescription": "decorative artwork (ceramic) by Toshiko Takaezu",
+    "p31Label": "ceramic art",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q125818283",
+    "p31": "http://www.wikidata.org/entity/Q21191270",
+    "itemLabel": "Curiosity",
+    "itemDescription": "episode of Hi-5 (S5 E41)",
+    "p31Label": "television series episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q126196205",
+    "p31": "http://www.wikidata.org/entity/Q11879590",
+    "itemLabel": "Nao",
+    "itemDescription": "female given name (\u5948\u7eea)",
+    "p31Label": "female given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q126800193",
+    "p31": "http://www.wikidata.org/entity/Q47461344",
+    "itemLabel": "Atlas",
+    "itemDescription": "written work by Luis Manuel Ruiz",
+    "p31Label": "written work",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q126800213",
+    "p31": "http://www.wikidata.org/entity/Q3331189",
+    "itemLabel": "Atlas",
+    "itemDescription": "2022 edition of written work by Luis Manuel Ruiz",
+    "p31Label": "version, edition or translation",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q126949593",
+    "p31": "http://www.wikidata.org/entity/Q47461344",
+    "itemLabel": "Atlas",
+    "itemDescription": "written work by Jimmy Barnat\u00e1n",
+    "p31Label": "written work",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q126949594",
+    "p31": "http://www.wikidata.org/entity/Q3331189",
+    "itemLabel": "Atlas",
+    "itemDescription": "2005 edition of written work by Jimmy Barnat\u00e1n",
+    "p31Label": "version, edition or translation",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q128271689",
+    "p31": "http://www.wikidata.org/entity/Q602446",
+    "itemLabel": "Perseverance",
+    "itemDescription": "Christian hymn text",
+    "p31Label": "lyrics",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q130059202",
+    "p31": "http://www.wikidata.org/entity/Q1569167",
+    "itemLabel": "Cassie",
+    "itemDescription": "protagonist of the 2023 DLC expansion of Five Nights at Freddy's: Security Breach, \"Ruin\"",
+    "p31Label": "video game character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q130059202",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Cassie",
+    "itemDescription": "protagonist of the 2023 DLC expansion of Five Nights at Freddy's: Security Breach, \"Ruin\"",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q130224884",
+    "p31": "http://www.wikidata.org/entity/Q27686",
+    "itemLabel": "Sophia",
+    "itemDescription": "hotel in Tartu, Estonia",
+    "p31Label": "hotel",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q130319900",
+    "p31": "http://www.wikidata.org/entity/Q1569167",
+    "itemLabel": "Sophia",
+    "itemDescription": "fictional character from the 1998 video game My Dear Arenaga Oji-san",
+    "p31Label": "video game character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q130319900",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Sophia",
+    "itemDescription": "fictional character from the 1998 video game My Dear Arenaga Oji-san",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q131246269",
+    "p31": "http://www.wikidata.org/entity/Q43229",
+    "itemLabel": "Ameca",
+    "p31Label": "organization",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q131246270",
+    "p31": "http://www.wikidata.org/entity/Q43229",
+    "itemLabel": "Ameca",
+    "p31Label": "organization",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q131246271",
+    "p31": "http://www.wikidata.org/entity/Q43229",
+    "itemLabel": "Ameca",
+    "p31Label": "organization",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q131298739",
+    "p31": "http://www.wikidata.org/entity/Q8513",
+    "itemLabel": "Atlas",
+    "itemDescription": "Swiss database for public transportation",
+    "p31Label": "database",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q131674342",
+    "p31": "http://www.wikidata.org/entity/Q860861",
+    "itemLabel": "Atlas",
+    "itemDescription": "sculpture in the Doge's Palace, Venice, Italy, by Tiziano Aspetti",
+    "p31Label": "sculpture",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q132204457",
+    "p31": "http://www.wikidata.org/entity/Q166142",
+    "itemLabel": "Spot",
+    "itemDescription": "creative work by David Wiesner",
+    "p31Label": "application software",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q132204457",
+    "p31": "http://www.wikidata.org/entity/Q17537576",
+    "itemLabel": "Spot",
+    "itemDescription": "creative work by David Wiesner",
+    "p31Label": "creative work",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q133528086",
+    "p31": "http://www.wikidata.org/entity/Q7725634",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "2021 novel by Stephan Grundy",
+    "p31Label": "literary work",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q133733134",
+    "p31": "http://www.wikidata.org/entity/Q105543609",
+    "itemLabel": "Atlas",
+    "itemDescription": "2025 original song written by Pommelien Thijs and Simon de Wit, and performed by Pommelien Thijs",
+    "p31Label": "musical work/composition",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q133733161",
+    "p31": "http://www.wikidata.org/entity/Q55850593",
+    "itemLabel": "Atlas",
+    "itemDescription": "vocal track by Pommelien Thijs; 2025 studio recording",
+    "p31Label": "music track with vocals",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q133842583",
+    "p31": "http://www.wikidata.org/entity/Q121117",
+    "itemLabel": "Atlas",
+    "itemDescription": "Brazilian supercomputer",
+    "p31Label": "supercomputer",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q133929586",
+    "p31": "http://www.wikidata.org/entity/Q101352",
+    "itemLabel": "Nao",
+    "itemDescription": "Chinese family name (\u4f61)",
+    "p31Label": "family name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q134007513",
+    "p31": "http://www.wikidata.org/entity/Q105543609",
+    "itemLabel": "Pepper",
+    "itemDescription": "song by Butthole Surfers",
+    "p31Label": "musical work/composition",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q134007514",
+    "p31": "http://www.wikidata.org/entity/Q55850593",
+    "itemLabel": "Pepper",
+    "itemDescription": "vocal track by the Butthole Surfers; 1990s studio recording (Electriclarryland)",
+    "p31Label": "music track with vocals",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q134159566",
+    "p31": "http://www.wikidata.org/entity/Q1569167",
+    "itemLabel": "Sophia",
+    "itemDescription": "fictional character from Fire Emblem: The Binding Blade",
+    "p31Label": "video game character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q134159566",
+    "p31": "http://www.wikidata.org/entity/Q30168244",
+    "itemLabel": "Sophia",
+    "itemDescription": "fictional character from Fire Emblem: The Binding Blade",
+    "p31Label": "fictional human hybrid",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q134991896",
+    "p31": "http://www.wikidata.org/entity/Q7889",
+    "itemLabel": "Curiosity",
+    "itemDescription": "2021 video game developed by NonStandardCode",
+    "p31Label": "video game",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q134994007",
+    "p31": "http://www.wikidata.org/entity/Q15773317",
+    "itemLabel": "Cassie",
+    "itemDescription": "fictional character in Dragon Tales",
+    "p31Label": "television character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q135049949",
+    "p31": "http://www.wikidata.org/entity/Q7889",
+    "itemLabel": "Pepper",
+    "itemDescription": "video game developed by Elliott Thorley",
+    "p31Label": "video game",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q135054439",
+    "p31": "http://www.wikidata.org/entity/Q7889",
+    "itemLabel": "Curiosity",
+    "itemDescription": "video game developed by DarkBear Studios and iNightGaming LLC",
+    "p31Label": "video game",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q135085884",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Atlas",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q135312590",
+    "p31": "http://www.wikidata.org/entity/Q1980247",
+    "itemLabel": "Perseverance",
+    "itemDescription": "The 13th chapter of the Lotus Sutra",
+    "p31Label": "chapter",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q135401970",
+    "p31": "http://www.wikidata.org/entity/Q15711870",
+    "itemLabel": "Atlas",
+    "itemDescription": "fictional animal character from Wild Kratts",
+    "p31Label": "animated character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q135493330",
+    "p31": "http://www.wikidata.org/entity/Q767899",
+    "itemLabel": "Atlas",
+    "itemDescription": "video game scenario editor",
+    "p31Label": "level editor",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q136335180",
+    "p31": "http://www.wikidata.org/entity/Q144",
+    "itemLabel": "Pepper",
+    "itemDescription": "pitbull lab living in Baltimore (b. 2020)",
+    "p31Label": "dog",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q136346325",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Atlas",
+    "itemDescription": "community in Atlas Township, Genesee County, Michigan",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q136616069",
+    "itemLabel": "Spot",
+    "itemDescription": "fictional character from The Simpsons franchise",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q136750221",
+    "p31": "http://www.wikidata.org/entity/Q101352",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese family name (\u540d\u5c3e)",
+    "p31Label": "family name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q137213381",
+    "p31": "http://www.wikidata.org/entity/Q7366",
+    "itemLabel": "Atlas",
+    "itemDescription": "2025 single by Guns N' Roses",
+    "p31Label": "song",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q137469675",
+    "p31": "http://www.wikidata.org/entity/Q2385804",
+    "itemLabel": "Atlas",
+    "itemDescription": "private educational institution in Morocco",
+    "p31Label": "educational institution",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q137895944",
+    "p31": "http://www.wikidata.org/entity/Q3409032",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese unisex given name (\u76f4)",
+    "p31Label": "unisex given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q137895944",
+    "p31": "http://www.wikidata.org/entity/Q22812564",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese unisex given name (\u76f4)",
+    "p31Label": "Japanese given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q97232140",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Pepper",
+    "itemDescription": "2018 South Korean film",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q97959398",
+    "p31": "http://www.wikidata.org/entity/Q11879590",
+    "itemLabel": "Sophia",
+    "itemDescription": "female given name (\u03a3\u03bf\u03c6\u03af\u03b1)",
+    "p31Label": "female given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q97983548",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "Ship built in Aberdeen in 1817",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q97983550",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "Brig built in Aberdeen in 1807",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q97983552",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "Brig built in Aberdeen in 1800",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q97987040",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Perseverance",
+    "itemDescription": "Brig built in Aberdeen in 1868",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q97987675",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "Clipper built in Aberdeen in 1850",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q97987677",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "Hermaphrodite built in Aberdeen in 1831",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q97987678",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "Sloop built in Aberdeen in 1819",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q97987680",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "Sloop built in Aberdeen in 1766",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q98561028",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "New Zealand band",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q98820134",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q100137576",
+    "p31": "http://www.wikidata.org/entity/Q1298668",
+    "itemLabel": "Atlas",
+    "itemDescription": "EU Funded (H2020) Research Project",
+    "p31Label": "science project",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q100137576",
+    "p31": "http://www.wikidata.org/entity/Q12363077",
+    "itemLabel": "Atlas",
+    "itemDescription": "EU Funded (H2020) Research Project",
+    "p31Label": "research grant",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q101836864",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "ship built in 1996",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q102036995",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Curiosity",
+    "itemDescription": "1891 painting by Eugen Von Blaas",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q102037571",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Sophia",
+    "itemDescription": "1983 album by Kumiko Yamashita",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q102287846",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Atlas",
+    "itemDescription": "Romanian company",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q102287846",
+    "p31": "http://www.wikidata.org/entity/Q6881511",
+    "itemLabel": "Atlas",
+    "itemDescription": "Romanian company",
+    "p31Label": "enterprise",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q103779660",
+    "p31": "http://www.wikidata.org/entity/Q210223",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck off the Scottish coast",
+    "p31Label": "sloop",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q103779660",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck off the Scottish coast",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q103781613",
+    "p31": "http://www.wikidata.org/entity/Q210223",
+    "itemLabel": "Sophia",
+    "itemDescription": "shipwreck off the Scottish coast",
+    "p31Label": "sloop",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q103781613",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Sophia",
+    "itemDescription": "shipwreck off the Scottish coast",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q103891260",
+    "p31": "http://www.wikidata.org/entity/Q13433827",
+    "itemLabel": "Atlas",
+    "itemDescription": "encyclopedia article",
+    "p31Label": "encyclopedia article",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q103905359",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "shipwreck off the Scottish coast",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q103905359",
+    "p31": "http://www.wikidata.org/entity/Q1420024",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "shipwreck off the Scottish coast",
+    "p31Label": "fishing vessel",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q103906809",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "shipwreck",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q103906809",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Atlas",
+    "itemDescription": "shipwreck",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q105481096",
+    "p31": "http://www.wikidata.org/entity/Q15416",
+    "itemLabel": "Atlas",
+    "itemDescription": "television program in the Netherlands",
+    "p31Label": "television program",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q105742669",
+    "p31": "http://www.wikidata.org/entity/Q105543609",
+    "itemLabel": "Perseverance",
+    "itemDescription": "1996 single by Terrorvision",
+    "p31Label": "musical work/composition",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q105764545",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "ship built in 2007",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q105767941",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "ship built in 2009",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q105890730",
+    "p31": "http://www.wikidata.org/entity/Q1254596",
+    "itemLabel": "Atlas",
+    "itemDescription": "O'Reilly's production application that creates the print and web versions of a book",
+    "p31Label": "software as a service",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q105983262",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "- 1150",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q106472942",
+    "p31": "http://www.wikidata.org/entity/Q41253",
+    "itemLabel": "Atlas",
+    "itemDescription": "former cinema in Stockholm",
+    "p31Label": "movie theater",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q106614244",
+    "p31": "http://www.wikidata.org/entity/Q389459",
+    "itemLabel": "Zhurong",
+    "itemDescription": "Mars rover",
+    "p31Label": "Mars rover",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q106875648",
+    "p31": "http://www.wikidata.org/entity/Q2217301",
+    "itemLabel": "Atlas",
+    "p31Label": "serial",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q107093905",
+    "p31": "http://www.wikidata.org/entity/Q106179098",
+    "itemLabel": "Spot",
+    "itemDescription": "windsurfing board",
+    "p31Label": "sailboat class",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q107119967",
+    "p31": "http://www.wikidata.org/entity/Q16521",
+    "itemLabel": "Sophia",
+    "itemDescription": "genus of plants, synonym of Pachira Aubl.",
+    "p31Label": "taxon",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q107276972",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Optimus",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q108167797",
+    "p31": "http://www.wikidata.org/entity/Q207977",
+    "itemLabel": "Optimus",
+    "itemDescription": "two-legged robot",
+    "p31Label": "prototype",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q108336829",
+    "p31": "http://www.wikidata.org/entity/Q973740",
+    "itemLabel": "Sophia",
+    "itemDescription": "whaling ship",
+    "p31Label": "whaler",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q108371475",
+    "p31": "http://www.wikidata.org/entity/Q7058673",
+    "itemLabel": "Spot",
+    "itemDescription": "video game series",
+    "p31Label": "video game series",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q108542977",
+    "p31": "http://www.wikidata.org/entity/Q860861",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "sculpture by H.W. Bissen",
+    "p31Label": "sculpture",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q109500650",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Baxter",
+    "itemDescription": "actor",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q109785732",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "Person identified in the Museu da Pessoa collection (196300)",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q109787681",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "Person identified in the Museu da Pessoa collection (121549)",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q109827120",
+    "p31": "http://www.wikidata.org/entity/Q7366",
+    "itemLabel": "Curiosity",
+    "itemDescription": "1975 single by Little River Band",
+    "p31Label": "song",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q109836703",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Perseverance",
+    "itemDescription": "Movie directed by Ana\u00efs Flamand-Ottawa",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q109876282",
+    "p31": "http://www.wikidata.org/entity/Q15247",
+    "itemLabel": "Optimus",
+    "itemDescription": "LNG bunker ship built in 2021",
+    "p31Label": "LNG carrier",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q109876282",
+    "p31": "http://www.wikidata.org/entity/Q1009600",
+    "itemLabel": "Optimus",
+    "itemDescription": "LNG bunker ship built in 2021",
+    "p31Label": "bunker vessel",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q110473273",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Atlas",
+    "itemDescription": "2021 film directed by Niccol\u00f2 Castelli",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q110570739",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "- 15 May",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q110572189",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q110613552",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q111547885",
+    "p31": "http://www.wikidata.org/entity/Q55850593",
+    "itemLabel": "Atlas",
+    "itemDescription": "vocal track by Battles; 2007 studio recording",
+    "p31Label": "music track with vocals",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q111547893",
+    "p31": "http://www.wikidata.org/entity/Q105543609",
+    "itemLabel": "Atlas",
+    "itemDescription": "song performed by Battles",
+    "p31Label": "musical work/composition",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q111808820",
+    "p31": "http://www.wikidata.org/entity/Q1697305",
+    "itemLabel": "Atlas",
+    "itemDescription": "narrative motif documented in Thompson's Motif-Index of Folk-Literature",
+    "p31Label": "narrative motif",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q111808820",
+    "p31": "http://www.wikidata.org/entity/Q2995443",
+    "itemLabel": "Atlas",
+    "itemDescription": "narrative motif documented in Thompson's Motif-Index of Folk-Literature",
+    "p31Label": "folklore motif",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q111953389",
+    "p31": "http://www.wikidata.org/entity/Q7366",
+    "itemLabel": "Atlas",
+    "itemDescription": "2020 single by Bicep",
+    "p31Label": "song",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q112003905",
+    "p31": "http://www.wikidata.org/entity/Q27686",
+    "itemLabel": "Atlas",
+    "itemDescription": "hotel in Bukhara, Uzbekistan",
+    "p31Label": "hotel",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q112542403",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q112808499",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "1759 - 1840",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q112869796",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Cassie",
+    "itemDescription": "character on 'Rosewood'",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q112869796",
+    "p31": "http://www.wikidata.org/entity/Q15773317",
+    "itemLabel": "Cassie",
+    "itemDescription": "character on 'Rosewood'",
+    "p31Label": "television character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q113458857",
+    "p31": "http://www.wikidata.org/entity/Q61855877",
+    "itemLabel": "Curiosity",
+    "itemDescription": "episode 167 of the Magnus archives",
+    "p31Label": "podcast episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q113570646",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "2008 film score by John Ottman",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q113841012",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Spot",
+    "itemDescription": "Swiss musical group",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q113882393",
+    "p31": "http://www.wikidata.org/entity/Q215380",
+    "itemLabel": "Atlas",
+    "itemDescription": "Finnish band",
+    "p31Label": "musical group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q114459235",
+    "p31": "http://www.wikidata.org/entity/Q21191270",
+    "itemLabel": "Pepper",
+    "itemDescription": "episode of The Brak Show (S2 E9)",
+    "p31Label": "television series episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q114518501",
+    "p31": "http://www.wikidata.org/entity/Q21191270",
+    "itemLabel": "Spot",
+    "itemDescription": "episode of Mr. Belvedere (S5 E12)",
+    "p31Label": "television series episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q114519605",
+    "p31": "http://www.wikidata.org/entity/Q21191270",
+    "itemLabel": "Cassie",
+    "itemDescription": "episode of Intervention (S10 E6)",
+    "p31Label": "television series episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q114522059",
+    "p31": "http://www.wikidata.org/entity/Q21191270",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "episode of The Last Ship (S2 E11)",
+    "p31Label": "television series episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q114525807",
+    "p31": "http://www.wikidata.org/entity/Q21191270",
+    "itemLabel": "Cassie",
+    "itemDescription": "episode of Bonanza (S13 E6)",
+    "p31Label": "television series episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q114542065",
+    "p31": "http://www.wikidata.org/entity/Q21191270",
+    "itemLabel": "Curiosity",
+    "itemDescription": "episode of The Adventures of Ozzie and Harriet (S1 E38)",
+    "p31Label": "television series episode",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q114904633",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Atlas",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115174080",
+    "p31": "http://www.wikidata.org/entity/Q56885310",
+    "itemLabel": "Baxter",
+    "itemDescription": "compact rural community in Essa, Ontario, Canada",
+    "p31Label": "compact rural community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115241668",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "ship built in 1961",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115260801",
+    "p31": "http://www.wikidata.org/entity/Q96759164",
+    "itemLabel": "Baxter",
+    "itemDescription": "geographic township in Ontario, Canada",
+    "p31Label": "geographic township of Ontario",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115263906",
+    "p31": "http://www.wikidata.org/entity/Q41710",
+    "itemLabel": "Nao",
+    "itemDescription": "ethnic group in Ethiopia",
+    "p31Label": "ethnic group",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115474889",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Atlas",
+    "itemDescription": "2024 film directed by Brad Peyton",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115483548",
+    "p31": "http://www.wikidata.org/entity/Q473932",
+    "itemLabel": "Atlas",
+    "itemDescription": "RO-RO ship built in 1974",
+    "p31Label": "roll-on/roll-off ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115506895",
+    "p31": "http://www.wikidata.org/entity/Q131862",
+    "itemLabel": "Nao",
+    "itemDescription": "triangulation station in J\u00e1vea/X\u00e0bia, Spain",
+    "p31Label": "triangulation station",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115708168",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Atlas",
+    "itemDescription": "shipwreck, 3.90 km from Penmon",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115708363",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Sophia",
+    "itemDescription": "shipwreck, 22.30 km from Bosherston",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115708449",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Sophia",
+    "itemDescription": "shipwreck, 5.70 km from West Kirby",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115708680",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck, 4.30 km from Penmon",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115708993",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck, 1.43 km from Penally",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115709087",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Sophia",
+    "itemDescription": "shipwreck, 3.10 km from Goodwick",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115709102",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Sophia",
+    "itemDescription": "shipwreck, 1.11 km from East Aberthaw",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115709508",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck, 243 m from Milford Haven",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115709788",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck, 5.40 km from Rhossili",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115710095",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck, 8.13 km from Marloes",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115711699",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Atlas",
+    "itemDescription": "shipwreck, 1.16 km from Cemaes",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115712132",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Sophia",
+    "itemDescription": "shipwreck, 4.26 km from Marloes",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115712243",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck, 10.60 km from St Davids",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115712326",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck, 5.10 km from Nolton Haven",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115712425",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck, 2.10 km from Kenfig",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115712964",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Perseverance",
+    "itemDescription": "shipwreck, 7.90 km from Swansea",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115713415",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "shipwreck, 643 m from Rhossili",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873826",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Baxter",
+    "itemDescription": "unincorporated community in the Town of Hay River, Dunn County, Wisconsin",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q4873834",
+    "p31": "http://www.wikidata.org/entity/Q11012",
+    "itemLabel": "Baxter",
+    "itemDescription": "industrial robot",
+    "p31Label": "robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q14248859",
+    "itemLabel": "Atlas",
+    "itemDescription": "robot built by Boston Dynamics",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q16693926",
+    "p31": "http://www.wikidata.org/entity/Q584529",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "NASA bipedal humanoid robot",
+    "p31Label": "humanoid robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q16693926",
+    "p31": "http://www.wikidata.org/entity/Q18713403",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "NASA bipedal humanoid robot",
+    "p31Label": "bipedal robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q17190252",
+    "p31": "http://www.wikidata.org/entity/Q584529",
+    "itemLabel": "Pepper",
+    "itemDescription": "model of robot",
+    "p31Label": "humanoid robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q42330811",
+    "p31": "http://www.wikidata.org/entity/Q584529",
+    "itemLabel": "Sophia",
+    "itemDescription": "2016 social humanoid robot",
+    "p31Label": "humanoid robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q57334737",
+    "p31": "http://www.wikidata.org/entity/Q11012",
+    "itemLabel": "Spot",
+    "itemDescription": "2019 robot by Boston Dynamics",
+    "p31Label": "robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q57334737",
+    "p31": "http://www.wikidata.org/entity/Q2031473",
+    "itemLabel": "Spot",
+    "itemDescription": "2019 robot by Boston Dynamics",
+    "p31Label": "unmanned ground vehicle",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q57334737",
+    "p31": "http://www.wikidata.org/entity/Q40301424",
+    "itemLabel": "Spot",
+    "itemDescription": "2019 robot by Boston Dynamics",
+    "p31Label": "robotic dog",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q57334737",
+    "p31": "http://www.wikidata.org/entity/Q127786639",
+    "itemLabel": "Spot",
+    "itemDescription": "2019 robot by Boston Dynamics",
+    "p31Label": "AB 481 Military Equipment Category 1",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q110441390",
+    "p31": "http://www.wikidata.org/entity/Q584529",
+    "itemLabel": "Ameca",
+    "itemDescription": "humanoid robot made by Engineered Arts",
+    "p31Label": "humanoid robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q110441390",
+    "p31": "http://www.wikidata.org/entity/Q859951",
+    "itemLabel": "Ameca",
+    "itemDescription": "humanoid robot made by Engineered Arts",
+    "p31Label": "human\u2013robot interaction",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q110441390",
+    "p31": "http://www.wikidata.org/entity/Q122636877",
+    "itemLabel": "Ameca",
+    "itemDescription": "humanoid robot made by Engineered Arts",
+    "p31Label": "museum AI project",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q114350510",
+    "p31": "http://www.wikidata.org/entity/Q584529",
+    "itemLabel": "Ameca",
+    "itemDescription": "humanoid robot",
+    "p31Label": "humanoid robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q140668433",
+    "p31": "http://www.wikidata.org/entity/Q584529",
+    "itemLabel": "Unitree G1",
+    "itemDescription": "humanoid robot by Unitree Robotics, introduced in 2024",
+    "p31Label": "humanoid robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q140668442",
+    "p31": "http://www.wikidata.org/entity/Q40301424",
+    "itemLabel": "Unitree Go2",
+    "itemDescription": "quadruped robot by Unitree Robotics, introduced in 2023",
+    "p31Label": "robotic dog",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q140674082",
+    "p31": "http://www.wikidata.org/entity/Q584529",
+    "itemLabel": "Digit",
+    "itemDescription": "bipedal logistics robot by Agility Robotics, introduced in 2019",
+    "p31Label": "humanoid robot",
+    "under": "true"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13427",
+    "p31": "http://www.wikidata.org/entity/Q6243",
+    "itemLabel": "Atlas",
+    "itemDescription": "triple star system",
+    "p31Label": "variable star",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13427",
+    "p31": "http://www.wikidata.org/entity/Q13890",
+    "itemLabel": "Atlas",
+    "itemDescription": "triple star system",
+    "p31Label": "double star",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13427",
+    "p31": "http://www.wikidata.org/entity/Q878367",
+    "itemLabel": "Atlas",
+    "itemDescription": "triple star system",
+    "p31Label": "multiple star",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13427",
+    "p31": "http://www.wikidata.org/entity/Q1993624",
+    "itemLabel": "Atlas",
+    "itemDescription": "triple star system",
+    "p31Label": "spectroscopic binary",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13427",
+    "p31": "http://www.wikidata.org/entity/Q2247863",
+    "itemLabel": "Atlas",
+    "itemDescription": "triple star system",
+    "p31Label": "high proper-motion star",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13427",
+    "p31": "http://www.wikidata.org/entity/Q66521853",
+    "itemLabel": "Atlas",
+    "itemDescription": "triple star system",
+    "p31Label": "suspected variable",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13427",
+    "p31": "http://www.wikidata.org/entity/Q67206785",
+    "itemLabel": "Atlas",
+    "itemDescription": "triple star system",
+    "p31Label": "near-infrared source",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q13427",
+    "p31": "http://www.wikidata.org/entity/Q71798788",
+    "itemLabel": "Atlas",
+    "itemDescription": "triple star system",
+    "p31Label": "ultraviolet source",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q17707",
+    "p31": "http://www.wikidata.org/entity/Q1972",
+    "itemLabel": "Atlas",
+    "itemDescription": "moon of Saturn",
+    "p31Label": "moon of Saturn",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q17707",
+    "p31": "http://www.wikidata.org/entity/Q1086783",
+    "itemLabel": "Atlas",
+    "itemDescription": "moon of Saturn",
+    "p31Label": "regular moon",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q22949",
+    "p31": "http://www.wikidata.org/entity/Q109542585",
+    "itemLabel": "Atlas",
+    "itemDescription": "family of American missiles and space launch vehicles",
+    "p31Label": "rocket family",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q48485",
+    "p31": "http://www.wikidata.org/entity/Q389459",
+    "itemLabel": "Curiosity",
+    "itemDescription": "American robotic rover exploring Gale Crater on Mars",
+    "p31Label": "Mars rover",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q63887",
+    "p31": "http://www.wikidata.org/entity/Q105543609",
+    "itemLabel": "Curiosity",
+    "itemDescription": "original song co-written and performed by Carly Rae Jepsen",
+    "p31Label": "musical work/composition",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141362963",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Sophia",
+    "itemDescription": "2022 film",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141435808",
+    "p31": "http://www.wikidata.org/entity/Q15711870",
+    "itemLabel": "Baxter",
+    "itemDescription": "character from Hazbin Hotel",
+    "p31Label": "animated character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141435808",
+    "p31": "http://www.wikidata.org/entity/Q15773317",
+    "itemLabel": "Baxter",
+    "itemDescription": "character from Hazbin Hotel",
+    "p31Label": "television character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141435808",
+    "p31": "http://www.wikidata.org/entity/Q34315358",
+    "itemLabel": "Baxter",
+    "itemDescription": "character from Hazbin Hotel",
+    "p31Label": "fictional demon",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141435808",
+    "p31": "http://www.wikidata.org/entity/Q141454143",
+    "itemLabel": "Baxter",
+    "itemDescription": "character from Hazbin Hotel",
+    "p31Label": "Sinners",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141697949",
+    "p31": "http://www.wikidata.org/entity/Q645858",
+    "itemLabel": "Atlas",
+    "itemDescription": "5-in-1 canine joint and wellness supplement powder by ActivPower CANIS",
+    "p31Label": "dietary supplement",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141697949",
+    "p31": "http://www.wikidata.org/entity/Q2424752",
+    "itemLabel": "Atlas",
+    "itemDescription": "5-in-1 canine joint and wellness supplement powder by ActivPower CANIS",
+    "p31Label": "product",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141781343",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Curiosity",
+    "itemDescription": "2024 British film",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141874427",
+    "p31": "http://www.wikidata.org/entity/Q4830453",
+    "itemLabel": "Digit",
+    "itemDescription": "Australian bookkeeping and accounting firm",
+    "p31Label": "business",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141915711",
+    "p31": "http://www.wikidata.org/entity/Q1569167",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "playable character (legend) in the video game Apex Legends",
+    "p31Label": "video game character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q81285980",
+    "p31": "http://www.wikidata.org/entity/Q1060829",
+    "itemLabel": "Atlas",
+    "itemDescription": "music venue in Kyiv",
+    "p31Label": "concert hall",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q81285980",
+    "p31": "http://www.wikidata.org/entity/Q8719053",
+    "itemLabel": "Atlas",
+    "itemDescription": "music venue in Kyiv",
+    "p31Label": "music venue",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q83582282",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "tugboat built in 1972",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q83599051",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Perseverance",
+    "itemDescription": "ship built in 2005",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q83628475",
+    "p31": "http://www.wikidata.org/entity/Q15276",
+    "itemLabel": "Atlas",
+    "itemDescription": "Liberian bulk carrier built in 2012",
+    "p31Label": "bulk carrier",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q83631612",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "ship",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q83640105",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Perseverance",
+    "itemDescription": "ship built in 2013",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q83650735",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "ship built in 1985",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q84252950",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "ship built in 2014",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q84253377",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "Mexican ship built in 2012",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q84255493",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "ship built in 2017",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q84262471",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Sophia",
+    "itemDescription": "ship built in 2011",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q84605094",
+    "p31": "http://www.wikidata.org/entity/Q3375722",
+    "itemLabel": "Sophia",
+    "itemDescription": "theatrical character in the play \"Ta karafakia tou kyr Aristeidi\"",
+    "p31Label": "theatrical character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q84605094",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Sophia",
+    "itemDescription": "theatrical character in the play \"Ta karafakia tou kyr Aristeidi\"",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q84709989",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "yacht built in 2011",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q85746012",
+    "p31": "http://www.wikidata.org/entity/Q17343829",
+    "itemLabel": "Baxter",
+    "itemDescription": "unincorporated community in Arkansas, United States",
+    "p31Label": "unincorporated community",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q87749354",
+    "p31": "http://www.wikidata.org/entity/Q389459",
+    "itemLabel": "Perseverance",
+    "itemDescription": "American robotic rover exploring Jezero Crater on Mars",
+    "p31Label": "Mars rover",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q87757358",
+    "p31": "http://www.wikidata.org/entity/Q726",
+    "itemLabel": "Sophia",
+    "itemDescription": "horse born in 1764",
+    "p31Label": "horse",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q89372347",
+    "p31": "http://www.wikidata.org/entity/Q105543609",
+    "itemLabel": "Sojourner",
+    "itemDescription": "2018 single by Rapsody",
+    "p31Label": "musical work/composition",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q92400571",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Atlas",
+    "itemDescription": "painting by Kaisu Koivisto",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q92403417",
+    "p31": "http://www.wikidata.org/entity/Q860861",
+    "itemLabel": "Atlas",
+    "itemDescription": "sculpture by Kaisu Koivisto",
+    "p31Label": "sculpture",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q95839676",
+    "p31": "http://www.wikidata.org/entity/Q15711870",
+    "itemLabel": "Pepper",
+    "itemDescription": "fictional character from Disney's 101 Dalmatians",
+    "p31Label": "animated character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q95839676",
+    "p31": "http://www.wikidata.org/entity/Q88552181",
+    "itemLabel": "Pepper",
+    "itemDescription": "fictional character from Disney's 101 Dalmatians",
+    "p31Label": "anthropomorphic dog",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q96372746",
+    "p31": "http://www.wikidata.org/entity/Q11446",
+    "itemLabel": "Atlas",
+    "itemDescription": "Ship launched at Kingston upon Hull in 1812",
+    "p31Label": "ship",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q22671390",
+    "p31": "http://www.wikidata.org/entity/Q786820",
+    "itemLabel": "Atlas",
+    "itemDescription": "UK automobile manufacturer",
+    "p31Label": "automobile manufacturer",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q22975351",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Curiosity",
+    "itemDescription": "1974 film",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q23636060",
+    "p31": "http://www.wikidata.org/entity/Q101352",
+    "itemLabel": "Cassie",
+    "itemDescription": "family name",
+    "p31Label": "family name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q23636062",
+    "p31": "http://www.wikidata.org/entity/Q82799",
+    "itemLabel": "Cassie",
+    "itemDescription": "name and surname",
+    "p31Label": "name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q137900495",
+    "p31": "http://www.wikidata.org/entity/Q11424",
+    "itemLabel": "Sophia",
+    "itemDescription": "2025 film by Dhafer L'Abidine",
+    "p31Label": "film",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q138010929",
+    "p31": "http://www.wikidata.org/entity/Q105543609",
+    "itemLabel": "Atlas",
+    "itemDescription": "2025 song by Pommelien Thijs",
+    "p31Label": "musical work/composition",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q138643949",
+    "p31": "http://www.wikidata.org/entity/Q11879590",
+    "itemLabel": "Cassie",
+    "itemDescription": "female given name",
+    "p31Label": "female given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q138821581",
+    "p31": "http://www.wikidata.org/entity/Q3409032",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese unisex given name (\u83dc\u592e)",
+    "p31Label": "unisex given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q138821581",
+    "p31": "http://www.wikidata.org/entity/Q22812564",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese unisex given name (\u83dc\u592e)",
+    "p31Label": "Japanese given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q139619326",
+    "p31": "http://www.wikidata.org/entity/Q3409032",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese unisex given name (\u5948\u592e)",
+    "p31Label": "unisex given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q139619326",
+    "p31": "http://www.wikidata.org/entity/Q22812564",
+    "itemLabel": "Nao",
+    "itemDescription": "Japanese unisex given name (\u5948\u592e)",
+    "p31Label": "Japanese given name",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q139881242",
+    "p31": "http://www.wikidata.org/entity/Q7725634",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "novel by Craig Alanson",
+    "p31Label": "literary work",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q139919040",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Aibo",
+    "itemDescription": "American graphic novelist",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q139995561",
+    "p31": "http://www.wikidata.org/entity/Q482994",
+    "itemLabel": "Nao",
+    "itemDescription": "2001 album by RinneRadio",
+    "p31Label": "album",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q140581457",
+    "p31": "http://www.wikidata.org/entity/Q571",
+    "itemLabel": "Sojourner",
+    "itemDescription": "book",
+    "p31Label": "book",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q140582164",
+    "p31": "http://www.wikidata.org/entity/Q571",
+    "itemLabel": "Spot",
+    "itemDescription": "book",
+    "p31Label": "book",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q140701327",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Pepper",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q140924581",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Digit",
+    "itemDescription": "Lithuanian hip-hop artist and producer",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q141350096",
+    "p31": "http://www.wikidata.org/entity/Q870898",
+    "itemLabel": "Atlas",
+    "itemDescription": "external attack surface management software by Cardinal Codes",
+    "p31Label": "computer security software",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115713581",
+    "p31": "http://www.wikidata.org/entity/Q852190",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "shipwreck, 4.94 km from Holyhead",
+    "p31Label": "shipwreck",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115739144",
+    "p31": "http://www.wikidata.org/entity/Q3305213",
+    "itemLabel": "Curiosity",
+    "itemDescription": "painting by Henri\u00ebtte Ronner-Knip",
+    "p31Label": "painting",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115898944",
+    "p31": "http://www.wikidata.org/entity/Q1569167",
+    "itemLabel": "Atlas",
+    "itemDescription": "fictional character from Fire Emblem Gaiden",
+    "p31Label": "video game character",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q115898944",
+    "p31": "http://www.wikidata.org/entity/Q15632617",
+    "itemLabel": "Atlas",
+    "itemDescription": "fictional character from Fire Emblem Gaiden",
+    "p31Label": "fictional human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q116028276",
+    "p31": "http://www.wikidata.org/entity/Q19389637",
+    "itemLabel": "Sophia",
+    "itemDescription": "entry in A Cyclopaedia of Female Biography",
+    "p31Label": "biographical article",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q116030493",
+    "p31": "http://www.wikidata.org/entity/Q5",
+    "itemLabel": "Sophia",
+    "itemDescription": "- Aft 5 Apr 1242",
+    "p31Label": "human",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q116460786",
+    "p31": "http://www.wikidata.org/entity/Q20871196",
+    "itemLabel": "Valkyrie",
+    "itemDescription": "fictional bomber plane in the Marvel Cinematic Universe",
+    "p31Label": "fictional vehicle",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q116688597",
+    "p31": "http://www.wikidata.org/entity/Q860861",
+    "itemLabel": "Atlas",
+    "itemDescription": "sculpture by J\u00f6rg Bollin located in Freiburg im Breisgau",
+    "p31Label": "sculpture",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q116927209",
+    "p31": "http://www.wikidata.org/entity/Q18142",
+    "itemLabel": "Atlas",
+    "itemDescription": "high-rise building in Helsinki, Finland",
+    "p31Label": "tower block",
+    "under": "false"
+   },
+   {
+    "item": "http://www.wikidata.org/entity/Q117068645",
+    "p31": "http://www.wikidata.org/entity/Q14928",
+    "itemLabel": "Optimus",
+    "itemDescription": "oil tanker",
+    "p31Label": "oil tanker",
+    "under": "false"
+   }
+  ]
+ },
+ "https://yc-oss.github.io/api/meta.json": {
+  "ok": true,
+  "bytes": 67184,
+  "head": "{\n  \"last_updated\": \"2026-11-07T03:48:45.305Z\",\n  \"readme\": \"https://github.com/yc-oss/api\",\n  \"companies\": {\n    \"all\": {\n      \"name\": \"All launched companies\",\n      \"count\": 6374,\n      \"api\": \"https://yc-oss.github.io/api/companies/all.json\"\n    },\n    \"top\": {\n      \"name\": \"Top companies\",\n      \"count\": 91,\n      \"api\": \"https://yc-oss.github.io/api/companies/top.json\"\n    },\n    \"black-fo"
+ },
+ "https://yc-oss.github.io/api/tags/robotics.json": {
+  "ok": true,
+  "bytes": 285953,
+  "head": "[\n  {\n    \"id\": 5,\n    \"name\": \"CircuitHub\",\n    \"slug\": \"circuithub\",\n    \"former_names\": [],\n    \"small_logo_thumb_url\": \"https://bookface-images.s3.amazonaws.com/small_logos/5967d06c7b101af8570dc47b6eea5cd8567dd32b.png\",\n    \"website\": \"https://circuithub.com\",\n    \"all_locations\": \"London, England, United Kingdom\",\n    \"long_description\": \"CircuitHub offers on-demand electronics manufacturing "
+ },
+ "https://en.wikipedia.org/api/rest_v1/page/summary/ASIMO": {
+  "ok": true,
+  "bytes": 2258,
+  "head": "{\"type\":\"standard\",\"title\":\"ASIMO\",\"displaytitle\":\"<span lang=\\\"en\\\" dir=\\\"ltr\\\"><span class=\\\"mw-page-title-main\\\">ASIMO</span></span>\",\"namespace\":{\"id\":0,\"text\":\"\"},\"wikibase_item\":\"Q297769\",\"titles\":{\"canonical\":\"ASIMO\",\"normalized\":\"ASIMO\",\"display\":\"<span lang=\\\"en\\\" dir=\\\"ltr\\\"><span class=\\\"mw-page-title-main\\\">ASIMO</span></span>\"},\"pageid\":500894,\"thumbnail\":{\"source\":\"https://thumb.wiki"
+ }
+}
