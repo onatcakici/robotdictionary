@@ -1,0 +1,77 @@
+{
+ "id": "kiva-system",
+ "name": "Kiva Mobile Fulfillment System",
+ "aka": [
+  "Kiva drive unit",
+  "DU1000",
+  "DU3000"
+ ],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Kiva Systems",
+ "country": "United States",
+ "year": "2005",
+ "status": "retired",
+ "def": "Squat orange drive unit that slides under portable inventory pods and carries them to human pick stations inside fulfillment centers.",
+ "body": [
+  "The Kiva drive unit is a low differential drive robot with a screw lift and turntable that raises a whole shelving pod and rotates it for the picker. It finds its way by reading a grid of barcode stickers on the floor with a downward camera, and identifies pods with an upward camera. Hundreds of units worked as a fleet under a central server, first in Staples and Walgreens distribution centers. Amazon bought Kiva in 2012, stopped selling the system to other companies and folded it into Amazon Robotics, so the product line as sold by Kiva is retired even though its descendants still run.",
+  "Amazon bought Kiva Systems in 2012 and stopped selling to anyone else, an acquisition now studied as one of retail's decisive moves. The orange units and their descendants number in the hundreds of thousands, the largest mobile robot fleet ever built."
+ ],
+ "facts": [
+  "First large deployments were at Staples and Walgreens distribution centers",
+  "Amazon acquired Kiva Systems for about 775 million dollars in 2012",
+  "The larger DU3000 variant could lift about 1,360 kg"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "146.5 kg"
+  ],
+  [
+   "Payload",
+   "450 kg"
+  ],
+  [
+   "Top speed",
+   "1.3 m/s (4.7 km/h)"
+  ],
+  [
+   "Actuation",
+   "Differential drive chassis with a screw lift and rotating turntable for shelving pods"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with automatic floor charging docks"
+  ],
+  [
+   "Sensors",
+   "Downward and upward barcode cameras, infrared obstacle sensors, contact bumpers"
+  ],
+  [
+   "Autonomy",
+   "Central fleet server assigns tasks while robots follow a floor grid of barcode fiducials"
+  ],
+  [
+   "Fleet",
+   "hundreds of thousands of drive units"
+  ]
+ ],
+ "see": [
+  "amazon-proteus",
+  "kiwibot"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Kiva Mobile Fulfillment System",
+   "url": "https://en.wikipedia.org/w/index.php?search=Kiva+Mobile+Fulfillment+System+Kiva+Systems",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "kiva"
+ ]
+}

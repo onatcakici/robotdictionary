@@ -1,0 +1,40 @@
+{
+ "id": "roboturb",
+ "name": "RoboTurb",
+ "aka": [],
+ "section": "arms",
+ "kind": "welding robot",
+ "maker": "Universidade Federal de Santa Catarina",
+ "country": "Brazil",
+ "year": "1998",
+ "status": "",
+ "def": "Welding robot developed at the Universidade Federal de Santa Catarina in Brazil to repair turbine blades, built as a redundant robot mounted on a flexible rail.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, RoboTurb",
+   "url": "https://en.wikipedia.org/wiki/RoboTurb",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RoboTurb (Q7353255)",
+   "url": "https://www.wikidata.org/wiki/Q7353255",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Universidade Federal de Santa Catarina website",
+   "url": "https://ufsc.br/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7353255"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,64 @@
+{
+ "id": "xianxingzhe",
+ "name": "Xianxingzhe",
+ "aka": [
+  "Pioneer"
+ ],
+ "section": "humanoids",
+ "kind": "bipedal humanoid",
+ "maker": "National University of Defense Technology",
+ "country": "China",
+ "year": "2000",
+ "status": "retired",
+ "def": "First bipedal humanoid built in China, a 140 cm machine that walked at about two steps per second and was announced in November 2000.",
+ "body": [
+  "Xianxingzhe stands 140 cm tall and weighs 20 kg, with electrically driven legs and a torso carrying its control electronics. Work began at the National University of Defense Technology in Changsha in the 1980s, after Chinese researchers saw Japanese and American walking machines at Expo '85, and the finished robot was announced on 29 November 2000. It later became an unexpected internet phenomenon in Japan, which spread pictures of the machine far beyond robotics circles."
+ ],
+ "facts": [
+  "First bipedal humanoid robot built in China",
+  "Announced in November 2000 after development begun in the 1980s"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.4 m"
+  ],
+  [
+   "Mass",
+   "20 kg"
+  ],
+  [
+   "Actuation",
+   "Electric motor driven leg joints"
+  ],
+  [
+   "Autonomy",
+   "Preprogrammed walking gait"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "National University of Defense Technology website",
+   "url": "https://www.nudt.edu.cn",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Xianxingzhe",
+   "url": "https://en.wikipedia.org/wiki/Xianxingzhe",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Xianxingzhe (Q831164)",
+   "url": "https://www.wikidata.org/wiki/Q831164",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q831164"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

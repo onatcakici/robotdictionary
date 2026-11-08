@@ -1,0 +1,28 @@
+{
+ "id": "lego-spike-prime",
+ "name": "LEGO Education SPIKE Prime",
+ "aka": [],
+ "section": "other",
+ "kind": "robot kit",
+ "maker": "The LEGO Group",
+ "country": "Denmark",
+ "year": "2020",
+ "status": "production",
+ "def": "Classroom robotics set from LEGO Education built around a programmable hub with six ports for motors and sensors.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "LEGO Education website",
+   "url": "https://education.lego.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

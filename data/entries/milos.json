@@ -1,0 +1,43 @@
+{
+ "id": "milos",
+ "name": "Miloš",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "Military Technical Institute Belgrade and Prva Petoletka",
+ "country": "Serbia",
+ "year": "",
+ "status": "production",
+ "def": "Serbian unmanned ground vehicle developed by the Military Technical Institute after its earlier Milica vehicle of 2009 and built in series for the Serbian Armed Forces.",
+ "body": [],
+ "facts": [
+  "Also known as Little Miloš",
+  "In serial production, with the Serbian Armed Forces as first customer"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Miloš (unmanned ground vehicle)",
+   "url": "https://en.wikipedia.org/wiki/Miloš_(unmanned_ground_vehicle)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Unmanned ground vehicle Miloš (Q55636729)",
+   "url": "https://www.wikidata.org/wiki/Q55636729",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Military Technical Institute Belgrade website",
+   "url": "http://www.vti.mod.gov.rs",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q55636729"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

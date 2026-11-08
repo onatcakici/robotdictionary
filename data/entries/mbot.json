@@ -1,0 +1,37 @@
+{
+ "id": "mbot",
+ "name": "mBot",
+ "aka": [
+  "Makeblock mBot"
+ ],
+ "section": "wheeled",
+ "kind": "toy robot kit",
+ "maker": "Makeblock",
+ "country": "China",
+ "year": "",
+ "status": "",
+ "def": "Line of toy robot kits for children made by the Chinese company Makeblock.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, mBot (Q31092790)",
+   "url": "https://www.wikidata.org/wiki/Q31092790",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Makeblock website",
+   "url": "https://www.makeblock.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q31092790"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,89 @@
+{
+ "id": "yutu-2",
+ "name": "Yutu-2",
+ "aka": [
+  "Jade Rabbit 2",
+  "Chang'e 4 rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "China Academy of Space Technology",
+ "country": "China",
+ "year": "2018",
+ "status": "service",
+ "def": "Chinese far side lunar rover delivered by Chang'e 4, the longest operating rover on the Moon, with 1,613 metres logged by September 2025.",
+ "body": [
+  "Yutu-2 rolled onto the floor of Von Karman crater inside the South Pole Aitken basin on 3 January 2019, the first rover on the lunar far side, working through the Queqiao relay satellite. It repeats the Yutu design with six wheels, folding solar panels and radioisotope heaters, carrying panoramic cameras, lunar penetrating radar, an infrared spectrometer and a Swedish neutral atom detector. Its radar has traced layered ejecta tens of metres thick, and orbital imaging showed a total traverse of 1,613 metres by September 2025 with only small movements in recent lunar days."
+ ],
+ "facts": [
+  "First rover to operate on the lunar far side",
+  "Passed Lunokhod 1 in November 2019 as the longest lived lunar rover",
+  "Radar profiles revealed layered ejecta deposits tens of metres thick"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "140 kg"
+  ],
+  [
+   "Distance driven",
+   "1.613 km"
+  ],
+  [
+   "Actuation",
+   "Six wheel rocker bogie drive with four corner steering"
+  ],
+  [
+   "Power",
+   "Folding solar panels with radioisotope heater units"
+  ],
+  [
+   "Sensors",
+   "Panoramic cameras, lunar penetrating radar, visible and near infrared imaging spectrometer, neutral atom detector"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated through a relay satellite with onboard hazard detection"
+  ],
+  [
+   "Height",
+   "1 m"
+  ],
+  [
+   "Length",
+   "1.5 m"
+  ],
+  [
+   "Width",
+   "1 m"
+  ]
+ ],
+ "see": [
+  "zhurong",
+  "yutu"
+ ],
+ "refs": [
+  {
+   "label": "China Academy of Space Technology website",
+   "url": "https://www.cnsa.gov.cn",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Yutu-2",
+   "url": "https://en.wikipedia.org/wiki/Yutu-2",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Yutu-2 (Q60407805)",
+   "url": "https://www.wikidata.org/wiki/Q60407805",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q60407805"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "piranha-unmanned-surface-vessel",
+ "name": "Piranha Unmanned Surface Vessel",
+ "aka": [],
+ "section": "marine",
+ "kind": "unmanned surface vessel",
+ "maker": "Zyvex Marine",
+ "country": "",
+ "year": "2010",
+ "status": "",
+ "def": "Unmanned surface vessel developed by Zyvex Marine in 2010, kept light by Arovex, a carbon nanotube material used in its construction.",
+ "body": [],
+ "facts": [
+  "Length 16 metres (52 ft), weight about 3,600 kg",
+  "Weighs less than other unmanned surface vessels thanks to Arovex"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Piranha Unmanned Surface Vessel",
+   "url": "https://en.wikipedia.org/wiki/Piranha_Unmanned_Surface_Vessel",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Piranha Unmanned Surface Vessel (Q7197733)",
+   "url": "https://www.wikidata.org/wiki/Q7197733",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7197733"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

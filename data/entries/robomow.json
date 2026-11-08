@@ -1,0 +1,28 @@
+{
+ "id": "robomow",
+ "name": "Robomow",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robotic lawn mower",
+ "maker": "Friendly Robotics",
+ "country": "Israel",
+ "year": "",
+ "status": "",
+ "def": "Line of battery robot lawn mowers from Israel guided by a perimeter wire around the lawn.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Robomow website",
+   "url": "https://robomow.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,51 @@
+{
+ "id": "swarmfarm-swarmbot",
+ "name": "SwarmBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "lightweight autonomous farm platform",
+ "maker": "SwarmFarm Robotics",
+ "country": "Australia",
+ "year": "",
+ "status": "production",
+ "def": "Lightweight autonomous farm platform that carries third party implements for spraying, mowing and seeding, with several machines working one paddock together.",
+ "body": [
+  "The SwarmBot is a small self propelled platform built on the argument that many light robots beat one heavy tractor. It carries commercial implements such as spot sprayers, mowers and seeders, and runs paddock coverage patterns autonomously with lidar and radar watching for obstacles. Several units work the same block simultaneously and report to a farm operator rather than a driver. Australian broadacre grain growers, sugarcane farms and orchards run them commercially."
+ ],
+ "facts": [
+  "Raised 30 million Australian dollars in 2025 to scale the fleet and expand into North America",
+  "Manufactured at a purpose built hub on Queensland's Darling Downs",
+  "Founded by Queensland grain farmers who wanted lighter machines than conventional tractors"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Lightweight self propelled wheeled platform carrying third party implements"
+  ],
+  [
+   "Power",
+   "Diesel engine with hydrostatic drive"
+  ],
+  [
+   "Sensors",
+   "Corrected satellite positioning, lidar and radar for obstacle detection"
+  ],
+  [
+   "Autonomy",
+   "Autonomous paddock coverage with remote monitoring, designed so several robots work as a swarm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "SwarmFarm Robotics website",
+   "url": "https://www.swarmfarm.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

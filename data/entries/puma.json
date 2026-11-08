@@ -1,0 +1,39 @@
+{
+ "id": "puma",
+ "name": "PUMA",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot arm",
+ "maker": "Victor Scheinman",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Six axis industrial robot arm that Victor Scheinman developed at Unimation, first for General Motors, from designs he had begun at Stanford University.",
+ "body": [],
+ "facts": [
+  "Initially developed by Unimation for General Motors",
+  "Based on earlier designs Scheinman created at Stanford University",
+  "Name stands for Programmable Universal Machine for Assembly"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Programmable Universal Machine for Assembly",
+   "url": "https://en.wikipedia.org/wiki/Programmable_Universal_Machine_for_Assembly",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Programmable Universal Machine for Assembly (Q955240)",
+   "url": "https://www.wikidata.org/wiki/Q955240",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q955240"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

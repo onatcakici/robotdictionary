@@ -1,0 +1,86 @@
+{
+ "id": "yutu",
+ "name": "Yutu",
+ "aka": [
+  "Jade Rabbit",
+  "Chang'e 3 rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "China Academy of Space Technology",
+ "country": "China",
+ "year": "2013",
+ "status": "retired",
+ "def": "China's first lunar rover, landed in Mare Imbrium by Chang'e 3, which lost mobility after one lunar day but kept transmitting for years.",
+ "body": [
+  "Yutu drove off the Chang'e 3 lander on 15 December 2013, part of the first soft landing on the Moon since 1976. Solar panels that folded over the body for the lunar night powered six wheels, a lunar penetrating radar, an infrared imaging spectrometer and an X ray spectrometer. A control fault in January 2014 left it unable to move or stow its panels, yet it kept sending data until Chinese officials retired it in August 2016, having driven 114 metres."
+ ],
+ "facts": [
+  "First Chinese rover on the Moon",
+  "Its radar revealed at least nine distinct subsurface layers",
+  "Kept working more than 31 months despite failing after 114 metres"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "120 kg"
+  ],
+  [
+   "Distance driven",
+   "0.114 km"
+  ],
+  [
+   "Actuation",
+   "Six wheel rocker bogie drive with four corner steering"
+  ],
+  [
+   "Power",
+   "Two folding solar panels with radioisotope heater units"
+  ],
+  [
+   "Sensors",
+   "Panoramic and hazard cameras, lunar penetrating radar, infrared imaging spectrometer, alpha particle X ray spectrometer"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated with onboard hazard detection"
+  ],
+  [
+   "Length",
+   "1.5 m"
+  ]
+ ],
+ "see": [
+  "zhurong",
+  "yutu-2"
+ ],
+ "refs": [
+  {
+   "label": "China Academy of Space Technology website",
+   "url": "https://www.cnsa.gov.cn",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Yutu (rover)",
+   "url": "https://en.wikipedia.org/wiki/Yutu_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Yutu (Q15273284)",
+   "url": "https://www.wikidata.org/wiki/Q15273284",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, news.xinhuanet.com",
+   "url": "http://news.xinhuanet.com/english/china/2013-12/18/c_132977079.htm",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q15273284"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

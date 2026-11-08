@@ -1,0 +1,41 @@
+{
+ "id": "remy",
+ "name": "Remy",
+ "aka": [],
+ "section": "arms",
+ "kind": "warehouse manipulation robot",
+ "maker": "Remy AI",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robots and learned models that automate dexterous picking in online retail warehouses.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Remy AI",
+   "url": "https://www.ycombinator.com/companies/remy-ai",
+   "kind": "yc"
+  },
+  {
+   "label": "Remy AI website",
+   "url": "https://www.tryremy.ai/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "remy-ai"
+ },
+ "yc": {
+  "company": "Remy AI",
+  "batch": "Winter 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/remy-ai"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

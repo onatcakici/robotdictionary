@@ -1,0 +1,91 @@
+{
+ "id": "unitree-h2",
+ "name": "Unitree H2",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Unitree Robotics",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "Unitree's flagship full size humanoid with more human proportions and 31 joints, aimed at performance, service and research customers.",
+ "body": [
+  "H2 stands 1.82 metres and weighs about 70 kilograms with its battery, and carries 31 joints: six per leg, seven per arm, three at the waist and two in the head. Leg joints are rated to 360 newton metres and arm joints to 120, and the redesigned shell and proportions give it a markedly more human silhouette than H1. Unitree showed it dancing, performing martial arts forms and moving with continuous full body coordination when it was unveiled in October 2025. It sits at the top of Unitree's humanoid line above G1 and R1 and is sold to research, entertainment and service customers."
+ ],
+ "facts": [
+  "Unveiled in October 2025 with a more human silhouette than earlier Unitree humanoids",
+  "Thirty one joints including a three axis waist and two axis neck",
+  "Demonstrated dance and martial arts routines at launch"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.82 m"
+  ],
+  [
+   "Mass",
+   "70 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "31"
+  ],
+  [
+   "Actuation",
+   "Electric joint modules rated to 360 newton metres in the legs and 120 in the arms"
+  ],
+  [
+   "Sensors",
+   "Depth camera and lidar with microphone array"
+  ],
+  [
+   "Autonomy",
+   "Unitree control stack with reinforcement learning training environments"
+  ]
+ ],
+ "see": [
+  "unitree-h1",
+  "unitree-g1"
+ ],
+ "refs": [
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://shop.unitree.com/products/unitree-h2",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Unitree H2 (Q140880154)",
+   "url": "https://www.wikidata.org/wiki/Q140880154",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, eweek.com",
+   "url": "https://www.eweek.com/news/unitree-h2-humanoid-robot-fighting/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, interestingengineering.com",
+   "url": "https://interestingengineering.com/innovation/china-new-humanoid-robot-unitree-h2",
+   "kind": "cited"
+  },
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140880154"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "h2"
+ ]
+}

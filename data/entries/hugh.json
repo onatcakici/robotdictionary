@@ -1,0 +1,43 @@
+{
+ "id": "hugh",
+ "name": "Hugh",
+ "aka": [],
+ "section": "other",
+ "kind": "robot librarian",
+ "maker": "Aberystwyth University",
+ "country": "",
+ "year": "2016",
+ "status": "prototype",
+ "def": "Robot librarian built as a prototype at Aberystwyth University to locate books for library users and lead them there, though it never went into use.",
+ "body": [],
+ "facts": [
+  "Designed by William Sachiti and Ariel Ladegaard",
+  "First publicised in February 2016"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.iamhugh.co.uk/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Hugh (robot)",
+   "url": "https://en.wikipedia.org/wiki/Hugh_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Hugh (Q30601635)",
+   "url": "https://www.wikidata.org/wiki/Q30601635",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q30601635"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

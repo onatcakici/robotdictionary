@@ -1,0 +1,31 @@
+{
+ "id": "magicbot",
+ "name": "MagicBot",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "MagicLab",
+ "country": "China",
+ "year": "2024",
+ "status": "pilot",
+ "def": "A production line humanoid family also shown running and doing acrobatics.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "mech",
+  "mirai"
+ ],
+ "refs": [
+  {
+   "label": "MagicLab, MagicBot Z1 launch",
+   "url": "https://www.magiclab.top/news/55",
+   "kind": "press"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

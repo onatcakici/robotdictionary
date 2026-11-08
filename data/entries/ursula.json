@@ -1,0 +1,38 @@
+{
+ "id": "ursula",
+ "name": "Ursula",
+ "aka": [],
+ "section": "marine",
+ "kind": "unmanned surface vessel",
+ "maker": "",
+ "country": "Ukraine",
+ "year": "",
+ "status": "",
+ "def": "Ukrainian robotic river boat, built during the Russian invasion, that carries FPV drones and has been nicknamed the world's smallest aircraft carrier.",
+ "body": [],
+ "facts": [
+  "Developed in Ukraine during the Russian invasion",
+  "Nicknamed the world's smallest aircraft carrier"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Ursula (drone)",
+   "url": "https://en.wikipedia.org/wiki/Ursula_(drone)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ursula (Q135622412)",
+   "url": "https://www.wikidata.org/wiki/Q135622412",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q135622412"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "care-o-bot",
+ "name": "Care-O-bot 4",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Fraunhofer IPA",
+ "country": "Germany",
+ "year": "2015",
+ "status": "research",
+ "def": "A gentleman butler service robot with a bowing torso and tray hands.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "cc1",
+  "sixriver-chuck"
+ ],
+ "refs": [
+  {
+   "label": "Wikidata, Care-O-bot (Q1035818)",
+   "url": "https://www.wikidata.org/wiki/Q1035818",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Fraunhofer Institute for Manufacturing Engineering and Automation website",
+   "url": "https://www.ipa.fraunhofer.de/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1035818"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

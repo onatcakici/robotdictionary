@@ -1,0 +1,42 @@
+{
+ "id": "grover",
+ "name": "GROVER",
+ "aka": [
+  "Goddard Remotely Operated Vehicle for Exploration and Research",
+  "Greenland Rover"
+ ],
+ "section": "wheeled",
+ "kind": "polar research rover",
+ "maker": "NASA Goddard Space Flight Center",
+ "country": "United States",
+ "year": "2013",
+ "status": "completed",
+ "def": "Solar powered autonomous rover, designed by students and developed at NASA's Goddard Space Flight Center to collect low cost data on the Greenland ice sheet.",
+ "body": [],
+ "facts": [
+  "Tested on the Greenland ice sheet at Summit Camp from 3 May to 8 June 2013",
+  "Operated in temperatures down to minus 30 °C",
+  "Science team led by Goddard glaciologist Lora Koenig"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, GROVER",
+   "url": "https://en.wikipedia.org/wiki/GROVER",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, GROVER (Q17019590)",
+   "url": "https://www.wikidata.org/wiki/Q17019590",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17019590"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

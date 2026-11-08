@@ -1,0 +1,45 @@
+{
+ "id": "scribbler",
+ "name": "Scribbler",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "educational robot",
+ "maker": "Parallax, Inc.",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Small, inexpensive programmable educational robot from Parallax with several sensor systems, able to navigate on its own and respond to its surroundings.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.parallax.com/ScribblerFamily/tabid/825/Default.aspx",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Scribbler (robot)",
+   "url": "https://en.wikipedia.org/wiki/Scribbler_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Scribbler (Q7439137)",
+   "url": "https://www.wikidata.org/wiki/Q7439137",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Parallax, Inc. website",
+   "url": "http://www.parallax.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7439137"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

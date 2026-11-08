@@ -1,0 +1,63 @@
+{
+ "id": "vyommitra",
+ "name": "Vyommitra",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "half humanoid robot",
+ "maker": "Indian Space Research Organisation, Vikram Sarabhai Space Centre",
+ "country": "India",
+ "year": "2020",
+ "status": "prototype",
+ "def": "Half humanoid robot built by ISRO to fly on uncrewed Gaganyaan test missions and monitor cabin systems in place of a crew.",
+ "body": [
+  "Vyommitra has a head, torso and arms but no legs, built largely from aluminium alloy to survive launch loads and the spacecraft environment. It is designed to read and operate control panels, monitor cabin parameters such as pressure, manage life support functions and report by voice in Hindi and English while recognising the crew it works with. ISRO unveiled it in January 2020 at a human spaceflight symposium in Bengaluru, with flight planned on uncrewed Gaganyaan missions before crewed flights begin."
+ ],
+ "facts": [
+  "Built for uncrewed Gaganyaan test flights ahead of Indian crewed missions",
+  "Unveiled in January 2020 at a human spaceflight symposium in Bengaluru"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Electric actuators in the head, torso and arms"
+  ],
+  [
+   "Sensors",
+   "Cameras and microphones for face and speech recognition, cabin parameter sensing"
+  ],
+  [
+   "Autonomy",
+   "Monitors panels and answers crew questions in Hindi and English"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Indian Space Research Organisation, Vikram Sarabhai Space Centre website",
+   "url": "https://www.isro.gov.in",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Vyommitra",
+   "url": "https://en.wikipedia.org/wiki/Vyommitra",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Vyommitra (Q83434208)",
+   "url": "https://www.wikidata.org/wiki/Q83434208",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Indian Space Research Organisation website",
+   "url": "https://www.isro.gov.in/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q83434208"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,31 @@
+{
+ "id": "cartken",
+ "name": "Courier",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "sidewalk robot",
+ "maker": "Cartken",
+ "country": "United States",
+ "year": "2021",
+ "status": "production",
+ "def": "A sidewalk robot from ex-Google engineers, also working indoor factory routes in Japan.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "cozmo",
+  "create-3"
+ ],
+ "refs": [
+  {
+   "label": "Cartken website",
+   "url": "https://www.cartken.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,31 @@
+{
+ "id": "braava",
+ "name": "Braava",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "iRobot",
+ "country": "United States",
+ "year": "2013",
+ "status": "production",
+ "def": "Roomba's quiet mopping sibling for hard floors.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "roomba",
+  "create-3"
+ ],
+ "refs": [
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

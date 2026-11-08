@@ -1,0 +1,31 @@
+{
+ "id": "hound",
+ "name": "HOUND",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "KAIST",
+ "country": "South Korea",
+ "year": "2023",
+ "status": "research",
+ "def": "A sprinting quadruped holding a Guinness 100 metre record for its class.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "khr-3-hubo",
+  "hyqreal"
+ ],
+ "refs": [
+  {
+   "label": "KAIST website",
+   "url": "https://www.kaist.ac.kr",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

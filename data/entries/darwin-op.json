@@ -1,0 +1,48 @@
+{
+ "id": "darwin-op",
+ "name": "DARwIn-OP",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "open platform mini humanoid",
+ "maker": "ROBOTIS",
+ "country": "South Korea",
+ "year": "2010",
+ "status": "retired",
+ "def": "The open platform mini humanoid that carried university RoboCup teams for a decade.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 45 cm"
+  ]
+ ],
+ "see": [
+  "digit",
+  "e2-dr"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.robotis.com/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, DARwIn-OP",
+   "url": "https://en.wikipedia.org/wiki/DARwIn-OP",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, DARwIn-OP (Q1151719)",
+   "url": "https://www.wikidata.org/wiki/Q1151719",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1151719"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

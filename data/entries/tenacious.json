@@ -1,0 +1,84 @@
+{
+ "id": "tenacious",
+ "name": "Tenacious",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "ispace Europe",
+ "country": "Luxembourg",
+ "year": "2025",
+ "status": "lost",
+ "def": "Five kilogram European built micro rover with a scoop and an artwork payload, lost when the Resilience lander crashed in June 2025.",
+ "body": [
+  "Tenacious was designed and built in Luxembourg by the European subsidiary of ispace, the first lunar rover manufactured in Europe. It carried a forward scoop to collect regolith under a sample purchase agreement with NASA, plus the Moonhouse artwork by Mikael Genberg, and was to be driven from a control centre in Luxembourg. The Resilience lander of ispace Mission 2 lost its altitude reference and struck the surface on 5 June 2025 with the rover aboard."
+ ],
+ "facts": [
+  "First lunar rover built in Europe",
+  "Carried a contracted regolith sample purchase for NASA",
+  "Lost in the ispace Mission 2 landing failure"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "5 kg"
+  ],
+  [
+   "Actuation",
+   "Four wheel drive with a fixed regolith scoop"
+  ],
+  [
+   "Power",
+   "Solar panel with battery"
+  ],
+  [
+   "Sensors",
+   "High definition forward camera and navigation cameras"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated from a European control centre"
+  ],
+  [
+   "Height",
+   "26 cm"
+  ],
+  [
+   "Length",
+   "54 cm"
+  ],
+  [
+   "Width",
+   "31.5 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ispace Europe website",
+   "url": "https://ispace-inc.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, Tenacious (Q132175317)",
+   "url": "https://www.wikidata.org/wiki/Q132175317",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, ispace-inc.com",
+   "url": "https://ispace-inc.com/news-en/?p=5593",
+   "kind": "cited"
+  },
+  {
+   "label": "ispace EUROPE S.A. website",
+   "url": "https://ispace-inc.com/region-eu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q132175317"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

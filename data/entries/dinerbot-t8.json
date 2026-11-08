@@ -1,0 +1,31 @@
+{
+ "id": "dinerbot-t8",
+ "name": "DINERBOT T8",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Keenon Robotics",
+ "country": "China",
+ "year": "2022",
+ "status": "production",
+ "def": "The restaurant robot leader's flagship server, delivering in ninety countries.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "xman-r1",
+  "w3"
+ ],
+ "refs": [
+  {
+   "label": "Keenon Robotics website",
+   "url": "https://www.keenon.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

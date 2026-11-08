@@ -1,0 +1,41 @@
+{
+ "id": "zeta-surgical",
+ "name": "Zeta Surgical",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical navigation and robotics system",
+ "maker": "ZETA SURGICAL",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Image guidance and robotics platform that uses computer vision to register a patient in minutes for neurosurgical and transcranial magnetic stimulation procedures.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, ZETA SURGICAL",
+   "url": "https://www.ycombinator.com/companies/zeta-surgical",
+   "kind": "yc"
+  },
+  {
+   "label": "ZETA SURGICAL website",
+   "url": "http://zetasurgical.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "zeta-surgical"
+ },
+ "yc": {
+  "company": "ZETA SURGICAL",
+  "batch": "Summer 2019",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/zeta-surgical"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

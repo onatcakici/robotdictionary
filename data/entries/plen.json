@@ -1,0 +1,39 @@
+{
+ "id": "plen",
+ "name": "PLEN",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "toy humanoid robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Tabletop humanoid toy robot steered from a Bluetooth phone that can ride a skateboard or roller skates and lift, kick and toss small items.",
+ "body": [],
+ "facts": [
+  "Controlled remotely from a Bluetooth enabled phone",
+  "Has no sensors; every movement is remote controlled",
+  "Can stand back up after falling over"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Plen",
+   "url": "https://en.wikipedia.org/wiki/Plen",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Plen (Q3392271)",
+   "url": "https://www.wikidata.org/wiki/Q3392271",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3392271"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

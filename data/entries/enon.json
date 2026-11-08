@@ -1,0 +1,43 @@
+{
+ "id": "enon",
+ "name": "Enon",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "service robot",
+ "maker": "Fujitsu",
+ "country": "Japan",
+ "year": "2005",
+ "status": "",
+ "def": "Humanoid service robot from Fujitsu Frontech and Fujitsu Laboratories that performs assistance tasks autonomously, drawing on a network connection.",
+ "body": [],
+ "facts": [
+  "Went on the market in Japan in September 2005",
+  "Name stands for Exciting Nova On Network"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Enon (robot)",
+   "url": "https://en.wikipedia.org/wiki/Enon_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Enon (Q3725537)",
+   "url": "https://www.wikidata.org/wiki/Q3725537",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Fujitsu website",
+   "url": "https://global.fujitsu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3725537"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

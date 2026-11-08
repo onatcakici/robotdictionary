@@ -1,0 +1,38 @@
+{
+ "id": "vaucanson-flute-player",
+ "name": "Vaucanson Flute Player",
+ "aka": [],
+ "section": "other",
+ "kind": "automaton",
+ "maker": "Jacques de Vaucanson",
+ "country": "",
+ "year": "1738",
+ "status": "",
+ "def": "Android automaton built by Jacques de Vaucanson that played a standard transverse flute of the period, imitating a human flautist; it was first exhibited in 1738.",
+ "body": [],
+ "facts": [
+  "First shown publicly in 1738",
+  "Used an ordinary flute of the kind played by musicians of the day"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Vaucanson Flute Player",
+   "url": "https://en.wikipedia.org/wiki/Vaucanson_Flute_Player",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Vaucanson Flute Player (Q109037841)",
+   "url": "https://www.wikidata.org/wiki/Q109037841",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q109037841"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

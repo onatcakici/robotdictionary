@@ -1,0 +1,46 @@
+{
+ "id": "wabot-2",
+ "name": "WABOT-2",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "keyboard playing humanoid",
+ "maker": "Waseda University, Kato Laboratory",
+ "country": "Japan",
+ "year": "1984",
+ "status": "retired",
+ "def": "Keyboard playing humanoid from Waseda University that read printed sheet music with a camera eye and performed on an electronic organ.",
+ "body": [
+  "WABOT-2 was built as a specialist musician rather than a general purpose machine, with ten fingers, two feet and about fifty joints. A camera in its head read ordinary sheet music, and a distributed network of roughly eighty microprocessors coordinated fingers, feet and speech so it could play organ pieces of moderate difficulty and accompany a singer. It performed in public at Expo '85 in Tsukuba."
+ ],
+ "facts": [
+  "Read printed scores and played an electronic organ",
+  "Performed at Expo '85 in Tsukuba"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "About 50 joints driven by electric motors"
+  ],
+  [
+   "Sensors",
+   "Camera eye for reading printed scores, microphone"
+  ],
+  [
+   "Autonomy",
+   "Distributed control across roughly 80 microprocessors"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Waseda University, Kato Laboratory website",
+   "url": "https://www.waseda.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

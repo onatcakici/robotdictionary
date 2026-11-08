@@ -1,0 +1,74 @@
+{
+ "id": "roboy",
+ "name": "Roboy",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "tendon driven humanoid",
+ "maker": "University of Zurich Artificial Intelligence Laboratory",
+ "country": "Switzerland",
+ "year": "2013",
+ "status": "research",
+ "def": "Tendon driven humanoid built in about nine months by a Zurich led consortium to copy human muscle and tendon actuation in a child sized body.",
+ "body": [
+  "Roboy is about 1.42 m tall with 28 degrees of freedom moved by roughly 48 electric motors that pull tendons across the joints, imitating how muscles act on human bones. Much of the skeleton is 3D printed, and the design, electronics and software were published openly with parts contributed by more than a dozen partner organisations. The University of Zurich AI Laboratory presented it in 2013 and the project later continued at the Technical University of Munich as a platform for musculoskeletal control and human robot interaction."
+ ],
+ "facts": [
+  "Built in roughly nine months by a consortium of universities and companies",
+  "Tendon driven musculoskeletal design on a largely 3D printed skeleton"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.42 m"
+  ],
+  [
+   "Degrees of freedom",
+   "28"
+  ],
+  [
+   "Actuation",
+   "About 48 brushless motors driving tendons with force sensing"
+  ],
+  [
+   "Sensors",
+   "Cameras, microphone, tendon force and joint position sensing"
+  ],
+  [
+   "Autonomy",
+   "Speech and face recognition driving scripted interaction"
+  ]
+ ],
+ "see": [
+  "rollin-justin",
+  "s-one"
+ ],
+ "refs": [
+  {
+   "label": "University of Zurich Artificial Intelligence Laboratory website",
+   "url": "https://www.uzh.ch",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Roboy",
+   "url": "https://en.wikipedia.org/wiki/Roboy",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ROBOY (Q7277314)",
+   "url": "https://www.wikidata.org/wiki/Q7277314",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Zurich website",
+   "url": "https://www.uzh.ch/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7277314"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

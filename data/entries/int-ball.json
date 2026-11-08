@@ -1,0 +1,60 @@
+{
+ "id": "int-ball",
+ "name": "Int-Ball",
+ "aka": [
+  "JEM Internal Ball Camera"
+ ],
+ "section": "other",
+ "kind": "free flying camera robot",
+ "maker": "Japan Aerospace Exploration Agency and University of Tokyo",
+ "country": "Japan",
+ "year": "2016",
+ "status": "service",
+ "def": "Ball shaped camera robot from the Japan Aerospace Exploration Agency and the University of Tokyo that flies inside the ISS Kibō module, filming tasks to save crew time.",
+ "body": [],
+ "facts": [
+  "Two different Int-Ball units had been delivered to the station by May 2024",
+  "Has a mass of about 1 kg"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "1 kg"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Int-Ball",
+   "url": "https://en.wikipedia.org/wiki/Int-Ball",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Int-Ball (Q33127826)",
+   "url": "https://www.wikidata.org/wiki/Q33127826",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, science.nasa.gov",
+   "url": "https://science.nasa.gov/int-ball-drone-activated-space-station",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, issstream.tksc.jaxa.jp",
+   "url": "http://issstream.tksc.jaxa.jp/iss2/press/170726_intball_en.pdf",
+   "kind": "cited"
+  },
+  {
+   "label": "Japan Aerospace Exploration Agency website",
+   "url": "https://global.jaxa.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q33127826"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

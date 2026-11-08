@@ -1,0 +1,41 @@
+{
+ "id": "proception",
+ "name": "Proception",
+ "aka": [],
+ "section": "arms",
+ "kind": "robotic hand",
+ "maker": "Proception Inc",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Dexterous robotic hand built for humanoids, aiming at fine work such as threading a needle.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Proception Inc",
+   "url": "https://www.ycombinator.com/companies/proception-inc",
+   "kind": "yc"
+  },
+  {
+   "label": "Proception Inc website",
+   "url": "https://proception.ai/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "proception-inc"
+ },
+ "yc": {
+  "company": "Proception Inc",
+  "batch": "Winter 2025",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/proception-inc"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

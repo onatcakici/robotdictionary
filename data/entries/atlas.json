@@ -1,0 +1,38 @@
+{
+ "id": "atlas",
+ "name": "Atlas (electric)",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2024",
+ "status": "pilot",
+ "def": "The all electric successor to the hydraulic Atlas; unveiled for enterprise material handling at CES 2026.",
+ "body": [
+  "The electric Atlas abandoned hydraulics for compact rotary actuators that let its head, torso and limbs spin through inhuman ranges of motion. Developed with Hyundai's backing and trained alongside Toyota Research Institute, it was presented at CES 2026 as an enterprise product for material handling."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Drive",
+   "electric"
+  ]
+ ],
+ "see": [
+  "atlas-hydraulic",
+  "petman"
+ ],
+ "refs": [
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://bostondynamics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

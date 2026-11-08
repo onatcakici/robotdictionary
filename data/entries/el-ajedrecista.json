@@ -1,0 +1,38 @@
+{
+ "id": "el-ajedrecista",
+ "name": "El Ajedrecista",
+ "aka": [],
+ "section": "other",
+ "kind": "chess automaton",
+ "maker": "Leonardo Torres Quevedo",
+ "country": "Spain",
+ "year": "1912",
+ "status": "retired",
+ "def": "Chess automaton created by the Spanish engineer Leonardo Torres Quevedo that played out a reduced endgame with three pieces entirely on its own.",
+ "body": [],
+ "facts": [
+  "Shown publicly in 1913 and exhibited in Paris in 1914",
+  "A smaller electromechanical second version was finished around 1920"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, El Ajedrecista",
+   "url": "https://en.wikipedia.org/wiki/El_Ajedrecista",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, El Ajedrecista (Q386063)",
+   "url": "https://www.wikidata.org/wiki/Q386063",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q386063"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

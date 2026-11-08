@@ -1,0 +1,39 @@
+{
+ "id": "global-explorer-rov",
+ "name": "Global Explorer ROV",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Deep Sea Systems International",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Deep water remotely operated vehicle made by Chris Nicholson of Deep Sea Systems International and used on research and survey dives deeper than 2,700 m.",
+ "body": [],
+ "facts": [
+  "Has made many dives below 9,000 feet (2,700 m)",
+  "Used on expeditions for National Geographic and NOAA",
+  "Its builder, Deep Sea Systems International, is based in Falmouth, Massachusetts"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Global Explorer ROV",
+   "url": "https://en.wikipedia.org/wiki/Global_Explorer_ROV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Global Explorer ROV (Q5570291)",
+   "url": "https://www.wikidata.org/wiki/Q5570291",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5570291"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

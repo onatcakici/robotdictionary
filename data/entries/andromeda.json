@@ -1,0 +1,41 @@
+{
+ "id": "andromeda",
+ "name": "Andromeda",
+ "aka": [],
+ "section": "medical",
+ "kind": "autonomous surgical robot",
+ "maker": "Andromeda Surgical",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Surgical robot developed to carry out parts of procedures autonomously rather than only extending a surgeon's hands.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Andromeda Surgical",
+   "url": "https://www.ycombinator.com/companies/andromeda-surgical",
+   "kind": "yc"
+  },
+  {
+   "label": "Andromeda Surgical website",
+   "url": "http://www.andromedasurgical.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "andromeda-surgical"
+ },
+ "yc": {
+  "company": "Andromeda Surgical",
+  "batch": "Summer 2023",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/andromeda-surgical"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "pave",
+ "name": "Pave",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "road repair robot",
+ "maker": "Pave Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robot that finds and seals cracks in asphalt for paving contractors.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Pave Robotics",
+   "url": "https://www.ycombinator.com/companies/pave-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Pave Robotics website",
+   "url": "https://pave-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "pave-robotics"
+ },
+ "yc": {
+  "company": "Pave Robotics",
+  "batch": "Winter 2025",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/pave-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

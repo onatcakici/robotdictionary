@@ -1,0 +1,44 @@
+{
+ "id": "lg-roboking",
+ "name": "LG Roboking",
+ "aka": [
+  "Hom-Bot"
+ ],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "LG",
+ "country": "",
+ "year": "2001",
+ "status": "production",
+ "def": "Line of robotic vacuum cleaners made by LG, sold as Roboking in Korea and under the Hom-Bot name in other markets.",
+ "body": [],
+ "facts": [
+  "The first version was launched in 2001"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, LG Roboking",
+   "url": "https://en.wikipedia.org/wiki/LG_Roboking",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, LG Roboking (Q6458472)",
+   "url": "https://www.wikidata.org/wiki/Q6458472",
+   "kind": "wikidata"
+  },
+  {
+   "label": "LG website",
+   "url": "https://www.lg.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6458472"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

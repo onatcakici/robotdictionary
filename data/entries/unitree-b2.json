@@ -1,0 +1,102 @@
+{
+ "id": "unitree-b2",
+ "name": "Unitree B2",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Unitree Robotics",
+ "country": "China",
+ "year": "2023",
+ "status": "production",
+ "def": "Sixty kilogram industrial quadruped from Unitree rated to walk with forty kilograms of payload for more than four hours.",
+ "body": [
+  "B2 is Unitree's heavy platform, with joint motors producing up to three hundred and sixty newton metres and an IP67 sealed body for outdoor industrial work. Unitree quotes walking endurance above five hours and twenty kilometres unloaded, bursts over six metres per second and jumps of more than 1.6 metres. It is sold for inspection, emergency response and logistics, and a wheeled leg variant adds rolling travel on smooth ground.",
+  "The B2 is Unitree's industrial mule, carrying forty kilogram payloads on patrol routes; a wheeled variant trades feet for hubs where floors allow."
+ ],
+ "facts": [
+  "Rated for standing loads of 120 kg and walking loads above 40 kg",
+  "IP67 sealed for outdoor industrial and emergency response use"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.645 m"
+  ],
+  [
+   "Length",
+   "1.098 m"
+  ],
+  [
+   "Mass",
+   "60 kg"
+  ],
+  [
+   "Payload",
+   "40 kg"
+  ],
+  [
+   "Top speed",
+   "6 m/s (21.6 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Runtime",
+   "5 h"
+  ],
+  [
+   "Actuation",
+   "High torque in house brushless joint motors, three per leg"
+  ],
+  [
+   "Power",
+   "Swappable lithium battery pack"
+  ],
+  [
+   "Autonomy",
+   "Onboard perception and navigation with a developer interface"
+  ]
+ ],
+ "see": [
+  "unitree-h1",
+  "unitree-h2"
+ ],
+ "refs": [
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.unitree.com/b2",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Unitree B2 (Q140880155)",
+   "url": "https://www.wikidata.org/wiki/Q140880155",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, therobotreport.com",
+   "url": "https://www.therobotreport.com/unitree-b2-quadruped-industrial-inspection/",
+   "kind": "cited"
+  },
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140880155"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "b2"
+ ]
+}

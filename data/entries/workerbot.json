@@ -1,0 +1,37 @@
+{
+ "id": "workerbot",
+ "name": "Workerbot",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot",
+ "maker": "pi4 robotics GmbH",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Industrial robot from pi4 robotics GmbH whose movement and sensing abilities are modelled on those of a human.",
+ "body": [],
+ "facts": [
+  "Name is a trademark of pi4 robotics GmbH"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Workerbot",
+   "url": "https://en.wikipedia.org/wiki/Workerbot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Workerbot (Q2593439)",
+   "url": "https://www.wikidata.org/wiki/Q2593439",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2593439"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

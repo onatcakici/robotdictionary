@@ -1,0 +1,38 @@
+{
+ "id": "clone-alpha",
+ "name": "Clone Alpha",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Clone Robotics",
+ "country": "Poland",
+ "year": "2024",
+ "status": "concept",
+ "def": "A water powered synthetic muscle android of unsettling anatomical fidelity.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "cruzr",
+  "cue"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia, Alpha (robot)",
+   "url": "https://en.wikipedia.org/wiki/Alpha_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Alpha (Q140306852)",
+   "url": "https://www.wikidata.org/wiki/Q140306852",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140306852"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

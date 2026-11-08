@@ -1,0 +1,41 @@
+{
+ "id": "remus",
+ "name": "REMUS",
+ "aka": [
+  "Remote Environmental Monitoring UnitS"
+ ],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Woods Hole Oceanographic Institution",
+ "country": "",
+ "year": "",
+ "status": "production",
+ "def": "Family of low cost autonomous underwater vehicles from the Woods Hole Oceanographic Institution, later built by Hydroid, used for seabed mapping, surveys and naval mine countermeasures.",
+ "body": [],
+ "facts": [
+  "Controllable from an ordinary laptop computer",
+  "Huntington Ingalls Industries bought Hydroid in March 2020",
+  "Name stands for Remote Environmental Monitoring UnitS"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, REMUS (vehicle)",
+   "url": "https://en.wikipedia.org/wiki/REMUS_(vehicle)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, REMUS (Q4047835)",
+   "url": "https://www.wikidata.org/wiki/Q4047835",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4047835"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

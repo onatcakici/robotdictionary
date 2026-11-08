@@ -1,0 +1,31 @@
+{
+ "id": "calvin-40",
+ "name": "Calvin 40",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Wandercraft",
+ "country": "France",
+ "year": "2025",
+ "status": "concept",
+ "def": "An industrial humanoid grown from a decade of self balancing exoskeleton engineering.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "cassie",
+  "clone-alpha"
+ ],
+ "refs": [
+  {
+   "label": "Wandercraft website",
+   "url": "https://www.wandercraft.eu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

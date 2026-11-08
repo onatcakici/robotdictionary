@@ -1,0 +1,38 @@
+{
+ "id": "rov-kiel-6000",
+ "name": "ROV KIEL 6000",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Schilling Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "service",
+ "def": "Electrically powered remotely operated vehicle made by Schilling Robotics of California and owned by Germany's GEOMAR, used for scientific work down to 6,000 m.",
+ "body": [],
+ "facts": [
+  "Linked to its ship by a deep sea glass fibre cable",
+  "Can work from ships of opportunity with enough deck space, power and crane capacity"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, ROV KIEL 6000",
+   "url": "https://en.wikipedia.org/wiki/ROV_KIEL_6000",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ROV KIEL 6000 (Q221773)",
+   "url": "https://www.wikidata.org/wiki/Q221773",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q221773"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

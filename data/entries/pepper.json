@@ -1,0 +1,97 @@
+{
+ "id": "pepper",
+ "name": "Pepper",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "wheeled social humanoid",
+ "maker": "Aldebaran",
+ "country": "France",
+ "year": "2014",
+ "status": "discontinued",
+ "def": "Wheeled social humanoid used for greeting and information duties in shops, banks and airports, with about 17,000 units sold before production ended.",
+ "body": [
+  "Pepper is 1.2 metres tall, weighs about 30 kilograms and has 20 degrees of freedom in its head, arms and hips, riding on a three wheel omnidirectional base rather than legs. Lasers, sonar, infrared sensors, depth and 2D cameras and a microphone array feed a face and emotion recognition stack, and a chest tablet handles menus and payment flows. Battery life is around twelve hours in typical greeting use. Developed by Aldebaran in France under SoftBank ownership and launched in 2014, it was deployed in SoftBank Mobile stores, Carrefour and HSBC branches, cruise ships and airports; production stopped around 2021 and Aldebaran entered receivership in June 2025.",
+  "Pepper greeted customers in banks, airports and ten thousand shops across the world, the first humanoid many people ever met. SoftBank paused production in 2021 as demand thinned, but the installed fleet still works reception desks today."
+ ],
+ "facts": [
+  "About 17,000 units sold across roughly 70 countries",
+  "Deployed in SoftBank Mobile stores, HSBC branches, Carrefour supermarkets and cruise ships",
+  "Production halted around 2021 and maker Aldebaran placed in receivership in June 2025"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.2 m"
+  ],
+  [
+   "Mass",
+   "29.6 kg"
+  ],
+  [
+   "Top speed",
+   "0.55 m/s (2 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "20"
+  ],
+  [
+   "Runtime",
+   "12 h"
+  ],
+  [
+   "Actuation",
+   "20 electric servo joints on a three wheel omnidirectional base"
+  ],
+  [
+   "Sensors",
+   "Lasers, sonar, infrared, 3D depth camera, two 2D cameras, four microphone array, touch sensors"
+  ],
+  [
+   "Autonomy",
+   "NAOqi framework with face and speech recognition and a chest tablet interface"
+  ],
+  [
+   "Units",
+   "approx. 27,000 built"
+  ]
+ ],
+ "see": [
+  "petman",
+  "phoenix"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://aldebaran.com/en/pepper/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Pepper (robot)",
+   "url": "https://en.wikipedia.org/wiki/Pepper_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Pepper (Q17190252)",
+   "url": "https://www.wikidata.org/wiki/Q17190252",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/technology-57651405",
+   "kind": "cited"
+  },
+  {
+   "label": "Aldebaran website",
+   "url": "https://www.aldebaran.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17190252"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

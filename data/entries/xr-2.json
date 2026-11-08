@@ -1,0 +1,35 @@
+{
+ "id": "xr-2",
+ "name": "XR-2",
+ "aka": [],
+ "section": "arms",
+ "kind": "educational robot",
+ "maker": "Rhino Robotics",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Educational robot manufactured by Rhino Robotics as a teaching tool for training students in robotics.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, XR-2",
+   "url": "https://en.wikipedia.org/wiki/XR-2",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, XR-2 (Q8042447)",
+   "url": "https://www.wikidata.org/wiki/Q8042447",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q8042447"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

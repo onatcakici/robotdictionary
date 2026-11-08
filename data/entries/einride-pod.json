@@ -1,0 +1,53 @@
+{
+ "id": "einride-pod",
+ "name": "Einride Pod",
+ "aka": [
+  "T-pod"
+ ],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Einride",
+ "country": "Sweden",
+ "year": "2017",
+ "status": "service",
+ "def": "Cabless battery electric freight vehicle with no driver seat, operated on closed sites and short public road stretches with a remote operator supervising.",
+ "body": [
+  "The Einride Pod is a battery electric freight vehicle designed without a cab, so there is nowhere for a driver to sit. It hauls standard trailers between loading points using lidar, radar and cameras, and a remote operator can supervise or drive several pods from a workstation. Einride pairs the vehicle with its own freight planning software and charging infrastructure rather than selling trucks outright. Operations have run at industrial sites and on limited public road segments."
+ ],
+ "facts": [
+  "Became the first cabless autonomous vehicle granted United States federal approval to operate on a public road in 2022",
+  "Completed a public road pilot with GE Appliances in Tennessee",
+  "Received Swedish permission to operate on a public road in 2019, one of the earliest such approvals in Europe"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Cabless battery electric tractor unit hauling standard trailers"
+  ],
+  [
+   "Power",
+   "Battery electric drive"
+  ],
+  [
+   "Sensors",
+   "Lidar, radar and cameras"
+  ],
+  [
+   "Autonomy",
+   "Level 4 operation within defined areas, supervised and remotely operable from a control station"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Einride website",
+   "url": "https://www.einride.tech",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

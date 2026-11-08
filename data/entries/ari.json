@@ -1,0 +1,31 @@
+{
+ "id": "ari",
+ "name": "ARI",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "wheeled social humanoid",
+ "maker": "PAL Robotics",
+ "country": "Spain",
+ "year": "2020",
+ "status": "production",
+ "def": "A wheeled social humanoid built for reception desks and human robot interaction studies.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "talos",
+  "reem-c"
+ ],
+ "refs": [
+  {
+   "label": "PAL Robotics website",
+   "url": "https://pal-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

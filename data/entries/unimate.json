@@ -1,0 +1,38 @@
+{
+ "id": "unimate",
+ "name": "Unimate",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot arm",
+ "maker": "Unimation",
+ "country": "United States",
+ "year": "1961",
+ "status": "retired",
+ "def": "Industrial robot regarded as the first of its kind, which went to work on a General Motors assembly line in New Jersey in 1961.",
+ "body": [],
+ "facts": [
+  "Worked at the Inland Fisher Guide Plant in Ewing Township, New Jersey",
+  "Produced as a family of related robots"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Unimate",
+   "url": "https://en.wikipedia.org/wiki/Unimate",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Unimate (Q1516542)",
+   "url": "https://www.wikidata.org/wiki/Q1516542",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1516542"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,43 @@
+{
+ "id": "air-cobot",
+ "name": "Air-Cobot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "inspection robot",
+ "maker": "",
+ "country": "France",
+ "year": "",
+ "status": "prototype",
+ "def": "Wheeled collaborative robot from a French research project, built to check aircraft during maintenance while working alongside human staff.",
+ "body": [],
+ "facts": [
+  "Research covered autonomous navigation, collaboration with humans and nondestructive testing",
+  "Partners included research laboratories and industrial companies"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://aircobot.akka.eu/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Air-Cobot",
+   "url": "https://en.wikipedia.org/wiki/Air-Cobot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Air-Cobot (Q24273461)",
+   "url": "https://www.wikidata.org/wiki/Q24273461",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q24273461"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

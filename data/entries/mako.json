@@ -1,0 +1,30 @@
+{
+ "id": "mako",
+ "name": "Mako",
+ "aka": [],
+ "section": "medical",
+ "kind": "orthopaedic surgical robot",
+ "maker": "Stryker",
+ "country": "United States",
+ "year": "2006",
+ "status": "production",
+ "def": "Robotic arm system that guides surgeons cutting bone for knee and hip replacements according to a plan made from a CT scan.",
+ "body": [],
+ "facts": [
+  "Stryker acquired the original maker, MAKO Surgical, in 2013"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Stryker website",
+   "url": "https://www.stryker.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

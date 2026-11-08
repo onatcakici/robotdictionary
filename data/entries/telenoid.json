@@ -1,0 +1,47 @@
+{
+ "id": "telenoid",
+ "name": "Telenoid",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Ishiguro Laboratories",
+ "country": "Japan",
+ "year": "2010",
+ "status": "research",
+ "def": "A minimal, ghost like telepresence android reduced to the essence of a person.",
+ "body": [],
+ "facts": [
+  "Released in August 2010",
+  "About 80 cm tall and weighs 5 kg",
+  "Body made of silicone rubber"
+ ],
+ "specs": [],
+ "see": [
+  "erica",
+  "geminoid"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia, Telenoid R1",
+   "url": "https://en.wikipedia.org/wiki/Telenoid_R1",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Telenoid R1 (Q20983138)",
+   "url": "https://www.wikidata.org/wiki/Q20983138",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Ishiguro Laboratories website",
+   "url": "http://www.geminoid.jp/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q20983138"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

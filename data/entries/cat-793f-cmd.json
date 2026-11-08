@@ -1,0 +1,55 @@
+{
+ "id": "cat-793f-cmd",
+ "name": "Cat 793F CMD",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Caterpillar",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Large diesel mining haul truck built to run driverless under Caterpillar's fleet control system, hauling ore and overburden in open pit mines.",
+ "body": [
+  "The 793F CMD is a Command ready version of Caterpillar's 250 ton class mining truck, factory built to run without an operator in the cab. Perception, positioning and machine to machine communication let it queue, load under a shovel, haul on mine roads and dump without a driver, coordinated by the Cat MineStar Command for hauling system from a control room. Mixed fleets of autonomous and manned machines share the same haul roads. Fleets work iron ore, copper, coal and aggregate operations."
+ ],
+ "facts": [
+  "Caterpillar autonomous trucks have hauled more than five billion tonnes of material",
+  "First commercial autonomous haulage fleet ran 793F trucks for Fortescue in Western Australia from 2013",
+  "Caterpillar has since launched an autonomous 777 truck at a Luck Stone quarry, extending the system to aggregates"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "226800 kg"
+  ],
+  [
+   "Actuation",
+   "Rigid frame two axle mining haul truck with mechanical drive"
+  ],
+  [
+   "Power",
+   "Cat C175-16 diesel engine"
+  ],
+  [
+   "Sensors",
+   "Satellite positioning, radar, lidar and onboard perception with a machine to machine control network"
+  ],
+  [
+   "Autonomy",
+   "Driverless haulage dispatched and supervised from a control room by Cat MineStar Command for hauling"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Caterpillar website",
+   "url": "https://www.cat.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

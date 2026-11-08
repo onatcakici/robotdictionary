@@ -1,0 +1,40 @@
+{
+ "id": "hui-long-class-uuv",
+ "name": "Hui Long class UUV",
+ "aka": [],
+ "section": "marine",
+ "kind": "unmanned underwater vehicle",
+ "maker": "National Chung-Shan Institute of Science and Technology and Lungteh Shipbuilding",
+ "country": "Taiwan",
+ "year": "",
+ "status": "",
+ "def": "Uncrewed underwater vehicle class from Taiwan, developed jointly by the NCSIST research institute and Lungteh Shipbuilding.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Hui Long-class UUV",
+   "url": "https://en.wikipedia.org/wiki/Hui_Long-class_UUV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Hui Long-class UUV (Q131160895)",
+   "url": "https://www.wikidata.org/wiki/Q131160895",
+   "kind": "wikidata"
+  },
+  {
+   "label": "National Chung-Shan Institute of Science and Technology website",
+   "url": "http://www.ncsist.org.tw/eng",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q131160895"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

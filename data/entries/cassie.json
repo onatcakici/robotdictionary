@@ -1,0 +1,42 @@
+{
+ "id": "cassie",
+ "name": "Cassie",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Agility Robotics",
+ "country": "United States",
+ "year": "2017",
+ "status": "retired",
+ "def": "A pair of bird legs with no torso; set a bipedal 100 metre record and begat Digit.",
+ "body": [
+  "Cassie was pure legs: no torso, no arms, just ostrich inspired locomotion research. It learned to run via reinforcement learning and set a bipedal 100 metre Guinness record before its DNA continued in Digit."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Mass",
+   "approx. 33 kg"
+  ],
+  [
+   "Record",
+   "bipedal 100 m Guinness record"
+  ]
+ ],
+ "see": [
+  "digit",
+  "clone-alpha"
+ ],
+ "refs": [
+  {
+   "label": "Agility Robotics website",
+   "url": "https://agilityrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

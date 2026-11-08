@@ -1,0 +1,41 @@
+{
+ "id": "boaty-mcboatface",
+ "name": "Boaty McBoatface",
+ "aka": [
+  "Boaty"
+ ],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "National Oceanography Centre",
+ "country": "United Kingdom",
+ "year": "2017",
+ "status": "service",
+ "def": "British autonomous underwater vehicle belonging to the Autosub Long Range class, run by the National Oceanography Centre for scientific research.",
+ "body": [],
+ "facts": [
+  "One of six vehicles in its class",
+  "The class was launched in 2017",
+  "Can be launched from the shore"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Boaty McBoatface",
+   "url": "https://en.wikipedia.org/wiki/Boaty_McBoatface",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Boaty McBoatface (Q27444460)",
+   "url": "https://www.wikidata.org/wiki/Q27444460",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q27444460"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

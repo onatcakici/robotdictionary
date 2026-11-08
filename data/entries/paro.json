@@ -1,0 +1,40 @@
+{
+ "id": "paro",
+ "name": "Paro",
+ "aka": [],
+ "section": "other",
+ "kind": "therapeutic robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Therapeutic robot shaped like a baby harp seal, made to soothe and draw emotional responses from patients in hospitals and care homes, much like animal therapy.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.parorobots.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Paro (robot)",
+   "url": "https://en.wikipedia.org/wiki/Paro_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Paro (Q2053764)",
+   "url": "https://www.wikidata.org/wiki/Q2053764",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2053764"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

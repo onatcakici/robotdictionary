@@ -1,0 +1,44 @@
+{
+ "id": "toyota-partner-robot",
+ "name": "Toyota Partner Robot",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Toyota",
+ "country": "Japan",
+ "year": "2005",
+ "status": "",
+ "def": "Series of humanoid robots from Toyota that debuted by playing drums and trumpets at Expo 2005 in Aichi, Japan.",
+ "body": [],
+ "facts": [
+  "Five models: Versions 1 to 4 and the i-Foot",
+  "A 2009 video showed one running at 7 km/h on flat ground",
+  "Third generation humanoid T-HR3 followed in 2017"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Toyota Partner Robot",
+   "url": "https://en.wikipedia.org/wiki/Toyota_Partner_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Toyota Partner Robot (Q2447195)",
+   "url": "https://www.wikidata.org/wiki/Q2447195",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Toyota website",
+   "url": "https://global.toyota/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2447195"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

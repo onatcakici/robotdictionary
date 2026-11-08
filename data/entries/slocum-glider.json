@@ -1,0 +1,30 @@
+{
+ "id": "slocum-glider",
+ "name": "Slocum glider",
+ "aka": [],
+ "section": "marine",
+ "kind": "underwater glider",
+ "maker": "Teledyne Webb Research",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Buoyancy driven underwater glider that travels for weeks by changing its displacement, named after the sailor Joshua Slocum.",
+ "body": [],
+ "facts": [
+  "A Slocum glider named Scarlet Knight crossed the Atlantic in 2009"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Teledyne Marine website",
+   "url": "https://www.teledynemarine.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

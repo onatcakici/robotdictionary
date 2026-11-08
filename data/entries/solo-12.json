@@ -1,0 +1,56 @@
+{
+ "id": "solo-12",
+ "name": "Solo 12",
+ "aka": [
+  "SOLO12"
+ ],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Open Dynamic Robot Initiative",
+ "country": "Germany",
+ "year": "2020",
+ "status": "research",
+ "def": "Open hardware torque controlled quadruped weighing a few kilograms, designed so any laboratory could build one from printed parts.",
+ "body": [
+  "Solo 12 came from the Open Dynamic Robot Initiative, a collaboration of the Max Planck Institute for Intelligent Systems, New York University and LAAS-CNRS, which published complete plans for a quadruped made from three dimensional printed parts and off the shelf components. Twelve back drivable brushless actuators give torque control at every joint, so it supports whole body control and learning research usually reserved for expensive hardware. PAL Robotics later assembled and sold ready made units, and the design has been rebuilt in laboratories worldwide."
+ ],
+ "facts": [
+  "Complete hardware design released as open source so laboratories can build their own",
+  "Developed jointly by the Max Planck Institute for Intelligent Systems, New York University and LAAS-CNRS"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Twelve back drivable brushless actuators with low gear ratios"
+  ],
+  [
+   "Power",
+   "Onboard lithium polymer battery"
+  ],
+  [
+   "Sensors",
+   "Joint encoders, inertial measurement unit"
+  ],
+  [
+   "Autonomy",
+   "Off board torque control over a low latency link"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Open Dynamic Robot Initiative website",
+   "url": "https://pal-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,30 @@
+{
+ "id": "abb-flexpicker",
+ "name": "FlexPicker",
+ "aka": [],
+ "section": "arms",
+ "kind": "delta robot",
+ "maker": "ABB",
+ "country": "Switzerland",
+ "year": "",
+ "status": "production",
+ "def": "High speed parallel arm robot from ABB that picks small items from conveyors, based on the delta design invented by Reymond Clavel at EPFL.",
+ "body": [],
+ "facts": [
+  "Original model number IRB 340"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "ABB Robotics website",
+   "url": "https://new.abb.com/products/robotics",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

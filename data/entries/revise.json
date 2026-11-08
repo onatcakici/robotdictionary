@@ -1,0 +1,41 @@
+{
+ "id": "revise",
+ "name": "Revise",
+ "aka": [],
+ "section": "arms",
+ "kind": "electronics refurbishing robot",
+ "maker": "Revise Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robotic system that tests, wipes and refurbishes used laptops for electronic waste recyclers.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Revise Robotics",
+   "url": "https://www.ycombinator.com/companies/revise-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Revise Robotics website",
+   "url": "https://www.reviserobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "revise-robotics"
+ },
+ "yc": {
+  "company": "Revise Robotics",
+  "batch": "Winter 2025",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/revise-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

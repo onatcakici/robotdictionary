@@ -1,0 +1,44 @@
+{
+ "id": "wakamaru",
+ "name": "Wakamaru",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "domestic robot",
+ "maker": "Mitsubishi Heavy Industries",
+ "country": "Japan",
+ "year": "2005",
+ "status": "",
+ "def": "Yellow domestic robot from Mitsubishi Heavy Industries, built to interact with people in a natural way and offered only to Japanese households from 2005.",
+ "body": [],
+ "facts": [
+  "Launched in 2005 at a price of $14,300 to $15,000",
+  "Also used at exhibitions, for guiding customers and as a receptionist",
+  "Never developed beyond its first model"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.mhi.co.jp/en/products/detail/wakamaru.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Wakamaru",
+   "url": "https://en.wikipedia.org/wiki/Wakamaru",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Wakamaru (Q2621822)",
+   "url": "https://www.wikidata.org/wiki/Q2621822",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2621822"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

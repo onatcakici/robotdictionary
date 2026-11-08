@@ -1,0 +1,31 @@
+{
+ "id": "neo-avidbots",
+ "name": "Neo 2",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Avidbots",
+ "country": "Canada",
+ "year": "2019",
+ "status": "production",
+ "def": "A self driving floor scrubber mapping airports and malls each night.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "neolix-x3",
+  "nicobo"
+ ],
+ "refs": [
+  {
+   "label": "Avidbots website",
+   "url": "https://avidbots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

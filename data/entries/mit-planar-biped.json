@@ -1,0 +1,48 @@
+{
+ "id": "mit-planar-biped",
+ "name": "Planar Biped",
+ "aka": [
+  "MIT Leg Lab 2D biped"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "MIT Leg Laboratory",
+ "country": "United States",
+ "year": "1985",
+ "status": "retired",
+ "def": "Boom constrained running machine at the MIT Leg Laboratory that set an early bipedal speed record and performed the first robot somersaults.",
+ "body": [
+  "The Planar Biped had two telescoping legs on hip pivots, hydraulically actuated with air springs, running on a boom that held it in a vertical plane. Marc Raibert's group controlled it by treating one leg at a time as an active hopper and splitting control into hopping height, forward speed and body attitude, which let the machine switch gaits while running. Between 1985 and 1990 it ran at up to 13.1 mph, hopped over obstacles, climbed a short stairway and performed forward somersaults."
+ ],
+ "facts": [
+  "Reached 13.1 mph, an early bipedal running speed record",
+  "Performed the first somersaults by a legged robot"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "5.9 m/s (21.2 km/h)"
+  ],
+  [
+   "Actuation",
+   "Hydraulic actuators with pneumatic leg springs"
+  ],
+  [
+   "Autonomy",
+   "Decomposed hopping controller with off board computing"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "MIT Leg Laboratory website",
+   "url": "https://www.mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

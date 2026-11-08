@@ -1,0 +1,42 @@
+{
+ "id": "roboboa",
+ "name": "Roboboa",
+ "aka": [],
+ "section": "other",
+ "kind": "robotic snake",
+ "maker": "WowWee",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Robotic snake made by WowWee with four angled body sections that rotate against one another so it can coil up.",
+ "body": [],
+ "facts": [
+  "Moves in a straight line using a motorised tail roller and midsection casters"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.roboboaonline.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Roboboa",
+   "url": "https://en.wikipedia.org/wiki/Roboboa",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Roboboa (Q7353269)",
+   "url": "https://www.wikidata.org/wiki/Q7353269",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7353269"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

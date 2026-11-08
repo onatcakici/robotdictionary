@@ -1,0 +1,57 @@
+{
+ "id": "walk-man",
+ "name": "WALK-MAN",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "full size compliant humanoid",
+ "maker": "Istituto Italiano di Tecnologia",
+ "country": "Italy",
+ "year": "2015",
+ "status": "research",
+ "def": "Full size compliant humanoid built for European disaster response research and later tested in earthquake damaged buildings in Amatrice, Italy.",
+ "body": [
+  "WALK-MAN is about 1.85 m tall and weighed 133 kg in the version entered for the 2015 DARPA Robotics Challenge Finals, cut later to 102 kg with a magnesium and titanium frame and new upper body actuators. Series elastic joints and 19 degree of freedom hands let it absorb impacts while turning valves, cutting through walls and clearing debris, with an operator commanding roughly four fifths of its actions and local autonomy handling the rest. IIT tested it in a mock industrial plant with gas and fire, and in buildings struck by the Amatrice earthquake."
+ ],
+ "facts": [
+  "Competed at the 2015 DARPA Robotics Challenge Finals",
+  "Field tested in earthquake damaged buildings in Amatrice"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.85 m"
+  ],
+  [
+   "Mass",
+   "133 kg"
+  ],
+  [
+   "Actuation",
+   "Series elastic electric joints with 19 degree of freedom hands"
+  ],
+  [
+   "Sensors",
+   "Lidar, stereo cameras, joint torque and force sensing"
+  ],
+  [
+   "Autonomy",
+   "Operator commanded with local autonomous functions"
+  ]
+ ],
+ "see": [
+  "icub",
+  "ergocub"
+ ],
+ "refs": [
+  {
+   "label": "Istituto Italiano di Tecnologia website",
+   "url": "https://www.iit.it",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

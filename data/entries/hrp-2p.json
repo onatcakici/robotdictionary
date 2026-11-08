@@ -1,0 +1,35 @@
+{
+ "id": "hrp-2p",
+ "name": "HRP-2P",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Kawada Technologies",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Humanoid robot model in the HRP series, built by the Japanese company Kawada Technologies.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, HRP-2P (Q13417854)",
+   "url": "https://www.wikidata.org/wiki/Q13417854",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Kawada Technologies website",
+   "url": "https://www.kawada.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q13417854"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

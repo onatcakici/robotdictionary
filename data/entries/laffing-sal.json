@@ -1,0 +1,37 @@
+{
+ "id": "laffing-sal",
+ "name": "Laffing Sal",
+ "aka": [],
+ "section": "other",
+ "kind": "animatronic figure",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Animatronic figure with a loud laugh, one of several characters built to lure carnival and amusement park visitors into funhouses and dark rides in the United States.",
+ "body": [],
+ "facts": [
+  "Its laugh was known to scare young children and irritate adults"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Laffing Sal",
+   "url": "https://en.wikipedia.org/wiki/Laffing_Sal",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Laffing Sal (Q3216095)",
+   "url": "https://www.wikidata.org/wiki/Q3216095",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3216095"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

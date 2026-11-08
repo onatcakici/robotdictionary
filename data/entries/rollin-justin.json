@@ -1,0 +1,84 @@
+{
+ "id": "rollin-justin",
+ "name": "Rollin' Justin",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "wheeled humanoid",
+ "maker": "German Aerospace Center DLR",
+ "country": "Germany",
+ "year": "2008",
+ "status": "research",
+ "def": "Wheeled humanoid from DLR with torque controlled arms and hands, commanded from the International Space Station in orbital telerobotics experiments.",
+ "body": [
+  "Rollin' Justin combines the Justin humanoid upper body, first built in 2006, with a four legged wheeled base whose legs extend and retract, giving 51 degrees of freedom, a height of 1.91 m and a mass around 200 kg. Nearly every joint measures torque, so a hierarchical whole body controller can grip objects softly, absorb collisions and juggle several tasks at once, while the robot carries about 20 kg and moves at up to 2 m/s. In the METERON SUPVIS Justin experiments, astronauts aboard the space station commanded it through a tablet interface to service a mock Mars solar array on the ground in Germany."
+ ],
+ "facts": [
+  "Commanded from the International Space Station in the METERON SUPVIS Justin experiments",
+  "Torque sensing in nearly every joint for compliant whole body control",
+  "Introduced in 2009",
+  "Developed at the DLR institute in Wessling, Germany",
+  "Operates wirelessly"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.91 m"
+  ],
+  [
+   "Mass",
+   "200 kg"
+  ],
+  [
+   "Payload",
+   "20 kg"
+  ],
+  [
+   "Top speed",
+   "2 m/s (7.2 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "51"
+  ],
+  [
+   "Runtime",
+   "1 h"
+  ],
+  [
+   "Actuation",
+   "Torque controlled electric joints with tendon driven hands"
+  ],
+  [
+   "Sensors",
+   "Torque sensors in nearly all joints, two stereo cameras, five depth cameras, inertial units"
+  ]
+ ],
+ "see": [
+  "toro",
+  "s-one"
+ ],
+ "refs": [
+  {
+   "label": "German Aerospace Center DLR website",
+   "url": "https://www.dlr.de",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Justin (robot)",
+   "url": "https://en.wikipedia.org/wiki/Justin_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Justin (Q1714160)",
+   "url": "https://www.wikidata.org/wiki/Q1714160",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1714160"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

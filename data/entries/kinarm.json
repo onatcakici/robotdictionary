@@ -1,0 +1,46 @@
+{
+ "id": "kinarm",
+ "name": "KINARM",
+ "aka": [
+  "Kinesiological Instrument for Normal and Altered Reaching Movement"
+ ],
+ "section": "medical",
+ "kind": "neuroscience research robot",
+ "maker": "BKIN Technologies",
+ "country": "Canada",
+ "year": "",
+ "status": "",
+ "def": "Interactive robotic device that lets researchers measure how the brain handles sensing, movement and thinking through upper limb tasks, made by BKIN Technologies of Kingston, Ontario.",
+ "body": [],
+ "facts": [
+  "Comes in two forms, the KINARM Exoskeleton and the KINARM End-Point",
+  "Used by basic and clinical researchers studying effects of injury and disease on the brain",
+  "Made by BKIN Technologies Ltd. in Kingston, Ontario"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.bkintechnologies.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, KINARM",
+   "url": "https://en.wikipedia.org/wiki/KINARM",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, KINARM (Q85772958)",
+   "url": "https://www.wikidata.org/wiki/Q85772958",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q85772958"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

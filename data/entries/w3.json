@@ -1,0 +1,31 @@
+{
+ "id": "w3",
+ "name": "W3",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Keenon Robotics",
+ "country": "China",
+ "year": "2022",
+ "status": "production",
+ "def": "A hotel and building courier that rides lifts and passes through doors on its own.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "xman-r1",
+  "dinerbot-t8"
+ ],
+ "refs": [
+  {
+   "label": "Keenon Robotics website",
+   "url": "https://www.keenon.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

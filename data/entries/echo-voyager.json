@@ -1,0 +1,40 @@
+{
+ "id": "echo-voyager",
+ "name": "Echo Voyager",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Boeing",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Autonomous underwater vehicle built by Boeing, an uncrewed submersible that navigates and works below the surface on its own.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Echo Voyager",
+   "url": "https://en.wikipedia.org/wiki/Echo_Voyager",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Echo Voyager (Q25389239)",
+   "url": "https://www.wikidata.org/wiki/Q25389239",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boeing website",
+   "url": "https://boeing.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q25389239"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

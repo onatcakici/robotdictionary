@@ -1,0 +1,62 @@
+{
+ "id": "ohmnicare",
+ "name": "OhmniCare",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "telepresence robot",
+ "maker": "OhmniLabs",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Telepresence robot for clinics and care homes with a tall touchscreen and four cameras, driven by a remote clinician from a browser.",
+ "body": [
+  "OhmniCare is a four wheel telepresence robot carrying a 21.5 inch touchscreen at about eye level for a seated patient. Front, rear and downward cameras give the remote driver a full view of the room and floor, and six inch wheels handle carpet edges and thresholds up to about 13 mm. It is used for remote consultations, family visits in care homes and specialist rounds. It replaced the original Ohmni telepresence robot, which OhmniLabs discontinued in 2024."
+ ],
+ "facts": [
+  "Replaced the original Ohmni telepresence robot, discontinued in 2024",
+  "Carries a 21.5 inch high definition touchscreen"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.51 m"
+  ],
+  [
+   "Top speed",
+   "0.89 m/s (3.2 km/h)"
+  ],
+  [
+   "Runtime",
+   "8 h"
+  ],
+  [
+   "Actuation",
+   "Four wheel base with 30 W brushless motors and six inch wheels"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with up to 18 hours of standby"
+  ],
+  [
+   "Sensors",
+   "Four cameras including 4K front, rear and downward views"
+  ],
+  [
+   "Autonomy",
+   "Remote driving with assisted docking"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "OhmniLabs website",
+   "url": "https://www.ohmnilabs.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

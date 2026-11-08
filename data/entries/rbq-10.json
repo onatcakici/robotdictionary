@@ -1,0 +1,31 @@
+{
+ "id": "rbq-10",
+ "name": "RBQ-10",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "industrial quadruped",
+ "maker": "Rainbow Robotics",
+ "country": "South Korea",
+ "year": "2023",
+ "status": "production",
+ "def": "A Korean industrial quadruped for patrol and payload work.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "rb-y1",
+  "rivr"
+ ],
+ "refs": [
+  {
+   "label": "Rainbow Robotics website",
+   "url": "https://www.rainbowrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,51 @@
+{
+ "id": "saga-thorvald",
+ "name": "Thorvald",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Saga Robotics",
+ "country": "Norway",
+ "year": "",
+ "status": "service",
+ "def": "Modular battery electric field platform best known for carrying ultraviolet lamps that kill mildew on strawberries and grapes during night passes.",
+ "body": [
+  "Thorvald is a modular four wheel drive electric platform whose track width and clearance can be rebuilt for different crops, from strawberry tunnels to vineyards. Its signature application is a ultraviolet C light module that is driven over crops at night to suppress powdery mildew, reducing fungicide use. Navigation uses lidar, cameras and satellite positioning, with autonomous row following and remote supervision. Saga Robotics runs it as a treatment service on farms in Norway, the United Kingdom and the United States."
+ ],
+ "facts": [
+  "Ultraviolet C treatment module suppresses powdery mildew on strawberries and grapes without fungicide",
+  "Originated in research at the Norwegian University of Life Sciences",
+  "Offered as a service on commercial berry and vineyard operations in Europe and the United States"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Modular four wheel drive electric platform with reconfigurable track width and clearance"
+  ],
+  [
+   "Power",
+   "Battery electric drive"
+  ],
+  [
+   "Sensors",
+   "Lidar, cameras and satellite positioning"
+  ],
+  [
+   "Autonomy",
+   "Autonomous row navigation with remote monitoring, working unattended at night"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Saga Robotics website",
+   "url": "https://sagarobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

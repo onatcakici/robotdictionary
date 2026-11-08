@@ -1,0 +1,44 @@
+{
+ "id": "2-xl",
+ "name": "2-XL",
+ "aka": [],
+ "section": "other",
+ "kind": "toy robot",
+ "maker": "",
+ "country": "",
+ "year": "1978",
+ "status": "discontinued",
+ "def": "Talking educational toy robot sold by Mego from 1978 to 1981 and by Tiger Electronics from 1992 to 1995, regarded as the first smart toy.",
+ "body": [],
+ "facts": [
+  "Considered the first smart toy",
+  "Featured among the top ten toys of all time on Playthings' 75th anniversary cover",
+  "Name is a pun on \"to excel\""
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.2xlrobot.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, 2-XL",
+   "url": "https://en.wikipedia.org/wiki/2-XL",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, 2-XL (Q552627)",
+   "url": "https://www.wikidata.org/wiki/Q552627",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q552627"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

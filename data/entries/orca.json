@@ -1,0 +1,35 @@
+{
+ "id": "orca",
+ "name": "Orca",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Boeing and Huntington Ingalls Industries",
+ "country": "United States",
+ "year": "",
+ "status": "development",
+ "def": "Autonomous underwater vehicle being developed by Boeing and Huntington Ingalls Industries for the United States Navy.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Orca (AUV)",
+   "url": "https://en.wikipedia.org/wiki/Orca_(AUV)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Orca (Q65172028)",
+   "url": "https://www.wikidata.org/wiki/Q65172028",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q65172028"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

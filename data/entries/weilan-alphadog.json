@@ -1,0 +1,58 @@
+{
+ "id": "weilan-alphadog",
+ "name": "AlphaDog",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped platform",
+ "maker": "WEILAN",
+ "country": "China",
+ "year": "2021",
+ "status": "production",
+ "def": "Chinese quadruped platform marketed for education, security and delivery work, launched with claims of unusually high running speed.",
+ "body": [
+  "WEILAN, a company based in Nanjing, builds the AlphaDog series around electric joint actuators, onboard cameras and 5G connectivity for remote operation. The range covers small education units and larger platforms for patrol and delivery, all controlled by an onboard computer with following and obstacle avoidance. At its 2021 launch the company stated a top speed of about fifteen kilometres per hour."
+ ],
+ "facts": [
+  "Stated top speed of about 15 km/h at its 2021 launch",
+  "Sold as a family of quadrupeds spanning education units and larger patrol platforms"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "4.2 m/s (15.1 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Electric joint actuators, three per leg"
+  ],
+  [
+   "Power",
+   "Onboard lithium battery"
+  ],
+  [
+   "Sensors",
+   "Cameras and inertial sensing"
+  ],
+  [
+   "Autonomy",
+   "Onboard navigation with 5G remote operation"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "WEILAN website",
+   "url": "https://www.weilan.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

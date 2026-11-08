@@ -1,0 +1,39 @@
+{
+ "id": "jason-jr",
+ "name": "Jason Jr.",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Woods Hole Oceanographic Institution",
+ "country": "",
+ "year": "",
+ "status": "retired",
+ "def": "Small remotely operated vehicle built by the Deep Submergence Laboratory at Woods Hole Oceanographic Institution as a test model for its bigger successor, Jason.",
+ "body": [],
+ "facts": [
+  "Also known as JJ",
+  "Used to explore the wreck of the RMS Titanic",
+  "Its successor Jason was meant to work alongside the Argo camera sled"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Jason Jr.",
+   "url": "https://en.wikipedia.org/wiki/Jason_Jr.",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Jason Jr. (Q6162815)",
+   "url": "https://www.wikidata.org/wiki/Q6162815",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6162815"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

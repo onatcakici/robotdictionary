@@ -1,0 +1,33 @@
+{
+ "id": "vector",
+ "name": "Vector",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Anki (Digital Dream Labs)",
+ "country": "United States",
+ "year": "2018",
+ "status": "production",
+ "def": "A palm sized desk companion with big eyes and a cloud brain, revived by its fans.",
+ "body": [
+  "Anki's Vector packed personality into a palm size body just before its maker collapsed; fans and Digital Dream Labs revived its cloud brain, a rare robot resurrection by community demand."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "viper",
+  "w3"
+ ],
+ "refs": [
+  {
+   "label": "Anki (Digital Dream Labs) website",
+   "url": "https://www.digitaldreamlabs.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

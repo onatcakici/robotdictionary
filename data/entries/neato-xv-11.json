@@ -1,0 +1,53 @@
+{
+ "id": "neato-xv-11",
+ "name": "XV-11",
+ "aka": [
+  "Neato XV-11"
+ ],
+ "section": "wheeled",
+ "kind": "consumer robot vacuum",
+ "maker": "Neato Robotics",
+ "country": "United States",
+ "year": "2010",
+ "status": "discontinued",
+ "def": "The first consumer robot vacuum with a spinning laser scanner, which let it map a room and clean in straight overlapping rows.",
+ "body": [
+  "The XV-11 introduced a low cost spinning laser distance sensor to a household product, so the robot built a map instead of bouncing at random. Its D shaped body put a wide brush right at the front edge, and it cleaned in methodical rows before returning to base and resuming where it stopped. The laser module became a favourite of hobbyists and researchers who reused it on their own robots. Neato Robotics closed in 2023 after 18 years and its vacuums are discontinued."
+ ],
+ "facts": [
+  "First consumer robot vacuum to navigate with a laser scanner",
+  "Its inexpensive laser module was widely reused by robotics hobbyists",
+  "Neato Robotics shut down in 2023 after 18 years"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Two drive wheels with a wide fixed brush in a D shaped body"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with a charging base"
+  ],
+  [
+   "Sensors",
+   "Spinning laser distance scanner with bumper and cliff sensors"
+  ],
+  [
+   "Autonomy",
+   "Laser SLAM mapping with systematic row coverage and resume after charging"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia search, XV-11",
+   "url": "https://en.wikipedia.org/w/index.php?search=XV-11+Neato+Robotics",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

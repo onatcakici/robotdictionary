@@ -1,0 +1,39 @@
+{
+ "id": "nereus",
+ "name": "Nereus",
+ "aka": [],
+ "section": "marine",
+ "kind": "hybrid underwater vehicle",
+ "maker": "Woods Hole Oceanographic Institution",
+ "country": "",
+ "year": "2009",
+ "status": "",
+ "def": "Hybrid uncrewed underwater vehicle from the Woods Hole Oceanographic Institution, made for research at full ocean depth, which reached the floor of the Challenger Deep in 2009.",
+ "body": [],
+ "facts": [
+  "Rated to operate as deep as 11,000 metres",
+  "Reached the bottom of the Challenger Deep on 31 May 2009",
+  "Name chosen through a nationwide student contest"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Nereus (underwater vehicle)",
+   "url": "https://en.wikipedia.org/wiki/Nereus_(underwater_vehicle)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Nereus (Q1977994)",
+   "url": "https://www.wikidata.org/wiki/Q1977994",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1977994"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

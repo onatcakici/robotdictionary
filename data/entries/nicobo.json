@@ -1,0 +1,31 @@
+{
+ "id": "nicobo",
+ "name": "NICOBO",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Panasonic",
+ "country": "Japan",
+ "year": "2021",
+ "status": "production",
+ "def": "A shy tail wagging cushion robot that speaks in half formed words.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "panasonic-hospi",
+  "opportunity"
+ ],
+ "refs": [
+  {
+   "label": "Panasonic website",
+   "url": "https://www.panasonic.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

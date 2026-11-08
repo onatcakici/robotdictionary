@@ -1,0 +1,31 @@
+{
+ "id": "robomaster-s1",
+ "name": "RoboMaster S1",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "DJI",
+ "country": "China",
+ "year": "2019",
+ "status": "production",
+ "def": "An omnidirectional battle bot that teaches coding through gel bead skirmishes.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "roomba",
+  "rosalind-franklin"
+ ],
+ "refs": [
+  {
+   "label": "DJI website",
+   "url": "https://www.dji.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

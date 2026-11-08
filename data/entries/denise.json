@@ -1,0 +1,46 @@
+{
+ "id": "denise",
+ "name": "Denise",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "passive dynamic walking biped",
+ "maker": "Delft University of Technology, Delft Biorobotics Laboratory",
+ "country": "Netherlands",
+ "year": "2005",
+ "status": "retired",
+ "def": "Passive dynamic walking biped from Delft driven by pneumatic muscles, notable for walking on a small fraction of the energy typical robots need.",
+ "body": [
+  "Denise has hips and knees whose swing is left mostly to gravity and mechanical design, with McKibben pneumatic muscles supplying only small pushes to keep the gait going. Martijn Wisse's group built it to show that a machine tuned to its own natural dynamics can walk stably with very little computation and very little power. It featured in the 2005 Science paper on efficient bipedal robots based on passive dynamic walkers, alongside machines from Cornell and MIT."
+ ],
+ "facts": [
+  "One of three efficient passive dynamic walkers reported in Science in 2005",
+  "Walks with almost no active control or computation"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "McKibben pneumatic artificial muscles with passive leg swing"
+  ],
+  [
+   "Power",
+   "Compressed air with onboard valves"
+  ],
+  [
+   "Autonomy",
+   "Minimal control, with the gait produced mainly by mechanical dynamics"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Delft University of Technology, Delft Biorobotics Laboratory website",
+   "url": "https://www.tudelft.nl",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

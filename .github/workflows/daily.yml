@@ -1,0 +1,40 @@
+name: Daily revision
+
+on:
+  schedule:
+    - cron: "41 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  revise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Revise entries from sources
+        continue-on-error: true
+        run: python3 tools/update.py
+      - name: Build pages
+        run: python3 tools/build.py
+      - name: Publish
+        run: |
+          git config user.name "Robot Dictionary"
+          git config user.email "contact@robotdictionary.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Nothing changed"; exit 0; fi
+          git commit -q -m "Daily revision $(date -u +%Y-%m-%d)"
+          git push
+      - name: Ask GitHub Pages to rebuild
+        run: |
+          curl -s -o /dev/null -w "%{http_code}\n" -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/pages/builds" || true

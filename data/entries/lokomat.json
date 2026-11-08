@@ -1,0 +1,28 @@
+{
+ "id": "lokomat",
+ "name": "Lokomat",
+ "aka": [],
+ "section": "medical",
+ "kind": "robotic gait trainer",
+ "maker": "Hocoma",
+ "country": "Switzerland",
+ "year": "",
+ "status": "production",
+ "def": "Robotic gait trainer that moves a patient's legs over a treadmill while part of their body weight is supported by a harness.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Hocoma website",
+   "url": "https://www.hocoma.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

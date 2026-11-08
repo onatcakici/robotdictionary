@@ -1,0 +1,28 @@
+{
+ "id": "mazor-x",
+ "name": "Mazor X",
+ "aka": [],
+ "section": "medical",
+ "kind": "spine surgery robot",
+ "maker": "Mazor Robotics",
+ "country": "Israel",
+ "year": "2016",
+ "status": "production",
+ "def": "Robotic guidance system for spine surgery from Mazor Robotics, which Medtronic acquired in 2018.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Medtronic website",
+   "url": "https://www.medtronic.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

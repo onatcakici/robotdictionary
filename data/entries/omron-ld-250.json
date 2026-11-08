@@ -1,0 +1,58 @@
+{
+ "id": "omron-ld-250",
+ "name": "OMRON LD-250",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "industrial autonomous mobile robot",
+ "maker": "OMRON",
+ "country": "Japan",
+ "year": "2019",
+ "status": "production",
+ "def": "Industrial autonomous mobile robot that carries 250 kg of parts between machines and stores using laser mapping instead of floor tape or magnets.",
+ "body": [
+  "The LD-250 is a flat deck mobile robot for factory and cleanroom logistics, sized to move heavy trays, racks and work in progress. Safety rated lasers and time of flight sensors support onboard SLAM, so it reroutes around people and pallets rather than stopping on a fixed path. A fleet manager coordinates traffic, charging and job assignment across mixed groups of LD robots. The platform descends from the Adept Lynx robot that OMRON acquired with Adept Technology in 2015."
+ ],
+ "facts": [
+  "Descends from the Adept Lynx platform OMRON acquired in 2015",
+  "Runs about 13 hours unloaded and 10 hours at full payload"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "250 kg"
+  ],
+  [
+   "Top speed",
+   "1.2 m/s (4.3 km/h)"
+  ],
+  [
+   "Runtime",
+   "10 h"
+  ],
+  [
+   "Power",
+   "Lithium ion battery with autonomous docking"
+  ],
+  [
+   "Sensors",
+   "Safety rated laser scanners and time of flight obstacle sensors"
+  ],
+  [
+   "Autonomy",
+   "Onboard SLAM with a fleet manager coordinating traffic and charging"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "OMRON website",
+   "url": "https://robotics.omron.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,48 @@
+{
+ "id": "magpie",
+ "name": "MAGPIE",
+ "aka": [],
+ "section": "rovers",
+ "kind": "lunar rover",
+ "maker": "ispace EUROPE S.A.",
+ "country": "Luxembourg",
+ "year": "",
+ "status": "development",
+ "def": "Lunar rover being developed by ispace for the European Space Agency to look for water ice near the Moon's south pole.",
+ "body": [],
+ "facts": [
+  "Planned as the European Space Agency's first lunar rover mission",
+  "Due to launch in 2029 aboard ispace Mission 4"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, MAGPIE (rover)",
+   "url": "https://en.wikipedia.org/wiki/MAGPIE_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Q136377721 (Q136377721)",
+   "url": "https://www.wikidata.org/wiki/Q136377721",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, europeanspaceflight.com",
+   "url": "https://europeanspaceflight.com/esa-awards-ispace-e65m-contract-to-build-and-deliver-magpie-rover-to-the-moon/",
+   "kind": "cited"
+  },
+  {
+   "label": "ispace EUROPE S.A. website",
+   "url": "https://ispace-inc.com/region-eu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q136377721"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

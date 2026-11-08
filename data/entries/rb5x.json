@@ -1,0 +1,40 @@
+{
+ "id": "rb5x",
+ "name": "RB5X",
+ "aka": [],
+ "section": "other",
+ "kind": "personal robot",
+ "maker": "RB Robot Corporation",
+ "country": "United States",
+ "year": "1983",
+ "status": "",
+ "def": "Personal robot from 1983 produced by RB Robot Corporation, a company based in Golden, Colorado.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, RB5X",
+   "url": "https://en.wikipedia.org/wiki/RB5X",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RB5X (Q7275908)",
+   "url": "https://www.wikidata.org/wiki/Q7275908",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, nytimes.com",
+   "url": "http://www.nytimes.com/1984/01/12/garden/past-and-present-robots-gather-for-exhibition.html",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7275908"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

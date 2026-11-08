@@ -1,0 +1,30 @@
+{
+ "id": "luzi",
+ "name": "Luzi",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "social humanoid robot",
+ "maker": "",
+ "country": "Switzerland",
+ "year": "",
+ "status": "service",
+ "def": "Individual Pepper robot given the name Luzi and operated by ZHB Luzern in Switzerland.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Luzi (Q111313567)",
+   "url": "https://www.wikidata.org/wiki/Q111313567",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q111313567"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

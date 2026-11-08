@@ -1,0 +1,41 @@
+{
+ "id": "k10",
+ "name": "K10",
+ "aka": [
+  "K-10 robot"
+ ],
+ "section": "rovers",
+ "kind": "prototype planetary rover",
+ "maker": "Intelligent Robotics Group",
+ "country": "United States",
+ "year": "",
+ "status": "prototype",
+ "def": "Family of prototype planetary rovers from NASA's Intelligent Robotics Group, with third generation units using four wheel drive and all wheel steering.",
+ "body": [],
+ "facts": [
+  "Third generation units have a passive averaging suspension to reduce jolting on uneven ground",
+  "Mounting points front, back and bottom take antennas, sensors and instruments",
+  "Its controller runs on a Linux laptop linked by 802.11g or Tropos mesh wireless"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, K-10 robot",
+   "url": "https://en.wikipedia.org/wiki/K-10_robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, K-10 (Q6322501)",
+   "url": "https://www.wikidata.org/wiki/Q6322501",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6322501"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

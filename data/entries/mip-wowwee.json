@@ -1,0 +1,28 @@
+{
+ "id": "mip-wowwee",
+ "name": "MiP",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "toy robot",
+ "maker": "WowWee",
+ "country": "Canada",
+ "year": "2014",
+ "status": "discontinued",
+ "def": "Self balancing toy robot that rides on two wheels, carries a small tray and responds to hand gestures.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "WowWee website",
+   "url": "https://wowwee.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

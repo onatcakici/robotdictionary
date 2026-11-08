@@ -1,0 +1,46 @@
+{
+ "id": "tipu-s-tiger",
+ "name": "Tipu's Tiger",
+ "aka": [
+  "Tippoo's Tiger"
+ ],
+ "section": "other",
+ "kind": "automaton",
+ "maker": "",
+ "country": "India",
+ "year": "1790",
+ "status": "",
+ "def": "Eighteenth century wooden automaton made for Tipu Sultan of Mysore, depicting a tiger attacking a British man, with a pipe organ inside its body.",
+ "body": [],
+ "facts": [
+  "Internal mechanisms move one of the man's hands and make him wail while the tiger grunts",
+  "A side flap drops open to expose the keyboard of an 18 note organ",
+  "Measures 61 cm wide"
+ ],
+ "specs": [
+  [
+   "Width",
+   "61 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Tipu's Tiger",
+   "url": "https://en.wikipedia.org/wiki/Tipu's_Tiger",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Tipu's Tiger (Q1320874)",
+   "url": "https://www.wikidata.org/wiki/Q1320874",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1320874"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

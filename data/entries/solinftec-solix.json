@@ -1,0 +1,51 @@
+{
+ "id": "solinftec-solix",
+ "name": "Solix",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Solinftec",
+ "country": "Brazil",
+ "year": "2022",
+ "status": "production",
+ "def": "Solar powered four wheeled scouting and spraying robot that inspects individual plants and applies herbicide only where weeds are found in row crops.",
+ "body": [
+  "Solix is a light four wheeled electric robot topped with solar panels, designed to work day and night in soybean, cotton, sugarcane and cereal fields. Cameras and onboard processing identify weeds, insects and disease at plant level, feeding the company's farm decision platform. A sprayer variant treats only the plants it flags, cutting chemical volumes sharply, and a self refilling workflow keeps it running without a crew. Machines operate in Brazil and in the United States Midwest."
+ ],
+ "facts": [
+  "Developed in Brazil and field tested with United States land grant universities including Purdue",
+  "The Solix Sprayer variant reached commercial availability",
+  "Designed to run around the clock on solar charge with self refilling spray logistics"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheeled lightweight electric drive with a boom mounted sensing and spray head"
+  ],
+  [
+   "Power",
+   "Onboard solar panels charging a battery pack"
+  ],
+  [
+   "Sensors",
+   "Cameras with edge processing for plant level weed, pest and disease detection"
+  ],
+  [
+   "Autonomy",
+   "Autonomous field scouting and targeted spraying coordinated by the company's ALICE decision platform"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Solinftec website",
+   "url": "https://www.solinftec.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

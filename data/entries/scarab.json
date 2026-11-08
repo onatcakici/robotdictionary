@@ -1,0 +1,62 @@
+{
+ "id": "scarab",
+ "name": "Scarab",
+ "aka": [],
+ "section": "rovers",
+ "kind": "lunar prospecting testbed rover",
+ "maker": "Carnegie Mellon University",
+ "country": "United States",
+ "year": "2008",
+ "status": "research",
+ "def": "Lunar prospecting testbed rover with a body that kneels to press a drill into the ground, tested on Hawaiian volcanic soil.",
+ "body": [
+  "Scarab was designed to prospect for water ice in permanently shadowed polar craters, so it runs on modest power and can drive in complete darkness using a laser scanner rather than cameras. Its four wheel chassis can kneel and change its footprint, using the whole vehicle mass to give the drill the reaction force needed to cut a metre into regolith. It was field tested on the slopes of Mauna Kea in Hawaii carrying NASA's RESOLVE volatiles prospecting payload, drilling and heating soil to detect water."
+ ],
+ "facts": [
+  "Kneels so its own weight provides drilling reaction force",
+  "Drilled with NASA's RESOLVE payload during Mauna Kea field tests"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheel drive on a body that kneels and changes its footprint"
+  ],
+  [
+   "Power",
+   "Battery electric drive designed for very low power operation"
+  ],
+  [
+   "Sensors",
+   "Laser scanner for driving in darkness, drill and volatiles payload"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated with autonomous navigation in darkness"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Carnegie Mellon University website",
+   "url": "https://www.cmu.edu",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Scarab (rover)",
+   "url": "https://en.wikipedia.org/wiki/Scarab_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Scarab (Q722852)",
+   "url": "https://www.wikidata.org/wiki/Q722852",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q722852"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

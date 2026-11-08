@@ -1,0 +1,54 @@
+{
+ "id": "kenshiro",
+ "name": "Kenshiro",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "University of Tokyo JSK Laboratory",
+ "country": "Japan",
+ "year": "2012",
+ "status": "research",
+ "def": "Musculoskeletal humanoid scaled to an average Japanese schoolboy and driven by about 160 tendon actuators arranged like human muscles.",
+ "body": [
+  "Kenshiro is 158 cm tall and weighs 50 kg, with proportions taken from the statistical average of a twelve year old Japanese boy. Instead of simple rotary joints it uses roughly 160 artificial muscles built from motors, tendons and pulleys, including 25 per leg, 76 in the torso and 22 in the neck, pulling on a rib cage and spine shaped like human bones. The JSK laboratory uses it to study how muscle redundancy, spinal flexibility and joint structure shape human movement."
+ ],
+ "facts": [
+  "Roughly 160 tendon actuators standing in for human muscles",
+  "Anatomy modelled on an average twelve year old boy"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.58 m"
+  ],
+  [
+   "Mass",
+   "50 kg"
+  ],
+  [
+   "Actuation",
+   "About 160 tendon driven artificial muscles with electric motors"
+  ],
+  [
+   "Sensors",
+   "Muscle tension sensing, joint angle sensing, inertial unit"
+  ],
+  [
+   "Autonomy",
+   "Laboratory research control, not autonomous"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "University of Tokyo JSK Laboratory website",
+   "url": "https://www.jsk.t.u-tokyo.ac.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

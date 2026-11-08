@@ -1,0 +1,28 @@
+{
+ "id": "roomba-j7",
+ "name": "Roomba j7",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "iRobot",
+ "country": "United States",
+ "year": "2021",
+ "status": "production",
+ "def": "Roomba model with a front camera that recognises cords, socks and pet waste and steers around them.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

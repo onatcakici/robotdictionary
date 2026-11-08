@@ -1,0 +1,31 @@
+{
+ "id": "botvac",
+ "name": "Botvac D7",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Neato Robotics",
+ "country": "United States",
+ "year": "2018",
+ "status": "discontinued",
+ "def": "The laser mapping vacuum pioneer whose maker closed in 2023.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "braava",
+  "buddy"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Botvac D7",
+   "url": "https://en.wikipedia.org/w/index.php?search=Botvac+D7+Neato+Robotics",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

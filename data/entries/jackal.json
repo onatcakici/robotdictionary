@@ -1,0 +1,31 @@
+{
+ "id": "jackal",
+ "name": "Jackal",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "weatherproof compact research rover",
+ "maker": "Clearpath Robotics",
+ "country": "Canada",
+ "year": "2015",
+ "status": "production",
+ "def": "A weatherproof compact research rover for field robotics.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "husky",
+  "dingo"
+ ],
+ "refs": [
+  {
+   "label": "Clearpath Robotics website",
+   "url": "https://clearpathrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

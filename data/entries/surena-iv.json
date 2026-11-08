@@ -1,0 +1,83 @@
+{
+ "id": "surena-iv",
+ "name": "Surena IV",
+ "aka": [
+  "Sorena IV"
+ ],
+ "section": "humanoids",
+ "kind": "full size humanoid",
+ "maker": "University of Tehran, Center of Advanced Systems and Technologies",
+ "country": "Iran",
+ "year": "2019",
+ "status": "research",
+ "def": "Iranian full size humanoid with 43 degrees of freedom built to a low cost design that replaces force sensors with predictive foot contact sensing.",
+ "body": [
+  "Surena IV stands 170 cm tall and weighs 68 kg, with seven degree of freedom arms, six degree of freedom hands, six degree of freedom legs, a two joint waist and a three joint neck driven by brushless motors through harmonic drives. Instead of costly six axis foot sensors it uses encoders at the foot corners to predict ground contact about 1.5 cm before touchdown, which lets it walk over unknown ground with small steps and slopes. The University of Tehran team unveiled it in December 2019 and has demonstrated grasping objects of varying stiffness, visual object tracking, writing and using a drill."
+ ],
+ "facts": [
+  "Fourth generation of the Iranian Surena programme, which began in 2008",
+  "Uses low cost predictive foot sensors in place of six axis force sensors",
+  "The IEEE included it among the world's notable robots after assessing its performance"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.7 m"
+  ],
+  [
+   "Mass",
+   "68 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "43"
+  ],
+  [
+   "Actuation",
+   "Brushless direct current motors with harmonic drive gears"
+  ],
+  [
+   "Sensors",
+   "Predictive foot contact encoders, cameras, inertial unit"
+  ],
+  [
+   "Autonomy",
+   "Onboard walking control with vision based manipulation"
+  ]
+ ],
+ "see": [
+  "t-hr3",
+  "booster-t1"
+ ],
+ "refs": [
+  {
+   "label": "University of Tehran, Center of Advanced Systems and Technologies website",
+   "url": "https://www.ut.ac.ir",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Surena (robot)",
+   "url": "https://en.wikipedia.org/wiki/Surena_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Surena (Q583549)",
+   "url": "https://www.wikidata.org/wiki/Q583549",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Tehran website",
+   "url": "https://ut.ac.ir",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q583549"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "surena"
+ ]
+}

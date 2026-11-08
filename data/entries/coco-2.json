@@ -1,0 +1,51 @@
+{
+ "id": "coco-2",
+ "name": "Coco 2",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "urban delivery robot",
+ "maker": "Coco Robotics",
+ "country": "United States",
+ "year": "2026",
+ "status": "service",
+ "def": "Second generation urban delivery robot that runs on sidewalks, bike lanes and roads, carrying restaurant and grocery orders with onboard autonomy and remote oversight.",
+ "body": [
+  "Coco 2 is a four wheeled cargo robot sized for dense city streets, replacing a first generation fleet that leaned heavily on human teleoperation. It runs an onboard autonomy stack on NVIDIA Jetson compute trained on urban driving data, with human oversight retained for difficult situations. The company operates it as a service for merchants rather than selling hardware. Fleets work cities in the United States and Europe, including Los Angeles, Chicago, Miami and Washington."
+ ],
+ "facts": [
+  "Coco has completed more than 500,000 zero emission deliveries across the United States and Europe",
+  "Serves more than 3,000 merchants through Uber Eats, DoorDash and Wolt",
+  "Launched in Washington, District of Columbia, in July 2026"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheeled electric drive with an enclosed cargo compartment"
+  ],
+  [
+   "Power",
+   "Battery electric, with about three times the daily uptime of the previous generation"
+  ],
+  [
+   "Sensors",
+   "Camera suite with an NVIDIA Jetson Orin NX compute module"
+  ],
+  [
+   "Autonomy",
+   "Onboard autonomous driving with remote human oversight; the earlier generation was primarily teleoperated"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Coco Robotics website",
+   "url": "https://www.cocodelivery.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

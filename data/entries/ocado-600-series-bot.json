@@ -1,0 +1,28 @@
+{
+ "id": "ocado-600-series-bot",
+ "name": "Ocado 600 Series Bot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "grid robot",
+ "maker": "Ocado Technology",
+ "country": "United Kingdom",
+ "year": "2022",
+ "status": "production",
+ "def": "Grid running grocery picking robot from Ocado, much lighter than its predecessors and built partly from 3D printed parts.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Ocado Group website",
+   "url": "https://www.ocadogroup.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

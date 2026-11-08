@@ -1,0 +1,28 @@
+{
+ "id": "kuka-kr-agilus",
+ "name": "KR AGILUS",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot arm",
+ "maker": "KUKA",
+ "country": "Germany",
+ "year": "",
+ "status": "production",
+ "def": "Family of small, fast six axis arms from KUKA used in electronics and packaging lines.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "KUKA website",
+   "url": "https://www.kuka.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

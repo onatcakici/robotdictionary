@@ -1,0 +1,31 @@
+{
+ "id": "loomo",
+ "name": "Loomo",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Segway Robotics",
+ "country": "China",
+ "year": "2018",
+ "status": "discontinued",
+ "def": "A hoverboard that transforms into a following robot companion.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "loona",
+  "lovot"
+ ],
+ "refs": [
+  {
+   "label": "Segway Robotics website",
+   "url": "https://www.segway.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

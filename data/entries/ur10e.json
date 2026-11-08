@@ -1,0 +1,33 @@
+{
+ "id": "ur10e",
+ "name": "UR10e",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Universal Robots",
+ "country": "Denmark",
+ "year": "2018",
+ "status": "production",
+ "def": "Long reach e-Series arm from Universal Robots used for palletising, packaging and machine tending.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Reach",
+   "1300 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Universal Robots website",
+   "url": "https://www.universal-robots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

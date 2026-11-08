@@ -1,0 +1,74 @@
+{
+ "id": "otto-1500",
+ "name": "OTTO 1500",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "OTTO Motors",
+ "country": "Canada",
+ "year": "2015",
+ "status": "production",
+ "def": "Heavy duty self driving vehicle for factories that moves pallets and large assemblies weighing up to 1,900 kg without floor guidance.",
+ "body": [
+  "The OTTO 1500 is a flat deck industrial mobile robot the size of a small pallet truck, able to turn in place under load. Safety lidar, four depth cameras and an inertial unit feed SLAM navigation and traffic control by a fleet manager, so it shares aisles with forklifts and staff. Typical work is moving raw material, work in progress and finished pallets between production cells and warehouses. OTTO Motors grew out of Clearpath Robotics in Kitchener, Ontario and became part of Rockwell Automation in 2023."
+ ],
+ "facts": [
+  "Grew out of Clearpath Robotics and was acquired by Rockwell Automation in 2023",
+  "Heavy class OTTO robots passed one million production hours",
+  "Turns in place with a maximum turning speed of 1.5 rad per second"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.351 m"
+  ],
+  [
+   "Length",
+   "1.837 m"
+  ],
+  [
+   "Mass",
+   "627 kg"
+  ],
+  [
+   "Payload",
+   "1900 kg"
+  ],
+  [
+   "Top speed",
+   "2 m/s (7.2 km/h)"
+  ],
+  [
+   "Runtime",
+   "10 h"
+  ],
+  [
+   "Power",
+   "80 Ah battery with autonomous charging"
+  ],
+  [
+   "Sensors",
+   "Safety lidar, four depth cameras and a six axis inertial unit"
+  ],
+  [
+   "Autonomy",
+   "Lidar SLAM with fleet manager traffic control and no floor infrastructure"
+  ]
+ ],
+ "see": [
+  "ottobot",
+  "naio-oz"
+ ],
+ "refs": [
+  {
+   "label": "OTTO Motors website",
+   "url": "https://ottomotors.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

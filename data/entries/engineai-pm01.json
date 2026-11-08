@@ -1,0 +1,68 @@
+{
+ "id": "engineai-pm01",
+ "name": "PM01",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "agile mid size humanoid",
+ "maker": "EngineAI",
+ "country": "China",
+ "year": "2024",
+ "status": "production",
+ "def": "Agile mid size humanoid sold for commercial and educational use from about 12,000 dollars, first shown performing an unassisted front flip.",
+ "body": [
+  "PM01 is 1.38 metres tall, weighs about 40 kilograms and has 24 degrees of freedom, including a waist that rotates 320 degrees to allow unusual full body motions. It moves at up to 2 metres per second and runs on x86 compute paired with NVIDIA Jetson Orin modules, with cross platform algorithm deployment for buyers porting their own controllers. EngineAI released video of the robot completing a front flip, a manoeuvre no comparable humanoid had publicly shown, and it has since appeared in Chinese televised demonstrations. It was released in late December 2024 at 88,000 yuan, roughly 12,000 dollars, for commercial and educational customers."
+ ],
+ "facts": [
+  "First humanoid publicly shown completing an unassisted front flip",
+  "Released in December 2024 at 88,000 yuan, about 12,000 dollars",
+  "Waist rotates 320 degrees, enabling motions most humanoids cannot perform"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.38 m"
+  ],
+  [
+   "Mass",
+   "40 kg"
+  ],
+  [
+   "Top speed",
+   "2 m/s (7.2 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "24"
+  ],
+  [
+   "Actuation",
+   "Electric joint modules with a 320-degree rotating waist"
+  ],
+  [
+   "Sensors",
+   "Depth cameras and IMU with joint encoders"
+  ],
+  [
+   "Autonomy",
+   "X86 and NVIDIA Jetson Orin compute supporting cross platform controller deployment"
+  ]
+ ],
+ "see": [
+  "se01",
+  "poppy"
+ ],
+ "refs": [
+  {
+   "label": "EngineAI website",
+   "url": "https://www.engineai.com.cn",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "pm01"
+ ]
+}

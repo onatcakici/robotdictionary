@@ -1,0 +1,33 @@
+{
+ "id": "kinova-gen3",
+ "name": "Gen3",
+ "aka": [],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "Kinova",
+ "country": "Canada",
+ "year": "",
+ "status": "production",
+ "def": "Ultralight seven axis arm from Kinova used in research labs and on mobile robots.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Axes",
+   "7"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Kinova website",
+   "url": "https://www.kinovarobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

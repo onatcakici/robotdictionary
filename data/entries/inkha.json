@@ -1,0 +1,37 @@
+{
+ "id": "inkha",
+ "name": "Inkha",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "robot head",
+ "maker": "King's College London",
+ "country": "",
+ "year": "2002",
+ "status": "",
+ "def": "Interactive robot head that Mat Walker and Peter S. Longyear built at King's College London in 2002.",
+ "body": [],
+ "facts": [
+  "Created in 2002 at King's College London"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Inkha",
+   "url": "https://en.wikipedia.org/wiki/Inkha",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Inkha (Q6034601)",
+   "url": "https://www.wikidata.org/wiki/Q6034601",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6034601"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

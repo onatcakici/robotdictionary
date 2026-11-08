@@ -1,0 +1,28 @@
+{
+ "id": "samsung-jet-bot-ai-plus",
+ "name": "Jet Bot AI+",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "Samsung",
+ "country": "South Korea",
+ "year": "2021",
+ "status": "production",
+ "def": "Robot vacuum from Samsung that combines lidar with a 3D sensor and object recognition to avoid small obstacles.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Samsung website",
+   "url": "https://www.samsung.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

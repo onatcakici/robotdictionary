@@ -1,0 +1,48 @@
+{
+ "id": "rewalk",
+ "name": "ReWalk",
+ "aka": [],
+ "section": "medical",
+ "kind": "powered exoskeleton",
+ "maker": "ReWalk Robotics",
+ "country": "Israel",
+ "year": "2011",
+ "status": "production",
+ "def": "Commercial powered exoskeleton that lets people with paraplegia stand, walk and climb stairs, designed in Yokneam, Israel, by Amit Goffer.",
+ "body": [],
+ "facts": [
+  "Runs on a backpack battery and is controlled by a wrist worn remote",
+  "Marketed by Lifeward Ltd. at about US$85,000 per unit"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://rewalk.com/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, ReWalk",
+   "url": "https://en.wikipedia.org/wiki/ReWalk",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ReWalk (Q7300035)",
+   "url": "https://www.wikidata.org/wiki/Q7300035",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, rewalk.com",
+   "url": "https://rewalk.com/about-us/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7300035"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

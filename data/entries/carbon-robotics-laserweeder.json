@@ -1,0 +1,61 @@
+{
+ "id": "carbon-robotics-laserweeder",
+ "name": "LaserWeeder",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Carbon Robotics",
+ "country": "United States",
+ "year": "2021",
+ "status": "production",
+ "def": "Wide implement pulled behind a tractor that identifies weeds with cameras and kills them with high power lasers instead of chemicals or blades.",
+ "body": [
+  "The LaserWeeder is a wheeled gantry implement carrying rows of cameras and laser modules under a shroud. Deep learning models classify every plant in view as crop or weed, then steer laser beams onto the weed growing points, killing them without disturbing soil or applying herbicide. A tractor pulls and powers the unit while an operator monitors from the cab, and Carbon Robotics also sells an autonomy kit so the tractor can drive itself. It works vegetable and specialty crop fields.",
+  "Carbon Robotics' LaserWeeder kills weeds with light instead of chemicals, thirty CO2 lasers zapping two hundred thousand plants an hour behind a tractor, farming's most literal death ray."
+ ],
+ "facts": [
+  "The G2 line uses 240 watt lasers and spans working widths from about 6.6 feet to 60 feet",
+  "G2 units range from roughly 4,250 pounds for the narrowest model to 14,000 pounds for the widest",
+  "Used on commercial vegetable and specialty crop farms in the United States and Europe"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Wheeled towed gantry with laser modules mounted over the crop bed"
+  ],
+  [
+   "Sensors",
+   "Camera arrays with onboard deep learning crop and weed classification"
+  ],
+  [
+   "Autonomy",
+   "Automatic weed identification and laser targeting while towed; an optional autonomy kit drives the tractor"
+  ],
+  [
+   "Rate",
+   "approx. 200,000 weeds/hr"
+  ],
+  [
+   "Lasers",
+   "30 × CO2"
+  ]
+ ],
+ "see": [
+  "loomo",
+  "loona"
+ ],
+ "refs": [
+  {
+   "label": "Carbon Robotics website",
+   "url": "https://carbonrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "laserweeder"
+ ]
+}

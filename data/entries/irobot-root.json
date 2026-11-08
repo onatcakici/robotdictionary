@@ -1,0 +1,28 @@
+{
+ "id": "irobot-root",
+ "name": "Root",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "educational robot",
+ "maker": "iRobot",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Coding robot that drives on whiteboards, drawing and erasing as it runs a program, developed at Harvard's Wyss Institute and later sold by iRobot.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "iRobot Education website",
+   "url": "https://edu.irobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

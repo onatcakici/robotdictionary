@@ -1,0 +1,31 @@
+{
+ "id": "scitos",
+ "name": "SCITOS G5",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "MetraLabs",
+ "country": "Germany",
+ "year": "2007",
+ "status": "production",
+ "def": "A German service robot base that has guided museum visitors for years.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "amazon-scout",
+  "gausium-scrubber-50"
+ ],
+ "refs": [
+  {
+   "label": "MetraLabs website",
+   "url": "https://www.metralabs.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

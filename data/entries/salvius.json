@@ -1,0 +1,43 @@
+{
+ "id": "salvius",
+ "name": "Salvius",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "open source humanoid",
+ "maker": "",
+ "country": "United States",
+ "year": "2008",
+ "status": "",
+ "def": "Open source humanoid made in the United States, favouring salvaged and recycled parts to cut costs, with the goal of working in an ordinary home.",
+ "body": [],
+ "facts": [
+  "Built in 2008 and described as the first open source humanoid robot",
+  "Name derives from the word salvaged"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://salvius.org/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Salvius (robot)",
+   "url": "https://en.wikipedia.org/wiki/Salvius_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Salvius (Q17073046)",
+   "url": "https://www.wikidata.org/wiki/Q17073046",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17073046"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

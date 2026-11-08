@@ -1,0 +1,43 @@
+{
+ "id": "guroo",
+ "name": "GuRoo",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "autonomous humanoid research robot",
+ "maker": "University of Queensland",
+ "country": "Australia",
+ "year": "2001",
+ "status": "research",
+ "def": "Autonomous humanoid research robot built at the University of Queensland's Mobile Robotics Laboratory to study balance, interaction with people and machine learning.",
+ "body": [],
+ "facts": [
+  "Takes part in RoboCup, the yearly robot soccer competition",
+  "Designed to be as close to human form as possible"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, GuRoo",
+   "url": "https://en.wikipedia.org/wiki/GuRoo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, GuRoo (Q4177574)",
+   "url": "https://www.wikidata.org/wiki/Q4177574",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Queensland website",
+   "url": "https://www.uq.edu.au",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4177574"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

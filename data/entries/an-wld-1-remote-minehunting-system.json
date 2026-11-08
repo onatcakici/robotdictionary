@@ -1,0 +1,40 @@
+{
+ "id": "an-wld-1-remote-minehunting-system",
+ "name": "AN/WLD-1 Remote Minehunting System",
+ "aka": [
+  "AN/WLD-1(V) RMS"
+ ],
+ "section": "marine",
+ "kind": "unmanned semisubmersible vehicle",
+ "maker": "Lockheed Martin",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Remote controlled mine hunting system from Lockheed Martin in which an unmanned semisubmersible vehicle tows a sonar array under the direction of a surface warship.",
+ "body": [],
+ "facts": [
+  "Uses the US Navy's Snorkeler class unmanned surface vehicle",
+  "Control equipment is carried aboard the parent ship"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, AN/WLD-1 Remote Minehunting System",
+   "url": "https://en.wikipedia.org/wiki/AN/WLD-1_Remote_Minehunting_System",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, AN/WLD-1 RMS Remote Minehunting System (Q4652894)",
+   "url": "https://www.wikidata.org/wiki/Q4652894",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4652894"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

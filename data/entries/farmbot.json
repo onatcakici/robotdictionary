@@ -1,0 +1,28 @@
+{
+ "id": "farmbot",
+ "name": "FarmBot",
+ "aka": [],
+ "section": "arms",
+ "kind": "gantry farming robot",
+ "maker": "FarmBot",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Open source gantry robot that plants, waters and weeds a raised garden bed, sold as a kit.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "FarmBot website",
+   "url": "https://farm.bot",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

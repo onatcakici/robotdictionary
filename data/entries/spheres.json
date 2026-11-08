@@ -1,0 +1,78 @@
+{
+ "id": "spheres",
+ "name": "SPHERES",
+ "aka": [
+  "Synchronized Position Hold Engage and Reorient Experimental Satellite"
+ ],
+ "section": "other",
+ "kind": "free flying robot",
+ "maker": "Payload Systems, Inc.",
+ "country": "United States",
+ "year": "1999",
+ "status": "",
+ "def": "Set of free flying robots developed by MIT's Space Systems Laboratory for NASA and the US military to test formation flight, docking and autonomy algorithms aboard the International Space Station.",
+ "body": [],
+ "facts": [
+  "Each unit measures 22.9 by 21.3 by 21.3 cm, with a mass of 3.55 kg",
+  "Used as a low risk, expandable test bed for distributed spacecraft technology",
+  "Name stands for Synchronized Position Hold Engage and Reorient Experimental Satellite"
+ ],
+ "specs": [
+  [
+   "Height",
+   "21.3 cm"
+  ],
+  [
+   "Mass",
+   "3.55 kg"
+  ],
+  [
+   "Length",
+   "22.9 cm"
+  ],
+  [
+   "Width",
+   "21.3 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.nasa.gov/spheres",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, SPHERES",
+   "url": "https://en.wikipedia.org/wiki/SPHERES",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, SPHERES (Q7392545)",
+   "url": "https://www.wikidata.org/wiki/Q7392545",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, nasa.gov",
+   "url": "https://www.nasa.gov/spheres/home",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, spaceref.com",
+   "url": "http://www.spaceref.com/news/viewpr.html?pid=11898",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, directory.eoportal.org",
+   "url": "https://directory.eoportal.org/web/eoportal/satellite-missions/i/iss-spheres",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7392545"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

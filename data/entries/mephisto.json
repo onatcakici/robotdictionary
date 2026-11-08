@@ -1,0 +1,38 @@
+{
+ "id": "mephisto",
+ "name": "Mephisto",
+ "aka": [],
+ "section": "other",
+ "kind": "automaton",
+ "maker": "",
+ "country": "United Kingdom",
+ "year": "1876",
+ "status": "",
+ "def": "Chess playing machine passed off as an automaton, built in London by Charles Godfrey Gumpel, an Alsatian maker of artificial limbs, and first exhibited in 1878.",
+ "body": [],
+ "facts": [
+  "Took six or seven years to build",
+  "Its first showing took place at Gumpel's Leicester Square home"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Mephisto (automaton)",
+   "url": "https://en.wikipedia.org/wiki/Mephisto_(automaton)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Mephisto (Q2916210)",
+   "url": "https://www.wikidata.org/wiki/Q2916210",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2916210"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

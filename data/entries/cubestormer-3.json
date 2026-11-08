@@ -1,0 +1,39 @@
+{
+ "id": "cubestormer-3",
+ "name": "CubeStormer 3",
+ "aka": [],
+ "section": "other",
+ "kind": "puzzle solving robot",
+ "maker": "",
+ "country": "",
+ "year": "2014",
+ "status": "",
+ "def": "Rubik's Cube solving robot made from Lego Mindstorms and a Samsung Galaxy S4 that set a world record of 3.253 seconds in March 2014.",
+ "body": [],
+ "facts": [
+  "Solved a Rubik's Cube in 3.253 seconds on 15 March 2014 in Birmingham",
+  "Beat the previous record of 5.270 seconds, held by CubeStormer II",
+  "Built over 18 months by David Gilday and Mike Dobson"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Cubestormer 3",
+   "url": "https://en.wikipedia.org/wiki/Cubestormer_3",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Cubestormer 3 (Q16959316)",
+   "url": "https://www.wikidata.org/wiki/Q16959316",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q16959316"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

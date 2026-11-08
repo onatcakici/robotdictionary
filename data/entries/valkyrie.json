@@ -1,0 +1,96 @@
+{
+ "id": "valkyrie",
+ "name": "Valkyrie",
+ "aka": [
+  "R5"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "NASA Johnson Space Center",
+ "country": "United States",
+ "year": "2013",
+ "status": "research",
+ "def": "NASA's first walking humanoid, built in about fifteen months for the 2013 DARPA Robotics Challenge and later loaned to university laboratories.",
+ "body": [
+  "Valkyrie stands about 1.88 m tall with 44 degrees of freedom driven by series elastic rotary and linear actuators, giving the joints mechanical compliance and force control. Sensing centres on a rotating laser and stereo camera head, with hazard cameras in the torso and inertial units in the pelvis, and a custom dual voltage battery runs the robot for roughly an hour. After the DARPA trials NASA placed units with MIT, Northeastern University, the University of Edinburgh and the University of Texas at Austin, and has since used the platform to study robots working ahead of astronauts.",
+  "NASA built Valkyrie for the DARPA Robotics Challenge and later stationed units at universities on three continents. Its final campaign tested remote humanoid labour on a Woodside offshore energy platform in Australia."
+ ],
+ "facts": [
+  "Designed and built in about fifteen months for the 2013 DARPA Robotics Challenge",
+  "Units loaned to MIT, Edinburgh, Northeastern and UT Austin"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.88 m"
+  ],
+  [
+   "Degrees of freedom",
+   "44"
+  ],
+  [
+   "Runtime",
+   "1 h"
+  ],
+  [
+   "Actuation",
+   "Series elastic rotary and linear actuators"
+  ],
+  [
+   "Power",
+   "Custom dual voltage battery"
+  ],
+  [
+   "Sensors",
+   "Rotating lidar and stereo head, torso hazard cameras, pelvis inertial units"
+  ],
+  [
+   "Mass",
+   "approx. 136 kg"
+  ],
+  [
+   "Programme",
+   "DRC 2013; Woodside trial 2023"
+  ]
+ ],
+ "see": [
+  "relay",
+  "rev-1"
+ ],
+ "refs": [
+  {
+   "label": "NASA Johnson Space Center website",
+   "url": "https://www.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Valkyrie (robot)",
+   "url": "https://en.wikipedia.org/wiki/Valkyrie_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Valkyrie (Q16693926)",
+   "url": "https://www.wikidata.org/wiki/Q16693926",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, nasa.gov",
+   "url": "https://www.nasa.gov/sites/default/files/atoms/files/r5_fact_sheet.pdf",
+   "kind": "cited"
+  },
+  {
+   "label": "Lyndon B. Johnson Space Center website",
+   "url": "http://www.nasa.gov/centers/johnson/home/index.html",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q16693926"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "autostore-r5"
+ ]
+}

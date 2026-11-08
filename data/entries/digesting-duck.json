@@ -1,0 +1,41 @@
+{
+ "id": "digesting-duck",
+ "name": "Digesting Duck",
+ "aka": [
+  "Canard Digérateur",
+  "Vaucanson's duck"
+ ],
+ "section": "other",
+ "kind": "automaton",
+ "maker": "Jacques de Vaucanson",
+ "country": "France",
+ "year": "",
+ "status": "",
+ "def": "Mechanical duck built by Jacques de Vaucanson that seemed to eat grain and excrete it, although the droppings were stored in advance and nothing was actually digested.",
+ "body": [],
+ "facts": [
+  "Grain went into one hidden container while prepared droppings came from another",
+  "Vaucanson hoped a genuinely digesting machine might be built someday"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Digesting Duck",
+   "url": "https://en.wikipedia.org/wiki/Digesting_Duck",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Digesting Duck (Q2936154)",
+   "url": "https://www.wikidata.org/wiki/Q2936154",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2936154"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

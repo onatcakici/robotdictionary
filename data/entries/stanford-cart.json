@@ -1,0 +1,31 @@
+{
+ "id": "stanford-cart",
+ "name": "Stanford Cart",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "camera cart",
+ "maker": "Stanford University",
+ "country": "United States",
+ "year": "1979",
+ "status": "retired",
+ "def": "A camera cart that crossed a chair filled room in five hours, founding visual navigation.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "stanford-doggo",
+  "stanford-pupper"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Stanford Cart",
+   "url": "https://en.wikipedia.org/w/index.php?search=Stanford+Cart+Stanford+University",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

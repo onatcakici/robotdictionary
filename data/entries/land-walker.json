@@ -1,0 +1,37 @@
+{
+ "id": "land-walker",
+ "name": "Land Walker",
+ "aka": [],
+ "section": "other",
+ "kind": "bipedal vehicle",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Bipedal vehicle 3.4 m tall, invented by Masaaki Nagumo, that moves at about 1.5 km/h on wheels concealed under its feet rather than truly walking.",
+ "body": [],
+ "facts": [
+  "Its creators hope similar machines might later serve in military and law enforcement roles"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Land Walker",
+   "url": "https://en.wikipedia.org/wiki/Land_Walker",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Land Walker (Q6484010)",
+   "url": "https://www.wikidata.org/wiki/Q6484010",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6484010"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,44 @@
+{
+ "id": "meister",
+ "name": "MEISTeR",
+ "aka": [
+  "Maintenance Equipment Integrated System of Telecontrol Robot"
+ ],
+ "section": "wheeled",
+ "kind": "maintenance robot",
+ "maker": "Mitsubishi Heavy Industries",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Remotely controlled maintenance robot from Mitsubishi Heavy Industries, built for work inside the damaged Fukushima Daiichi Nuclear Power Plant.",
+ "body": [],
+ "facts": [
+  "Name stands for Maintenance Equipment Integrated System of Telecontrol Robot"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, MEISTeR",
+   "url": "https://en.wikipedia.org/wiki/MEISTeR",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, MEISTeR (Q132186308)",
+   "url": "https://www.wikidata.org/wiki/Q132186308",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Mitsubishi Heavy Industries website",
+   "url": "https://www.mhi.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q132186308"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

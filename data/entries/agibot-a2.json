@@ -1,0 +1,68 @@
+{
+ "id": "agibot-a2",
+ "name": "AgiBot A2",
+ "aka": [
+  "Yuanzheng A2"
+ ],
+ "section": "humanoids",
+ "kind": "interactive service humanoid",
+ "maker": "AgiBot",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "Interactive service humanoid from a Shanghai company, holder of the Guinness record for the longest continuous walk by a humanoid robot.",
+ "body": [
+  "A2 is AgiBot's full size biped for interactive service and light industrial roles, sold alongside wheeled A2-W and lower cost variants of the same generation. Between 10 and 13 November 2025 an A2 walked 106.286 kilometres through Shanghai, which Guinness World Records certified as the longest journey walked by a humanoid robot; AgiBot had spent months tuning it to avoid falls over hundreds of hours of continuous operation, including a 24 hour walk in temperatures approaching 40 degrees Celsius. Control uses AgiBot's own vision language action models trained on large teleoperation datasets gathered in its data collection facility. The robot is sold and leased in China for reception, exhibition and research work.",
+  "AgiBot, founded by a young ex-Huawei prodigy, scaled from prototype to thousand unit production in under two years at its Shanghai plant. The Yuanzheng A2 walked a thousand kilometres from Suzhou to Shanghai in a record setting endurance publicity march."
+ ],
+ "facts": [
+  "Guinness World Record for the longest journey walked by a humanoid robot, 106.286 kilometres in November 2025",
+  "Completed a 24 hour autonomous walk in temperatures approaching 40 degrees Celsius",
+  "Sold alongside wheeled A2-W and lower cost variants of the same generation"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "In house electric joint modules in a full size bipedal leg design"
+  ],
+  [
+   "Power",
+   "Onboard rechargeable battery with hot swap support"
+  ],
+  [
+   "Sensors",
+   "Depth cameras, lidar and microphone array for interaction"
+  ],
+  [
+   "Autonomy",
+   "AgiBot vision language action models trained on large in house teleoperation datasets"
+  ],
+  [
+   "Height",
+   "approx. 175 cm"
+  ],
+  [
+   "Payload",
+   "approx. 25 kg"
+  ]
+ ],
+ "see": [
+  "unitree-h1",
+  "unitree-h2"
+ ],
+ "refs": [
+  {
+   "label": "AgiBot website",
+   "url": "https://www.agibot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "a2-agibot",
+  "a2-unitree"
+ ]
+}

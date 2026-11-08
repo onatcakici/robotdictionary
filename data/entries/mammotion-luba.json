@@ -1,0 +1,28 @@
+{
+ "id": "mammotion-luba",
+ "name": "Luba AWD",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robotic lawn mower",
+ "maker": "Mammotion",
+ "country": "China",
+ "year": "",
+ "status": "production",
+ "def": "All wheel drive robot mower that navigates by satellite positioning instead of a boundary wire.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Mammotion website",
+   "url": "https://mammotion.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

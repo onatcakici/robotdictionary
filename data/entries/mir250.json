@@ -1,0 +1,74 @@
+{
+ "id": "mir250",
+ "name": "MiR250",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Mobile Industrial Robots",
+ "country": "Denmark",
+ "year": "2019",
+ "status": "production",
+ "def": "Low profile 250 kg autonomous mobile robot for factories and hospitals, built to slide under carts and shelves or carry custom top modules.",
+ "body": [
+  "The MiR250 is a compact differential drive platform only 300 mm tall, which lets it drive beneath trolleys, shelf frames and conveyor tops. Two safety laser scanners, two 3D cameras and eight proximity sensors feed laser SLAM navigation, so it plans routes around people without tape or magnets. Docking to a marker repeats to about 3 mm, which suits automatic load transfer stations. Fleets run in electronics plants, automotive suppliers, warehouses and hospital logistics corridors."
+ ],
+ "facts": [
+  "Docks to marker positions with roughly 3 mm repeatability",
+  "Sold with pallet lift, shelf lift and conveyor top modules",
+  "Part of the Teradyne robotics group alongside Universal Robots"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.3 m"
+  ],
+  [
+   "Length",
+   "0.8 m"
+  ],
+  [
+   "Mass",
+   "94 kg"
+  ],
+  [
+   "Payload",
+   "250 kg"
+  ],
+  [
+   "Top speed",
+   "2 m/s (7.2 km/h)"
+  ],
+  [
+   "Runtime",
+   "13 h"
+  ],
+  [
+   "Power",
+   "Lithium battery with an optional swap pack"
+  ],
+  [
+   "Sensors",
+   "Two safety laser scanners, two 3D cameras and eight proximity sensors"
+  ],
+  [
+   "Autonomy",
+   "Laser SLAM with fleet management and marker docking to about 3 mm"
+  ]
+ ],
+ "see": [
+  "misty-ii",
+  "moxi"
+ ],
+ "refs": [
+  {
+   "label": "Mobile Industrial Robots website",
+   "url": "https://mobile-industrial-robots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

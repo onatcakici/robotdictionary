@@ -1,0 +1,31 @@
+{
+ "id": "solo-8",
+ "name": "Solo 8",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Open Dynamic Robot Initiative",
+ "country": "Germany",
+ "year": "2019",
+ "status": "research",
+ "def": "A fully open hardware research quadruped reproducible on a lab budget.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "sparko",
+  "spot"
+ ],
+ "refs": [
+  {
+   "label": "Open Dynamic Robot Initiative website",
+   "url": "https://pal-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

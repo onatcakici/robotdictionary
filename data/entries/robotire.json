@@ -1,0 +1,41 @@
+{
+ "id": "robotire",
+ "name": "RoboTire",
+ "aka": [],
+ "section": "arms",
+ "kind": "tire changing robot",
+ "maker": "RoboTire",
+ "country": "United States",
+ "year": "",
+ "status": "discontinued",
+ "def": "Automated bay that removes and fits vehicle tires, aimed at fleet servicing.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, RoboTire",
+   "url": "https://www.ycombinator.com/companies/robotire",
+   "kind": "yc"
+  },
+  {
+   "label": "RoboTire website",
+   "url": "http://www.robotire.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "robotire"
+ },
+ "yc": {
+  "company": "RoboTire",
+  "batch": "Winter 2020",
+  "status": "Inactive",
+  "url": "https://www.ycombinator.com/companies/robotire"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

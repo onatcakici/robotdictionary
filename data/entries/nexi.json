@@ -1,0 +1,28 @@
+{
+ "id": "nexi",
+ "name": "Nexi",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "social robot",
+ "maker": "MIT Media Lab",
+ "country": "United States",
+ "year": "2008",
+ "status": "retired",
+ "def": "Mobile, dexterous and social robot from the MIT Media Lab Personal Robots Group, with an expressive face on a self balancing wheeled base.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "MIT Media Lab website",
+   "url": "https://www.media.mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

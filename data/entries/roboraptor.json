@@ -1,0 +1,43 @@
+{
+ "id": "roboraptor",
+ "name": "Roboraptor",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "toy robot",
+ "maker": "WowWee",
+ "country": "",
+ "year": "2004",
+ "status": "",
+ "def": "Walking toy robot sold by WowWee, invented in 2004 by Mark Tilden and Michael Bellantoni, that can roam on its own using three lifelike gaits.",
+ "body": [],
+ "facts": [
+  "Successor to the RoboSapien toy robot",
+  "Controlled by an infrared remote with several functions"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Roboraptor",
+   "url": "https://en.wikipedia.org/wiki/Roboraptor",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Roboraptor (Q3437241)",
+   "url": "https://www.wikidata.org/wiki/Q3437241",
+   "kind": "wikidata"
+  },
+  {
+   "label": "WowWee website",
+   "url": "https://wowwee.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3437241"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

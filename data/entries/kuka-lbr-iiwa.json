@@ -1,0 +1,39 @@
+{
+ "id": "kuka-lbr-iiwa",
+ "name": "LBR iiwa",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "KUKA",
+ "country": "Germany",
+ "year": "2013",
+ "status": "production",
+ "def": "Seven axis lightweight arm from KUKA with torque sensors in every joint, developed from DLR research arms.",
+ "body": [],
+ "facts": [
+  "Name stands for intelligent industrial work assistant"
+ ],
+ "specs": [
+  [
+   "Axes",
+   "7"
+  ],
+  [
+   "Payload",
+   "7 kg or 14 kg"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "KUKA website",
+   "url": "https://www.kuka.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

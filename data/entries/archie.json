@@ -1,0 +1,44 @@
+{
+ "id": "archie",
+ "name": "Archie",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "University of Manitoba",
+ "country": "Canada",
+ "year": "2004",
+ "status": "research",
+ "def": "Teen sized humanoid robot over 120 cm tall, developed from 2004 by TU Wien in Austria and the University of Manitoba in Canada.",
+ "body": [],
+ "facts": [
+  "Work began in 2004 under Professor Peter Kopacek",
+  "Balance is handled by a central controller called the Spinal system",
+  "Lower body brushless motors provide 50 Nm at the gearbox output"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Archie (robot)",
+   "url": "https://en.wikipedia.org/wiki/Archie_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Archie (Q4786603)",
+   "url": "https://www.wikidata.org/wiki/Q4786603",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Manitoba website",
+   "url": "https://umanitoba.ca/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4786603"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

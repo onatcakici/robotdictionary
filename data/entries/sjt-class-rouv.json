@@ -1,0 +1,39 @@
+{
+ "id": "sjt-class-rouv",
+ "name": "SJT class ROUV",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Shenyang Institute of Automation and Shanghai Jiao Tong University",
+ "country": "China",
+ "year": "",
+ "status": "",
+ "def": "Chinese family of remotely operated underwater vehicles created as a joint project of the Shenyang Institute of Automation and the underwater engineering institute of Shanghai Jiao Tong University.",
+ "body": [],
+ "facts": [
+  "General designer was Zhu Jimao, a Shanghai Jiao Tong University professor",
+  "Zhu Jimao also designed the earlier Type 7103 DSRV",
+  "Experience from the series fed into many later Chinese ROUVs"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, SJT-class ROUV",
+   "url": "https://en.wikipedia.org/wiki/SJT-class_ROUV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, SJT class ROUV (Q7390555)",
+   "url": "https://www.wikidata.org/wiki/Q7390555",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7390555"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,28 @@
+{
+ "id": "meccanoid",
+ "name": "Meccanoid",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "robot kit",
+ "maker": "Spin Master",
+ "country": "Canada",
+ "year": "2015",
+ "status": "discontinued",
+ "def": "Buildable humanoid robot kit from Meccano that learns movements by recording poses its owner moves it through.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Meccano website",
+   "url": "https://www.meccano.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

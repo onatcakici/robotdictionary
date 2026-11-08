@@ -1,0 +1,37 @@
+{
+ "id": "ur5e",
+ "name": "UR5e",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Universal Robots",
+ "country": "Denmark",
+ "year": "2018",
+ "status": "production",
+ "def": "Medium sized e-Series arm from Universal Robots with a built in force and torque sensor at the tool flange.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "5 kg"
+  ],
+  [
+   "Reach",
+   "850 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Universal Robots website",
+   "url": "https://www.universal-robots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

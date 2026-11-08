@@ -1,0 +1,31 @@
+{
+ "id": "robotnik-summit",
+ "name": "SUMMIT-XL",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Robotnik",
+ "country": "Spain",
+ "year": "2012",
+ "status": "production",
+ "def": "A Spanish research AMR base common in European labs and EU projects.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "swiftbot",
+  "simbe-tally"
+ ],
+ "refs": [
+  {
+   "label": "Robotnik website",
+   "url": "https://robotnik.eu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

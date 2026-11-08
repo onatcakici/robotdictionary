@@ -1,0 +1,52 @@
+{
+ "id": "bruie",
+ "name": "BRUIE",
+ "aka": [
+  "Buoyant Rover for Under Ice Exploration"
+ ],
+ "section": "rovers",
+ "kind": "buoyant two wheeled rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "",
+ "status": "research",
+ "def": "Buoyant two wheeled rover that drives upside down along the underside of ice, tested in Antarctic and Alaskan lakes.",
+ "body": [
+  "BRUIE floats up against the ice ceiling and uses two studded wheels to roll along it, so it can hold position for long periods on almost no power while cameras and sensors watch the ice water boundary. JPL has tested it through drilled holes in Alaskan lakes and off Australia's Casey Station in Antarctica, where it was driven remotely beneath sea ice. The work targets future missions to ice covered ocean worlds such as Europa and Enceladus, where a lander could not follow a rover under the ice."
+ ],
+ "facts": [
+  "Drives along the underside of ice rather than the seabed",
+  "Tested under Antarctic sea ice at Casey Station in 2019"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Two studded wheels that drive along the underside of ice"
+  ],
+  [
+   "Power",
+   "Battery with very low draw while parked against the ice"
+  ],
+  [
+   "Sensors",
+   "Cameras with lights, dissolved oxygen, salinity, pressure and temperature sensors"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated on a thin tether with long duration station keeping"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

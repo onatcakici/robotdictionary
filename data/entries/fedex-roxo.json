@@ -1,0 +1,58 @@
+{
+ "id": "fedex-roxo",
+ "name": "Roxo",
+ "aka": [
+  "FedEx SameDay Bot"
+ ],
+ "section": "wheeled",
+ "kind": "sidewalk delivery robot",
+ "maker": "FedEx",
+ "country": "United States",
+ "year": "2019",
+ "status": "retired",
+ "def": "FedEx sidewalk delivery robot built on DEKA balancing wheel technology that could climb curbs and stairs, tested in several cities and cancelled in 2022.",
+ "body": [
+  "Roxo was a tall wheeled delivery robot derived from DEKA's iBot wheelchair technology, which gave it powered wheel clusters able to balance, mount kerbs and climb steps to a front door. It navigated with cameras and lidar and was supervised by human minders during trials. FedEx pitched it for same day retail and pharmacy deliveries in suburban neighbourhoods. The company shut the programme down in October 2022 as part of a wider cost review."
+ ],
+ "facts": [
+  "Unveiled in February 2019 and developed with DEKA Development and Research, founded by Dean Kamen",
+  "Tested in Memphis, Tennessee, Plano, Texas, and Manchester, New Hampshire",
+  "FedEx shut the Roxo programme down in October 2022"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Powered wheel clusters derived from the DEKA iBot, able to balance and climb kerbs and stairs"
+  ],
+  [
+   "Power",
+   "Battery electric drive"
+  ],
+  [
+   "Sensors",
+   "Cameras and lidar"
+  ],
+  [
+   "Autonomy",
+   "Autonomous sidewalk navigation supervised by human minders during public trials"
+  ]
+ ],
+ "see": [
+  "s8",
+  "scitos"
+ ],
+ "refs": [
+  {
+   "label": "FedEx website",
+   "url": "https://www.fedex.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "roxo"
+ ]
+}

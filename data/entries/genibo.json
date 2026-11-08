@@ -1,0 +1,62 @@
+{
+ "id": "genibo",
+ "name": "Genibo",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Dasarobot",
+ "country": "South Korea",
+ "year": "2006",
+ "status": "discontinued",
+ "def": "Korean entertainment robot dog styled as a bull terrier, sold as a home pet with voice command control.",
+ "body": [
+  "Genibo walked on four servo driven legs and carried a camera, touch sensors and microphones in a glossy plastic body shaped after a bull terrier. Onboard software gave it a personality that changed with handling, and it recognised a set of spoken commands and could be taught simple tricks. Dasarobot showed a prototype in 2006 and sold the robot from 2008 at around fifteen hundred US dollars, with later versions adding English language software."
+ ],
+ "facts": [
+  "One of very few consumer walking robot pets to reach market after Sony ended AIBO",
+  "Sold internationally from 2008 at about 1,500 US dollars"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Electric servo actuators"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with charging station"
+  ],
+  [
+   "Sensors",
+   "Colour camera, touch sensors on head, back and flanks, microphones, tilt sensor"
+  ],
+  [
+   "Autonomy",
+   "Onboard personality and voice command software"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.genibo.com/eng",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Genibo",
+   "url": "https://en.wikipedia.org/wiki/Genibo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Genibo (Q3100721)",
+   "url": "https://www.wikidata.org/wiki/Q3100721",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3100721"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "sarcoman",
+ "name": "Sarcoman",
+ "aka": [],
+ "section": "other",
+ "kind": "entertainment robot",
+ "maker": "Sarcos",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Show robot from Sarcos that performs either under the live control of a human operator or from programmed computer routines in automated shows.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Sarcoman",
+   "url": "https://en.wikipedia.org/wiki/Sarcoman",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sarcoman (Q7423597)",
+   "url": "https://www.wikidata.org/wiki/Q7423597",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Sarcos website",
+   "url": "http://www.sarcos.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7423597"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

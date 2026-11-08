@@ -1,0 +1,66 @@
+{
+ "id": "talos",
+ "name": "TALOS",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "PAL Robotics",
+ "country": "Spain",
+ "year": "2017",
+ "status": "research",
+ "def": "Torque controlled full size humanoid sold by PAL Robotics as a platform for whole body control and dynamic locomotion research in industry and academia.",
+ "body": [
+  "TALOS is 175 centimetres tall, weighs 95 kilograms and has 32 degrees of freedom driven by high torque brushless DC motors, with torque sensing in every joint. That joint level torque feedback is the point of the machine: it allows compliant whole body control, so the robot can absorb pushes, take steps it was not commanded and lift six kilograms per arm. It ships with ROS support and an RGB-D head camera, and accepts additional sensors and hands through expansion modules. PAL sells it commercially to corporate and university laboratories."
+ ],
+ "facts": [
+  "Torque sensing in every joint enables compliant whole body control",
+  "Sold commercially to industrial and academic robotics laboratories",
+  "Supplied with a ROS software stack and modular sensor expansion"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.75 m"
+  ],
+  [
+   "Mass",
+   "95 kg"
+  ],
+  [
+   "Payload",
+   "6 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "32"
+  ],
+  [
+   "Actuation",
+   "32 high torque brushless DC motors with torque sensing in every joint"
+  ],
+  [
+   "Sensors",
+   "Joint torque sensors, IMU, RGB-D head camera, expandable sensor modules"
+  ],
+  [
+   "Autonomy",
+   "ROS based whole body control stack supplied with the robot"
+  ]
+ ],
+ "see": [
+  "reem-c",
+  "ari"
+ ],
+ "refs": [
+  {
+   "label": "PAL Robotics website",
+   "url": "https://pal-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

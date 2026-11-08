@@ -1,0 +1,56 @@
+{
+ "id": "coman",
+ "name": "COMAN",
+ "aka": [
+  "Compliant Humanoid"
+ ],
+ "section": "humanoids",
+ "kind": "compact humanoid",
+ "maker": "Istituto Italiano di Tecnologia",
+ "country": "Italy",
+ "year": "2012",
+ "status": "research",
+ "def": "Compact humanoid from IIT with springs in every major joint, built to study how passive compliance aids balance and efficient walking.",
+ "body": [
+  "COMAN is about 95 cm tall and weighs 31 kg, with 25 joints that each contain a series elastic element and a torque sensor, so impacts are absorbed mechanically before any controller can react. IIT built it in the European AMARSi project, replacing the rigid legs of its cCub predecessor to produce a robot with passive compliance in both arms and legs. Researchers used it for push recovery, walking on uneven ground and joint stiffness tuning studies, and its hardware informed the larger WALK-MAN humanoid."
+ ],
+ "facts": [
+  "Described as the first passive compliant robot with both arms and legs",
+  "Built within the European AMARSi research project"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.95 m"
+  ],
+  [
+   "Mass",
+   "31 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "25"
+  ],
+  [
+   "Actuation",
+   "Series elastic actuators with joint torque sensing"
+  ],
+  [
+   "Autonomy",
+   "Torque level whole body control from an external computer"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Istituto Italiano di Tecnologia website",
+   "url": "https://www.iit.it",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

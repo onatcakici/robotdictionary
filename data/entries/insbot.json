@@ -1,0 +1,43 @@
+{
+ "id": "insbot",
+ "name": "Insbot",
+ "aka": [],
+ "section": "other",
+ "kind": "robotic insect",
+ "maker": "",
+ "country": "",
+ "year": "2002",
+ "status": "research",
+ "def": "Robotic cockroach made in 2002 by researchers of the European LEURRE project to persuade real cockroaches to follow it, exploring natural pest control.",
+ "body": [],
+ "facts": [
+  "Its predecessor, Alice, struggled because of its size and poor cockroach recognition",
+  "Carries more sensors and computing power than its predecessor"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://leurre.ulb.ac.be/index2.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Insbot",
+   "url": "https://en.wikipedia.org/wiki/Insbot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Insbot (Q6037133)",
+   "url": "https://www.wikidata.org/wiki/Q6037133",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6037133"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

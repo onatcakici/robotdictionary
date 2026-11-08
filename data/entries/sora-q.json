@@ -1,0 +1,115 @@
+{
+ "id": "sora-q",
+ "name": "SORA-Q",
+ "aka": [
+  "LEV-2",
+  "Lunar Excursion Vehicle 2"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "JAXA with Tomy, Sony and Doshisha University",
+ "country": "Japan",
+ "year": "2023",
+ "status": "completed",
+ "def": "Transformable ball shaped lunar robot the size of a baseball that photographed the tipped over SLIM lander in January 2024.",
+ "body": [
+  "SORA-Q travelled to the Moon as a sphere about eight centimetres across, then split its shell into two halves that act as wheels while a tail keeps it stable. Released by the SLIM lander during its descent on 19 January 2024, it crawled on the regolith using two gaits and photographed the lander, which had come to rest nose down. Images were relayed to Earth through its companion hopper LEV-1, and the pair worked on primary battery power alone."
+ ],
+ "facts": [
+  "Among the smallest and lightest rovers ever landed on the Moon",
+  "Took the image showing SLIM resting nose down",
+  "Data relayed to Earth by the companion LEV-1 hopper"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "0.25 kg"
+  ],
+  [
+   "Actuation",
+   "Two hemispherical shell wheels with a stabilising tail and two crawling gaits"
+  ],
+  [
+   "Power",
+   "Non rechargeable onboard battery"
+  ],
+  [
+   "Sensors",
+   "Two cameras front and rear"
+  ],
+  [
+   "Autonomy",
+   "Autonomous imaging sequence after release with no live control"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "JAXA with Tomy, Sony and Doshisha University website",
+   "url": "https://global.jaxa.jp",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.takaratomy.co.jp/products/sora-q/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Sora-Q",
+   "url": "https://en.wikipedia.org/wiki/Sora-Q",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, SORA-Q (Q113840995)",
+   "url": "https://www.wikidata.org/wiki/Q113840995",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, newyorker.com",
+   "url": "https://www.newyorker.com/science/elements/a-mini-moon-rover-from-the-toy-company-that-created-transformers",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, planetary.org",
+   "url": "https://www.planetary.org/space-missions/slim-japans-precision-lunar-lander",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, global.jaxa.jp",
+   "url": "https://global.jaxa.jp/activity/pr/jaxas/no088/03.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Wikidata, SORA-Q (Q124658260)",
+   "url": "https://www.wikidata.org/wiki/Q124658260",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, sg.news.yahoo.com",
+   "url": "https://sg.news.yahoo.com/japans-little-moon-toy-camera-065747821.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, jaxa.jp",
+   "url": "https://www.jaxa.jp/projects/files/youtube/sas/20220315_slim_lev_document03.pdf",
+   "kind": "cited"
+  },
+  {
+   "label": "Japan Aerospace Exploration Agency website",
+   "url": "https://global.jaxa.jp/",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, SORA-Q (Q124658261)",
+   "url": "https://www.wikidata.org/wiki/Q124658261",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q124658261"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

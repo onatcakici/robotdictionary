@@ -1,0 +1,43 @@
+{
+ "id": "kismet",
+ "name": "Kismet",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "robot head",
+ "maker": "Massachusetts Institute of Technology",
+ "country": "",
+ "year": "1996",
+ "status": "",
+ "def": "Expressive robot head created at MIT in the 1990s by Cynthia Breazeal as an affective computing experiment in reading and showing emotion.",
+ "body": [],
+ "facts": [
+  "Built at MIT in the 1990s by Cynthia Breazeal",
+  "Name comes from a Turkish word meaning \"fate\" or \"luck\""
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.ai.mit.edu/projects/humanoid-robotics-group/kismet/kismet.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Kismet (robot)",
+   "url": "https://en.wikipedia.org/wiki/Kismet_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Kismet (Q912212)",
+   "url": "https://www.wikidata.org/wiki/Q912212",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q912212"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

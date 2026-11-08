@@ -1,0 +1,44 @@
+{
+ "id": "raptor",
+ "name": "Raptor",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "bipedal robot",
+ "maker": "KAIST",
+ "country": "South Korea",
+ "year": "2014",
+ "status": "research",
+ "def": "Two legged running robot designed at KAIST in 2014, modelled on the velociraptor and able to run at up to 46 km/h.",
+ "body": [],
+ "facts": [
+  "Only the Cheetah robot is faster",
+  "Described as the fastest two legged robot in the world",
+  "Moves on blade legs of carbon and epoxy composite"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Raptor (robot)",
+   "url": "https://en.wikipedia.org/wiki/Raptor_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Raptor (Q18393507)",
+   "url": "https://www.wikidata.org/wiki/Q18393507",
+   "kind": "wikidata"
+  },
+  {
+   "label": "KAIST website",
+   "url": "https://www.kaist.ac.kr",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q18393507"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

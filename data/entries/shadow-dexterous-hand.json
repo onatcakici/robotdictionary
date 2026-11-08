@@ -1,0 +1,39 @@
+{
+ "id": "shadow-dexterous-hand",
+ "name": "Shadow Dexterous Hand",
+ "aka": [],
+ "section": "arms",
+ "kind": "robotic hand",
+ "maker": "Shadow Robot Company",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "production",
+ "def": "Dexterous robot hand from the Shadow Robot Company in London, built to human hand size and shape with the same full set of degrees of freedom.",
+ "body": [],
+ "facts": [
+  "Sold in pneumatic and electric versions",
+  "Used by NASA, Bielefeld University and Carnegie Mellon University",
+  "Used in EU research projects including HANDLE"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Shadow Hand",
+   "url": "https://en.wikipedia.org/wiki/Shadow_Hand",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Shadow Hand (Q4669188)",
+   "url": "https://www.wikidata.org/wiki/Q4669188",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4669188"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

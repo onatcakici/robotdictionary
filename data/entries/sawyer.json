@@ -1,0 +1,41 @@
+{
+ "id": "sawyer",
+ "name": "Sawyer",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Rethink Robotics",
+ "country": "United States",
+ "year": "2015",
+ "status": "discontinued",
+ "def": "Single armed, seven axis collaborative robot from the makers of Baxter, with a screen that shows simple facial expressions.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Axes",
+   "7"
+  ],
+  [
+   "Payload",
+   "4 kg"
+  ],
+  [
+   "Reach",
+   "1260 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Rethink Robotics website",
+   "url": "https://www.rethinkrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

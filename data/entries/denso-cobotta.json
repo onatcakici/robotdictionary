@@ -1,0 +1,28 @@
+{
+ "id": "denso-cobotta",
+ "name": "COBOTTA",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Denso Wave",
+ "country": "Japan",
+ "year": "",
+ "status": "production",
+ "def": "Portable six axis collaborative arm from Denso light enough to be carried and set up on a desk.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Denso Wave website",
+   "url": "https://www.denso-wave.com/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

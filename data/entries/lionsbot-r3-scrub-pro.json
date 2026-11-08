@@ -1,0 +1,55 @@
+{
+ "id": "lionsbot-r3-scrub-pro",
+ "name": "R3 Scrub Pro",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "compact autonomous scrubber",
+ "maker": "LionsBot",
+ "country": "Singapore",
+ "year": "2023",
+ "status": "production",
+ "def": "Compact autonomous scrubber that cleans up to 1,800 square metres an hour and is set up by tapping a tag rather than programming routes.",
+ "body": [
+  "The R3 Scrub Pro has a stainless steel chassis, cylindrical brushes and two side brushes that clean right up to walls and skirting. Three dimensional vision sensors detect obstacles including glass and mirrors, which are common failure cases for cleaning robots in malls and offices. Instead of teaching routes by driving, cleaners assign work by tapping physical tags placed around the building. LionsBot grew out of research at the National University of Singapore and launched the R3 range in 2023."
+ ],
+ "facts": [
+  "Covers up to 1,800 square metres an hour",
+  "Set up with tap on tags instead of manual route teaching",
+  "LionsBot grew out of research at the National University of Singapore"
+ ],
+ "specs": [
+  [
+   "Runtime",
+   "4 h"
+  ],
+  [
+   "Actuation",
+   "Cylindrical brush deck with two side brushes and a single pass squeegee"
+  ],
+  [
+   "Power",
+   "Battery with about two hours to a full charge"
+  ],
+  [
+   "Sensors",
+   "3D vision sensors that also detect glass and mirrors"
+  ],
+  [
+   "Autonomy",
+   "Route assignment by tapping physical tags, then repeating stored cleaning plans"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "LionsBot website",
+   "url": "https://www.lionsbot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

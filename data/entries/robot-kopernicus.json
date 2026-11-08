@@ -1,0 +1,30 @@
+{
+ "id": "robot-kopernicus",
+ "name": "Robot Kopernicus",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "",
+ "country": "",
+ "year": "2023",
+ "status": "",
+ "def": "Humanoid robot modelled on the features of Nicolaus Copernicus that talks with museum visitors and answers their questions, introduced in 2023.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Robot Kopernicus (Q123643961)",
+   "url": "https://www.wikidata.org/wiki/Q123643961",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q123643961"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

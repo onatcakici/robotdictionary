@@ -1,0 +1,50 @@
+{
+ "id": "bridget",
+ "name": "Bridget",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Airbus Defence and Space",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "research",
+ "def": "Airbus Mars rover testbed used in the Stevenage Mars Yard and in Atacama Desert trials of European rover autonomy software.",
+ "body": [
+  "Bridget is a six wheeled development rover roughly the size of the ExoMars vehicle, used by Airbus in Stevenage to try out chassis, navigation and instrument concepts. In ESA's SAFER campaign it was deployed to the Atacama Desert in Chile and operated as though on Mars, testing autonomous navigation, ground penetrating radar and drilling operations planned from Europe. It continues to serve as a mobile platform for European rover autonomy and instrument development."
+ ],
+ "facts": [
+  "Operated in the Atacama Desert during ESA's SAFER Mars analogue trial",
+  "Long running testbed for European rover autonomy"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Six wheels in three bogies with steering"
+  ],
+  [
+   "Power",
+   "Battery electric with cabled supply during yard tests"
+  ],
+  [
+   "Sensors",
+   "Stereo navigation cameras with mast mounted instruments"
+  ],
+  [
+   "Autonomy",
+   "Testbed for European autonomous navigation software"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Airbus Defence and Space website",
+   "url": "https://www.airbus.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

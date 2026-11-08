@@ -1,0 +1,37 @@
+{
+ "id": "sanbot",
+ "name": "Sanbot",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "service robot",
+ "maker": "Qihan Technology",
+ "country": "China",
+ "year": "",
+ "status": "production",
+ "def": "Family of cloud connected service robots developed by Qihan Technology, a robotics and artificial intelligence firm based in Shenzhen, China.",
+ "body": [],
+ "facts": [
+  "Released in three generations: Sanbot Elf, Sanbot King Kong and Sanbot Nano"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Sanbot",
+   "url": "https://en.wikipedia.org/wiki/Sanbot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sanbot (Q30598896)",
+   "url": "https://www.wikidata.org/wiki/Q30598896",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q30598896"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

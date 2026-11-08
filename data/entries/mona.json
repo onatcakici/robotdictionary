@@ -1,0 +1,36 @@
+{
+ "id": "mona",
+ "name": "Mona",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Kind Humanoid",
+ "country": "United States",
+ "year": "2024",
+ "status": "concept",
+ "def": "A whimsical care focused humanoid designed for homes rather than factories.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "n1-fourier",
+  "n2-noetix"
+ ],
+ "refs": [
+  {
+   "label": "TechCrunch, Kind Humanoid and Yves Behar",
+   "url": "https://techcrunch.com/2024/10/13/this-three-person-robotics-startup-is-working-with-designer-yves-behar-to-bring-humanoids-home",
+   "kind": "press"
+  },
+  {
+   "label": "1X, acquisition of Kind Humanoid",
+   "url": "https://www.1x.tech/discover/1x-acquires-kind-humanoid",
+   "kind": "press"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

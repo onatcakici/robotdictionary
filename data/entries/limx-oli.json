@@ -1,0 +1,76 @@
+{
+ "id": "limx-oli",
+ "name": "LimX Oli",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "full size humanoid",
+ "maker": "LimX Dynamics",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "Full size humanoid sold in tiered configurations from about 21,800 dollars, aimed at embodied intelligence research and commercial development work.",
+ "body": [
+  "LimX Oli comes in Lite, EDU and Super grades: the smaller variants are 165 centimetres and up to 55 kilograms with 31 degrees of freedom, while the larger configuration is 175 centimetres, up to 60 kilograms and 43 degrees of freedom. Joints are arranged six per leg, seven per arm, three at the waist and two in the neck, with maximum torque of 150 newton metres rising to 250 on the larger model, and a top speed of five kilometres per hour. A 9,500 milliamp hour pack gives about two hours, and buyers can add an NVIDIA Orin NX perception module and lidar. LimX Dynamics, which came from legged robot research, sells it to universities and companies building manipulation and locomotion policies."
+ ],
+ "facts": [
+  "Launched in July 2025 starting around 21,800 dollars",
+  "Offered in Lite, EDU and Super grades with 31 or 43 degrees of freedom",
+  "Optional NVIDIA Orin NX module adds about 157 trillion operations per second of perception compute"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.65 m"
+  ],
+  [
+   "Mass",
+   "55 kg"
+  ],
+  [
+   "Payload",
+   "3 kg"
+  ],
+  [
+   "Top speed",
+   "1.39 m/s (5 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "31"
+  ],
+  [
+   "Runtime",
+   "2 h"
+  ],
+  [
+   "Actuation",
+   "Electric joint modules rated to 150 newton metres, 250 on the larger configuration"
+  ],
+  [
+   "Sensors",
+   "Head, chest and wrist depth cameras, IMU, optional lidar"
+  ],
+  [
+   "Autonomy",
+   "Development platform with optional NVIDIA Orin NX perception compute"
+  ]
+ ],
+ "see": [
+  "tron1",
+  "optimus"
+ ],
+ "refs": [
+  {
+   "label": "LimX Dynamics website",
+   "url": "https://www.limxdynamics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "oli"
+ ]
+}

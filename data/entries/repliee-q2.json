@@ -1,0 +1,28 @@
+{
+ "id": "repliee-q2",
+ "name": "Repliee Q2",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "android",
+ "maker": "Osaka University and Kokoro",
+ "country": "Japan",
+ "year": "2005",
+ "status": "retired",
+ "def": "Female android from Hiroshi Ishiguro's laboratory, built with air actuators under silicone skin to study how people react to lifelike machines.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Osaka University website",
+   "url": "https://www.osaka-u.ac.jp/en",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

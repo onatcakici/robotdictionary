@@ -1,0 +1,30 @@
+{
+ "id": "sabor",
+ "name": "Sabor",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Humanoid robot built in Switzerland, with a body shaped broadly like that of a person.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Sabor (Q131720370)",
+   "url": "https://www.wikidata.org/wiki/Q131720370",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q131720370"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

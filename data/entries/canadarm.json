@@ -1,0 +1,67 @@
+{
+ "id": "canadarm",
+ "name": "Canadarm",
+ "aka": [
+  "Shuttle Remote Manipulator System",
+  "SRMS",
+  "Canadarm 1"
+ ],
+ "section": "arms",
+ "kind": "space robotic arm",
+ "maker": "SPAR Aerospace",
+ "country": "Canada",
+ "year": "",
+ "status": "retired",
+ "def": "Family of robotic arms built by SPAR Aerospace of Canada that Space Shuttle orbiters carried to release, move and capture payloads in orbit.",
+ "body": [],
+ "facts": [
+  "Measured 15.2 m long with a mass of 410 kg",
+  "After the Columbia disaster it always flew alongside the Orbiter Boom Sensor System",
+  "The boom was used to check the shuttle's thermal protection system for damage"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "410 kg"
+  ],
+  [
+   "Length",
+   "15.2 m"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Canadarm",
+   "url": "https://en.wikipedia.org/wiki/Canadarm",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Canadarm (Q44468)",
+   "url": "https://www.wikidata.org/wiki/Q44468",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, spacenet.on.ca",
+   "url": "http://www.spacenet.on.ca/data/pdf/canada-in-space/srms_ds.pdf",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, web.archive.org",
+   "url": "https://web.archive.org/web/20191115161551/https://www.ieee.ca/millennium/canadarm/canadarm_technical.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, canadianstampnews.com",
+   "url": "https://canadianstampnews.com/otd-canadarm-sees-first-operational-use/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q44468"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "piggy",
+ "name": "Piggy",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "low cost household humanoid",
+ "maker": "Piggy Robotics",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "",
+ "def": "Low cost household humanoid from London driven by artificial muscles made of braided tubes rather than electric motors.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Piggy Robotics",
+   "url": "https://www.ycombinator.com/companies/piggy-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Piggy Robotics website",
+   "url": "https://piggyrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "piggy-robotics"
+ },
+ "yc": {
+  "company": "Piggy Robotics",
+  "batch": "Fall 2025",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/piggy-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "botbuilt",
+ "name": "BotBuilt",
+ "aka": [],
+ "section": "arms",
+ "kind": "construction robot",
+ "maker": "BotBuilt",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robotic cells that assemble wall panels and roof trusses for house framing.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, BotBuilt",
+   "url": "https://www.ycombinator.com/companies/botbuilt",
+   "kind": "yc"
+  },
+  {
+   "label": "BotBuilt website",
+   "url": "https://www.botbuilt.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "botbuilt"
+ },
+ "yc": {
+  "company": "BotBuilt",
+  "batch": "Winter 2021",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/botbuilt"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,28 @@
+{
+ "id": "aquanaut",
+ "name": "Aquanaut",
+ "aka": [],
+ "section": "marine",
+ "kind": "transforming underwater robot",
+ "maker": "Nauticus Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Underwater robot that cruises as an autonomous vehicle and then opens into a two armed remotely operated vehicle at its work site.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Nauticus Robotics website",
+   "url": "https://nauticusrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

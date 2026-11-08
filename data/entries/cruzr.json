@@ -1,0 +1,31 @@
+{
+ "id": "cruzr",
+ "name": "Cruzr",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "UBTech",
+ "country": "China",
+ "year": "2017",
+ "status": "production",
+ "def": "A wheeled service humanoid staffing receptions and retail floors.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "walker",
+  "walker-s"
+ ],
+ "refs": [
+  {
+   "label": "UBTech website",
+   "url": "https://www.ubtrobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

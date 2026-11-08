@@ -1,0 +1,35 @@
+{
+ "id": "pussycat",
+ "name": "Pussycat",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "combat robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Remote controlled combat robot that fought on Robot Wars, the British television series in which teams battle their machines in an arena with hazards.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Pussycat (robot)",
+   "url": "https://en.wikipedia.org/wiki/Pussycat_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Pussycat (Q22908019)",
+   "url": "https://www.wikidata.org/wiki/Q22908019",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q22908019"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

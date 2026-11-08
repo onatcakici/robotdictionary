@@ -1,0 +1,88 @@
+{
+ "id": "yaoki",
+ "name": "Yaoki",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Dymon",
+ "country": "Japan",
+ "year": "2025",
+ "status": "lost",
+ "def": "Palm sized Japanese commercial rover with two wide wheels that can right itself, flown on the IM-2 mission but never deployed.",
+ "body": [
+  "Yaoki weighs under half a kilogram and is built around two oversized wheels on a rigid body, so it keeps driving whichever way up it lands. Dymon developed it as a low cost commercial scout for lunar caves and shadowed terrain, controlled from Earth through a lander relay. It flew on the Intuitive Machines IM-2 mission in early 2025, but the Athena lander came to rest on its side in a shadowed crater and none of its rovers could be released."
+ ],
+ "facts": [
+  "Named for a Japanese saying about rising after every fall",
+  "Undeployed after the IM-2 lander toppled in March 2025"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "0.498 kg"
+  ],
+  [
+   "Actuation",
+   "Two wide wheels on a self righting body"
+  ],
+  [
+   "Power",
+   "Onboard battery"
+  ],
+  [
+   "Sensors",
+   "Forward and rear cameras"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated with short command loops"
+  ],
+  [
+   "Height",
+   "10 cm"
+  ],
+  [
+   "Length",
+   "15 cm"
+  ],
+  [
+   "Width",
+   "15 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://dymon.co.jp/yaoki/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Yaoki",
+   "url": "https://en.wikipedia.org/wiki/Yaoki",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Yaoki (Q107463179)",
+   "url": "https://www.wikidata.org/wiki/Q107463179",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, dymon.co.jp",
+   "url": "https://dymon.co.jp/en/yaoki/",
+   "kind": "cited"
+  },
+  {
+   "label": "Dymon website",
+   "url": "https://dymon.co.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q107463179"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

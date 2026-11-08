@@ -1,0 +1,31 @@
+{
+ "id": "sprout",
+ "name": "Sprout",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "compact home humanoid",
+ "maker": "Fauna Robotics",
+ "country": "United States",
+ "year": "2025",
+ "status": "research",
+ "def": "A compact home humanoid from CTRL-labs and DeepMind alumni; acquired by Amazon in 2026.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "star1",
+  "stompy"
+ ],
+ "refs": [
+  {
+   "label": "Fauna Robotics, Sprout launch",
+   "url": "https://www.faunarobotics.com/news/fauna-robotics-launches-sprout-the-easiest-way-to-build-with-humanoids",
+   "kind": "press"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

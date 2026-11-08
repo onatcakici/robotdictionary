@@ -1,0 +1,41 @@
+{
+ "id": "synphony",
+ "name": "Synphony",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "strawberry picking robot",
+ "maker": "Synphony",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Strawberry harvesting robot for California farms, paired with field analytics.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Synphony",
+   "url": "https://www.ycombinator.com/companies/synphony",
+   "kind": "yc"
+  },
+  {
+   "label": "Synphony website",
+   "url": "https://www.synphony.co/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "synphony"
+ },
+ "yc": {
+  "company": "Synphony",
+  "batch": "Spring 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/synphony"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

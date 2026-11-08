@@ -1,0 +1,31 @@
+{
+ "id": "wanda",
+ "name": "Wanda",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "UniX AI",
+ "country": "China",
+ "year": "2024",
+ "status": "concept",
+ "def": "A wheeled home humanoid pitched at laundry and dishwashing.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "xman-r1",
+  "agibot-a2"
+ ],
+ "refs": [
+  {
+   "label": "Interesting Engineering, UniX AI Wanda",
+   "url": "https://interestingengineering.com/ai-robotics/unix-ai-wanda-humanoid-robots-real-world-deployment",
+   "kind": "press"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

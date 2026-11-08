@@ -1,0 +1,38 @@
+{
+ "id": "tradinno",
+ "name": "Tradinno",
+ "aka": [],
+ "section": "other",
+ "kind": "animatronic dragon",
+ "maker": "",
+ "country": "Germany",
+ "year": "",
+ "status": "service",
+ "def": "Huge animatronic dragon that walks and breathes fire, built to play the dragon in the Drachenstich play in Furth im Wald, Germany.",
+ "body": [],
+ "facts": [
+  "Listed in the 2014 Guinness World Records as the largest walking robot",
+  "Name combines the words tradition and innovation"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Tradinno",
+   "url": "https://en.wikipedia.org/wiki/Tradinno",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Tradinno (Q15304729)",
+   "url": "https://www.wikidata.org/wiki/Q15304729",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q15304729"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": "honda-e-series",
+ "name": "Honda E series",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot series",
+ "maker": "Honda",
+ "country": "",
+ "year": "1986",
+ "status": "retired",
+ "def": "Succession of experimental humanoid robots that Honda built in secret from 1986 to 1993, an early stage on the path to the P series and ASIMO.",
+ "body": [],
+ "facts": [
+  "Kept from the public until Honda announced the P2 in 1996"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Honda E series",
+   "url": "https://en.wikipedia.org/wiki/Honda_E_series",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Honda E series (Q3939313)",
+   "url": "https://www.wikidata.org/wiki/Q3939313",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Honda website",
+   "url": "https://global.honda",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3939313"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

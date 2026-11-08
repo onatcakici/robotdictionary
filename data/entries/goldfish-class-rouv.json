@@ -1,0 +1,43 @@
+{
+ "id": "goldfish-class-rouv",
+ "name": "Goldfish class ROUV",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Shenyang Institute of Automation",
+ "country": "China",
+ "year": "",
+ "status": "service",
+ "def": "Family of light Chinese remotely operated underwater vehicles from the Shenyang Institute of Automation, operated by the People's Liberation Army Navy and by civilian agencies.",
+ "body": [],
+ "facts": [
+  "Developed by the Shenyang Institute of Automation of the Chinese Academy of Sciences",
+  "In service with the Chinese navy and civilian government agencies"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Goldfish-class ROUV",
+   "url": "https://en.wikipedia.org/wiki/Goldfish-class_ROUV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Goldfish class ROUV (Q5580157)",
+   "url": "https://www.wikidata.org/wiki/Q5580157",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Shenyang Institute of Automation website",
+   "url": "http://english.sia.cas.cn/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5580157"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

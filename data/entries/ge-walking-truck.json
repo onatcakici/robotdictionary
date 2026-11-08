@@ -1,0 +1,91 @@
+{
+ "id": "ge-walking-truck",
+ "name": "Walking Truck",
+ "aka": [
+  "GE Quadruped",
+  "Cybernetic Walking Machine"
+ ],
+ "section": "quadrupeds",
+ "kind": "hydraulic four legged vehicle",
+ "maker": "General Electric",
+ "country": "United States",
+ "year": "1965",
+ "status": "retired",
+ "def": "Hydraulic four legged vehicle from General Electric that an operator drove by moving his own arms and legs inside a force feedback harness.",
+ "body": [
+  "Built for the US Army by Ralph Mosher at General Electric, the Walking Truck was a rideable quadruped meant to carry loads over ground that wheels could not cross. Each leg had three hydraulically powered joints, and the driver commanded them through a master slave linkage that fed contact forces back to his own hands and feet. Operators could walk the machine, step over obstacles and lift heavy objects with a leg, but the control scheme was so tiring that the project ended after trials."
+ ],
+ "facts": [
+  "Built under the US Army Cybernetic Anthropomorphous Machine programme",
+  "Could lift loads of several hundred kilograms with a single leg",
+  "Preserved at the US Army Transportation Museum at Fort Eustis"
+ ],
+ "specs": [
+  [
+   "Height",
+   "3.35 m"
+  ],
+  [
+   "Mass",
+   "1360 kg"
+  ],
+  [
+   "Top speed",
+   "2.2 m/s (7.9 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Hydraulic cylinders, three powered joints per leg"
+  ],
+  [
+   "Power",
+   "Onboard internal combustion engine driving hydraulic pumps"
+  ],
+  [
+   "Autonomy",
+   "None, direct human force feedback teleoperation"
+  ],
+  [
+   "Length",
+   "3530.6 mm"
+  ],
+  [
+   "Width",
+   "1066.8 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "General Electric website",
+   "url": "https://www.ge.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Walking Truck",
+   "url": "https://en.wikipedia.org/wiki/Walking_Truck",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, General Electric Quadruped Transporter (Q1611602)",
+   "url": "https://www.wikidata.org/wiki/Q1611602",
+   "kind": "wikidata"
+  },
+  {
+   "label": "General Electric website",
+   "url": "https://www.ge.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1611602"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

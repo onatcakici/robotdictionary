@@ -1,0 +1,45 @@
+{
+ "id": "actroid",
+ "name": "Actroid",
+ "aka": [
+  "Repliee"
+ ],
+ "section": "humanoids",
+ "kind": "android",
+ "maker": "Kokoro",
+ "country": "Japan",
+ "year": "2003",
+ "status": "production",
+ "def": "Highly lifelike android created at Osaka University and produced by Kokoro, usually given the appearance of a young Japanese woman.",
+ "body": [],
+ "facts": [
+  "Debuted at Tokyo's International Robot Exhibition in 2003",
+  "Several versions have been produced since its debut"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Actroid",
+   "url": "https://en.wikipedia.org/wiki/Actroid",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Actroid (Q1938887)",
+   "url": "https://www.wikidata.org/wiki/Q1938887",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Kokoro website",
+   "url": "http://www.kokoro-dreams.co.jp/index.html",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1938887"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

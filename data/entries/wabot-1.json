@@ -1,0 +1,54 @@
+{
+ "id": "wabot-1",
+ "name": "WABOT-1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "full scale anthropomorphic robot",
+ "maker": "Waseda University, Kato Laboratory",
+ "country": "Japan",
+ "year": "1973",
+ "status": "retired",
+ "def": "Full scale anthropomorphic robot built at Waseda University that walked on two legs, gripped objects and held simple spoken exchanges.",
+ "body": [
+  "WABOT-1 combined the WAM-4 artificial hands, the WL-5 artificial legs, an artificial vision system and an artificial mouth and ear into one full size machine. Its hydraulically driven legs took slow static steps of roughly 45 seconds each, while separate limb control, vision and conversation subsystems handled each function. Ichiro Kato's team assessed its overall ability as comparable to a one and a half year old child, and the machine established the anthropomorphic research line that later produced WABOT-2 and the WABIAN series.",
+  "Waseda University's WABOT-1 of 1973 was the first full scale anthropomorphic robot, able to walk, grip and converse in Japanese with the intelligence, its builders estimated, of an eighteen month old child. Everything humanoid descends from it."
+ ],
+ "facts": [
+  "Widely cited as the first full scale anthropomorphic robot",
+  "Founded the Waseda line that led to WABOT-2 and WABIAN"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Hydraulic actuators in the lower limbs"
+  ],
+  [
+   "Sensors",
+   "Artificial vision system, tactile sensing in the hands, artificial ear"
+  ],
+  [
+   "Autonomy",
+   "Separate onboard limb control, vision and conversation subsystems"
+  ],
+  [
+   "Claimed mental age",
+   "approx. 18 months"
+  ]
+ ],
+ "see": [
+  "wabian-2r",
+  "twendy-one"
+ ],
+ "refs": [
+  {
+   "label": "Waseda University, Kato Laboratory website",
+   "url": "https://www.waseda.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

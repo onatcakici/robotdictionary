@@ -1,0 +1,59 @@
+{
+ "id": "stanford-doggo",
+ "name": "Stanford Doggo",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Stanford Student Robotics",
+ "country": "United States",
+ "year": "2019",
+ "status": "retired",
+ "def": "Open source quasi direct drive quadruped built by students for a few thousand dollars that set a vertical jumping record.",
+ "body": [
+  "Doggo has four two joint legs, each driven by a pair of coaxially mounted brushless motors with almost no gear reduction, so leg forces are controlled directly through motor current. A microcontroller and off the shelf motor drivers run a state machine that produces trotting, bounding, pronking and jumping from open loop leg trajectories. Weighing under five kilograms, it jumped repeatedly to about a metre, the highest vertical jumping agility measured for a robot at the time, and its full design files were published for anyone to build."
+ ],
+ "facts": [
+  "Highest vertical jumping agility recorded for a legged robot when published in 2019",
+  "Complete mechanical and electrical design released as open source"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "8"
+  ],
+  [
+   "Actuation",
+   "Eight quasi direct drive brushless motors, two per leg"
+  ],
+  [
+   "Power",
+   "Onboard lithium polymer battery"
+  ],
+  [
+   "Sensors",
+   "Inertial measurement unit, motor position sensing"
+  ],
+  [
+   "Autonomy",
+   "Open loop gait state machine on a microcontroller"
+  ]
+ ],
+ "see": [
+  "stanford-pupper",
+  "stanford-cart"
+ ],
+ "refs": [
+  {
+   "label": "Stanford Student Robotics website",
+   "url": "https://www.stanford.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "doggo"
+ ]
+}

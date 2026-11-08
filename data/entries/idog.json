@@ -1,0 +1,44 @@
+{
+ "id": "idog",
+ "name": "iDog",
+ "aka": [
+  "eDog"
+ ],
+ "section": "quadrupeds",
+ "kind": "robot dog toy",
+ "maker": "Sega Fave",
+ "country": "Japan",
+ "year": "2005",
+ "status": "",
+ "def": "Robot dog toy from Sega that flashes its lights and dances along to music played into it from an iPod or other MP3 player.",
+ "body": [],
+ "facts": [
+  "Called eDog in the German, Italian and Dutch markets"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, IDog",
+   "url": "https://en.wikipedia.org/wiki/IDog",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, iDog (Q3280297)",
+   "url": "https://www.wikidata.org/wiki/Q3280297",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Sega Fave website",
+   "url": "https://www.segafave.co.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3280297"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

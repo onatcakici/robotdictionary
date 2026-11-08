@@ -1,0 +1,38 @@
+{
+ "id": "rov-odysseus-6k",
+ "name": "ROV Odysseus 6K",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Pelagic Research Services",
+ "country": "",
+ "year": "",
+ "status": "service",
+ "def": "Deep diving remotely operated vehicle from Pelagic Research Services of South Wellfleet, Massachusetts, rated to work as deep as 6,000 m of seawater.",
+ "body": [],
+ "facts": [
+  "Maximum rated depth of 6,000 m (20,000 ft)",
+  "Name combines the hero Odysseus with its 6,000 m depth rating"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, ROV Odysseus 6K",
+   "url": "https://en.wikipedia.org/wiki/ROV_Odysseus_6K",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ROV Odysseus 6K (Q120081153)",
+   "url": "https://www.wikidata.org/wiki/Q120081153",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q120081153"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

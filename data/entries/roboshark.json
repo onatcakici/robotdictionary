@@ -1,0 +1,37 @@
+{
+ "id": "roboshark",
+ "name": "Roboshark",
+ "aka": [],
+ "section": "marine",
+ "kind": "robotic shark",
+ "maker": "",
+ "country": "",
+ "year": "2003",
+ "status": "",
+ "def": "Robotic shark built by Andrew Sneath in 2003 and fitted with a camera to film whale sharks, bull sharks and great white sharks for the BBC.",
+ "body": [],
+ "facts": [
+  "Featured in the BBC Natural History Unit special Smart Sharks: Swimming with Roboshark"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Roboshark",
+   "url": "https://en.wikipedia.org/wiki/Roboshark",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Roboshark (Q7353308)",
+   "url": "https://www.wikidata.org/wiki/Q7353308",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7353308"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

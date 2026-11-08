@@ -1,0 +1,38 @@
+{
+ "id": "cyberdog-2",
+ "name": "CyberDog 2",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Xiaomi",
+ "country": "China",
+ "year": "2023",
+ "status": "production",
+ "def": "A doberman sized successor that learns tricks from demonstration.",
+ "body": [
+  "CyberDog 2 shrank Xiaomi's robot dog to doberman scale and taught it tricks by demonstration, sold nearly at cost to grow a developer ecosystem."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Mass",
+   "approx. 9 kg"
+  ]
+ ],
+ "see": [
+  "cyberone",
+  "xiaomi-cyberdog"
+ ],
+ "refs": [
+  {
+   "label": "Xiaomi website",
+   "url": "https://www.mi.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,62 @@
+{
+ "id": "armar-iii",
+ "name": "ARMAR-III",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "kitchen oriented humanoid",
+ "maker": "Karlsruhe Institute of Technology",
+ "country": "Germany",
+ "year": "2006",
+ "status": "research",
+ "def": "Kitchen oriented humanoid from Karlsruhe with 43 degrees of freedom on a holonomic wheeled base, used for household manipulation research.",
+ "body": [
+  "ARMAR-III pairs a human like torso, head, arms and five fingered hands with a holonomic wheeled platform, giving 43 degrees of freedom in total. Its head carries stereo cameras with foveated vision, microphones and inertial sensing, while the arms combine position, velocity and force torque sensing for compliant manipulation. Two units, built in 2006 and 2008, anchored years of work in the German collaborative research centre on humanoid robots, loading dishwashers, fetching drinks and learning tasks from human demonstration."
+ ],
+ "facts": [
+  "Central platform of the German collaborative research centre on humanoid robots",
+  "Worked for years in a full sized mock kitchen"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "43"
+  ],
+  [
+   "Actuation",
+   "Electric motors with harmonic drive gears and tendon driven hands"
+  ],
+  [
+   "Sensors",
+   "Stereo foveated camera head, microphones, force and torque sensing in the arms"
+  ],
+  [
+   "Autonomy",
+   "Task level planning with learning from human demonstration"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Karlsruhe Institute of Technology website",
+   "url": "https://www.kit.edu",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, Armar 3 (Q679062)",
+   "url": "https://www.wikidata.org/wiki/Q679062",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Karlsruhe Institute of Technology website",
+   "url": "https://www.kit.edu/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q679062"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

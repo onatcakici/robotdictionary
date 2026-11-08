@@ -1,0 +1,54 @@
+{
+ "id": "audi-lunar-quattro",
+ "name": "Audi Lunar Quattro",
+ "aka": [
+  "ALQ"
+ ],
+ "section": "rovers",
+ "kind": "lunar rover",
+ "maker": "Planetary Transportation Systems and Audi AG",
+ "country": "Germany",
+ "year": "2015",
+ "status": "",
+ "def": "Small German lunar rover developed in 2015 by engineers of the PTScientists team, with backing from Audi and partners in several countries.",
+ "body": [],
+ "facts": [
+  "Mass of 35 kg"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "35 kg"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Audi Lunar Quattro",
+   "url": "https://en.wikipedia.org/wiki/Audi_Lunar_Quattro",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Audi Lunar Quattro (Q30890321)",
+   "url": "https://www.wikidata.org/wiki/Q30890321",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, pts.space",
+   "url": "https://www.pts.space/products/audi-lunar-quattro/",
+   "kind": "cited"
+  },
+  {
+   "label": "Planetary Transportation Systems website",
+   "url": "https://pts.space/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q30890321"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

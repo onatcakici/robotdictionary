@@ -1,0 +1,28 @@
+{
+ "id": "rosa",
+ "name": "ROSA",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Zimmer Biomet",
+ "country": "France",
+ "year": "",
+ "status": "production",
+ "def": "Robotic surgical assistant first developed by Medtech in France for brain and spine procedures, later used for knee replacement.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Zimmer Biomet website",
+   "url": "https://www.zimmerbiomet.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

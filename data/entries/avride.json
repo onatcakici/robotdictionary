@@ -1,0 +1,31 @@
+{
+ "id": "avride",
+ "name": "Avride",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Avride",
+ "country": "United States",
+ "year": "2020",
+ "status": "production",
+ "def": "The delivery rover formerly of Yandex, ferrying food across campuses with Grubhub.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "ballie",
+  "beam"
+ ],
+ "refs": [
+  {
+   "label": "Avride website",
+   "url": "https://avride.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

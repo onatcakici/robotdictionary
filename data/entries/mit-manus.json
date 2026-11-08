@@ -1,0 +1,28 @@
+{
+ "id": "mit-manus",
+ "name": "MIT-Manus",
+ "aka": [],
+ "section": "medical",
+ "kind": "rehabilitation robot",
+ "maker": "MIT",
+ "country": "United States",
+ "year": "",
+ "status": "retired",
+ "def": "Arm rehabilitation robot from MIT that guides a patient's hand through reaching exercises after stroke, later sold under the InMotion name.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/w/index.php?search=MIT-Manus",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

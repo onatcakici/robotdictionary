@@ -1,0 +1,106 @@
+{
+ "id": "unitree-go2",
+ "name": "Unitree Go2",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Unitree Robotics",
+ "country": "China",
+ "year": "2023",
+ "status": "production",
+ "def": "Fifteen kilogram consumer and developer quadruped with a hemispherical lidar, sold from well under two thousand US dollars.",
+ "body": [
+  "Go2 replaced the Go1 with a stiffer body, higher torque joints and a lidar giving full 360 degree coverage around the robot. Consumer versions walk, follow a person and stream video to a phone app, while education versions expose joint level control for research and take extra onboard computing. Trot speed runs from 2.5 metres per second on the base model up to 3.7 on the education version, and its low price made it the most widely sold quadruped of its generation.",
+  "The Go2 put a lidar equipped walking robot under the price of a used scooter and sold in volumes no legged machine had seen. It is the default embodiment for quadruped research code worldwide."
+ ],
+ "facts": [
+  "Launched in 2023 from about 1,600 US dollars, among the cheapest dynamic quadrupeds sold",
+  "Offered in consumer, professional and education variants of the same platform"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.4 m"
+  ],
+  [
+   "Length",
+   "0.7 m"
+  ],
+  [
+   "Mass",
+   "15 kg"
+  ],
+  [
+   "Top speed",
+   "3.7 m/s (13.3 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "In house brushless joint motors, three per leg"
+  ],
+  [
+   "Power",
+   "8,000 mAh swappable lithium battery"
+  ],
+  [
+   "Sensors",
+   "Hemispherical lidar with full 360 degree horizontal coverage, wide angle camera, foot force sensors on education models"
+  ],
+  [
+   "Autonomy",
+   "Onboard obstacle avoidance and person following, developer interface on education versions"
+  ],
+  [
+   "Pace",
+   "approx. 3.7 m/s"
+  ],
+  [
+   "Price",
+   "from approx. $1,600"
+  ]
+ ],
+ "see": [
+  "unitree-h1",
+  "unitree-h2"
+ ],
+ "refs": [
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.unitree.com/go2",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Unitree Go2 (Q140668442)",
+   "url": "https://www.wikidata.org/wiki/Q140668442",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, prnewswire.com",
+   "url": "https://www.prnewswire.com/news-releases/unitree-go2--vierbeiniger-roboter-der-verkorperten-ki-bieten-unendliche-moglichkeiten-301881713.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140668442"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "go2"
+ ]
+}

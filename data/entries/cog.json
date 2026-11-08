@@ -1,0 +1,68 @@
+{
+ "id": "cog",
+ "name": "Cog",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "MIT Artificial Intelligence Laboratory",
+ "country": "United States",
+ "year": "1993",
+ "status": "retired",
+ "def": "Upper body humanoid at MIT built to test the argument that human like intelligence has to be learned through embodied social interaction.",
+ "body": [
+  "Cog had a movable torso, arms, neck and saccading camera eyes, with compliant series elastic arm actuators so it could safely make contact with people and objects. Rodney Brooks and Lynn Andrea Stein's group used it through the 1990s for experiments in reaching, rhythmic arm motion, joint attention, face tracking and imitation rather than for preplanned industrial tasks. The project ran until 2003 and the robot now sits in the MIT Museum, having shaped a generation of work on embodied and developmental robotics."
+ ],
+ "facts": [
+  "Central platform for the embodied intelligence argument at MIT",
+  "Retired in 2003 and now held by the MIT Museum"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Electric series elastic actuators in the arms"
+  ],
+  [
+   "Sensors",
+   "Saccading camera eyes, microphones, inertial sensing, joint position and force sensing"
+  ],
+  [
+   "Autonomy",
+   "Behaviour based architecture learning from interaction with people"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "MIT Artificial Intelligence Laboratory website",
+   "url": "https://www.mit.edu",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "http://groups.csail.mit.edu/lbr/humanoid-robotics-group/cog/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Cog (project)",
+   "url": "https://en.wikipedia.org/wiki/Cog_(project)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Cog (Q1054157)",
+   "url": "https://www.wikidata.org/wiki/Q1054157",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Massachusetts Institute of Technology website",
+   "url": "https://mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1054157"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

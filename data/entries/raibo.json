@@ -1,0 +1,58 @@
+{
+ "id": "raibo",
+ "name": "RaiBo",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "learning controlled quadruped",
+ "maker": "KAIST",
+ "country": "South Korea",
+ "year": "2022",
+ "status": "research",
+ "def": "Learning controlled quadruped from KAIST able to run across a sandy beach, terrain that defeats most legged robots.",
+ "body": [
+  "RaiBo was built in Jemin Hwangbo's laboratory to test controllers trained entirely in simulation, including a physics model of how feet sink into granular ground. A recurrent neural network policy infers ground properties from proprioception as the robot moves, so no terrain sensing or retuning is needed between surfaces. It ran at just over three metres per second on a beach and crossed grass, running tracks and soft mats without modification, work published in Science Robotics in 2023."
+ ],
+ "facts": [
+  "Ran at 3.03 m/s on a sandy beach with no change to its controller",
+  "Its terrain adaptive policy was trained purely in simulation and transferred without tuning"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "3 m/s (10.8 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Electric joint actuators with torque control"
+  ],
+  [
+   "Power",
+   "Onboard battery"
+  ],
+  [
+   "Sensors",
+   "Inertial measurement unit and joint sensing only"
+  ],
+  [
+   "Autonomy",
+   "Reinforcement learning policy trained in simulation with deformable terrain models"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "KAIST website",
+   "url": "https://www.kaist.ac.kr",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

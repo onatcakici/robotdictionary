@@ -1,0 +1,63 @@
+{
+ "id": "festo-robotino",
+ "name": "Robotino",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Festo Didactic",
+ "country": "Germany",
+ "year": "",
+ "status": "research",
+ "def": "Omnidirectional three wheeled training robot used in classrooms and competitions, able to move in any direction without turning first.",
+ "body": [
+  "Robotino carries three Mecanum wheels set at 120 degrees, each with its own motor and encoder, so it can strafe, rotate and follow curves freely. Standard sensing includes a bumper, infrared distance sensors, a colour camera and wheel encoders, with an optional laser scanner, gyroscope and indoor positioning system. An onboard industrial computer runs user programs written in a graphical environment or in text languages, and it is used for teaching factory logistics and robot control. It appears widely in vocational training and student competitions."
+ ],
+ "facts": [
+  "Moves in any direction without turning thanks to its Mecanum wheel drive",
+  "Used for teaching factory logistics and in student competitions",
+  "Programmable from a graphical environment or in C, C++, Java and Matlab"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Three individually driven Mecanum wheels at 120 degrees for omnidirectional motion"
+  ],
+  [
+   "Power",
+   "Rechargeable battery pack"
+  ],
+  [
+   "Sensors",
+   "Bumper, infrared distance sensors, colour camera and wheel encoders, with optional laser scanner and gyroscope"
+  ],
+  [
+   "Autonomy",
+   "Onboard industrial computer running user programs, with an optional indoor positioning system"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Festo Didactic website",
+   "url": "https://www.festo.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Robotino",
+   "url": "https://en.wikipedia.org/wiki/Robotino",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robotino (Q2160052)",
+   "url": "https://www.wikidata.org/wiki/Q2160052",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2160052"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

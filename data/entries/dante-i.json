@@ -1,0 +1,52 @@
+{
+ "id": "dante-i",
+ "name": "Dante I",
+ "aka": [
+  "Dante"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Carnegie Mellon University",
+ "country": "United States",
+ "year": "1992",
+ "status": "retired",
+ "def": "Eight legged tethered walking robot sent into the crater of Mount Erebus in Antarctica, which failed a few metres into its descent.",
+ "body": [
+  "Dante I was built by the Carnegie Mellon Field Robotics Center to show that a tethered walking machine could enter a volcanic crater too dangerous for people. It moved as a frame walker, sliding one frame of legs past the other, with power and communications carried on a tether from the crater rim. The tether failed shortly after it started down into the crater of Mount Erebus at the end of 1992, ending the descent after only a few metres."
+ ],
+ "facts": [
+  "First attempt to send a walking robot into an active volcano",
+  "Tether failure ended the Mount Erebus descent"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Eight legs in two frames, moving one frame at a time"
+  ],
+  [
+   "Power",
+   "Supplied through a tether from the crater rim"
+  ],
+  [
+   "Sensors",
+   "Cameras and laser rangefinder"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated under supervisory control"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Carnegie Mellon University website",
+   "url": "https://www.cmu.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,104 @@
+{
+ "id": "spirit",
+ "name": "Spirit",
+ "aka": [
+  "MER-A"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "2003",
+ "status": "retired",
+ "def": "Solar powered Mars Exploration Rover that worked in Gusev crater for six years and found mineral evidence of ancient hot water.",
+ "body": [
+  "Spirit landed in Gusev crater on 4 January 2004 for a planned 90 sol mission and kept working for 2,208 sols. Solar arrays and lithium ion batteries drove six wheels on a rocker bogie chassis, with a camera mast, a robotic arm and spectrometers for geology. It climbed the Columbia Hills and found silica deposits and carbonates pointing to hot spring or steam vent activity, then became embedded in soft sand at a site called Troy in 2009 and fell silent in March 2010.",
+  "Spirit landed with a ninety day plan and worked Mars for six years, climbing Husband Hill and outliving every expectation before soft sand and winter ended the mission in 2010."
+ ],
+ "facts": [
+  "Operated 2,208 sols against a planned 90 sol mission",
+  "Found silica rich deposits indicating an ancient hydrothermal setting",
+  "Drove 7.73 km before becoming stuck in soft sand"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.5 m"
+  ],
+  [
+   "Mass",
+   "185 kg"
+  ],
+  [
+   "Distance driven",
+   "7.73 km"
+  ],
+  [
+   "Actuation",
+   "Six wheel rocker bogie drive with four corner steering"
+  ],
+  [
+   "Power",
+   "Solar arrays with rechargeable lithium ion batteries"
+  ],
+  [
+   "Sensors",
+   "Panoramic and navigation cameras, microscopic imager, alpha particle X ray and Moessbauer spectrometers, thermal emission spectrometer"
+  ],
+  [
+   "Autonomy",
+   "Ground planned drives with onboard hazard avoidance and visual odometry"
+  ],
+  [
+   "Length",
+   "141 cm"
+  ],
+  [
+   "Width",
+   "122 cm"
+  ]
+ ],
+ "see": [
+  "sojourner",
+  "opportunity"
+ ],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Spirit (rover)",
+   "url": "https://en.wikipedia.org/wiki/Spirit_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Spirit (Q176276)",
+   "url": "https://www.wikidata.org/wiki/Q176276",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, pds.nasa.gov",
+   "url": "https://pds.nasa.gov/ds-view/pds/viewHostProfile.jsp?INSTRUMENT_HOST_ID=MER2",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, mars.nasa.gov",
+   "url": "https://mars.nasa.gov/mer/mission/spacecraft.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q176276"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

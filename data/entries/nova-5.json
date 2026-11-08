@@ -1,0 +1,38 @@
+{
+ "id": "nova-5",
+ "name": "Nova 5",
+ "aka": [],
+ "section": "other",
+ "kind": "search and rescue robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Autonomous search and rescue robot created by engineer brothers Fady and Sami Khaled that uses a fuzzy neural network to make sense of its surroundings and find its own way.",
+ "body": [],
+ "facts": [
+  "Navigates on its own rather than by remote control",
+  "Runs a built in fuzzy neural network modelled on brain neurons"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Nova 5",
+   "url": "https://en.wikipedia.org/wiki/Nova_5",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Nova 5 (Q7064006)",
+   "url": "https://www.wikidata.org/wiki/Q7064006",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7064006"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

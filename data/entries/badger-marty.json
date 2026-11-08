@@ -1,0 +1,55 @@
+{
+ "id": "badger-marty",
+ "name": "Marty",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Badger Technologies",
+ "country": "United States",
+ "year": "",
+ "status": "service",
+ "def": "Grey tower robot with googly eyes that roams supermarket aisles looking for spills and hazards and checking shelves for stock and price errors.",
+ "body": [
+  "Marty stands about 6 feet 5 inches tall on a wheeled base, with cameras and lidar that watch the floor for liquid and debris and the shelves for gaps and mispriced items. It navigates a stored store map during trading hours, alerting staff over the store system when it finds a hazard. Its cartoon eyes and name were a deliberate attempt to make an in store robot feel approachable to shoppers. Nearly 500 units were rolled out across Giant, Martin's and Stop and Shop stores in 2019."
+ ],
+ "facts": [
+  "Nearly 500 units rolled out across Giant, Martin's and Stop and Shop stores in 2019",
+  "Stop and Shop upgraded Marty units at more than 300 locations in 2023",
+  "Reported accuracy of about 95 percent on out of stock detection by one customer"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.96 m"
+  ],
+  [
+   "Actuation",
+   "Wheeled base with a tall sensor mast"
+  ],
+  [
+   "Power",
+   "Rechargeable battery"
+  ],
+  [
+   "Sensors",
+   "Cameras and lidar with floor facing hazard detection"
+  ],
+  [
+   "Autonomy",
+   "Map based navigation among shoppers with automatic alerts to staff"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Badger Technologies website",
+   "url": "https://www.badger-technologies.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

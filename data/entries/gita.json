@@ -1,0 +1,36 @@
+{
+ "id": "gita",
+ "name": "gita",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "cargo robot",
+ "maker": "Piaggio Fast Forward",
+ "country": "United States",
+ "year": "2019",
+ "status": "production",
+ "def": "A cargo robot from the Vespa family that follows its owner like a rolling suitcase.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "approx. 18 kg"
+  ]
+ ],
+ "see": [
+  "haipick",
+  "hero-1"
+ ],
+ "refs": [
+  {
+   "label": "Piaggio Fast Forward website",
+   "url": "https://www.piaggiofastforward.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

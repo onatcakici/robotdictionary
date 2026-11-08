@@ -1,0 +1,28 @@
+{
+ "id": "ava-500",
+ "name": "Ava 500",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "telepresence robot",
+ "maker": "iRobot",
+ "country": "United States",
+ "year": "2014",
+ "status": "discontinued",
+ "def": "Autonomous office telepresence robot from iRobot that drove itself to a chosen meeting room, using video equipment from Cisco.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

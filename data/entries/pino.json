@@ -1,0 +1,61 @@
+{
+ "id": "pino",
+ "name": "PINO",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "small open design humanoid",
+ "maker": "Kitano Symbiotic Systems Project, JST ERATO",
+ "country": "Japan",
+ "year": "2001",
+ "status": "retired",
+ "def": "Small open design humanoid from a Japanese research programme, built from low cost parts and published so other laboratories could copy it.",
+ "body": [
+  "PINO was developed by Fuminori Yamasaki in the Kitano Symbiotic Systems Project with industrial designer Tatsuya Matsui, standing about 70 cm tall with 26 degrees of freedom. It used inexpensive hobby class servos and off the shelf components to make bipedal walking research affordable, and its mechanical drawings and control software were released openly. The design became widely recognised after appearing in Utada Hikaru's 2001 music video Can You Keep A Secret? and in design exhibitions."
+ ],
+ "facts": [
+  "Mechanical design and software released openly for other laboratories",
+  "Appeared in Utada Hikaru's 2001 music video Can You Keep A Secret?"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.7 m"
+  ],
+  [
+   "Degrees of freedom",
+   "26"
+  ],
+  [
+   "Actuation",
+   "Low cost servo motors"
+  ],
+  [
+   "Sensors",
+   "Joint position sensing, foot force sensing"
+  ],
+  [
+   "Autonomy",
+   "Onboard walking controller with an external computer"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, PINO",
+   "url": "https://en.wikipedia.org/wiki/PINO",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, PINO (Q7119409)",
+   "url": "https://www.wikidata.org/wiki/Q7119409",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7119409"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

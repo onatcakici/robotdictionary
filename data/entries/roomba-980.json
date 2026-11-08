@@ -1,0 +1,28 @@
+{
+ "id": "roomba-980",
+ "name": "Roomba 980",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "iRobot",
+ "country": "United States",
+ "year": "2015",
+ "status": "discontinued",
+ "def": "First Roomba to map rooms with a camera and connect to a phone app.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

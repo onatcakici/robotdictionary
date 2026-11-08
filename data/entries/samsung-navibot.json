@@ -1,0 +1,28 @@
+{
+ "id": "samsung-navibot",
+ "name": "Navibot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "Samsung",
+ "country": "South Korea",
+ "year": "2010",
+ "status": "discontinued",
+ "def": "Robot vacuum from Samsung that worked out its position by photographing the ceiling with an upward facing camera.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Samsung website",
+   "url": "https://www.samsung.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

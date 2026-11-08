@@ -1,0 +1,28 @@
+{
+ "id": "sarcos-guardian-xo",
+ "name": "Guardian XO",
+ "aka": [],
+ "section": "medical",
+ "kind": "full body exoskeleton",
+ "maker": "Sarcos",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Battery powered full body exoskeleton from Sarcos built to let workers lift heavy loads repeatedly.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Sarcos website",
+   "url": "https://www.sarcos.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,61 @@
+{
+ "id": "wabian-2r",
+ "name": "WABIAN-2R",
+ "aka": [
+  "WABIAN-2"
+ ],
+ "section": "humanoids",
+ "kind": "full size biped",
+ "maker": "Waseda University, Humanoid Robotics Institute",
+ "country": "Japan",
+ "year": "2006",
+ "status": "research",
+ "def": "Full size biped used at Waseda to study human like walking, carrying a movable waist and trunk plus a passive toe joint.",
+ "body": [
+  "WABIAN-2R stands 1.53 m tall, weighs 64.5 kg including batteries and has 41 degrees of freedom, with seven per leg, two at the waist, two in the trunk, seven per arm and three per hand. Each joint uses a direct current motor with a harmonic drive gear and a belt transmission, and six axis force and torque sensors in the ankles measure ground reaction forces. The robot has been used to reproduce human style walking with stretched knees, heel contact and toe off, and to support gait rehabilitation and human motion analysis studies."
+ ],
+ "facts": [
+  "Walks with stretched knees using heel contact and toe off",
+  "Combines a two degree of freedom waist with a passive toe joint"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.53 m"
+  ],
+  [
+   "Mass",
+   "64.5 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "41"
+  ],
+  [
+   "Actuation",
+   "Direct current motors with harmonic drive gears and belt transmissions"
+  ],
+  [
+   "Sensors",
+   "Six axis force and torque sensors in the ankles, inertial sensing"
+  ]
+ ],
+ "see": [
+  "wabot-1",
+  "twendy-one"
+ ],
+ "refs": [
+  {
+   "label": "Waseda University, Humanoid Robotics Institute website",
+   "url": "https://www.waseda.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "wabian-2"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": "uwa-telerobot",
+ "name": "UWA Telerobot",
+ "aka": [],
+ "section": "arms",
+ "kind": "teleoperated robot",
+ "maker": "University of Western Australia",
+ "country": "Australia",
+ "year": "1996",
+ "status": "",
+ "def": "Remotely operated robot dating from 1996, run by the University of Western Australia's School of Mechanical and Civil Engineering.",
+ "body": [],
+ "facts": [
+  "Belongs to the School of Mechanical and Civil Engineering at UWA"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, UWA Telerobot",
+   "url": "https://en.wikipedia.org/wiki/UWA_Telerobot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, UWA Telerobot (Q7876115)",
+   "url": "https://www.wikidata.org/wiki/Q7876115",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Western Australia website",
+   "url": "https://www.uwa.edu.au/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7876115"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

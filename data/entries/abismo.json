@@ -1,0 +1,37 @@
+{
+ "id": "abismo",
+ "name": "ABISMO",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Japan Agency for Marine-Earth Science and Technology",
+ "country": "Japan",
+ "year": "",
+ "status": "service",
+ "def": "Japanese deep sea remotely operated vehicle built by the Japan Agency for Marine-Earth Science and Technology as the replacement for Kaikō, which was lost in 2003.",
+ "body": [],
+ "facts": [
+  "No other surviving ROV is rated to depths of 11,000 m"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, ABISMO",
+   "url": "https://en.wikipedia.org/wiki/ABISMO",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ABISMO (Q4650315)",
+   "url": "https://www.wikidata.org/wiki/Q4650315",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4650315"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

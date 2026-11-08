@@ -1,0 +1,30 @@
+{
+ "id": "saildrone-explorer",
+ "name": "Saildrone Explorer",
+ "aka": [],
+ "section": "marine",
+ "kind": "uncrewed sailing vessel",
+ "maker": "Saildrone",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Wind and solar powered uncrewed sailing vessel that gathers ocean and weather data on missions lasting months.",
+ "body": [],
+ "facts": [
+  "A Saildrone completed the first autonomous circumnavigation of Antarctica in 2019"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Saildrone website",
+   "url": "https://www.saildrone.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

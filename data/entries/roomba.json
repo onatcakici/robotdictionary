@@ -1,0 +1,84 @@
+{
+ "id": "roomba",
+ "name": "Roomba",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "iRobot",
+ "country": "United States",
+ "year": "2002",
+ "status": "production",
+ "def": "Disc shaped domestic vacuum robot that cleans floors on its own and returns to a dock, the product that created the home robot market.",
+ "body": [
+  "A Roomba is a low disc about 340 mm across with two drive wheels, a side brush and either bristle brushes or rubber rollers. Early generations covered a room by bouncing semi randomly with bump, cliff and dirt sensors, following the view that simple behaviours beat expensive mapping. From the sixth generation the robots added an upward camera and floor tracking sensor to build a map and clean in tidy rows, plus self emptying bases on higher models. Tens of millions have been sold for homes worldwide.",
+  "The Roomba made autonomous robots a household category: over forty million sold, an ecosystem of competitors, and a cultural fixture ridden by cats. iRobot's founders came from MIT's insect robot lab, and it shows in the bump and turn instincts."
+ ],
+ "facts": [
+  "Launched in September 2002 and helped create the consumer robot market",
+  "IRobot filed for Chapter 11 bankruptcy protection in December 2025 and was acquired the following year",
+  "Amazon's proposed acquisition of iRobot was abandoned in 2024"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.09 m"
+  ],
+  [
+   "Length",
+   "0.34 m"
+  ],
+  [
+   "Actuation",
+   "Two drive wheels with a caster, side brush and counter rotating brushes or rubber rollers"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with a self charging home base"
+  ],
+  [
+   "Sensors",
+   "Bumper, cliff and dirt detection sensors, with an upward camera on later models"
+  ],
+  [
+   "Autonomy",
+   "Random coverage on early models, visual mapping and systematic rows on later ones"
+  ],
+  [
+   "Units sold",
+   "over 40 million"
+  ]
+ ],
+ "see": [
+  "braava",
+  "create-3"
+ ],
+ "refs": [
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Roomba",
+   "url": "https://en.wikipedia.org/wiki/Roomba",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Roomba (Q74050)",
+   "url": "https://www.wikidata.org/wiki/Q74050",
+   "kind": "wikidata"
+  },
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q74050"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

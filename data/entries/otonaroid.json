@@ -1,0 +1,28 @@
+{
+ "id": "otonaroid",
+ "name": "Otonaroid",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "android",
+ "maker": "Hiroshi Ishiguro Laboratories",
+ "country": "Japan",
+ "year": "2014",
+ "status": "retired",
+ "def": "Adult female android by Hiroshi Ishiguro, shown with Kodomoroid at Tokyo's Miraikan science museum in 2014.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Miraikan website",
+   "url": "https://www.miraikan.jst.go.jp/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

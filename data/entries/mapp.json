@@ -1,0 +1,56 @@
+{
+ "id": "mapp",
+ "name": "MAPP",
+ "aka": [
+  "Mobile Autonomous Prospecting Platform"
+ ],
+ "section": "rovers",
+ "kind": "commercial prospecting rover",
+ "maker": "Lunar Outpost",
+ "country": "United States",
+ "year": "2025",
+ "status": "lost",
+ "def": "Commercial prospecting rover carrying a cellular network demonstration to the Moon, stranded aboard the IM-2 lander after it tipped over.",
+ "body": [
+  "Lunar Outpost built MAPP as a small four wheeled platform to carry customer payloads across the lunar surface, including a Nokia Bell Labs cellular network node, MIT's AstroAnt robot and cameras for a regolith sampling demonstration. It rode Intuitive Machines' Athena lander to a landing near the lunar south pole on 6 March 2025. The lander came to rest on its side with too little power, so MAPP was never released."
+ ],
+ "facts": [
+  "Carried the first cellular network node sent to the Moon",
+  "Never deployed because the IM-2 lander toppled"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "15 kg"
+  ],
+  [
+   "Actuation",
+   "Four wheel drive platform with payload deck"
+  ],
+  [
+   "Power",
+   "Solar panels with battery"
+  ],
+  [
+   "Sensors",
+   "Navigation cameras with customer payload interfaces"
+  ],
+  [
+   "Autonomy",
+   "Semi autonomous driving under ground supervision"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Lunar Outpost website",
+   "url": "https://www.lunaroutpost.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

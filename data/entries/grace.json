@@ -1,0 +1,38 @@
+{
+ "id": "grace",
+ "name": "Grace",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Awakening Health",
+ "country": "Hong Kong",
+ "year": "2021",
+ "status": "pilot",
+ "def": "A humanlike care android trialled in eldercare and health settings; built for conversation as much as task work.",
+ "body": [
+  "Grace, sister project to Sophia, was built during the pandemic for eldercare wards, pairing a nurse's uniform with thermal cameras and multilingual bedside talk."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Office",
+   "healthcare assistance"
+  ]
+ ],
+ "see": [
+  "unitree-h1",
+  "unitree-h2"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Grace",
+   "url": "https://en.wikipedia.org/w/index.php?search=Grace+Awakening+Health",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

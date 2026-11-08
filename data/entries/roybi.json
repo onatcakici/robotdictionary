@@ -1,0 +1,45 @@
+{
+ "id": "roybi",
+ "name": "Roybi",
+ "aka": [],
+ "section": "other",
+ "kind": "companion robot",
+ "maker": "Roybi Robot",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Companion robot that relies on artificial intelligence software, made by the company Roybi Robot.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Roybi (Q105167048)",
+   "url": "https://www.wikidata.org/wiki/Q105167048",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, crunchbase.com",
+   "url": "https://www.crunchbase.com/organization/roybi",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, therobotreport.com",
+   "url": "https://www.therobotreport.com/roybi-develops-educational-robots-responds-pricing-pandemic-pressures/",
+   "kind": "cited"
+  },
+  {
+   "label": "Roybi Robot website",
+   "url": "https://roybirobot.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q105167048"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

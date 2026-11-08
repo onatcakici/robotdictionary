@@ -1,0 +1,41 @@
+{
+ "id": "transcriptic",
+ "name": "Transcriptic",
+ "aka": [],
+ "section": "arms",
+ "kind": "robotic cloud laboratory",
+ "maker": "Transcriptic",
+ "country": "United States",
+ "year": "",
+ "status": "discontinued",
+ "def": "Remote controlled robotic laboratory where researchers ran life science experiments over the internet.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Transcriptic",
+   "url": "https://www.ycombinator.com/companies/transcriptic",
+   "kind": "yc"
+  },
+  {
+   "label": "Transcriptic website",
+   "url": "http://transcriptic.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "transcriptic"
+ },
+ "yc": {
+  "company": "Transcriptic",
+  "batch": "Winter 2015",
+  "status": "Inactive",
+  "url": "https://www.ycombinator.com/companies/transcriptic"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

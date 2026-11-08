@@ -1,0 +1,50 @@
+{
+ "id": "hrp-4c",
+ "name": "HRP-4C",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "AIST",
+ "country": "Japan",
+ "year": "2009",
+ "status": "retired",
+ "def": "A singing, catwalk walking gynoid built to human proportions for entertainment research.",
+ "body": [
+  "AIST's HRP-4C walked a Tokyo fashion runway and sang with vocaloid software, built deliberately to average young Japanese female proportions to study entertainment robotics and human reaction."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 158 cm"
+  ]
+ ],
+ "see": [
+  "hrp-5p",
+  "khr-3-hubo"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia, HRP-4C",
+   "url": "https://en.wikipedia.org/wiki/HRP-4C",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, HRP-4C (Q2311954)",
+   "url": "https://www.wikidata.org/wiki/Q2311954",
+   "kind": "wikidata"
+  },
+  {
+   "label": "National Institute of Advanced Industrial Science and Technology website",
+   "url": "https://www.aist.go.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2311954"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

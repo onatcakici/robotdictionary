@@ -1,0 +1,33 @@
+{
+ "id": "husky",
+ "name": "Husky",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Clearpath Robotics",
+ "country": "Canada",
+ "year": "2010",
+ "status": "production",
+ "def": "The default outdoor research base of a thousand robotics papers.",
+ "body": [
+  "Clearpath's Husky is the citation champion of field robotics: for fifteen years the default outdoor base onto which universities bolt every new sensor and idea."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "jackal",
+  "dingo"
+ ],
+ "refs": [
+  {
+   "label": "Clearpath Robotics website",
+   "url": "https://clearpathrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

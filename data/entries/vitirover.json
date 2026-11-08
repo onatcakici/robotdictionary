@@ -1,0 +1,51 @@
+{
+ "id": "vitirover",
+ "name": "Vitirover",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Vitirover",
+ "country": "France",
+ "year": "",
+ "status": "production",
+ "def": "Small solar powered grazing robot that trims grass between vine rows and along railway verges, working inside a geofenced plot for days unattended.",
+ "body": [
+  "Vitirover is a small four wheeled solar powered mower, closer to a mechanical sheep than a tractor, that nibbles vegetation continuously at very low speed. Because it is light and slow it can work steep vineyard rows, embankments and rail verges where machinery or herbicide is impractical. It stays inside a geofence set by satellite positioning and is watched remotely, with a handler moving fleets between plots every few days. It is used in Bordeaux vineyards and on French railway land."
+ ],
+ "facts": [
+  "Used under contract with the French railway operator SNCF to control vegetation on track verges",
+  "Deployed in Bordeaux vineyards as an alternative to herbicide and mechanical weeding",
+  "Designed to be light enough to work slopes and soft ground without compacting soil"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheeled electric drive with a small rotary cutting blade"
+  ],
+  [
+   "Power",
+   "Onboard solar panel charging a battery, allowing continuous unattended work"
+  ],
+  [
+   "Sensors",
+   "Satellite positioning with geofence boundaries and remote telemetry"
+  ],
+  [
+   "Autonomy",
+   "Grazes autonomously inside a geofenced plot for days, monitored remotely by a fleet handler"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Vitirover website",
+   "url": "https://www.vitirover.fr",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

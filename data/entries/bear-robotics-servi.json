@@ -1,0 +1,72 @@
+{
+ "id": "bear-robotics-servi",
+ "name": "Servi",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Bear Robotics",
+ "country": "United States",
+ "year": "2020",
+ "status": "production",
+ "def": "Tray carrying restaurant robot that brings food from the kitchen to tables and returns dirty dishes along a mapped route.",
+ "body": [
+  "Servi is a wheeled service robot with two open trays and a bus tub, sized to pass through aisles as narrow as about 55 cm. Lidar and depth cameras give it a near continuous view of its surroundings so it can drive itself between kitchen, tables and bussing station without ceiling markers. Staff load it, tap a table number and let it run, which cuts the walking part of table service. It is deployed in casual dining chains, hotels, cafeterias and care facilities."
+ ],
+ "facts": [
+  "Distributed in Japan by SoftBank Robotics from 2020",
+  "LG Electronics became the majority owner of Bear Robotics in 2024",
+  "Carries about 10 kg per tray, roughly 30 kg in total"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.04 m"
+  ],
+  [
+   "Payload",
+   "30 kg"
+  ],
+  [
+   "Top speed",
+   "1.2 m/s (4.3 km/h)"
+  ],
+  [
+   "Runtime",
+   "10 h"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with a charging dock"
+  ],
+  [
+   "Sensors",
+   "Lidar and depth cameras with near zero blind spot coverage"
+  ],
+  [
+   "Autonomy",
+   "Self driving navigation on a learned floor map with obstacle avoidance"
+  ],
+  [
+   "Trays",
+   "three"
+  ]
+ ],
+ "see": [
+  "shakey",
+  "exotec-skypod"
+ ],
+ "refs": [
+  {
+   "label": "Bear Robotics website",
+   "url": "https://www.bearrobotics.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "servi"
+ ]
+}

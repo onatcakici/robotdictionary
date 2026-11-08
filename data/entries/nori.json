@@ -1,0 +1,41 @@
+{
+ "id": "nori",
+ "name": "Nori",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Nori",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "American made humanoid announced at a price of $1,688.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Nori",
+   "url": "https://www.ycombinator.com/companies/noril1",
+   "kind": "yc"
+  },
+  {
+   "label": "Nori website",
+   "url": "http://norirobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "noril1"
+ },
+ "yc": {
+  "company": "Nori",
+  "batch": "Summer 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/noril1"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

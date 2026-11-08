@@ -1,0 +1,55 @@
+{
+ "id": "monarch-mk-v",
+ "name": "Monarch MK-V",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Monarch Tractor",
+ "country": "United States",
+ "year": "2020",
+ "status": "production",
+ "def": "Battery electric compact utility tractor with driver optional autonomy, sold for vineyards, orchards and dairies, with cameras for row following and safety.",
+ "body": [
+  "The MK-V is a battery electric utility tractor sized for vineyard and orchard rows, rated at about 40 horsepower continuous with a 70 horsepower peak. It can be driven conventionally, driven by gesture and remote control, or left to run recorded rows on its own, with a camera ring watching for people and obstacles. Exportable electrical power lets it run electric implements. Farms use it for mowing, spraying, towing and hauling in California and elsewhere."
+ ],
+ "facts": [
+  "Rated 40 horsepower continuous and 70 horsepower peak, with a 14 hour working day on a charge",
+  "Assembled in Livermore, California, with a manufacturing partnership with Foxconn in Ohio",
+  "Widely used in California wine grape vineyards and on dairies"
+ ],
+ "specs": [
+  [
+   "Runtime",
+   "14 h"
+  ],
+  [
+   "Actuation",
+   "Four wheel drive battery electric tractor with a category one and two three point hitch"
+  ],
+  [
+   "Power",
+   "Battery electric with 5.6 kilowatts of exportable power"
+  ],
+  [
+   "Sensors",
+   "360 degree camera coverage with collision prevention and power take off protection"
+  ],
+  [
+   "Autonomy",
+   "Driver optional operation with row following and gesture control; one operator can supervise up to eight tractors"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Monarch Tractor website",
+   "url": "https://www.monarchtractor.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

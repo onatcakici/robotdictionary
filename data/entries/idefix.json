@@ -1,0 +1,76 @@
+{
+ "id": "idefix",
+ "name": "Idefix",
+ "aka": [],
+ "section": "rovers",
+ "kind": "phobos rover",
+ "maker": "CNES and German Aerospace Center",
+ "country": "France",
+ "year": "2026",
+ "status": "service",
+ "def": "Small rover built by France's CNES and Germany's DLR with help from JAXA, carried by the MMX spacecraft to set down on and explore the Martian moon Phobos.",
+ "body": [],
+ "facts": [
+  "Lifted off aboard MMX on 19 October 2026",
+  "Mass 23.47 kg; 41 cm long, 37 cm wide and 23 cm high",
+  "Meant to survey Phobos ahead of MMX's own landing and sample collection"
+ ],
+ "specs": [
+  [
+   "Height",
+   "23 cm"
+  ],
+  [
+   "Mass",
+   "23.47 kg"
+  ],
+  [
+   "Length",
+   "41 cm"
+  ],
+  [
+   "Width",
+   "37 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Idefix (rover)",
+   "url": "https://en.wikipedia.org/wiki/Idefix_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Q119780763 (Q119780763)",
+   "url": "https://www.wikidata.org/wiki/Q119780763",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, dlr.de",
+   "url": "https://www.dlr.de/en/research-and-transfer/projects-and-missions/mmx",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, cnes.fr",
+   "url": "https://cnes.fr/actualites/rover-de-mission-mmx-baptise-idefixr",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, space.com",
+   "url": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
+   "kind": "cited"
+  },
+  {
+   "label": "CNES website",
+   "url": "https://cnes.fr/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q119780763"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

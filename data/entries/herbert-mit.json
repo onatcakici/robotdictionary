@@ -1,0 +1,28 @@
+{
+ "id": "herbert-mit",
+ "name": "Herbert",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "research robot",
+ "maker": "MIT",
+ "country": "United States",
+ "year": "",
+ "status": "retired",
+ "def": "Wheeled robot from Rodney Brooks's group at MIT that roamed offices collecting empty soda cans with its arm.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/w/index.php?search=Herbert+robot+Brooks+MIT",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": "epaulard",
+ "name": "Épaulard",
+ "aka": [
+  "Epaulard"
+ ],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "",
+ "country": "France",
+ "year": "",
+ "status": "",
+ "def": "Uncrewed underwater vehicle from France, operated remotely and belonging to the Ifremer institute, for work beneath the sea surface.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Épaulard",
+   "url": "https://en.wikipedia.org/wiki/Épaulard",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Épaulard (Q3589067)",
+   "url": "https://www.wikidata.org/wiki/Q3589067",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, wwz.ifremer.fr",
+   "url": "https://wwz.ifremer.fr/grands_fonds/Les-moyens/Les-engins/Les-robots/Robots-Ifremer/L-Epaulard",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3589067"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

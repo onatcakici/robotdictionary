@@ -1,0 +1,37 @@
+{
+ "id": "usv-maxlimer",
+ "name": "USV Maxlimer",
+ "aka": [],
+ "section": "marine",
+ "kind": "unmanned surface vessel",
+ "maker": "",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "service",
+ "def": "Uncrewed surface vessel run by the British firm SEA-KIT International that can work semi autonomously or under remote control, and won the Shell Ocean Discovery X Prize.",
+ "body": [],
+ "facts": [
+  "Afterwards served to demonstrate uncrewed offshore operations beyond the horizon"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, USV Maxlimer",
+   "url": "https://en.wikipedia.org/wiki/USV_Maxlimer",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, USV Maxlimer (Q104853541)",
+   "url": "https://www.wikidata.org/wiki/Q104853541",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q104853541"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

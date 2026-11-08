@@ -1,0 +1,80 @@
+{
+ "id": "xiaomi-cyberdog",
+ "name": "CyberDog",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Xiaomi",
+ "country": "China",
+ "year": "2021",
+ "status": "discontinued",
+ "def": "Xiaomi's first quadruped, released as a limited run of one thousand units for developers at 9,999 yuan.",
+ "body": [
+  "CyberDog uses twelve in house servo motors rated at about thirty two newton metres, an Nvidia Jetson Xavier NX computer and eleven sensors including a depth camera and ultra wide angle fisheye lenses. Xiaomi published a developer interface and shipped the robot to engineers and enthusiasts rather than general consumers, positioning it as an open platform. It trotted at over three metres per second, followed a person and performed backflips, and was replaced by the smaller CyberDog 2 in 2023."
+ ],
+ "facts": [
+  "Sold as one thousand units at 9,999 yuan to developers in August 2021",
+  "Shipped with an open developer interface rather than as a finished consumer product"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "3.2 m/s (11.5 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "In house electric servo motors rated about 32 newton metres"
+  ],
+  [
+   "Power",
+   "Onboard lithium battery"
+  ],
+  [
+   "Sensors",
+   "Eleven sensors including depth and fisheye cameras, ultrasonic and inertial sensing"
+  ],
+  [
+   "Autonomy",
+   "Onboard Nvidia Jetson computing with person following and voice control"
+  ]
+ ],
+ "see": [
+  "cyberone",
+  "cyberdog-2"
+ ],
+ "refs": [
+  {
+   "label": "Xiaomi website",
+   "url": "https://www.mi.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, CyberDog (Q108071929)",
+   "url": "https://www.wikidata.org/wiki/Q108071929",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, blog.mi.com",
+   "url": "https://blog.mi.com/en/2021/08/10/xiaomi-launches-cyberdog-an-open-source-quadruped-robot-companion/",
+   "kind": "cited"
+  },
+  {
+   "label": "Xiaomi website",
+   "url": "https://www.mi.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q108071929"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "cyberdog"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "id": "teleo",
+ "name": "Teleo",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "remote operated heavy equipment",
+ "maker": "Teleo",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Retrofit that turns dozers, trucks and loaders into supervised autonomous machines so one operator can run several from a control room; the company was acquired.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Teleo",
+   "url": "https://www.ycombinator.com/companies/teleo",
+   "kind": "yc"
+  },
+  {
+   "label": "Teleo website",
+   "url": "http://www.teleo.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "teleo"
+ },
+ "yc": {
+  "company": "Teleo",
+  "batch": "Winter 2020",
+  "status": "Acquired",
+  "url": "https://www.ycombinator.com/companies/teleo"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

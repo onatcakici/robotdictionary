@@ -1,0 +1,39 @@
+{
+ "id": "i-bot",
+ "name": "I-Bot",
+ "aka": [
+  "Microbric I-Bot"
+ ],
+ "section": "other",
+ "kind": "educational robot kit",
+ "maker": "Microbric",
+ "country": "Australia",
+ "year": "2005",
+ "status": "",
+ "def": "Small robot from Microbric, given out in kit form by the Adelaide Advertiser newspaper in 2005 to introduce readers to electronics and robotics.",
+ "body": [],
+ "facts": [
+  "Distributed through the Adelaide Advertiser in South Australia in November and December 2005"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, I-bot",
+   "url": "https://en.wikipedia.org/wiki/I-bot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, I-bot (Q17055693)",
+   "url": "https://www.wikidata.org/wiki/Q17055693",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17055693"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

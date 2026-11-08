@@ -1,0 +1,43 @@
+{
+ "id": "coco",
+ "name": "Coco",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "remote piloted delivery cart",
+ "maker": "Coco Robotics",
+ "country": "United States",
+ "year": "2020",
+ "status": "production",
+ "def": "A remote piloted delivery cart working restaurant districts of Los Angeles and beyond.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "cartken",
+  "cozmo"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia, Coco (robot)",
+   "url": "https://en.wikipedia.org/wiki/Coco_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Coco (Q5139731)",
+   "url": "https://www.wikidata.org/wiki/Q5139731",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Coco Robotics website",
+   "url": "https://www.cocodelivery.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5139731"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

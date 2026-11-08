@@ -1,0 +1,41 @@
+{
+ "id": "edgerun",
+ "name": "Edgerun",
+ "aka": [],
+ "section": "other",
+ "kind": "military exoskeleton",
+ "maker": "Edgerun",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Powered exoskeleton developed for soldiers.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Edgerun",
+   "url": "https://www.ycombinator.com/companies/edgerun",
+   "kind": "yc"
+  },
+  {
+   "label": "Edgerun website",
+   "url": "https://edgerun.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "edgerun"
+ },
+ "yc": {
+  "company": "Edgerun",
+  "batch": "Summer 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/edgerun"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

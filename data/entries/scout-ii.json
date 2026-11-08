@@ -1,0 +1,50 @@
+{
+ "id": "scout-ii",
+ "name": "Scout II",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "McGill University",
+ "country": "Canada",
+ "year": "2000",
+ "status": "retired",
+ "def": "Minimalist running quadruped from McGill with only one actuated joint per leg and passive springy lower legs.",
+ "body": [
+  "Scout II was built at the Ambulatory Robotics Laboratory to test how little actuation a running machine really needs. Each leg had a single motor driven hip and a compliant prismatic lower leg that stored and returned energy, and a simple open loop controller cycled the hips to produce bounding. The robot bounded at speeds above one metre per second and climbed stairs, showing that mechanical compliance can replace much of the control complexity in dynamic legged locomotion."
+ ],
+ "facts": [
+  "Bounded and climbed stairs using a single actuator per leg",
+  "Frequently cited as evidence that leg compliance can simplify running control"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "1.2 m/s (4.3 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "4"
+  ],
+  [
+   "Actuation",
+   "One electric motor per leg at the hip with passive compliant prismatic legs"
+  ],
+  [
+   "Autonomy",
+   "Open loop bounding controller"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "McGill University website",
+   "url": "https://www.mcgill.ca",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

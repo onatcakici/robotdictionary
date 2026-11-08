@@ -1,0 +1,51 @@
+{
+ "id": "ladybird-of-szeged",
+ "name": "Ladybird of Szeged",
+ "aka": [
+  "Ladybug of Szeged"
+ ],
+ "section": "other",
+ "kind": "robotic animal",
+ "maker": "University of Szeged",
+ "country": "Hungary",
+ "year": "1956",
+ "status": "",
+ "def": "Early Hungarian robot shaped like a red, black spotted ladybird, built at the University of Szeged to reproduce Pavlovian conditioned reflexes mechanically.",
+ "body": [],
+ "facts": [
+  "Built between 1956 and 1957 by Dániel Muszka",
+  "Regarded as the earliest robotic animal",
+  "One of the first robots built in Hungary"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Ladybird of Szeged",
+   "url": "https://en.wikipedia.org/wiki/Ladybird_of_Szeged",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ladybird of Szeged (Q20439288)",
+   "url": "https://www.wikidata.org/wiki/Q20439288",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, itf.njszt.hu",
+   "url": "https://itf.njszt.hu/termek_hardware/szegedi-katicabogar/",
+   "kind": "cited"
+  },
+  {
+   "label": "University of Szeged website",
+   "url": "https://u-szeged.hu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q20439288"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

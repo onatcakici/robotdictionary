@@ -1,0 +1,28 @@
+{
+ "id": "ecovacs-winbot",
+ "name": "Winbot",
+ "aka": [],
+ "section": "other",
+ "kind": "window cleaning robot",
+ "maker": "Ecovacs",
+ "country": "China",
+ "year": "",
+ "status": "production",
+ "def": "Window cleaning robot from Ecovacs that holds itself to the glass by suction and wipes in a set pattern.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Ecovacs website",
+   "url": "https://www.ecovacs.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

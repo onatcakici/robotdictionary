@@ -1,0 +1,64 @@
+{
+ "id": "poppy",
+ "name": "Poppy",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Inria Flowers Laboratory",
+ "country": "France",
+ "year": "2013",
+ "status": "research",
+ "def": "Open source 3D printed humanoid from Inria used for developmental robotics experiments and widely adopted in schools and universities.",
+ "body": [
+  "Poppy Humanoid is about 84 cm tall, weighs 3.5 kg and has 25 degrees of freedom built from servo motors and a 3D printed skeleton, including a multi part articulated spine and slightly bent thigh bones that improve walking. All mechanical files, electronics and the Python control library are published under open licences so users can print variant bodies and test how morphology changes behaviour. Inria's Flowers team introduced it in 2013 as the first complete 3D printed open source humanoid, and it has since been used in classrooms, art projects and cognitive robotics studies."
+ ],
+ "facts": [
+  "First complete open source 3D printed humanoid platform",
+  "Used in schools, universities and art projects worldwide"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.84 m"
+  ],
+  [
+   "Mass",
+   "3.5 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "25"
+  ],
+  [
+   "Actuation",
+   "Servo motors with compliant control on a 3D printed skeleton"
+  ],
+  [
+   "Autonomy",
+   "Open source Python control library"
+  ]
+ ],
+ "see": [
+  "pr2",
+  "promobot"
+ ],
+ "refs": [
+  {
+   "label": "Inria Flowers Laboratory website",
+   "url": "https://www.inria.fr",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, Poppy (Q125962759)",
+   "url": "https://www.wikidata.org/wiki/Q125962759",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q125962759"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

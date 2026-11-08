@@ -1,0 +1,28 @@
+{
+ "id": "silver-arm",
+ "name": "Silver Arm",
+ "aka": [],
+ "section": "arms",
+ "kind": "research robot arm",
+ "maker": "MIT",
+ "country": "United States",
+ "year": "1974",
+ "status": "retired",
+ "def": "Early robot arm built by David Silver at MIT that used touch and pressure sensors to assemble small parts.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/w/index.php?search=Silver+Arm+robot",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

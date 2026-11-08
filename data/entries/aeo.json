@@ -1,0 +1,31 @@
+{
+ "id": "aeo",
+ "name": "Aeo",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Aeolus Robotics",
+ "country": "Taiwan",
+ "year": "2021",
+ "status": "pilot",
+ "def": "A wheeled care humanoid patrolling Japanese eldercare homes with UV lamps and soft grippers.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "aeon",
+  "alex"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Aeo",
+   "url": "https://en.wikipedia.org/w/index.php?search=Aeo+Aeolus+Robotics",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

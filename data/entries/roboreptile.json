@@ -1,0 +1,44 @@
+{
+ "id": "roboreptile",
+ "name": "Roboreptile",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "toy robot",
+ "maker": "WowWee",
+ "country": "",
+ "year": "2006",
+ "status": "",
+ "def": "Four legged reptilian toy robot from WowWee that uses infrared and sound sensors to explore on its own while steering clear of obstacles.",
+ "body": [],
+ "facts": [
+  "Released in China on 28 April 2006 and worldwide later that year",
+  "Able to rise onto its back legs and strike",
+  "Has modes that imitate the behavior of real animals"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Roboreptile",
+   "url": "https://en.wikipedia.org/wiki/Roboreptile",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Roboreptile (Q3437243)",
+   "url": "https://www.wikidata.org/wiki/Q3437243",
+   "kind": "wikidata"
+  },
+  {
+   "label": "WowWee website",
+   "url": "https://wowwee.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3437243"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,113 @@
+{
+ "id": "perseverance",
+ "name": "Perseverance",
+ "aka": [
+  "Mars 2020 rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "2020",
+ "status": "service",
+ "def": "Mars 2020 rover exploring Jezero crater, caching rock cores for possible return to Earth and testing oxygen production from atmospheric carbon dioxide.",
+ "body": [
+  "Perseverance landed in Jezero crater on 18 February 2021 to study an ancient river delta and collect samples for a possible return mission. It shares Curiosity's nuclear powered six wheel chassis but carries a coring drill, sealed sample tubes, the SHERLOC and PIXL instruments and the MOXIE oxygen demonstrator, and it deployed the Ingenuity helicopter. The rover has sealed dozens of rock and regolith cores, left a backup depot of tubes at Three Forks, and had driven more than 39 kilometres by the end of 2025.",
+  "Perseverance caches rock samples for a return mission that keeps being redesigned, and it carried Ingenuity, the first aircraft to fly on another planet, far beyond its five flight plan."
+ ],
+ "facts": [
+  "First mission to cache rock cores on another planet",
+  "MOXIE made oxygen from Martian carbon dioxide",
+  "Deployed Ingenuity, the first powered aircraft to fly on another planet"
+ ],
+ "specs": [
+  [
+   "Height",
+   "2.2 m"
+  ],
+  [
+   "Length",
+   "2.9 m"
+  ],
+  [
+   "Mass",
+   "1025 kg"
+  ],
+  [
+   "Distance driven",
+   "39.4 km"
+  ],
+  [
+   "Actuation",
+   "Six wheel rocker bogie drive with four corner steering"
+  ],
+  [
+   "Power",
+   "Multi mission radioisotope thermoelectric generator"
+  ],
+  [
+   "Sensors",
+   "Mastcam-Z, SuperCam, PIXL, SHERLOC, RIMFAX radar, MEDA weather station"
+  ],
+  [
+   "Autonomy",
+   "AutoNav and terrain relative navigation allowing driving while thinking"
+  ],
+  [
+   "Companion",
+   "Ingenuity helicopter"
+  ],
+  [
+   "Width",
+   "2.7 m"
+  ]
+ ],
+ "see": [
+  "sojourner",
+  "spirit"
+ ],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Perseverance (rover)",
+   "url": "https://en.wikipedia.org/wiki/Perseverance_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Perseverance (Q87749354)",
+   "url": "https://www.wikidata.org/wiki/Q87749354",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, jpl.nasa.gov",
+   "url": "https://www.jpl.nasa.gov/news/press_kits/mars_2020/download/mars_2020_launch_press_kit.pdf",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, mars.nasa.gov",
+   "url": "https://mars.nasa.gov/mars2020/spacecraft/rover/body/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, mars.nasa.gov",
+   "url": "https://mars.nasa.gov/mars2020/spacecraft/rover/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q87749354"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

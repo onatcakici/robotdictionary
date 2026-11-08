@@ -1,0 +1,52 @@
+{
+ "id": "lama",
+ "name": "LAMA",
+ "aka": [],
+ "section": "rovers",
+ "kind": "mars rover prototype",
+ "maker": "Mobile Vehicle Engineering Institute and Laboratory for Analysis and Architecture of Systems",
+ "country": "Russia",
+ "year": "1990",
+ "status": "prototype",
+ "def": "French autonomous Mars rover prototype from 1990, developed by the Mobile Vehicle Engineering Institute and the Laboratory for Analysis and Architecture of Systems and weighing 300 kg.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "185 cm"
+  ],
+  [
+   "Mass",
+   "300 kg"
+  ],
+  [
+   "Length",
+   "191.5 cm"
+  ],
+  [
+   "Width",
+   "120 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, LAMA robot - CnAM 44681 (Q3216558)",
+   "url": "https://www.wikidata.org/wiki/Q3216558",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Mobile Vehicle Engineering Institute website",
+   "url": "http://www.vniitransmash.ru/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3216558"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

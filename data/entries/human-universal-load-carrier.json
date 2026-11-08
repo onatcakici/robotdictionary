@@ -1,0 +1,46 @@
+{
+ "id": "human-universal-load-carrier",
+ "name": "Human Universal Load Carrier",
+ "aka": [
+  "HULC"
+ ],
+ "section": "medical",
+ "kind": "powered exoskeleton",
+ "maker": "Ekso Bionics and Berkeley Robotics and Human Engineering Laboratory",
+ "country": "United States",
+ "year": "2009",
+ "status": "prototype",
+ "def": "Untethered hydraulic exoskeleton developed for soldiers by H. Kazerooni's team at Ekso Bionics, intended to help wearers carry loads of up to 200 pounds.",
+ "body": [],
+ "facts": [
+  "Developed at the Berkeley Robotics and Human Engineering Laboratory from 2000",
+  "Unveiled on 26 February 2009 at the AUSA Winter Symposium, with Lockheed Martin taking an exclusive licence",
+  "Judged a failure because it hampered movement and increased muscle strain"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Human Universal Load Carrier",
+   "url": "https://en.wikipedia.org/wiki/Human_Universal_Load_Carrier",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Human Universal Load Carrier (Q5937678)",
+   "url": "https://www.wikidata.org/wiki/Q5937678",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Ekso Bionics website",
+   "url": "http://eksobionics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5937678"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

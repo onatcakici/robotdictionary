@@ -1,0 +1,38 @@
+{
+ "id": "nomad-200",
+ "name": "Nomad 200",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "mobile research robot",
+ "maker": "Nomadic Technologies",
+ "country": "",
+ "year": "",
+ "status": "discontinued",
+ "def": "Commercial mobile robot made by Nomadic Technologies in the 1990s, with a choice of sensors, chiefly for robotics lab courses and research and development.",
+ "body": [],
+ "facts": [
+  "Also known as the N200",
+  "Manufactured in the 1990s by Nomadic Technologies, Inc."
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Nomad 200",
+   "url": "https://en.wikipedia.org/wiki/Nomad_200",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Nomad 200 (Q17063113)",
+   "url": "https://www.wikidata.org/wiki/Q17063113",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17063113"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

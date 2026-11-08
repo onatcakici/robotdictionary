@@ -1,0 +1,41 @@
+{
+ "id": "flywheel",
+ "name": "Flywheel",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "excavator retrofit",
+ "maker": "Flywheel AI",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Kit that converts existing excavators for remote operation and gathers the data used to train autonomous digging.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Flywheel AI",
+   "url": "https://www.ycombinator.com/companies/flywheel-ai",
+   "kind": "yc"
+  },
+  {
+   "label": "Flywheel AI website",
+   "url": "https://useflywheel.ai/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "flywheel-ai"
+ },
+ "yc": {
+  "company": "Flywheel AI",
+  "batch": "Summer 2025",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/flywheel-ai"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

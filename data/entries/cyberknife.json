@@ -1,0 +1,28 @@
+{
+ "id": "cyberknife",
+ "name": "CyberKnife",
+ "aka": [],
+ "section": "medical",
+ "kind": "radiosurgery robot",
+ "maker": "Accuray",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Radiation treatment system that mounts a linear accelerator on a robot arm to aim beams at tumours from many angles.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Accuray website",
+   "url": "https://www.accuray.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

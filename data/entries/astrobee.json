@@ -1,0 +1,78 @@
+{
+ "id": "astrobee",
+ "name": "Astrobee",
+ "aka": [
+  "Astrobee system"
+ ],
+ "section": "other",
+ "kind": "free flying robot",
+ "maker": "Ames Research Center",
+ "country": "United States",
+ "year": "2014",
+ "status": "service",
+ "def": "System of three cube shaped free flying robots from NASA's Ames Research Center that helps astronauts with routine chores aboard the International Space Station.",
+ "body": [],
+ "facts": [
+  "The three robots are named Honey, Queen and Bumble",
+  "Each robot is a cube 31.75 cm on a side",
+  "A docking station lets the robots recharge"
+ ],
+ "specs": [
+  [
+   "Height",
+   "31.75 cm"
+  ],
+  [
+   "Mass",
+   "10.1 kg"
+  ],
+  [
+   "Length",
+   "31.75 cm"
+  ],
+  [
+   "Width",
+   "31.75 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.nasa.gov/astrobee",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Astrobee (robot)",
+   "url": "https://en.wikipedia.org/wiki/Astrobee_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Astrobee (Q63976358)",
+   "url": "https://www.wikidata.org/wiki/Q63976358",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, ntrs.nasa.gov",
+   "url": "https://ntrs.nasa.gov/citations/20160007769",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, ntrs.nasa.gov",
+   "url": "https://ntrs.nasa.gov/citations/20200000079",
+   "kind": "cited"
+  },
+  {
+   "label": "Ames Research Center website",
+   "url": "http://www.nasa.gov/ames",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q63976358"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

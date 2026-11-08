@@ -1,0 +1,28 @@
+{
+ "id": "qoobo",
+ "name": "Qoobo",
+ "aka": [],
+ "section": "other",
+ "kind": "companion robot",
+ "maker": "Yukai Engineering",
+ "country": "Japan",
+ "year": "2018",
+ "status": "production",
+ "def": "Tailed cushion robot that wags its tail when stroked, made as a pet substitute.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Yukai Engineering website",
+   "url": "https://www.ux-xu.com/en",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

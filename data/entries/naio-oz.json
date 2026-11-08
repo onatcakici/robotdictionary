@@ -1,0 +1,60 @@
+{
+ "id": "naio-oz",
+ "name": "Oz",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Naio Technologies",
+ "country": "France",
+ "year": "2015",
+ "status": "production",
+ "def": "Small electric tool carrier that weeds, sows and marks rows in market garden beds, driving itself between crop rows using satellite guidance.",
+ "body": [
+  "Oz is the smallest of Naio's field robots, a compact electric platform that straddles or runs between narrow vegetable beds. It follows rows autonomously using corrected satellite positioning and carries a wide catalogue of interchangeable tools for weeding, sowing and row marking. It can also tow a small trailer or crates around a holding. Market gardeners and specialty crop growers in France and neighbouring countries use it on small intensive plots."
+ ],
+ "facts": [
+  "More than 35 compatible implements are offered for weeding, sowing and row marking",
+  "Naio also builds the larger Dino for vegetable beds and Ted for vineyards",
+  "Aimed at market gardening and aromatic plant growers working small plots"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "60 kg"
+  ],
+  [
+   "Runtime",
+   "8 h"
+  ],
+  [
+   "Actuation",
+   "Four wheeled electric drive tool carrier with a maximum working width of one metre"
+  ],
+  [
+   "Power",
+   "Lithium battery giving up to eight hours of work"
+  ],
+  [
+   "Autonomy",
+   "Autonomous row work guided by corrected satellite positioning, with obstacle detection and emergency stop"
+  ]
+ ],
+ "see": [
+  "p800",
+  "packbot"
+ ],
+ "refs": [
+  {
+   "label": "Naio Technologies website",
+   "url": "https://www.naio-technologies.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "oz"
+ ]
+}

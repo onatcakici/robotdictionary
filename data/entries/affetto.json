@@ -1,0 +1,45 @@
+{
+ "id": "affetto",
+ "name": "Affetto",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "research robot",
+ "maker": "University of Osaka",
+ "country": "Japan",
+ "year": "2012",
+ "status": "research",
+ "def": "Research robot developed at the University of Osaka in Japan, first built in 2012.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://techcrunch.com/2018/11/21/affetto-is-the-wild-boy-head-robot-of-your-nightmares/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Affeto (Q2826052)",
+   "url": "https://www.wikidata.org/wiki/Q2826052",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, letelegramme.fr",
+   "url": "https://www.letelegramme.fr/ig/generales/france-monde/monde/insolite-affeto-un-bebe-robot-stupefiant-22-08-2012-1814462.php",
+   "kind": "cited"
+  },
+  {
+   "label": "University of Osaka website",
+   "url": "https://www.osaka-u.ac.jp/ja",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2826052"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

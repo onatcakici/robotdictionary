@@ -1,0 +1,30 @@
+{
+ "id": "patrolbot",
+ "name": "PatrolBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "service robot",
+ "maker": "ActivMedia Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Service robot made in the United States by ActivMedia Robotics, a company later renamed Mobile Robots Inc.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, PatrolBot (Q12757247)",
+   "url": "https://www.wikidata.org/wiki/Q12757247",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q12757247"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

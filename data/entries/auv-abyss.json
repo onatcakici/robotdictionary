@@ -1,0 +1,44 @@
+{
+ "id": "auv-abyss",
+ "name": "AUV ABYSS",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Hydroid",
+ "country": "United States",
+ "year": "2008",
+ "status": "service",
+ "def": "REMUS 6000 autonomous underwater vehicle built by Hydroid in 2008 and owned by GEOMAR, used to map the deep seabed and gather data from the water column.",
+ "body": [],
+ "facts": [
+  "Named after the abyssal plain, the seafloor zone between 2000 and 6000 m",
+  "Runs on lithium ion batteries for dives of up to 22 hours",
+  "About 4 m long"
+ ],
+ "specs": [
+  [
+   "Length",
+   "4 m"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, AUV Abyss",
+   "url": "https://en.wikipedia.org/wiki/AUV_Abyss",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, AUV ABYSS (Q300117)",
+   "url": "https://www.wikidata.org/wiki/Q300117",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q300117"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

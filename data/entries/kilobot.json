@@ -1,0 +1,40 @@
+{
+ "id": "kilobot",
+ "name": "Kilobot",
+ "aka": [],
+ "section": "other",
+ "kind": "swarm robot",
+ "maker": "Harvard University",
+ "country": "",
+ "year": "",
+ "status": "research",
+ "def": "Low cost swarm robot from Harvard University that works in groups to perform tasks beyond a single unit, such as collective transport and self assembly into shapes.",
+ "body": [],
+ "facts": [
+  "Stands 3.3 cm tall",
+  "Parts cost under $15 per robot",
+  "Created by Radhika Nagpal and Michael Rubenstein",
+  "In 2014 a swarm of 1,024 Kilobots arranged itself into shapes on command"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Kilobot",
+   "url": "https://en.wikipedia.org/wiki/Kilobot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Kilobot (Q18749042)",
+   "url": "https://www.wikidata.org/wiki/Q18749042",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q18749042"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,43 @@
+{
+ "id": "armored-combat-engineer-robot",
+ "name": "Armored Combat Engineer Robot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "Mesa Robotics",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Tracked military robot from Mesa Robotics, about as big as a small bulldozer with a weight of 2.25 tons, used to clear obstacles and explosives and haul cargo.",
+ "body": [],
+ "facts": [
+  "Top speed of 6.3 mph on its tracks",
+  "Can also tow disabled vehicles and help disarm landmines"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.mesa-robotics.com/acer.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Armored Combat Engineer Robot",
+   "url": "https://en.wikipedia.org/wiki/Armored_Combat_Engineer_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Armored Combat Engineer Robot (Q4793706)",
+   "url": "https://www.wikidata.org/wiki/Q4793706",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4793706"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

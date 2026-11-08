@@ -1,0 +1,44 @@
+{
+ "id": "hardiman",
+ "name": "Hardiman",
+ "aka": [],
+ "section": "medical",
+ "kind": "powered exoskeleton",
+ "maker": "General Electric",
+ "country": "",
+ "year": "1965",
+ "status": "retired",
+ "def": "Early powered exoskeleton from General Electric, meant to give its wearer the strength to raise 1500 pounds (680 kg) with little effort.",
+ "body": [],
+ "facts": [
+  "Built by General Electric between 1965 and 1971",
+  "Described as the first attempt at a practical powered exoskeleton",
+  "Project led by engineer Ralph Mosher, who had earlier worked on the Handyman"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Hardiman",
+   "url": "https://en.wikipedia.org/wiki/Hardiman",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Hardiman (Q1356045)",
+   "url": "https://www.wikidata.org/wiki/Q1356045",
+   "kind": "wikidata"
+  },
+  {
+   "label": "General Electric website",
+   "url": "https://www.ge.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1356045"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

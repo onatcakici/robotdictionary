@@ -1,0 +1,37 @@
+{
+ "id": "indro",
+ "name": "Indro",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "",
+ "country": "India",
+ "year": "",
+ "status": "",
+ "def": "Indian humanoid robot that stands 6.5 feet (2.0 m) tall, making it the tallest of its kind in the country.",
+ "body": [],
+ "facts": [
+  "Height of 6.5 feet (2.0 m), a record for humanoid robots in India"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Indro robot",
+   "url": "https://en.wikipedia.org/wiki/Indro_robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Indro robot (Q113480399)",
+   "url": "https://www.wikidata.org/wiki/Q113480399",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q113480399"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

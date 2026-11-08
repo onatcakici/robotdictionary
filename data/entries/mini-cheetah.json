@@ -1,0 +1,82 @@
+{
+ "id": "mini-cheetah",
+ "name": "Mini Cheetah",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "MIT Biomimetic Robotics Laboratory",
+ "country": "United States",
+ "year": "2019",
+ "status": "research",
+ "def": "Nine kilogram electric quadruped built from modular actuators, the first four legged robot shown performing a backflip.",
+ "body": [
+  "Mini Cheetah uses twelve identical low cost modular actuators derived from drone motors, which makes it cheap to build and quick to repair after hard falls. Its controllers came from the Cheetah 3 line and were later replaced in research work by learned policies, and it trots at about 2.45 metres per second and recovers from being kicked. MIT built a small fleet and lent units to other universities, and the design was widely copied, including by commercial makers in China.",
+  "MIT's Mini Cheetah was the first quadruped to backflip, and its open design philosophy spawned a family of clones that seeded China's quadruped industry."
+ ],
+ "facts": [
+  "First quadruped robot to perform a backflip",
+  "Its open documentation and modular actuator design were widely copied in low cost quadrupeds"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "9 kg"
+  ],
+  [
+   "Top speed",
+   "2.45 m/s (8.8 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Twelve modular proprioceptive brushless actuators"
+  ],
+  [
+   "Power",
+   "Onboard lithium polymer battery"
+  ],
+  [
+   "Sensors",
+   "Inertial measurement unit, joint encoders"
+  ],
+  [
+   "Autonomy",
+   "Onboard model predictive and learned controllers"
+  ],
+  [
+   "Feat",
+   "first quadruped backflip"
+  ]
+ ],
+ "see": [
+  "mit-cheetah-3",
+  "mini-pupper"
+ ],
+ "refs": [
+  {
+   "label": "MIT Biomimetic Robotics Laboratory website",
+   "url": "https://www.mit.edu",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, MiniCheetah (Q96349022)",
+   "url": "https://www.wikidata.org/wiki/Q96349022",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://www.bostondynamics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q96349022"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

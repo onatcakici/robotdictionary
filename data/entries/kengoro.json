@@ -1,0 +1,31 @@
+{
+ "id": "kengoro",
+ "name": "Kengoro",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "musculoskeletal humanoid",
+ "maker": "University of Tokyo",
+ "country": "Japan",
+ "year": "2016",
+ "status": "research",
+ "def": "A musculoskeletal humanoid that sweats through its frame to cool its motors while doing push ups.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "kirobo",
+  "kodomoroid"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Kengoro",
+   "url": "https://en.wikipedia.org/w/index.php?search=Kengoro+University+of+Tokyo",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

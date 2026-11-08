@@ -1,0 +1,37 @@
+{
+ "id": "robosquirrel",
+ "name": "Robosquirrel",
+ "aka": [],
+ "section": "other",
+ "kind": "robotic animal",
+ "maker": "University of California, Davis and San Diego State University",
+ "country": "United States",
+ "year": "",
+ "status": "research",
+ "def": "Robotic squirrel built in several versions by researchers at the University of California, Davis and San Diego State University to study how predator and prey signals evolve.",
+ "body": [],
+ "facts": [
+  "Listed by Senator Tom Coburn in his Wastebook 2012 as wasteful federal spending"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Robosquirrel",
+   "url": "https://en.wikipedia.org/wiki/Robosquirrel",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robosquirrel (Q7353310)",
+   "url": "https://www.wikidata.org/wiki/Q7353310",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7353310"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

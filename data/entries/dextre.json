@@ -1,0 +1,76 @@
+{
+ "id": "dextre",
+ "name": "Dextre",
+ "aka": [
+  "Special Purpose Dexterous Manipulator",
+  "SPDM",
+  "Special Purpose Dextrous Manipulator"
+ ],
+ "section": "arms",
+ "kind": "space robot",
+ "maker": "MDA Space",
+ "country": "Canada",
+ "year": "2008",
+ "status": "service",
+ "def": "Robotic telemanipulator with two arms on the International Space Station, built by MDA Space to handle repair work that would otherwise call for spacewalking astronauts.",
+ "body": [],
+ "facts": [
+  "Launched on 11 March 2008 on mission STS-123",
+  "Part of the station's Mobile Servicing System",
+  "Stands 3.67 m tall with a mass of 1710 kg"
+ ],
+ "specs": [
+  [
+   "Height",
+   "3.67 m"
+  ],
+  [
+   "Mass",
+   "1710 kg"
+  ],
+  [
+   "Width",
+   "2.37 m"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Dextre",
+   "url": "https://en.wikipedia.org/wiki/Dextre",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Dextre (Q904690)",
+   "url": "https://www.wikidata.org/wiki/Q904690",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, asc-csa.gc.ca",
+   "url": "https://www.asc-csa.gc.ca/eng/iss/dextre/about.asp",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, asc-csa.gc.ca",
+   "url": "https://www.asc-csa.gc.ca/eng/iss/dextre/data-sheet.asp",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, nasa.gov",
+   "url": "https://www.nasa.gov/pdf/216132main_sts123_press_kit_b.pdf",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, nasa.gov",
+   "url": "https://www.nasa.gov/international-space-station/international-space-station-assembly-elements/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q904690"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

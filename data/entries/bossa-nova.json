@@ -1,0 +1,31 @@
+{
+ "id": "bossa-nova",
+ "name": "Bossa Nova 2020",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Bossa Nova Robotics",
+ "country": "United States",
+ "year": "2017",
+ "status": "retired",
+ "def": "Walmart's shelf scanner fleet, cancelled overnight when the retailer changed course.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "botvac",
+  "braava"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Bossa Nova 2020",
+   "url": "https://en.wikipedia.org/w/index.php?search=Bossa+Nova+2020+Bossa+Nova+Robotics",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

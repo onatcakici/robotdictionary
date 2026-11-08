@@ -1,0 +1,31 @@
+{
+ "id": "petman",
+ "name": "PETMAN",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2011",
+ "status": "retired",
+ "def": "An anthropomorphic test rig that marched in chemical suits to trial protective clothing.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "atlas-hydraulic",
+  "atlas"
+ ],
+ "refs": [
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://bostondynamics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "black-knight",
+ "name": "Black Knight",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "unmanned ground combat vehicle",
+ "maker": "BAE Systems",
+ "country": "",
+ "year": "",
+ "status": "prototype",
+ "def": "Prototype unmanned ground combat vehicle from BAE Systems, resembling a tank, weighing about 12 tons and armed with a 30 mm gun, under evaluation by the US Army.",
+ "body": [],
+ "facts": [
+  "Can be airlifted by a Lockheed C-130 Hercules",
+  "Also carries a 7.62 mm coaxial machine gun",
+  "Powered by a 300 horsepower (220 kW) Caterpillar diesel engine"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Black Knight (vehicle)",
+   "url": "https://en.wikipedia.org/wiki/Black_Knight_(vehicle)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Black Knight (Q4921119)",
+   "url": "https://www.wikidata.org/wiki/Q4921119",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4921119"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,58 @@
+{
+ "id": "aibo-ers-1000",
+ "name": "aibo ERS-1000",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Sony",
+ "country": "Japan",
+ "year": "2018",
+ "status": "discontinued",
+ "def": "Sony's revival of its robot dog, a twenty two axis home companion with camera based recognition and cloud connected behaviour.",
+ "body": [
+  "The ERS-1000 walks on four legs driven by compact actuators, has organic light emitting diode eyes and uses front and rear cameras for mapping, face recognition and localisation. Behaviour learning runs partly in the cloud through a subscription service, so each unit develops differently depending on how its owner treats it. Sony launched it in Japan in January 2018 and later in the United States, and announced in June 2026 that sales would end once stock ran out while support for owners continued."
+ ],
+ "facts": [
+  "Twenty two axes of movement, more than any earlier AIBO",
+  "Sold in Japan from January 2018 and withdrawn from sale in 2026 with owner support continuing"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "2.2 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "22"
+  ],
+  [
+   "Actuation",
+   "Compact electric servo actuators"
+  ],
+  [
+   "Power",
+   "Rechargeable lithium ion battery with charging station"
+  ],
+  [
+   "Sensors",
+   "Front and rear cameras, time of flight sensor, four microphones, touch sensors"
+  ],
+  [
+   "Autonomy",
+   "Onboard and cloud behaviour learning with mapping and face recognition"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Sony website",
+   "url": "https://www.sony.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

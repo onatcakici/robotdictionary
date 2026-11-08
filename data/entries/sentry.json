@@ -1,0 +1,37 @@
+{
+ "id": "sentry",
+ "name": "Sentry",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Woods Hole Oceanographic Institution",
+ "country": "",
+ "year": "",
+ "status": "service",
+ "def": "Autonomous underwater vehicle made by the Woods Hole Oceanographic Institution that carries instruments for collecting samples, images and readings in the deep sea.",
+ "body": [],
+ "facts": [
+  "Designed to dive to 6,000 metres (20,000 ft)"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Sentry (AUV)",
+   "url": "https://en.wikipedia.org/wiki/Sentry_(AUV)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sentry (Q7451389)",
+   "url": "https://www.wikidata.org/wiki/Q7451389",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7451389"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

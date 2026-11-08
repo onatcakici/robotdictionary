@@ -1,0 +1,40 @@
+{
+ "id": "flex-robotic-system",
+ "name": "Flex Robotic System",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Technion, Israel Institute of Technology",
+ "country": "Israel",
+ "year": "2014",
+ "status": "",
+ "def": "Medical snake robot for single port surgery, developed at the Technion in Israel and dating from 2014.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://brml.technion.ac.il/show_project/13",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, The Flex Robotic System (Q96574417)",
+   "url": "https://www.wikidata.org/wiki/Q96574417",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Technion, Israel Institute of Technology website",
+   "url": "https://technion.ac.il",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q96574417"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

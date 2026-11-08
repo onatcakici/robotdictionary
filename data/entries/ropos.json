@@ -1,0 +1,42 @@
+{
+ "id": "ropos",
+ "name": "ROPOS",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "International Submarine Engineering",
+ "country": "",
+ "year": "",
+ "status": "service",
+ "def": "Remotely operated underwater vehicle used mainly for science, built in Vancouver by International Submarine Engineering and later purchased by the Canadian federal government.",
+ "body": [],
+ "facts": [
+  "The same government program also operated the crewed submersible Pisces IV"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.ropos.com/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, ROPOS",
+   "url": "https://en.wikipedia.org/wiki/ROPOS",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ROPOS (Q7277407)",
+   "url": "https://www.wikidata.org/wiki/Q7277407",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7277407"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

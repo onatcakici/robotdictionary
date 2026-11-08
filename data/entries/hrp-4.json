@@ -1,0 +1,37 @@
+{
+ "id": "hrp-4",
+ "name": "HRP-4",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "slim humanoid",
+ "maker": "AIST and Kawada Industries",
+ "country": "Japan",
+ "year": "2010",
+ "status": "research",
+ "def": "Slim humanoid from Japan's national research institute AIST and Kawada, lighter than earlier HRP machines.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "151 cm"
+  ],
+  [
+   "Mass",
+   "39 kg"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "AIST website",
+   "url": "https://www.aist.go.jp/index_en.html",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

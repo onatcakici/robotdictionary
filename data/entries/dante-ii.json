@@ -1,0 +1,55 @@
+{
+ "id": "dante-ii",
+ "name": "Dante II",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Carnegie Mellon University",
+ "country": "United States",
+ "year": "1994",
+ "status": "retired",
+ "def": "Tethered eight legged volcano robot that descended more than 200 metres into the crater of Mount Spurr in Alaska in 1994.",
+ "body": [
+  "Dante II was a much stronger rebuild of Dante I, combining a frame walking eight leg gait with a rappelling tether winch and a scanning laser rangefinder for mapping its surroundings. In July 1994 it walked down into the crater of Mount Spurr, sampled high temperature volcanic gases and was operated partly from Pittsburgh over a satellite link. On the way out it toppled on a steep slope and had to be lifted clear by helicopter, but it had already proved remote robotic volcano science."
+ ],
+ "facts": [
+  "Descended more than 200 metres into an active Alaskan volcano",
+  "Sampled volcanic gases that would have endangered a human team",
+  "Fell during the return climb and was recovered by helicopter"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "770 kg"
+  ],
+  [
+   "Actuation",
+   "Eight legs walking in two frames with a rappelling tether winch"
+  ],
+  [
+   "Power",
+   "Generator power supplied through the tether"
+  ],
+  [
+   "Sensors",
+   "Stereo cameras, scanning laser rangefinder, gas sampling instruments"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated with local reflexes and onboard terrain mapping"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Carnegie Mellon University website",
+   "url": "https://www.cmu.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

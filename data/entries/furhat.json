@@ -1,0 +1,38 @@
+{
+ "id": "furhat",
+ "name": "Furhat",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "social robot",
+ "maker": "Furhat Robotics",
+ "country": "Sweden",
+ "year": "",
+ "status": "production",
+ "def": "Conversational social robot from the Swedish company Furhat Robotics, with a humanlike face projected from behind and software for speech recognition and synthesis.",
+ "body": [],
+ "facts": [
+  "Used in education, healthcare, recruitment and transport",
+  "Employed in social robotics studies at several universities"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Furhat",
+   "url": "https://en.wikipedia.org/wiki/Furhat",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Furhat (Q133970831)",
+   "url": "https://www.wikidata.org/wiki/Q133970831",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q133970831"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

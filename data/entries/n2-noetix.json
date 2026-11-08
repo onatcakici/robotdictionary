@@ -1,0 +1,31 @@
+{
+ "id": "n2-noetix",
+ "name": "N2",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "knee high acrobatic biped",
+ "maker": "Noetix Robotics",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "A knee high acrobatic biped that finished second in Beijing's robot marathon.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "nadia",
+  "nao"
+ ],
+ "refs": [
+  {
+   "label": "Noetix Robotics website",
+   "url": "https://www.noetixrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

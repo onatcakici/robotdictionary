@@ -1,0 +1,28 @@
+{
+ "id": "robodoc",
+ "name": "ROBODOC",
+ "aka": [],
+ "section": "medical",
+ "kind": "orthopaedic surgical robot",
+ "maker": "Integrated Surgical Systems",
+ "country": "United States",
+ "year": "1992",
+ "status": "retired",
+ "def": "Surgical robot that milled the cavity in the thigh bone for hip implants, first used on a patient in 1992.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/w/index.php?search=ROBODOC",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

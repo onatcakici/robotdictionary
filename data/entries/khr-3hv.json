@@ -1,0 +1,59 @@
+{
+ "id": "khr-3hv",
+ "name": "KHR-3HV",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Kondo Kagaku",
+ "country": "Japan",
+ "year": "2009",
+ "status": "production",
+ "def": "Hobby humanoid kit with seventeen servo joints, sold to enthusiasts and schools and long a standard machine in Japanese robot fighting leagues.",
+ "body": [
+  "The KHR-3HV is a 401 millimetre biped kit weighing about 1.5 kilograms, built from aluminium brackets and 17 Kondo KRS series digital servos. Buyers assemble it themselves and program gaits and motions with Kondo's HeartToHeart software, or drive it from a radio controller. Because the frame and servo layout are open to modification it became one of the most common base machines in Japanese hobby humanoid competitions such as ROBO-ONE. Kondo Kagaku has sold successive revisions of the kit since 2009 through hobby distributors in Japan and abroad."
+ ],
+ "facts": [
+  "A standard base machine in ROBO-ONE hobby humanoid fighting competitions",
+  "Sold as a self assembly kit through hobby distributors since 2009",
+  "Frame and servo layout designed to be modified and extended by owners"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.401 m"
+  ],
+  [
+   "Mass",
+   "1.5 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "17"
+  ],
+  [
+   "Actuation",
+   "17 Kondo KRS series digital servo motors"
+  ],
+  [
+   "Power",
+   "Onboard rechargeable battery pack"
+  ],
+  [
+   "Autonomy",
+   "Pre programmed motion sequences with radio control, edited in Kondo's HeartToHeart software"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Kondo Kagaku website",
+   "url": "https://kondo-robot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

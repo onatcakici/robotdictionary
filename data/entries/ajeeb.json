@@ -1,0 +1,39 @@
+{
+ "id": "ajeeb",
+ "name": "Ajeeb",
+ "aka": [],
+ "section": "other",
+ "kind": "automaton",
+ "maker": "",
+ "country": "",
+ "year": "1868",
+ "status": "",
+ "def": "Fake chess automaton built by cabinet maker Charles Hooper, which appeared to play on its own while a skilled human player hidden inside made the moves.",
+ "body": [],
+ "facts": [
+  "The Royal Polytechnical Institute hosted its first showing in 1868",
+  "Its matches attracted tens of thousands of onlookers",
+  "Played against Harry Houdini, Theodore Roosevelt and O. Henry"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Ajeeb",
+   "url": "https://en.wikipedia.org/wiki/Ajeeb",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ajeeb (Q2729998)",
+   "url": "https://www.wikidata.org/wiki/Q2729998",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2729998"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

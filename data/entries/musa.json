@@ -1,0 +1,37 @@
+{
+ "id": "musa",
+ "name": "MUSA",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "kendo robot",
+ "maker": "Seoul National University",
+ "country": "South Korea",
+ "year": "2005",
+ "status": "",
+ "def": "Kendo fighting robot completed in July 2005 by the Manufacturing and Mechatronics Lab of Seoul National University under Professor Young-Bong Bang.",
+ "body": [],
+ "facts": [
+  "Stands 163 cm tall and weighs 70 kg"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Musa (robot)",
+   "url": "https://en.wikipedia.org/wiki/Musa_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Musa (Q6939890)",
+   "url": "https://www.wikidata.org/wiki/Q6939890",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6939890"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

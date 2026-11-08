@@ -1,0 +1,28 @@
+{
+ "id": "vex-iq",
+ "name": "VEX IQ",
+ "aka": [],
+ "section": "other",
+ "kind": "robot kit",
+ "maker": "VEX Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Snap together plastic robotics kit used by schools and in the VEX IQ competitions.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "VEX Robotics website",
+   "url": "https://www.vexrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

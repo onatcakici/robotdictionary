@@ -1,0 +1,30 @@
+{
+ "id": "moley-robotic-kitchen",
+ "name": "Moley Robotic Kitchen",
+ "aka": [],
+ "section": "arms",
+ "kind": "robotic kitchen",
+ "maker": "Moley Robotics",
+ "country": "United Kingdom",
+ "year": "2015",
+ "status": "production",
+ "def": "Pair of ceiling mounted arms with dexterous hands that cook recipes recorded from human chefs.",
+ "body": [],
+ "facts": [
+  "Prototype first shown in 2015"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Moley Robotics website",
+   "url": "https://www.moley.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

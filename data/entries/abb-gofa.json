@@ -1,0 +1,39 @@
+{
+ "id": "abb-gofa",
+ "name": "GoFa",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "ABB",
+ "country": "Switzerland",
+ "year": "2021",
+ "status": "production",
+ "def": "Collaborative arm from ABB with joint torque sensing, meant to be set up by staff without robot programming experience.",
+ "body": [],
+ "facts": [
+  "Model number CRB 15000"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "5 kg"
+  ],
+  [
+   "Reach",
+   "950 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ABB Robotics website",
+   "url": "https://new.abb.com/products/robotics",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

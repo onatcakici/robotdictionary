@@ -1,0 +1,45 @@
+{
+ "id": "papero",
+ "name": "PaPeRo",
+ "aka": [
+  "Partner-type-Personal-Robot"
+ ],
+ "section": "other",
+ "kind": "personal robot",
+ "maker": "NEC Corporation",
+ "country": "Japan",
+ "year": "1997",
+ "status": "",
+ "def": "Personal robot developed by the Japanese firm NEC, known for its endearing appearance and facial recognition, with work starting in 1997 on the R100 prototype.",
+ "body": [],
+ "facts": [
+  "Development began in 1997 with the R100 prototype",
+  "The PaPeRo name was adopted in 2001"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.necplatforms.co.jp/solution/marketplace/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, PaPeRo",
+   "url": "https://en.wikipedia.org/wiki/PaPeRo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, PaPeRo (Q3106510)",
+   "url": "https://www.wikidata.org/wiki/Q3106510",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3106510"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

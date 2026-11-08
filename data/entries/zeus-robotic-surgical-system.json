@@ -1,0 +1,44 @@
+{
+ "id": "zeus-robotic-surgical-system",
+ "name": "ZEUS Robotic Surgical System",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Intuitive Surgical",
+ "country": "United States",
+ "year": "",
+ "status": "discontinued",
+ "def": "Surgical robot made by Computer Motion that had three remotely controlled arms, won FDA clearance in 2001 and was dropped in 2003 after the merger with Intuitive Surgical.",
+ "body": [],
+ "facts": [
+  "Cleared by the FDA in 2001",
+  "One arm, AESOP, was a voice controlled endoscope",
+  "Discontinued in 2003; Intuitive Surgical developed the da Vinci system instead"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, ZEUS robotic surgical system",
+   "url": "https://en.wikipedia.org/wiki/ZEUS_robotic_surgical_system",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ZEUS robotic surgical system (Q8063037)",
+   "url": "https://www.wikidata.org/wiki/Q8063037",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Intuitive Surgical website",
+   "url": "https://www.intuitive.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q8063037"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

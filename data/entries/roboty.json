@@ -1,0 +1,37 @@
+{
+ "id": "roboty",
+ "name": "Roboty",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "research robot",
+ "maker": "",
+ "country": "Yemen",
+ "year": "",
+ "status": "research",
+ "def": "Self balancing differential wheeled robot with speech and object recognition, described as the first autonomous robot in Yemen and meant to be controlled mainly by voice.",
+ "body": [],
+ "facts": [
+  "The project's eventual aim is a robot that can play chess"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Roboty",
+   "url": "https://en.wikipedia.org/wiki/Roboty",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Roboty (Q7353479)",
+   "url": "https://www.wikidata.org/wiki/Q7353479",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7353479"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

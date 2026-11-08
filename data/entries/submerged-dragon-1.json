@@ -1,0 +1,30 @@
+{
+ "id": "submerged-dragon-1",
+ "name": "Submerged Dragon 1",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "",
+ "country": "China",
+ "year": "",
+ "status": "",
+ "def": "Chinese autonomous underwater vehicle, an uncrewed craft that operates beneath the sea surface under its own onboard control.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Submerged Dragon 1 AUV (Q24837869)",
+   "url": "https://www.wikidata.org/wiki/Q24837869",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q24837869"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

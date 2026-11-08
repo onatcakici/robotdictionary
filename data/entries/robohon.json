@@ -1,0 +1,59 @@
+{
+ "id": "robohon",
+ "name": "RoBoHoN",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "palm size walking humanoid",
+ "maker": "Sharp",
+ "country": "Japan",
+ "year": "2016",
+ "status": "service",
+ "def": "Palm size walking humanoid that is also a working mobile phone, sold to Japanese consumers and businesses across several model revisions.",
+ "body": [
+  "RoBoHoN is 19.5 centimetres tall and weighs about 390 grams, with small servo motors in its legs, arms and head so it can stand, walk, sit and gesture. It is a genuine phone: it takes calls, runs apps and, on the original model, projects images from a lens in its forehead. Interaction is by voice through a cloud assistant, and it recognises faces to greet its owner. Sharp launched it in Japan in May 2016 at a premium price and has since released cheaper and revised models, with units also used in hotel lobbies and shop displays."
+ ],
+ "facts": [
+  "Launched in Japan in May 2016 as a walking robot that is also a certified mobile phone",
+  "Original model included a forehead projector for displaying images",
+  "Used in Japanese hotel lobbies and retail displays as well as sold to consumers"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.195 m"
+  ],
+  [
+   "Mass",
+   "0.39 kg"
+  ],
+  [
+   "Actuation",
+   "Miniature servo motors driving legs, arms and head"
+  ],
+  [
+   "Power",
+   "Internal lithium ion battery"
+  ],
+  [
+   "Sensors",
+   "Camera, microphone, touchscreen and accelerometer"
+  ],
+  [
+   "Autonomy",
+   "Cloud voice assistant with face recognition and a smartphone app platform"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Sharp website",
+   "url": "https://robohon.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

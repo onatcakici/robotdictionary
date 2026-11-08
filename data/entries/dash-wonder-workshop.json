@@ -1,0 +1,28 @@
+{
+ "id": "dash-wonder-workshop",
+ "name": "Dash",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "educational robot",
+ "maker": "Wonder Workshop",
+ "country": "United States",
+ "year": "2014",
+ "status": "production",
+ "def": "Small wheeled robot programmed from a tablet with visual blocks, made to teach young children to code.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wonder Workshop website",
+   "url": "https://www.makewonder.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

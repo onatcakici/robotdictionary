@@ -1,0 +1,37 @@
+{
+ "id": "porton-man",
+ "name": "Porton Man",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid test robot",
+ "maker": "i-bodi Technology",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "",
+ "def": "Animatronic humanoid robot made by i-bodi Technology for the Defence Science and Technology Laboratory, used mainly to evaluate protective clothing for British military personnel.",
+ "body": [],
+ "facts": [
+  "Commissioned by DSTL; design and construction by i-bodi Technology"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Porton Man",
+   "url": "https://en.wikipedia.org/wiki/Porton_Man",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Porton Man (Q107599405)",
+   "url": "https://www.wikidata.org/wiki/Q107599405",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q107599405"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

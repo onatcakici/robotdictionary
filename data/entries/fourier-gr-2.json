@@ -1,0 +1,78 @@
+{
+ "id": "fourier-gr-2",
+ "name": "Fourier GR-2",
+ "aka": [
+  "GR-2"
+ ],
+ "section": "humanoids",
+ "kind": "full size humanoid",
+ "maker": "Fourier Intelligence",
+ "country": "China",
+ "year": "2024",
+ "status": "production",
+ "def": "Full size humanoid from a rehabilitation robotics company, sold as a general purpose platform with tactile hands and swappable batteries.",
+ "body": [
+  "GR-2 is 175 centimetres tall, weighs 63 kilograms and has 53 degrees of freedom including twelve in each hand, driven by seven variants of Fourier's own Smart Actuator with peak torques above 380 newton metres. Six array type tactile sensors per hand let it sense contact force and infer object shape and material, and the detachable battery gives about two hours before a swap. Each arm lifts three kilograms. Fourier came to humanoids from exoskeletons and rehabilitation robots, and sells GR-2 with an open software platform to research institutions and companies developing embodied intelligence applications."
+ ],
+ "facts": [
+  "Announced in September 2024 with twelve degrees of freedom in each hand",
+  "Tactile hand sensors identify object shape and material by contact",
+  "Built by a company whose earlier products were rehabilitation exoskeletons"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.75 m"
+  ],
+  [
+   "Mass",
+   "63 kg"
+  ],
+  [
+   "Payload",
+   "3 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "53"
+  ],
+  [
+   "Runtime",
+   "2 h"
+  ],
+  [
+   "Actuation",
+   "Seven variants of Fourier Smart Actuator with peak torque above 380 newton metres"
+  ],
+  [
+   "Power",
+   "Detachable swappable battery giving about two hours per pack"
+  ],
+  [
+   "Sensors",
+   "Six array tactile sensors per hand, depth cameras, dual joint encoders"
+  ],
+  [
+   "Autonomy",
+   "Open development platform supplied for third party embodied intelligence work"
+  ]
+ ],
+ "see": [
+  "gr-1",
+  "gr-3"
+ ],
+ "refs": [
+  {
+   "label": "Fourier Intelligence website",
+   "url": "https://www.fftai.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "gr-2"
+ ]
+}

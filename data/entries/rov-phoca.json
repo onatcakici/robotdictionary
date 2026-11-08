@@ -1,0 +1,39 @@
+{
+ "id": "rov-phoca",
+ "name": "ROV PHOCA",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Sub-Atlantic",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "service",
+ "def": "Compact remotely operated underwater vehicle built by Sub-Atlantic in Aberdeen and owned by the GEOMAR ocean research centre in Kiel, able to dive to 3000 m.",
+ "body": [],
+ "facts": [
+  "A COMANCHE type ROV",
+  "Small enough to deploy from mid sized research ships",
+  "Designed for work class and intervention tasks"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, ROV PHOCA",
+   "url": "https://en.wikipedia.org/wiki/ROV_PHOCA",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ROV PHOCA (Q2124485)",
+   "url": "https://www.wikidata.org/wiki/Q2124485",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2124485"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

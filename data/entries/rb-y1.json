@@ -1,0 +1,66 @@
+{
+ "id": "rb-y1",
+ "name": "RB-Y1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Rainbow Robotics",
+ "country": "South Korea",
+ "year": "2024",
+ "status": "production",
+ "def": "Wheeled two armed humanoid manipulator sold as a development platform, notable for a six axis body that raises and leans the torso while driving.",
+ "body": [
+  "RB-Y1 is 1.4 metres tall in its neutral pose, weighs 131 kilograms and combines two seven axis arms with a six axis torso on a two wheel balancing base. The torso lets it change working height by more than 50 centimetres and lean into turns, so it can pick from the floor and from a high shelf without a lift column. Each arm carries three kilograms and the base moves at up to 2.5 metres per second. Rainbow Robotics, in which Samsung Electronics took a controlling stake, sells it with a development kit to companies building manipulation and embodied learning applications."
+ ],
+ "facts": [
+  "Presented in April 2024 as Korea's first bimanual mobile manipulator of its type",
+  "Torso axes change working height by more than 50 centimetres",
+  "Samsung Electronics became the controlling shareholder of Rainbow Robotics"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.4 m"
+  ],
+  [
+   "Mass",
+   "131 kg"
+  ],
+  [
+   "Payload",
+   "3 kg"
+  ],
+  [
+   "Top speed",
+   "2.5 m/s (9 km/h)"
+  ],
+  [
+   "Actuation",
+   "Two seven axis electric arms on a six axis torso and two wheel balancing base"
+  ],
+  [
+   "Sensors",
+   "Head and wrist cameras with joint encoders and IMU"
+  ],
+  [
+   "Autonomy",
+   "Supplied development kit for building manipulation and learning applications"
+  ]
+ ],
+ "see": [
+  "rbq-10",
+  "reem-c"
+ ],
+ "refs": [
+  {
+   "label": "Rainbow Robotics website",
+   "url": "https://www.rainbowrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,52 @@
+{
+ "id": "volcanobot-2",
+ "name": "VolcanoBot 2",
+ "aka": [
+  "VolcanoBot"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "2015",
+ "status": "retired",
+ "def": "Small two wheeled tethered robot built to crawl into volcanic fissures at Kilauea and map their inner shape in three dimensions.",
+ "body": [
+  "The VolcanoBots are hand sized robots with two large wheels and a tether, designed to be lowered into cracks far too narrow and hot for a person. VolcanoBot 1 descended 25 metres into a fissure near the Pu'u O'o crater on Kilauea in 2014, and the smaller, lighter VolcanoBot 2 returned in 2015 with better cameras and a more capable depth sensor. The three dimensional models they produced help volcanologists understand how magma moves through the plumbing of a volcano."
+ ],
+ "facts": [
+  "Descended 25 metres into a Kilauea fissure in 2014",
+  "Produced three dimensional maps of fissure interiors"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Two wheels with a tether for power, data and recovery"
+  ],
+  [
+   "Power",
+   "Supplied through the tether"
+  ],
+  [
+   "Sensors",
+   "Camera and depth sensor for three dimensional mapping"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated from the surface"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,51 @@
+{
+ "id": "ubtech-atris",
+ "name": "ATRIS",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "UBTECH Robotics",
+ "country": "China",
+ "year": "",
+ "status": "service",
+ "def": "Four wheeled outdoor patrol robot used for security rounds at Chinese industrial parks and substations, carrying cameras, thermal imaging and lidar.",
+ "body": [
+  "ATRIS is a heavy four wheeled outdoor patrol robot with a raised sensor head, built for perimeter and facility rounds in industrial settings. It drives mapped patrol routes autonomously, streaming panoramic and thermal video to a control room and flagging intruders, hotspots and anomalies. Operators can take manual control and speak through the robot. It is deployed at Chinese industrial parks, electrical substations and campuses, and a variant was used for temperature screening patrols during the COVID-19 pandemic."
+ ],
+ "facts": [
+  "Used for outdoor security patrols at Chinese industrial parks and electrical substations",
+  "A pandemic variant carried thermal screening and public address equipment",
+  "Built by UBTECH Robotics of Shenzhen, which also produces humanoid and education robots"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheeled electric drive chassis with a raised sensor mast"
+  ],
+  [
+   "Power",
+   "Battery electric with autonomous recharging"
+  ],
+  [
+   "Sensors",
+   "Lidar, panoramic cameras and thermal imaging"
+  ],
+  [
+   "Autonomy",
+   "Autonomous patrol along mapped routes with remote operator handoff"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "UBTECH Robotics website",
+   "url": "https://www.ubtrobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

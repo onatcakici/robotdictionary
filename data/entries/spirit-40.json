@@ -1,0 +1,58 @@
+{
+ "id": "spirit-40",
+ "name": "Spirit 40",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "small electric quadruped",
+ "maker": "Ghost Robotics",
+ "country": "United States",
+ "year": "2020",
+ "status": "production",
+ "def": "Small electric quadruped from Ghost Robotics sold for research, swarm experiments and reconnaissance in confined spaces.",
+ "body": [
+  "Spirit 40 is a scaled down relative of Vision 60 with twelve direct drive electric joints and the same proprioceptive control approach that lets it walk without vision. It is light enough for one person to carry and is used for indoor and subterranean reconnaissance and for university research on legged control. Ghost Robotics supplies it with a software interface for custom controllers and mounts for cameras and radios."
+ ],
+ "facts": [
+  "Sized for stairwells and confined spaces where larger quadrupeds cannot work",
+  "Used for swarm and control research alongside the larger Vision 60"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "12 kg"
+  ],
+  [
+   "Top speed",
+   "2 m/s (7.2 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Direct drive electric joint modules, three per leg"
+  ],
+  [
+   "Power",
+   "Swappable lithium ion battery"
+  ],
+  [
+   "Autonomy",
+   "Proprioceptive blind walking with operator control and a developer interface"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Ghost Robotics website",
+   "url": "https://www.ghostrobotics.io",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

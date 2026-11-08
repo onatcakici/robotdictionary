@@ -1,0 +1,62 @@
+{
+ "id": "tiangong",
+ "name": "Tiangong",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Beijing Humanoid Robot Innovation Center",
+ "country": "China",
+ "year": "2024",
+ "status": "research",
+ "def": "Full size electrically driven humanoid from a Beijing state backed innovation centre, demonstrated running at about 6 km/h in April 2024.",
+ "body": [
+  "Tiangong is 163 cm tall and weighs 43 kg, using electric joint drives rather than hydraulics, with several visual perception sensors and inertial sensing feeding a learned locomotion controller. The Beijing Humanoid Robot Innovation Center unveiled it on 27 April 2024 and opened parts of the platform for other developers to build on. A later Tiangong Ultra version completed the course of the Beijing humanoid robot half marathon in April 2025.",
+  "Tiangong, from Beijing's state backed humanoid innovation centre, won the world's first humanoid half marathon in 2025, finishing the 21 kilometres in under three hours with battery swaps on the run. Its platform design is offered openly to Chinese industry."
+ ],
+ "facts": [
+  "Demonstrated a running gait at about 6 km/h on electric drives alone",
+  "Platform partly opened for outside developers"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.63 m"
+  ],
+  [
+   "Mass",
+   "43 kg"
+  ],
+  [
+   "Top speed",
+   "1.67 m/s (6 km/h)"
+  ],
+  [
+   "Actuation",
+   "Electric joint drives"
+  ],
+  [
+   "Sensors",
+   "Multiple visual perception sensors with inertial measurement"
+  ],
+  [
+   "Autonomy",
+   "Learned locomotion controller running on onboard computing"
+  ]
+ ],
+ "see": [
+  "toro",
+  "torobo"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Tiangong",
+   "url": "https://en.wikipedia.org/w/index.php?search=Tiangong+Beijing+Humanoid+Robot+Innovation+Center",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

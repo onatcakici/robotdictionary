@@ -1,0 +1,87 @@
+{
+ "id": "lunar-roving-vehicle",
+ "name": "Lunar Roving Vehicle",
+ "aka": [
+  "LRV",
+  "Moon buggy"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Boeing with General Motors Delco for NASA",
+ "country": "United States",
+ "year": "1971",
+ "status": "completed",
+ "def": "Battery powered four wheeled car driven by Apollo astronauts on the Moon, extending each crew's exploration range far beyond walking distance.",
+ "body": [
+  "Three Lunar Roving Vehicles were folded into the descent stages of Apollo 15, 16 and 17 and unfolded by hand on the surface. Each had four wire mesh wheels with individual electric motors, two silver zinc batteries, a T handle controller and a navigation system that dead reckoned the route back to the lander. The Apollo 17 vehicle covered roughly 36 kilometres, the longest lunar traverse, and all three remain parked where the crews left them."
+ ],
+ "facts": [
+  "Let Apollo crews work several kilometres from the lander",
+  "Apollo 17 crew drove about 36 km, the longest lunar traverse",
+  "All three vehicles remain on the Moon"
+ ],
+ "specs": [
+  [
+   "Length",
+   "3.1 m"
+  ],
+  [
+   "Mass",
+   "210 kg"
+  ],
+  [
+   "Payload",
+   "490 kg"
+  ],
+  [
+   "Top speed",
+   "3.6 m/s (13 km/h)"
+  ],
+  [
+   "Actuation",
+   "Four wire mesh wheels with individual electric motors and front and rear steering"
+  ],
+  [
+   "Power",
+   "Two 36 volt silver zinc batteries"
+  ],
+  [
+   "Sensors",
+   "Sun compass, odometer and gyroscope driven navigation display"
+  ],
+  [
+   "Height",
+   "1.14 m"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Boeing with General Motors Delco for NASA website",
+   "url": "https://www.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Lunar Roving Vehicle",
+   "url": "https://en.wikipedia.org/wiki/Lunar_Roving_Vehicle",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Lunar Roving Vehicle (Q275816)",
+   "url": "https://www.wikidata.org/wiki/Q275816",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boeing website",
+   "url": "https://boeing.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q275816"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

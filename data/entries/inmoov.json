@@ -1,0 +1,40 @@
+{
+ "id": "inmoov",
+ "name": "InMoov",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Humanoid robot assembled from plastic body parts made on 3D printers and run by Arduino microcontroller boards.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://inmoov.fr/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, InMoov",
+   "url": "https://en.wikipedia.org/wiki/InMoov",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, InMoov (Q17056469)",
+   "url": "https://www.wikidata.org/wiki/Q17056469",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17056469"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

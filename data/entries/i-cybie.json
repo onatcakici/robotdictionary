@@ -1,0 +1,39 @@
+{
+ "id": "i-cybie",
+ "name": "i-Cybie",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "robotic toy dog",
+ "maker": "Silverlit Toys Manufactory",
+ "country": "Hong Kong",
+ "year": "2000",
+ "status": "discontinued",
+ "def": "Robotic toy dog produced in Hong Kong by Silverlit Toys from 2000 to 2006 that reacted to sound, touch, motion and spoken commands.",
+ "body": [],
+ "facts": [
+  "Manufactured from 2000 to 2006",
+  "Could recharge its batteries by itself at a docking station",
+  "First toy made in large numbers to feature advanced voice recognition"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, I-Cybie",
+   "url": "https://en.wikipedia.org/wiki/I-Cybie",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, i-Cybie (Q1058131)",
+   "url": "https://www.wikidata.org/wiki/Q1058131",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1058131"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,30 @@
+{
+ "id": "acm-iii",
+ "name": "ACM III",
+ "aka": [],
+ "section": "other",
+ "kind": "snake robot",
+ "maker": "Tokyo Institute of Technology",
+ "country": "Japan",
+ "year": "1972",
+ "status": "retired",
+ "def": "Snake robot built by Shigeo Hirose, among the first machines to crawl by undulating its body like a real snake.",
+ "body": [],
+ "facts": [
+  "ACM stands for Active Cord Mechanism"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Tokyo Institute of Technology website",
+   "url": "https://www.titech.ac.jp/english",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

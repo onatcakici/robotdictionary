@@ -1,0 +1,36 @@
+{
+ "id": "mech",
+ "name": "Mech",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Dexterity",
+ "country": "United States",
+ "year": "2025",
+ "status": "pilot",
+ "def": "A twin armed industrial superhumanoid on a lifting base, built for truck loading in heat and cold.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "approx. 60 kg combined"
+  ]
+ ],
+ "see": [
+  "mirai",
+  "menteebot"
+ ],
+ "refs": [
+  {
+   "label": "Dexterity website",
+   "url": "https://www.dexterity.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

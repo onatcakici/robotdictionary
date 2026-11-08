@@ -1,0 +1,38 @@
+{
+ "id": "octobot",
+ "name": "Octobot",
+ "aka": [],
+ "section": "other",
+ "kind": "soft robot",
+ "maker": "Harvard University",
+ "country": "",
+ "year": "2016",
+ "status": "research",
+ "def": "Autonomous robot made of soft materials, built by a Harvard University team to show the approach could work and described in Nature in 2016.",
+ "body": [],
+ "facts": [
+  "Team included Harvard faculty Robert Wood and Jennifer A. Lewis",
+  "Drew on mechanical engineering, 3D printing and microfluidics"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Octobot (robot)",
+   "url": "https://en.wikipedia.org/wiki/Octobot_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Octobot (Q28451897)",
+   "url": "https://www.wikidata.org/wiki/Q28451897",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q28451897"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,72 @@
+{
+ "id": "apollo",
+ "name": "Apollo",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "warehouse humanoid",
+ "maker": "Apptronik",
+ "country": "United States",
+ "year": "2023",
+ "status": "pilot",
+ "def": "A warehouse humanoid designed around swappable batteries and friendly form language; piloted with Mercedes-Benz and GXO.",
+ "body": [
+  "Apptronik built Apollo on lessons from NASA's Valkyrie programme at the University of Texas. Its swappable batteries and friendly proportions target warehouse and factory work; Mercedes-Benz began piloting it in 2024 and returned as an investor, and Google DeepMind partnered on its intelligence."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 173 cm"
+  ],
+  [
+   "Payload",
+   "approx. 25 kg"
+  ],
+  [
+   "Deployments",
+   "Mercedes-Benz; GXO pilots"
+  ],
+  [
+   "Mass",
+   "160 lb"
+  ]
+ ],
+ "see": [
+  "ari",
+  "armar-6"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://apptronik.com/apollo/apollo-2",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Apollo (Q140674088)",
+   "url": "https://www.wikidata.org/wiki/Q140674088",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, apptronik.com",
+   "url": "https://apptronik.com/news-collection/apptronik-unveils-apollo",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, therobotreport.com",
+   "url": "https://www.therobotreport.com/apptronik-unveils-apollo-humanoid-robot/",
+   "kind": "cited"
+  },
+  {
+   "label": "Apptronik (United States) website",
+   "url": "https://apptronik.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140674088"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

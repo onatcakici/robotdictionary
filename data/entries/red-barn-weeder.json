@@ -1,0 +1,41 @@
+{
+ "id": "red-barn-weeder",
+ "name": "Red Barn weeder",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "weeding robot",
+ "maker": "Red Barn Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Autonomous field robot from Red Barn Robotics that kills weeds while leaving crops untouched.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Red Barn Robotics",
+   "url": "https://www.ycombinator.com/companies/red-barn-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Red Barn Robotics website",
+   "url": "https://www.redbarnrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "red-barn-robotics"
+ },
+ "yc": {
+  "company": "Red Barn Robotics",
+  "batch": "Winter 2025",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/red-barn-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

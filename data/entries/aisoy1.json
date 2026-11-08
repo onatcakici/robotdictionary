@@ -1,0 +1,39 @@
+{
+ "id": "aisoy1",
+ "name": "AISoy1",
+ "aka": [
+  "AISoy"
+ ],
+ "section": "other",
+ "kind": "pet robot",
+ "maker": "AISoy Robotics",
+ "country": "Spain",
+ "year": "",
+ "status": "",
+ "def": "Consumer pet robot from Spain's AISoy Robotics, counted among the first with emotional learning, whose decisions weigh logical and emotional factors rather than fixed replies.",
+ "body": [],
+ "facts": [
+  "Can hold dialogues with people and interact with other robots"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, AISoy1",
+   "url": "https://en.wikipedia.org/wiki/AISoy1",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, AISoy1 (Q293897)",
+   "url": "https://www.wikidata.org/wiki/Q293897",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q293897"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": "aoi-erika",
+ "name": "Aoi Erika",
+ "aka": [
+  "Erika Aoi"
+ ],
+ "section": "humanoids",
+ "kind": "android",
+ "maker": "",
+ "country": "",
+ "year": "2017",
+ "status": "",
+ "def": "Android announcer created for the television network Nippon TV, introduced in 2017 and standing 166 cm tall.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "166 cm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.ntv.co.jp/announcer/profile/e_aoi.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, AOI Erika (Q57538534)",
+   "url": "https://www.wikidata.org/wiki/Q57538534",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q57538534"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

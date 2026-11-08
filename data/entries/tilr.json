@@ -1,0 +1,39 @@
+{
+ "id": "tilr",
+ "name": "TiLR",
+ "aka": [
+  "Telepresence internet-connected Low cost Robot"
+ ],
+ "section": "wheeled",
+ "kind": "telepresence robot",
+ "maker": "RoboDynamics Corporation",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Telepresence robot from RoboDynamics Corporation that stands in for a remote user at another location, reducing the need for business travel.",
+ "body": [],
+ "facts": [
+  "Described as the first enterprise grade telepresence robot"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, TiLR",
+   "url": "https://en.wikipedia.org/wiki/TiLR",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, TiLR (Q7799969)",
+   "url": "https://www.wikidata.org/wiki/Q7799969",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7799969"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

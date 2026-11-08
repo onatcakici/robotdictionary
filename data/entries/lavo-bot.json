@@ -1,0 +1,46 @@
+{
+ "id": "lavo-bot",
+ "name": "Lavo Bot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "pressure washing robot",
+ "maker": "Lucid Bots",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Ground robot from Lucid Bots that pressure washes surfaces, launched to complement the company's Sherpa cleaning drone.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Lucid Bots",
+   "url": "https://www.ycombinator.com/companies/lucid-bots",
+   "kind": "yc"
+  },
+  {
+   "label": "Lucid Bots website",
+   "url": "https://lucidbots.com/",
+   "kind": "maker"
+  },
+  {
+   "label": "Lucid Bots, Meet Lavo Bot",
+   "url": "https://lucidbots.com/blog/meet-lavo-bot",
+   "kind": "press"
+  }
+ ],
+ "ids": {
+  "yc": "lucid-bots"
+ },
+ "yc": {
+  "company": "Lucid Bots",
+  "batch": "Summer 2019",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/lucid-bots"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

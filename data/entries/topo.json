@@ -1,0 +1,43 @@
+{
+ "id": "topo",
+ "name": "Topo",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "personal robot",
+ "maker": "Nolan Bushnell",
+ "country": "",
+ "year": "",
+ "status": "discontinued",
+ "def": "Series of personal robots produced by Androbot in the 1980s for homes and schools, programmed wirelessly from an Apple II computer.",
+ "body": [],
+ "facts": [
+  "Programmed in TopoBASIC, an adapted form of BASIC",
+  "Had no sensors and could not send information back to the computer"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Topo (robot)",
+   "url": "https://en.wikipedia.org/wiki/Topo_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Topo (Q19600088)",
+   "url": "https://www.wikidata.org/wiki/Q19600088",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Nolan Bushnell website",
+   "url": "http://nolanbushnell.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q19600088"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

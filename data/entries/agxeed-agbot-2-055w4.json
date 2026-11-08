@@ -1,0 +1,51 @@
+{
+ "id": "agxeed-agbot-2-055w4",
+ "name": "AgBot 2.055W4",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "AgXeed",
+ "country": "Netherlands",
+ "year": "2022",
+ "status": "production",
+ "def": "Wheeled diesel electric autonomous tractor with a three point hitch and power take off that works pre planned field routes without a driver.",
+ "body": [
+  "The AgBot 2.055W4 is a four wheel drive autonomous tractor rated at 55 kilowatts, with a diesel engine driving electric wheel motors. It carries conventional implements on a three point hitch and power take off, so growers can reuse existing tools. Field jobs are planned in AgXeed's software, which generates the route and headland turns, and the machine then runs them unattended while staff monitor remotely. It is used in arable and vegetable production in Europe."
+ ],
+ "facts": [
+  "Launched as AgXeed's wheeled model at the Cereals event in the United Kingdom",
+  "Demonstrated very low ground pressure during autonomous celeriac planting in the Netherlands",
+  "Sold alongside tracked AgBot models through European farm machinery dealers"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheel drive autonomous tractor with three point hitch and power take off"
+  ],
+  [
+   "Power",
+   "Diesel electric drivetrain rated at 55 kilowatts"
+  ],
+  [
+   "Sensors",
+   "Lidar, cameras and corrected satellite positioning"
+  ],
+  [
+   "Autonomy",
+   "Runs pre planned field routes generated in AgXeed planning software, with remote monitoring"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "AgXeed website",
+   "url": "https://www.agxeed.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

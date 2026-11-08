@@ -1,0 +1,44 @@
+{
+ "id": "spykee",
+ "name": "Spykee",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "toy robot",
+ "maker": "Meccano",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Toy robot from Meccano carrying a webcam, microphone and speaker that its owner can drive around the home from a computer, whether nearby or remotely through the internet.",
+ "body": [],
+ "facts": [
+  "Can take photos and video and play sounds through its speaker",
+  "Connects to the internet over WiFi",
+  "Electronics built by the French startup WaveStorm"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.spykeeworld.com/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Spykee",
+   "url": "https://en.wikipedia.org/wiki/Spykee",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Spykee (Q1796683)",
+   "url": "https://www.wikidata.org/wiki/Q1796683",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1796683"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

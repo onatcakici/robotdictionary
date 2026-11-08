@@ -1,0 +1,41 @@
+{
+ "id": "tuesday",
+ "name": "Tuesday",
+ "aka": [],
+ "section": "other",
+ "kind": "home tidying robot",
+ "maker": "Tuesday Labs",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Home robot from a New York startup built to pick up and tidy rooms.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Tuesday Labs",
+   "url": "https://www.ycombinator.com/companies/tuesday-labs",
+   "kind": "yc"
+  },
+  {
+   "label": "Tuesday Labs website",
+   "url": "https://www.tuesdaylabs.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "tuesday-labs"
+ },
+ "yc": {
+  "company": "Tuesday Labs",
+  "batch": "Winter 2024",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/tuesday-labs"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

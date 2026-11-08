@@ -1,0 +1,38 @@
+{
+ "id": "modulus",
+ "name": "Modulus",
+ "aka": [],
+ "section": "other",
+ "kind": "household robot",
+ "maker": "Sirius",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Domestic robot developed from 1984 by Sirius, a company founded by Massimo Giuliana, with an exterior designed by the Milan based Japanese designer Isao Hosoe.",
+ "body": [],
+ "facts": [
+  "Electronics and mechanics were designed and made by Data Process",
+  "Software was written with help from the US based RB Robot Corporation"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Modulus robot",
+   "url": "https://en.wikipedia.org/wiki/Modulus_robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Modulus robot (Q6889831)",
+   "url": "https://www.wikidata.org/wiki/Q6889831",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6889831"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

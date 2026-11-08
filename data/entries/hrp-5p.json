@@ -1,0 +1,36 @@
+{
+ "id": "hrp-5p",
+ "name": "HRP-5P",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "heavy labour research humanoid",
+ "maker": "AIST",
+ "country": "Japan",
+ "year": "2018",
+ "status": "research",
+ "def": "A heavy labour research humanoid that hangs drywall and handles full size panels.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 182 cm"
+  ]
+ ],
+ "see": [
+  "hrp-4c",
+  "khr-3-hubo"
+ ],
+ "refs": [
+  {
+   "label": "AIST website",
+   "url": "https://www.aist.go.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,48 @@
+{
+ "id": "handle-h",
+ "name": "Handle",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "wheel legged biped",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2017",
+ "status": "retired",
+ "def": "A wheel legged biped that leapt and lifted boxes; its logistics role passed to Stretch.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Reach",
+   "approx. 2 m jumps"
+  ]
+ ],
+ "see": [
+  "atlas-hydraulic",
+  "atlas"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.bostondynamics.com/handle",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Handle (robot) (Q96781443)",
+   "url": "https://www.wikidata.org/wiki/Q96781443",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://www.bostondynamics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q96781443"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

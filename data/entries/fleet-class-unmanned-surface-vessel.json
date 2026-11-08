@@ -1,0 +1,52 @@
+{
+ "id": "fleet-class-unmanned-surface-vessel",
+ "name": "Fleet class unmanned surface vessel",
+ "aka": [
+  "Common Unmanned Surface Vehicle",
+  "CUSV"
+ ],
+ "section": "marine",
+ "kind": "unmanned surface vessel",
+ "maker": "AAI Corporation",
+ "country": "United States",
+ "year": "2008",
+ "status": "",
+ "def": "Class of unmanned surface vessels built by AAI Corporation for the United States Navy to operate from littoral combat ships on mine and antisubmarine missions.",
+ "body": [],
+ "facts": [
+  "Also known as the Common Unmanned Surface Vessel",
+  "Four units built by 2012, the first delivered in 2008",
+  "Carried by the Navy's Freedom and Independence class littoral combat ships"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.textronsystems.com/what-we-do/unmanned-systems/CUSV",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Fleet-class unmanned surface vessel",
+   "url": "https://en.wikipedia.org/wiki/Fleet-class_unmanned_surface_vessel",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Fleet-class unmanned surface vessel (Q5458439)",
+   "url": "https://www.wikidata.org/wiki/Q5458439",
+   "kind": "wikidata"
+  },
+  {
+   "label": "AAI Corporation website",
+   "url": "http://www.textronsystems.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5458439"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,38 @@
+{
+ "id": "walker-chess-player",
+ "name": "Walker Chess player",
+ "aka": [],
+ "section": "other",
+ "kind": "chess automaton",
+ "maker": "Walker Brothers",
+ "country": "United States",
+ "year": "",
+ "status": "retired",
+ "def": "Purported chess playing automaton built in the 1820s by the Walker Brothers of Baltimore, Maryland, as a rival to the Turk, a widely known chess machine.",
+ "body": [],
+ "facts": [
+  "Johann Nepomuk Mälzel, owner of the Turk, tried to buy it but was refused",
+  "Toured for several years before fading into obscurity"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Walker Chess-player",
+   "url": "https://en.wikipedia.org/wiki/Walker_Chess-player",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Walker Chess-player (Q3821507)",
+   "url": "https://www.wikidata.org/wiki/Q3821507",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3821507"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

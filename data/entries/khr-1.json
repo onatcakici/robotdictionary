@@ -1,0 +1,44 @@
+{
+ "id": "khr-1",
+ "name": "KHR-1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "KO PROPO",
+ "country": "Japan",
+ "year": "2004",
+ "status": "",
+ "def": "Programmable two legged humanoid robot introduced by the Japanese firm Kondo Kagaku in 2004, when it ranked among the lowest priced robots of its type.",
+ "body": [],
+ "facts": [
+  "Introduced in June 2004",
+  "34 cm tall with 17 degrees of freedom",
+  "Able to perform fast kung fu style combat moves"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, KHR-1",
+   "url": "https://en.wikipedia.org/wiki/KHR-1",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, KHR-1 (Q1050572)",
+   "url": "https://www.wikidata.org/wiki/Q1050572",
+   "kind": "wikidata"
+  },
+  {
+   "label": "KO PROPO website",
+   "url": "http://www.kondokagaku.jp/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1050572"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

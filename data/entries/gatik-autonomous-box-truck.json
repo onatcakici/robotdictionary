@@ -1,0 +1,51 @@
+{
+ "id": "gatik-autonomous-box-truck",
+ "name": "Gatik autonomous box truck",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "retrofitted box truck",
+ "maker": "Gatik",
+ "country": "United States",
+ "year": "2019",
+ "status": "service",
+ "def": "Retrofitted box truck that drives fixed middle mile freight routes between warehouses and stores, running driverless on some routes in the United States.",
+ "body": [
+  "Gatik takes production class box trucks and fits them with a retrofit autonomy kit of lidar, radar, cameras and compute. The trucks run short repeatable middle mile routes between distribution centres, dark stores and retail outlets, which lets the company validate a fixed operating domain closely. Some routes run fully driverless with no person in the cab, while others keep a safety driver. Customers include grocery and consumer goods shippers in the United States and Canada."
+ ],
+ "facts": [
+  "Made fully driverless commercial box truck deliveries for Walmart in Bentonville, Arkansas, from 2021",
+  "Runs middle mile freight for Sam's Club and hauls for Georgia-Pacific through KBX",
+  "Reported hundreds of additional trucks planned for United States roads in 2026"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Autonomy kit retrofitted to medium duty commercial box trucks"
+  ],
+  [
+   "Power",
+   "Conventional truck powertrain"
+  ],
+  [
+   "Sensors",
+   "Lidar, radar and cameras"
+  ],
+  [
+   "Autonomy",
+   "Level 4 autonomy constrained to fixed, pre validated middle mile routes with remote monitoring"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Gatik website",
+   "url": "https://www.gatik.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,30 @@
+{
+ "id": "troody",
+ "name": "Troody",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "experimental robot",
+ "maker": "",
+ "country": "",
+ "year": "1995",
+ "status": "",
+ "def": "Experimental robot from the United States, dating from 1995, that was designed to imitate a dinosaur.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Troody (Q90013762)",
+   "url": "https://www.wikidata.org/wiki/Q90013762",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q90013762"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

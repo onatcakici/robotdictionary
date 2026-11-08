@@ -1,0 +1,31 @@
+{
+ "id": "nadia",
+ "name": "Nadia",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "boxing trained research humanoid",
+ "maker": "IHMC Robotics",
+ "country": "United States",
+ "year": "2023",
+ "status": "research",
+ "def": "A boxing trained research humanoid with human like range of motion, built with Boardwalk.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "nao",
+  "avidbots-neo"
+ ],
+ "refs": [
+  {
+   "label": "IHMC Robotics website",
+   "url": "https://robots.ihmc.us",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

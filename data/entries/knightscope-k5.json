@@ -1,0 +1,69 @@
+{
+ "id": "knightscope-k5",
+ "name": "Knightscope K5",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Knightscope",
+ "country": "United States",
+ "year": "2013",
+ "status": "production",
+ "def": "Outdoor autonomous security patrol robot that films, listens and reads licence plates while covering parking lots and campuses at pedestrian speed.",
+ "body": [
+  "The K5 is a tall bullet shaped wheeled robot that patrols outdoor ground at walking pace, streaming 360 degree video, thermal imagery and audio to a security operations centre. It reads licence plates, detects people and devices, and can broadcast a spoken warning or trigger strobes. Navigation is autonomous along mapped patrol routes, and the machine returns to a charging pad by itself. Knightscope leases the robots to car parks, corporate campuses, hospitals and public agencies in the United States.",
+  "Knightscope's K5 became an accidental celebrity through misadventure: bullied by drunks, drowned in a fountain, and immortalised in memes, all while quietly logging patrol miles for malls and hospitals across America."
+ ],
+ "facts": [
+  "Patrols parking structures, corporate campuses and public spaces across the United States",
+  "The New York Police Department trialled a Knightscope robot on patrol duty",
+  "Knightscope also sells the four wheeled K7 for larger outdoor perimeters"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.59 m"
+  ],
+  [
+   "Mass",
+   "180.5 kg"
+  ],
+  [
+   "Top speed",
+   "1.33 m/s (4.8 km/h)"
+  ],
+  [
+   "Actuation",
+   "Electric wheeled drive inside a sealed weatherproof shell"
+  ],
+  [
+   "Power",
+   "Battery electric with autonomous return to a charging pad"
+  ],
+  [
+   "Sensors",
+   "360 degree high definition cameras, thermal imaging, lidar, automatic licence plate recognition and two way audio"
+  ],
+  [
+   "Autonomy",
+   "Autonomous patrol of mapped outdoor routes with alerts sent to human operators"
+  ]
+ ],
+ "see": [
+  "kettybot",
+  "khepera"
+ ],
+ "refs": [
+  {
+   "label": "Knightscope website",
+   "url": "https://www.knightscope.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "k5"
+ ]
+}
