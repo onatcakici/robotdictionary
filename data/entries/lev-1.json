@@ -18,9 +18,21 @@
    "label": "JAXA website",
    "url": "https://global.jaxa.jp",
    "kind": "maker"
+  },
+  {
+   "label": "Wikidata, LEV-1 (Q124326844)",
+   "url": "https://www.wikidata.org/wiki/Q124326844",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Wikipedia, LEV-1",
+   "url": "https://en.wikipedia.org/wiki/LEV-1",
+   "kind": "wikipedia"
   }
  ],
- "ids": {},
+ "ids": {
+  "wikidata": "Q124326844"
+ },
  "origin": "edited",
  "added": "2026-11-08",
  "revised": "2026-11-08",
