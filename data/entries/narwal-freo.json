@@ -1,0 +1,38 @@
+{
+ "id": "narwal-freo",
+ "name": "Freo",
+ "aka": [
+  "Narwal Freo"
+ ],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "Narwal",
+ "country": "China",
+ "year": "2022",
+ "status": "",
+ "def": "Robot vacuum and mop that returns to a base station to wash its own mop pads and adjusts its mopping to how dirty the floor is.",
+ "body": [],
+ "facts": [
+  "Launched in September 2022",
+  "Followed by later Freo models with the same self washing station"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Narwal Freo smart vacuum mop robot, 9to5Mac",
+   "url": "https://9to5mac.com/2022/11/20/narwal-freo-smart-vacuum-mop-robot/",
+   "kind": "cited"
+  },
+  {
+   "label": "Narwal Freo launch announcement, Business Wire",
+   "url": "https://www.businesswire.com/news/home/20220915005194/en",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

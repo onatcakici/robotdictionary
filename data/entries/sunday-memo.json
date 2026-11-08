@@ -1,0 +1,38 @@
+{
+ "id": "sunday-memo",
+ "name": "Memo",
+ "aka": [
+  "Sunday Memo"
+ ],
+ "section": "humanoids",
+ "kind": "wheeled humanoid",
+ "maker": "Sunday Robotics",
+ "country": "United States",
+ "year": "2025",
+ "status": "development",
+ "def": "Household robot with two arms on a wheeled base, trained on recordings of people doing chores in real homes, for tidying, dishes and laundry.",
+ "body": [],
+ "facts": [
+  "Launched in November 2025",
+  "Its maker raised $165 million in March 2026 to put the first robots into homes"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Sunday wants to put a robot in every home, beginning with the launch of Memo, SiliconANGLE",
+   "url": "https://siliconangle.com/2025/11/20/sunday-wants-put-robot-every-home-beginning-launch-memo/",
+   "kind": "cited"
+  },
+  {
+   "label": "Sunday raises $165M to launch Memo household robot, SiliconANGLE",
+   "url": "https://siliconangle.com/2026/03/12/sunday-raises-165m-1-15b-valuation-launch-memo-household-robot/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

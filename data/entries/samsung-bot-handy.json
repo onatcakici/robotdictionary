@@ -1,0 +1,38 @@
+{
+ "id": "samsung-bot-handy",
+ "name": "Bot Handy",
+ "aka": [
+  "Samsung Bot Handy"
+ ],
+ "section": "wheeled",
+ "kind": "mobile manipulator",
+ "maker": "Samsung Electronics",
+ "country": "South Korea",
+ "year": "2021",
+ "status": "concept",
+ "def": "Concept home robot from Samsung, a wheeled column with one arm meant to load dishwashers, set tables and pour drinks.",
+ "body": [],
+ "facts": [
+  "Shown at CES in January 2021 alongside Bot Care",
+  "Uses a camera and AI to recognise objects and judge how hard to grip them"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Samsung's latest home robots can do chores and nag you to stop working, Engadget",
+   "url": "https://www.engadget.com/samsung-home-robots-bot-handy-bot-care-151800168.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Samsung's Bot Handy can put away dishes, set a table, and pour drinks for you, TechSpot",
+   "url": "https://www.techspot.com/news/88239-samsung-bot-handy-can-put-away-dishes-set.html",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

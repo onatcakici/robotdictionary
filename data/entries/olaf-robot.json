@@ -1,0 +1,40 @@
+{
+ "id": "olaf-robot",
+ "name": "Olaf",
+ "aka": [
+  "Robotic Olaf"
+ ],
+ "section": "other",
+ "kind": "animatronic figure",
+ "maker": "Walt Disney Imagineering",
+ "country": "United States",
+ "year": "2025",
+ "status": "",
+ "def": "Free walking robotic version of the snowman from Frozen, built by Walt Disney Imagineering to roam among guests in its World of Frozen lands.",
+ "body": [],
+ "facts": [
+  "Debuted at Disneyland Paris in November 2025",
+  "Planned for the World of Frozen areas in Paris and Hong Kong"
+ ],
+ "specs": [],
+ "see": [
+  "bdx-droids"
+ ],
+ "refs": [
+  {
+   "label": "Walt Disney Imagineering debuts Olaf the snowman robot, Robotics 24/7",
+   "url": "https://www.robotics247.com/article/video_walt_disney_imagineering_debuts_olaf_the_snowman_robot_from_frozen_series",
+   "kind": "cited"
+  },
+  {
+   "label": "Disney to introduce new Olaf character in Paris, Hong Kong, Theme Park Insider",
+   "url": "https://www.themeparkinsider.com/flume/202511/11188/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

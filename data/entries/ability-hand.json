@@ -1,0 +1,36 @@
+{
+ "id": "ability-hand",
+ "name": "Ability Hand",
+ "aka": [],
+ "section": "medical",
+ "kind": "bionic hand",
+ "maker": "PSYONIC",
+ "country": "United States",
+ "year": "2021",
+ "status": "production",
+ "def": "Fast, impact resistant bionic hand that sends touch feedback from its fingertips back to the wearer.",
+ "body": [],
+ "facts": [
+  "Described by its maker as the first commercially available bionic hand with multi touch feedback",
+  "Grew out of research at the University of Illinois"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "ECE alumnus launches the first commercially available bionic hand capable of multitouch feedback, University of Illinois",
+   "url": "https://ece.illinois.edu/news/4287",
+   "kind": "cited"
+  },
+  {
+   "label": "PSYONIC launches the Ability Hand, Rehab Management",
+   "url": "https://rehabpub.com/orthotics-prosthetics/prosthetics/psyonic-launches-the-ability-hand-a-bionic-hand-you-can-arm-wrestle-with/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

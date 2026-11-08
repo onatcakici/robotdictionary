@@ -1,0 +1,38 @@
+{
+ "id": "roborock-saros-z70",
+ "name": "Saros Z70",
+ "aka": [
+  "Roborock Saros Z70"
+ ],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "Roborock",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "Robot vacuum with a folding five axis arm that lifts small objects such as socks out of its path before it cleans.",
+ "body": [],
+ "facts": [
+  "Shown at CES in January 2025",
+  "The arm folds away inside the body when not in use"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Roborock Saros Z70: robot vacuum with robotic arm launching globally, Notebookcheck",
+   "url": "https://www.notebookcheck.net/Roborock-Saros-Z70-New-robot-vacuum-with-robotic-arm-launching-globally.940999.0.html",
+   "kind": "cited"
+  },
+  {
+   "label": "The robot vacuum cleaner Roborock Saros Z70 equipped with a robot arm is announced, Gigazine",
+   "url": "https://gigazine.net/gsc_news/en/20250106-roborock-saros-z70",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

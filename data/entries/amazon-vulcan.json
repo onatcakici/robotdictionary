@@ -1,0 +1,42 @@
+{
+ "id": "amazon-vulcan",
+ "name": "Vulcan",
+ "aka": [
+  "Amazon Vulcan"
+ ],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "Amazon Robotics",
+ "country": "United States",
+ "year": "2025",
+ "status": "service",
+ "def": "Warehouse picking robot from Amazon with force sensing grippers, described by the company as its first robot with a sense of touch.",
+ "body": [],
+ "facts": [
+  "Stows and picks items in the fabric pods of Amazon fulfilment centres",
+  "Shown in May 2025, working in Spokane and Hamburg"
+ ],
+ "specs": [],
+ "see": [
+  "amazon-cardinal",
+  "amazon-sparrow",
+  "amazon-proteus"
+ ],
+ "refs": [
+  {
+   "label": "Amazon touts Vulcan, its first robot with a sense of touch, The Register",
+   "url": "https://www.theregister.com/2025/05/08/amazon_vulcan_robot/",
+   "kind": "cited"
+  },
+  {
+   "label": "Amazon's newest fulfillment robot has a sense of touch, Engadget",
+   "url": "https://engadget.com/big-tech/amazons-newest-fulfillment-robot-has-a-sense-of-touch-120050449.html?src=rss",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

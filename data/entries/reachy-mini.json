@@ -1,0 +1,38 @@
+{
+ "id": "reachy-mini",
+ "name": "Reachy Mini",
+ "aka": [],
+ "section": "other",
+ "kind": "desktop robot",
+ "maker": "Pollen Robotics and Hugging Face",
+ "country": "France",
+ "year": "2025",
+ "status": "production",
+ "def": "Small open source desktop robot with an expressive head and antennas, sold as a kit for experimenting with AI models.",
+ "body": [],
+ "facts": [
+  "Launched in July 2025 from $299",
+  "Built by Pollen Robotics after its acquisition by Hugging Face"
+ ],
+ "specs": [],
+ "see": [
+  "reachy-2"
+ ],
+ "refs": [
+  {
+   "label": "Hugging Face opens up orders for its Reachy Mini desktop robots, TechCrunch",
+   "url": "https://techcrunch.com/2025/07/09/hugging-face-opens-up-orders-for-its-reachy-mini-desktop-robots",
+   "kind": "cited"
+  },
+  {
+   "label": "Hugging Face introduces open source desktop robot for $299, TechSpot",
+   "url": "https://www.techspot.com/news/108629-hugging-face-introduces-open-source-desktop-robot-299.html",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

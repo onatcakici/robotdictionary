@@ -1,0 +1,41 @@
+{
+ "id": "amazon-blue-jay",
+ "name": "Blue Jay",
+ "aka": [
+  "Amazon Blue Jay"
+ ],
+ "section": "arms",
+ "kind": "robot arm system",
+ "maker": "Amazon Robotics",
+ "country": "United States",
+ "year": "2025",
+ "status": "discontinued",
+ "def": "Amazon workcell in which several robot arms work over one station at once, picking, stowing and consolidating items.",
+ "body": [],
+ "facts": [
+  "Unveiled in October 2025",
+  "Reported to have been shelved about six months after launch"
+ ],
+ "specs": [],
+ "see": [
+  "amazon-vulcan",
+  "amazon-cardinal"
+ ],
+ "refs": [
+  {
+   "label": "Amazon announces two new robot systems, Blue Jay and Project Eluna, Gigazine",
+   "url": "https://gigazine.net/gsc_news/en/20251024-blue-jay-project-eluna",
+   "kind": "cited"
+  },
+  {
+   "label": "Amazon unveils new robotic arms and agentic AI system for its fulfillment operations, Robotics and Automation News",
+   "url": "https://roboticsandautomationnews.com/2025/10/23/amazon-unveils-new-robotic-arms-and-agentic-ai-system-for-its-fulfillment-operations/95789",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

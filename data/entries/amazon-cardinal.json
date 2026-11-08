@@ -1,0 +1,42 @@
+{
+ "id": "amazon-cardinal",
+ "name": "Cardinal",
+ "aka": [
+  "Amazon Cardinal"
+ ],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "Amazon Robotics",
+ "country": "United States",
+ "year": "2022",
+ "status": "",
+ "def": "Amazon robot arm that picks parcels from a jumbled pile, reads their labels and stacks them into carts.",
+ "body": [],
+ "facts": [
+  "Announced in June 2022 together with the Proteus mobile robot",
+  "Handles packages of up to about 50 pounds"
+ ],
+ "specs": [],
+ "see": [
+  "amazon-vulcan",
+  "amazon-proteus",
+  "amazon-sparrow"
+ ],
+ "refs": [
+  {
+   "label": "Amazon details new internally developed warehouse robots, SiliconANGLE",
+   "url": "https://siliconangle.com/2022/06/22/amazon-details-new-internally-developed-warehouse-robots",
+   "kind": "cited"
+  },
+  {
+   "label": "Amazon robot warehouse, The Register",
+   "url": "https://www.theregister.com/2022/06/22/amazon_robot_warehouse/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

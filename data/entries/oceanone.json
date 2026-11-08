@@ -1,0 +1,38 @@
+{
+ "id": "oceanone",
+ "name": "OceanOne",
+ "aka": [],
+ "section": "marine",
+ "kind": "humanoid underwater robot",
+ "maker": "Stanford University",
+ "country": "United States",
+ "year": "2016",
+ "status": "research",
+ "def": "Humanoid diving robot from Stanford with two arms, stereo eyes and thrusters, steered by a pilot who feels what its hands touch through haptic controls.",
+ "body": [],
+ "facts": [
+  "Recovered a vase from La Lune, a flagship of Louis XIV that sank off Toulon in 1664, on its first mission in 2016",
+  "Followed in 2022 by the deeper diving OceanOneK"
+ ],
+ "specs": [],
+ "see": [
+  "oceanonek"
+ ],
+ "refs": [
+  {
+   "label": "Robotic diver recovers treasures from King Louis XIV's wrecked flagship, Stanford News",
+   "url": "https://news.stanford.edu/2016/04/27/robotic-diver-recovers-treasures/",
+   "kind": "maker"
+  },
+  {
+   "label": "Stanford's humanoid submarine robot, IEEE Spectrum",
+   "url": "https://spectrum.ieee.org/stanford-humanoid-submarine-robot",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

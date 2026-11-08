@@ -1,0 +1,38 @@
+{
+ "id": "luke-arm",
+ "name": "LUKE arm",
+ "aka": [
+  "DEKA Arm"
+ ],
+ "section": "medical",
+ "kind": "prosthetic arm",
+ "maker": "DEKA Research and Development",
+ "country": "United States",
+ "year": "2014",
+ "status": "production",
+ "def": "Advanced prosthetic arm developed by DEKA under the DARPA Revolutionizing Prosthetics programme, able to make several grips and move the shoulder, elbow and wrist together.",
+ "body": [],
+ "facts": [
+  "Cleared for marketing by the US Food and Drug Administration in May 2014",
+  "Nicknamed after Luke Skywalker's bionic hand"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "FDA approves first prosthetic arm that translates signals from muscles, CNN",
+   "url": "https://edition.cnn.com/2014/05/12/tech/innovation/deka-bionic-arm-kamen/index.html",
+   "kind": "cited"
+  },
+  {
+   "label": "From Star Wars to real life, new prosthesis transforms lives, MIT Technology Review",
+   "url": "https://www.technologyreview.com/2016/04/19/160918/from-star-wars-to-real-life-new-prosthesis-transforms-lives/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

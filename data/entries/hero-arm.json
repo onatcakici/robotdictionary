@@ -1,0 +1,36 @@
+{
+ "id": "hero-arm",
+ "name": "Hero Arm",
+ "aka": [],
+ "section": "medical",
+ "kind": "bionic arm",
+ "maker": "Open Bionics",
+ "country": "United Kingdom",
+ "year": "2018",
+ "status": "production",
+ "def": "Lightweight myoelectric prosthetic arm with a multi grip hand, 3D printed to fit each wearer and offered with swappable covers.",
+ "body": [],
+ "facts": [
+  "Recognised by Guinness World Records as the first medically certified 3D printed bionic arm",
+  "Made in Bristol"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "First medically certified 3D printed bionic arm, Guinness World Records",
+   "url": "https://guinnessworldrecords.com/world-records/631257-first-medically-certified-3d-printed-bionic-arm",
+   "kind": "cited"
+  },
+  {
+   "label": "Robotics startup launches first medically approved 3D printed bionic arms, Medical Xpress",
+   "url": "https://medicalxpress.com/news/2018-04-robotics-startup-medically-d-bionic.html",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

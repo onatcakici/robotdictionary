@@ -1,0 +1,36 @@
+{
+ "id": "punyo",
+ "name": "Punyo",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "soft humanoid",
+ "maker": "Toyota Research Institute",
+ "country": "United States",
+ "year": "2024",
+ "status": "research",
+ "def": "Soft bodied humanoid upper body from the Toyota Research Institute that lifts large objects by hugging them with its arms and chest, not just its hands.",
+ "body": [],
+ "facts": [
+  "Covered in air filled pads and a sweater like skin that sense pressure across the body",
+  "Built for research into whole body manipulation of bulky, heavy objects"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Meet Punyo, TRI's Soft Robot for Whole Body Manipulation Research, Toyota Research Institute",
+   "url": "https://medium.com/toyotaresearch/meet-punyo-tris-soft-robot-for-whole-body-manipulation-research-949c934ac3d8",
+   "kind": "maker"
+  },
+  {
+   "label": "Punyo soft robot from TRI designed for whole body manipulation, The Robot Report",
+   "url": "https://www.therobotreport.com/punyo-soft-robot-from-tri-designed-for-whole-body-manipulation/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,36 @@
+{
+ "id": "miko-3",
+ "name": "Miko 3",
+ "aka": [],
+ "section": "other",
+ "kind": "companion robot",
+ "maker": "Miko",
+ "country": "India",
+ "year": "2021",
+ "status": "production",
+ "def": "Small wheeled companion robot for children with a screen face, built to talk, play games and teach.",
+ "body": [],
+ "facts": [
+  "Made by Miko, the Mumbai company formerly called Emotix",
+  "Third generation of the Miko robots"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "AI powered educational robot Miko 3 launched in India, Analytics India Magazine",
+   "url": "https://analyticsindiamag.com/ai-powered-educational-robot-miko-3-launched-in-india/",
+   "kind": "cited"
+  },
+  {
+   "label": "Miko launches AI powered learning robot Miko 3 in India, Digital Terminal",
+   "url": "https://digitalterminal.in/news/miko-launches-most-advance-ai-powered-learning-robot-miko-3-in-india/27427.html",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

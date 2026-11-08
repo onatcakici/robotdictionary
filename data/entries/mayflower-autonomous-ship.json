@@ -1,0 +1,38 @@
+{
+ "id": "mayflower-autonomous-ship",
+ "name": "Mayflower Autonomous Ship",
+ "aka": [
+  "MAS400"
+ ],
+ "section": "marine",
+ "kind": "autonomous ship",
+ "maker": "ProMare and IBM",
+ "country": "United Kingdom",
+ "year": "2020",
+ "status": "",
+ "def": "Solar powered research trimaran that sails without a crew, steered by an onboard AI captain.",
+ "body": [],
+ "facts": [
+  "Crossed the Atlantic from Plymouth and reached Halifax, Nova Scotia in June 2022",
+  "Named for the Mayflower voyage of 1620"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Autonomous Mayflower reaches American shores, in Canada, Associated Press via News4JAX",
+   "url": "https://www.news4jax.com/business/2022/06/05/autonomous-mayflower-reaches-american-shores-in-canada/",
+   "kind": "cited"
+  },
+  {
+   "label": "Mayflower Autonomous Ship successfully crosses Atlantic, New Atlas",
+   "url": "https://newatlas.com/marine/mayflower-autonomous-ship-successfully-crosses-atlantic/?amp=true",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

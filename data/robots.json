@@ -3,7 +3,7 @@
  "url": "https://robotdictionary.com/",
  "licence": "CC BY 4.0, attribution: Robot Dictionary (robotdictionary.com)",
  "generated": "2026-11-08",
- "count": 984,
+ "count": 1002,
  "entries": [
   {
    "id": "2-xl",
@@ -187,6 +187,35 @@
    "ids": {
     "wikidata": "Q4645167"
    },
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
+   "id": "ability-hand",
+   "name": "Ability Hand",
+   "section": "medical",
+   "kind": "bionic hand",
+   "maker": "PSYONIC",
+   "country": "United States",
+   "year": "2021",
+   "status": "production",
+   "def": "Fast, impact resistant bionic hand that sends touch feedback from its fingertips back to the wearer.",
+   "facts": [
+    "Described by its maker as the first commercially available bionic hand with multi touch feedback",
+    "Grew out of research at the University of Illinois"
+   ],
+   "refs": [
+    {
+     "label": "ECE alumnus launches the first commercially available bionic hand capable of multitouch feedback, University of Illinois",
+     "url": "https://ece.illinois.edu/news/4287",
+     "kind": "cited"
+    },
+    {
+     "label": "PSYONIC launches the Ability Hand, Rehab Management",
+     "url": "https://rehabpub.com/orthotics-prosthetics/prosthetics/psyonic-launches-the-ability-hand-a-bionic-hand-you-can-arm-wrestle-with/",
+     "kind": "cited"
+    }
+   ],
    "added": "2026-11-08",
    "revised": "2026-11-08"
   },
@@ -3440,6 +3469,40 @@
    "revised": "2026-11-08"
   },
   {
+   "id": "bdx-droids",
+   "name": "BDX droids",
+   "aka": [
+    "BD droids"
+   ],
+   "section": "quadrupeds",
+   "kind": "legged entertainment robot",
+   "maker": "Walt Disney Imagineering",
+   "country": "United States",
+   "year": "2023",
+   "def": "Child sized two legged droid characters from Disney that walk, wobble and react with cartoon like personality, trained in simulation with reinforcement learning.",
+   "facts": [
+    "Unveiled by Disney Research in October 2023",
+    "Tested with guests in Star Wars: Galaxy's Edge at Disneyland"
+   ],
+   "see": [
+    "olaf-robot"
+   ],
+   "refs": [
+    {
+     "label": "Disney's new bipedal robot could have waddled out of a cartoon, Popular Science",
+     "url": "https://www.popsci.com/technology/disney-robot-cute-animation/",
+     "kind": "cited"
+    },
+    {
+     "label": "Disney Research team unveils child size bipedal walking robot, WDW News Today",
+     "url": "https://wdwnt.com/2023/10/disney-research-team-unveils-child-size-bipedal-walking-robot",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
    "id": "beam",
    "name": "Beam",
    "section": "wheeled",
@@ -4136,6 +4199,42 @@
    "revised": "2026-11-08"
   },
   {
+   "id": "amazon-blue-jay",
+   "name": "Blue Jay",
+   "aka": [
+    "Amazon Blue Jay"
+   ],
+   "section": "arms",
+   "kind": "robot arm system",
+   "maker": "Amazon Robotics",
+   "country": "United States",
+   "year": "2025",
+   "status": "discontinued",
+   "def": "Amazon workcell in which several robot arms work over one station at once, picking, stowing and consolidating items.",
+   "facts": [
+    "Unveiled in October 2025",
+    "Reported to have been shelved about six months after launch"
+   ],
+   "see": [
+    "amazon-vulcan",
+    "amazon-cardinal"
+   ],
+   "refs": [
+    {
+     "label": "Amazon announces two new robot systems, Blue Jay and Project Eluna, Gigazine",
+     "url": "https://gigazine.net/gsc_news/en/20251024-blue-jay-project-eluna",
+     "kind": "cited"
+    },
+    {
+     "label": "Amazon unveils new robotic arms and agentic AI system for its fulfillment operations, Robotics and Automation News",
+     "url": "https://roboticsandautomationnews.com/2025/10/23/amazon-unveils-new-robotic-arms-and-agentic-ai-system-for-its-fulfillment-operations/95789",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
    "id": "bluefin-21",
    "name": "Bluefin-21",
    "section": "marine",
@@ -4417,6 +4516,38 @@
     }
    ],
    "added": "2026-08-14",
+   "revised": "2026-11-08"
+  },
+  {
+   "id": "samsung-bot-handy",
+   "name": "Bot Handy",
+   "aka": [
+    "Samsung Bot Handy"
+   ],
+   "section": "wheeled",
+   "kind": "mobile manipulator",
+   "maker": "Samsung Electronics",
+   "country": "South Korea",
+   "year": "2021",
+   "status": "concept",
+   "def": "Concept home robot from Samsung, a wheeled column with one arm meant to load dishwashers, set tables and pour drinks.",
+   "facts": [
+    "Shown at CES in January 2021 alongside Bot Care",
+    "Uses a camera and AI to recognise objects and judge how hard to grip them"
+   ],
+   "refs": [
+    {
+     "label": "Samsung's latest home robots can do chores and nag you to stop working, Engadget",
+     "url": "https://www.engadget.com/samsung-home-robots-bot-handy-bot-care-151800168.html",
+     "kind": "cited"
+    },
+    {
+     "label": "Samsung's Bot Handy can put away dishes, set a table, and pour drinks for you, TechSpot",
+     "url": "https://www.techspot.com/news/88239-samsung-bot-handy-can-put-away-dishes-set.html",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -4951,6 +5082,42 @@
      "label": "Canadian Space Agency website",
      "url": "https://www.asc-csa.gc.ca/eng/",
      "kind": "maker"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
+   "id": "amazon-cardinal",
+   "name": "Cardinal",
+   "aka": [
+    "Amazon Cardinal"
+   ],
+   "section": "arms",
+   "kind": "robot arm",
+   "maker": "Amazon Robotics",
+   "country": "United States",
+   "year": "2022",
+   "def": "Amazon robot arm that picks parcels from a jumbled pile, reads their labels and stacks them into carts.",
+   "facts": [
+    "Announced in June 2022 together with the Proteus mobile robot",
+    "Handles packages of up to about 50 pounds"
+   ],
+   "see": [
+    "amazon-vulcan",
+    "amazon-proteus",
+    "amazon-sparrow"
+   ],
+   "refs": [
+    {
+     "label": "Amazon details new internally developed warehouse robots, SiliconANGLE",
+     "url": "https://siliconangle.com/2022/06/22/amazon-details-new-internally-developed-warehouse-robots",
+     "kind": "cited"
+    },
+    {
+     "label": "Amazon robot warehouse, The Register",
+     "url": "https://www.theregister.com/2022/06/22/amazon_robot_warehouse/",
+     "kind": "cited"
     }
    ],
    "added": "2026-11-08",
@@ -9800,6 +9967,37 @@
    "revised": "2026-11-08"
   },
   {
+   "id": "narwal-freo",
+   "name": "Freo",
+   "aka": [
+    "Narwal Freo"
+   ],
+   "section": "wheeled",
+   "kind": "robot vacuum cleaner",
+   "maker": "Narwal",
+   "country": "China",
+   "year": "2022",
+   "def": "Robot vacuum and mop that returns to a base station to wash its own mop pads and adjusts its mopping to how dirty the floor is.",
+   "facts": [
+    "Launched in September 2022",
+    "Followed by later Freo models with the same self washing station"
+   ],
+   "refs": [
+    {
+     "label": "Narwal Freo smart vacuum mop robot, 9to5Mac",
+     "url": "https://9to5mac.com/2022/11/20/narwal-freo-smart-vacuum-mop-robot/",
+     "kind": "cited"
+    },
+    {
+     "label": "Narwal Freo launch announcement, Business Wire",
+     "url": "https://www.businesswire.com/news/home/20220915005194/en",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
    "id": "furby",
    "name": "Furby",
    "aka": [
@@ -11108,6 +11306,35 @@
     "wikidata": "Q1563532"
    },
    "added": "2026-08-14",
+   "revised": "2026-11-08"
+  },
+  {
+   "id": "hero-arm",
+   "name": "Hero Arm",
+   "section": "medical",
+   "kind": "bionic arm",
+   "maker": "Open Bionics",
+   "country": "United Kingdom",
+   "year": "2018",
+   "status": "production",
+   "def": "Lightweight myoelectric prosthetic arm with a multi grip hand, 3D printed to fit each wearer and offered with swappable covers.",
+   "facts": [
+    "Recognised by Guinness World Records as the first medically certified 3D printed bionic arm",
+    "Made in Bristol"
+   ],
+   "refs": [
+    {
+     "label": "First medically certified 3D printed bionic arm, Guinness World Records",
+     "url": "https://guinnessworldrecords.com/world-records/631257-first-medically-certified-3d-printed-bionic-arm",
+     "kind": "cited"
+    },
+    {
+     "label": "Robotics startup launches first medically approved 3D printed bionic arms, Medical Xpress",
+     "url": "https://medicalxpress.com/news/2018-04-robotics-startup-medically-d-bionic.html",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -15825,6 +16052,38 @@
    "revised": "2026-11-08"
   },
   {
+   "id": "luke-arm",
+   "name": "LUKE arm",
+   "aka": [
+    "DEKA Arm"
+   ],
+   "section": "medical",
+   "kind": "prosthetic arm",
+   "maker": "DEKA Research and Development",
+   "country": "United States",
+   "year": "2014",
+   "status": "production",
+   "def": "Advanced prosthetic arm developed by DEKA under the DARPA Revolutionizing Prosthetics programme, able to make several grips and move the shoulder, elbow and wrist together.",
+   "facts": [
+    "Cleared for marketing by the US Food and Drug Administration in May 2014",
+    "Nicknamed after Luke Skywalker's bionic hand"
+   ],
+   "refs": [
+    {
+     "label": "FDA approves first prosthetic arm that translates signals from muscles, CNN",
+     "url": "https://edition.cnn.com/2014/05/12/tech/innovation/deka-bionic-arm-kamen/index.html",
+     "kind": "cited"
+    },
+    {
+     "label": "From Star Wars to real life, new prosthesis transforms lives, MIT Technology Review",
+     "url": "https://www.technologyreview.com/2016/04/19/160918/from-star-wars-to-real-life-new-prosthesis-transforms-lives/",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
    "id": "lunar-roving-vehicle",
    "name": "Lunar Roving Vehicle",
    "aka": [
@@ -17095,6 +17354,37 @@
    "revised": "2026-11-08"
   },
   {
+   "id": "mayflower-autonomous-ship",
+   "name": "Mayflower Autonomous Ship",
+   "aka": [
+    "MAS400"
+   ],
+   "section": "marine",
+   "kind": "autonomous ship",
+   "maker": "ProMare and IBM",
+   "country": "United Kingdom",
+   "year": "2020",
+   "def": "Solar powered research trimaran that sails without a crew, steered by an onboard AI captain.",
+   "facts": [
+    "Crossed the Atlantic from Plymouth and reached Halifax, Nova Scotia in June 2022",
+    "Named for the Mayflower voyage of 1620"
+   ],
+   "refs": [
+    {
+     "label": "Autonomous Mayflower reaches American shores, in Canada, Associated Press via News4JAX",
+     "url": "https://www.news4jax.com/business/2022/06/05/autonomous-mayflower-reaches-american-shores-in-canada/",
+     "kind": "cited"
+    },
+    {
+     "label": "Mayflower Autonomous Ship successfully crosses Atlantic, New Atlas",
+     "url": "https://newatlas.com/marine/mayflower-autonomous-ship-successfully-crosses-atlantic/?amp=true",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
    "id": "mazor-x",
    "name": "Mazor X",
    "section": "medical",
@@ -17344,6 +17634,38 @@
    "revised": "2026-11-08"
   },
   {
+   "id": "sunday-memo",
+   "name": "Memo",
+   "aka": [
+    "Sunday Memo"
+   ],
+   "section": "humanoids",
+   "kind": "wheeled humanoid",
+   "maker": "Sunday Robotics",
+   "country": "United States",
+   "year": "2025",
+   "status": "development",
+   "def": "Household robot with two arms on a wheeled base, trained on recordings of people doing chores in real homes, for tidying, dishes and laundry.",
+   "facts": [
+    "Launched in November 2025",
+    "Its maker raised $165 million in March 2026 to put the first robots into homes"
+   ],
+   "refs": [
+    {
+     "label": "Sunday wants to put a robot in every home, beginning with the launch of Memo, SiliconANGLE",
+     "url": "https://siliconangle.com/2025/11/20/sunday-wants-put-robot-every-home-beginning-launch-memo/",
+     "kind": "cited"
+    },
+    {
+     "label": "Sunday raises $165M to launch Memo household robot, SiliconANGLE",
+     "url": "https://siliconangle.com/2026/03/12/sunday-raises-165m-1-15b-valuation-launch-memo-household-robot/",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
    "id": "menteebot",
    "name": "MenteeBot",
    "section": "humanoids",
@@ -17480,6 +17802,35 @@
    "ids": {
     "wikidata": "Q6836660"
    },
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
+   "id": "miko-3",
+   "name": "Miko 3",
+   "section": "other",
+   "kind": "companion robot",
+   "maker": "Miko",
+   "country": "India",
+   "year": "2021",
+   "status": "production",
+   "def": "Small wheeled companion robot for children with a screen face, built to talk, play games and teach.",
+   "facts": [
+    "Made by Miko, the Mumbai company formerly called Emotix",
+    "Third generation of the Miko robots"
+   ],
+   "refs": [
+    {
+     "label": "AI powered educational robot Miko 3 launched in India, Analytics India Magazine",
+     "url": "https://analyticsindiamag.com/ai-powered-educational-robot-miko-3-launched-in-india/",
+     "kind": "cited"
+    },
+    {
+     "label": "Miko launches AI powered learning robot Miko 3 in India, Digital Terminal",
+     "url": "https://digitalterminal.in/news/miko-launches-most-advance-ai-powered-learning-robot-miko-3-in-india/27427.html",
+     "kind": "cited"
+    }
+   ],
    "added": "2026-11-08",
    "revised": "2026-11-08"
   },
@@ -19944,6 +20295,38 @@
    "revised": "2026-11-08"
   },
   {
+   "id": "oceanone",
+   "name": "OceanOne",
+   "section": "marine",
+   "kind": "humanoid underwater robot",
+   "maker": "Stanford University",
+   "country": "United States",
+   "year": "2016",
+   "status": "research",
+   "def": "Humanoid diving robot from Stanford with two arms, stereo eyes and thrusters, steered by a pilot who feels what its hands touch through haptic controls.",
+   "facts": [
+    "Recovered a vase from La Lune, a flagship of Louis XIV that sank off Toulon in 1664, on its first mission in 2016",
+    "Followed in 2022 by the deeper diving OceanOneK"
+   ],
+   "see": [
+    "oceanonek"
+   ],
+   "refs": [
+    {
+     "label": "Robotic diver recovers treasures from King Louis XIV's wrecked flagship, Stanford News",
+     "url": "https://news.stanford.edu/2016/04/27/robotic-diver-recovers-treasures/",
+     "kind": "maker"
+    },
+    {
+     "label": "Stanford's humanoid submarine robot, IEEE Spectrum",
+     "url": "https://spectrum.ieee.org/stanford-humanoid-submarine-robot",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
    "id": "oceanonek",
    "name": "OceanOneK",
    "section": "humanoids",
@@ -20091,6 +20474,40 @@
     }
    ],
    "added": "2026-08-14",
+   "revised": "2026-11-08"
+  },
+  {
+   "id": "olaf-robot",
+   "name": "Olaf",
+   "aka": [
+    "Robotic Olaf"
+   ],
+   "section": "other",
+   "kind": "animatronic figure",
+   "maker": "Walt Disney Imagineering",
+   "country": "United States",
+   "year": "2025",
+   "def": "Free walking robotic version of the snowman from Frozen, built by Walt Disney Imagineering to roam among guests in its World of Frozen lands.",
+   "facts": [
+    "Debuted at Disneyland Paris in November 2025",
+    "Planned for the World of Frozen areas in Paris and Hong Kong"
+   ],
+   "see": [
+    "bdx-droids"
+   ],
+   "refs": [
+    {
+     "label": "Walt Disney Imagineering debuts Olaf the snowman robot, Robotics 24/7",
+     "url": "https://www.robotics247.com/article/video_walt_disney_imagineering_debuts_olaf_the_snowman_robot_from_frozen_series",
+     "kind": "cited"
+    },
+    {
+     "label": "Disney to introduce new Olaf character in Paris, Hong Kong, Theme Park Insider",
+     "url": "https://www.themeparkinsider.com/flume/202511/11188/",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -22607,6 +23024,35 @@
    "revised": "2026-11-08"
   },
   {
+   "id": "punyo",
+   "name": "Punyo",
+   "section": "humanoids",
+   "kind": "soft humanoid",
+   "maker": "Toyota Research Institute",
+   "country": "United States",
+   "year": "2024",
+   "status": "research",
+   "def": "Soft bodied humanoid upper body from the Toyota Research Institute that lifts large objects by hugging them with its arms and chest, not just its hands.",
+   "facts": [
+    "Covered in air filled pads and a sweater like skin that sense pressure across the body",
+    "Built for research into whole body manipulation of bulky, heavy objects"
+   ],
+   "refs": [
+    {
+     "label": "Meet Punyo, TRI's Soft Robot for Whole Body Manipulation Research, Toyota Research Institute",
+     "url": "https://medium.com/toyotaresearch/meet-punyo-tris-soft-robot-for-whole-body-manipulation-research-949c934ac3d8",
+     "kind": "maker"
+    },
+    {
+     "label": "Punyo soft robot from TRI designed for whole body manipulation, The Robot Report",
+     "url": "https://www.therobotreport.com/punyo-soft-robot-from-tri-designed-for-whole-body-manipulation/",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
    "id": "push-the-talking-trash-can",
    "name": "Push the Talking Trash Can",
    "section": "other",
@@ -23458,6 +23904,38 @@
     }
    ],
    "added": "2026-08-14",
+   "revised": "2026-11-08"
+  },
+  {
+   "id": "reachy-mini",
+   "name": "Reachy Mini",
+   "section": "other",
+   "kind": "desktop robot",
+   "maker": "Pollen Robotics and Hugging Face",
+   "country": "France",
+   "year": "2025",
+   "status": "production",
+   "def": "Small open source desktop robot with an expressive head and antennas, sold as a kit for experimenting with AI models.",
+   "facts": [
+    "Launched in July 2025 from $299",
+    "Built by Pollen Robotics after its acquisition by Hugging Face"
+   ],
+   "see": [
+    "reachy-2"
+   ],
+   "refs": [
+    {
+     "label": "Hugging Face opens up orders for its Reachy Mini desktop robots, TechCrunch",
+     "url": "https://techcrunch.com/2025/07/09/hugging-face-opens-up-orders-for-its-reachy-mini-desktop-robots",
+     "kind": "cited"
+    },
+    {
+     "label": "Hugging Face introduces open source desktop robot for $299, TechSpot",
+     "url": "https://www.techspot.com/news/108629-hugging-face-introduces-open-source-desktop-robot-299.html",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {
@@ -27171,6 +27649,38 @@
    "revised": "2026-11-08"
   },
   {
+   "id": "roborock-saros-z70",
+   "name": "Saros Z70",
+   "aka": [
+    "Roborock Saros Z70"
+   ],
+   "section": "wheeled",
+   "kind": "robot vacuum cleaner",
+   "maker": "Roborock",
+   "country": "China",
+   "year": "2025",
+   "status": "production",
+   "def": "Robot vacuum with a folding five axis arm that lifts small objects such as socks out of its path before it cleans.",
+   "facts": [
+    "Shown at CES in January 2025",
+    "The arm folds away inside the body when not in use"
+   ],
+   "refs": [
+    {
+     "label": "Roborock Saros Z70: robot vacuum with robotic arm launching globally, Notebookcheck",
+     "url": "https://www.notebookcheck.net/Roborock-Saros-Z70-New-robot-vacuum-with-robotic-arm-launching-globally.940999.0.html",
+     "kind": "cited"
+    },
+    {
+     "label": "The robot vacuum cleaner Roborock Saros Z70 equipped with a robot arm is announced, Gigazine",
+     "url": "https://gigazine.net/gsc_news/en/20250106-roborock-saros-z70",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
    "id": "sawfish-harvester",
    "name": "Sawfish harvester",
    "aka": [
@@ -28635,6 +29145,38 @@
     {
      "label": "Teledyne Marine website",
      "url": "https://www.teledynemarine.com",
+     "kind": "maker"
+    }
+   ],
+   "added": "2026-11-08",
+   "revised": "2026-11-08"
+  },
+  {
+   "id": "so-101",
+   "name": "SO-101",
+   "aka": [
+    "SO ARM101",
+    "SO-100"
+   ],
+   "section": "arms",
+   "kind": "robot arm",
+   "maker": "Hugging Face and TheRobotStudio",
+   "year": "2025",
+   "status": "production",
+   "def": "Low cost, 3D printable open source robot arm, built in leader and follower pairs for teaching robots by demonstration with the LeRobot software.",
+   "facts": [
+    "Successor to the SO-100 arm of 2024",
+    "Its design files and code are published openly"
+   ],
+   "refs": [
+    {
+     "label": "Hugging Face launches the SO-101, an upgraded low cost 3D printable autonomous robot arm, Hackster",
+     "url": "https://www.hackster.io/news/hugging-face-launches-the-so-101-an-upgraded-low-cost-3d-printable-autonomous-robot-arm-532360f441eb",
+     "kind": "cited"
+    },
+    {
+     "label": "SO-ARM100 design files, GitHub",
+     "url": "https://github.com/TheRobotStudio/SO-ARM100",
      "kind": "maker"
     }
    ],
@@ -34579,6 +35121,43 @@
     }
    ],
    "added": "2026-08-14",
+   "revised": "2026-11-08"
+  },
+  {
+   "id": "amazon-vulcan",
+   "name": "Vulcan",
+   "aka": [
+    "Amazon Vulcan"
+   ],
+   "section": "arms",
+   "kind": "robot arm",
+   "maker": "Amazon Robotics",
+   "country": "United States",
+   "year": "2025",
+   "status": "service",
+   "def": "Warehouse picking robot from Amazon with force sensing grippers, described by the company as its first robot with a sense of touch.",
+   "facts": [
+    "Stows and picks items in the fabric pods of Amazon fulfilment centres",
+    "Shown in May 2025, working in Spokane and Hamburg"
+   ],
+   "see": [
+    "amazon-cardinal",
+    "amazon-sparrow",
+    "amazon-proteus"
+   ],
+   "refs": [
+    {
+     "label": "Amazon touts Vulcan, its first robot with a sense of touch, The Register",
+     "url": "https://www.theregister.com/2025/05/08/amazon_vulcan_robot/",
+     "kind": "cited"
+    },
+    {
+     "label": "Amazon's newest fulfillment robot has a sense of touch, Engadget",
+     "url": "https://engadget.com/big-tech/amazons-newest-fulfillment-robot-has-a-sense-of-touch-120050449.html?src=rss",
+     "kind": "cited"
+    }
+   ],
+   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {

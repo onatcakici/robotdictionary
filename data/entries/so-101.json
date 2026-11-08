@@ -1,0 +1,39 @@
+{
+ "id": "so-101",
+ "name": "SO-101",
+ "aka": [
+  "SO ARM101",
+  "SO-100"
+ ],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "Hugging Face and TheRobotStudio",
+ "country": "",
+ "year": "2025",
+ "status": "production",
+ "def": "Low cost, 3D printable open source robot arm, built in leader and follower pairs for teaching robots by demonstration with the LeRobot software.",
+ "body": [],
+ "facts": [
+  "Successor to the SO-100 arm of 2024",
+  "Its design files and code are published openly"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Hugging Face launches the SO-101, an upgraded low cost 3D printable autonomous robot arm, Hackster",
+   "url": "https://www.hackster.io/news/hugging-face-launches-the-so-101-an-upgraded-low-cost-3d-printable-autonomous-robot-arm-532360f441eb",
+   "kind": "cited"
+  },
+  {
+   "label": "SO-ARM100 design files, GitHub",
+   "url": "https://github.com/TheRobotStudio/SO-ARM100",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,40 @@
+{
+ "id": "bdx-droids",
+ "name": "BDX droids",
+ "aka": [
+  "BD droids"
+ ],
+ "section": "quadrupeds",
+ "kind": "legged entertainment robot",
+ "maker": "Walt Disney Imagineering",
+ "country": "United States",
+ "year": "2023",
+ "status": "",
+ "def": "Child sized two legged droid characters from Disney that walk, wobble and react with cartoon like personality, trained in simulation with reinforcement learning.",
+ "body": [],
+ "facts": [
+  "Unveiled by Disney Research in October 2023",
+  "Tested with guests in Star Wars: Galaxy's Edge at Disneyland"
+ ],
+ "specs": [],
+ "see": [
+  "olaf-robot"
+ ],
+ "refs": [
+  {
+   "label": "Disney's new bipedal robot could have waddled out of a cartoon, Popular Science",
+   "url": "https://www.popsci.com/technology/disney-robot-cute-animation/",
+   "kind": "cited"
+  },
+  {
+   "label": "Disney Research team unveils child size bipedal walking robot, WDW News Today",
+   "url": "https://wdwnt.com/2023/10/disney-research-team-unveils-child-size-bipedal-walking-robot",
+   "kind": "cited"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}
