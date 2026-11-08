@@ -1,0 +1,45 @@
+{
+ "id": "pioneer-11",
+ "name": "Pioneer 11",
+ "aka": [],
+ "section": "other",
+ "kind": "robot",
+ "maker": "TRW Inc.",
+ "country": "United States",
+ "year": "1973",
+ "status": "",
+ "def": "Robotic space probe launched by NASA for planetary and heliosphere exploration.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://spaceprojects.arc.nasa.gov/Space_Projects/pioneer/PNhome.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Pioneer 11",
+   "url": "https://en.wikipedia.org/wiki/Pioneer_11",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Pioneer 11 (Q59113)",
+   "url": "https://www.wikidata.org/wiki/Q59113",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q59113"
+ },
+ "origin": "auto",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": [],
+ "excerpt": {
+  "text": "Pioneer 11 is a NASA space probe launched in 1973 that completed the first mission to the planet Saturn. It was the first spacecraft to encounter Saturn, the second to fly through the asteroid belt, and the second to fly past Jupiter.",
+  "title": "Pioneer 11",
+  "url": "https://en.wikipedia.org/wiki/Pioneer_11"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "canadarm2-q559298",
+ "name": "Canadarm2",
+ "aka": [],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "MDA Space and FRE Composites",
+ "country": "Canada",
+ "year": "2001",
+ "status": "",
+ "def": "Robotic arm on the International Space Station.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Canadarm2",
+   "url": "https://en.wikipedia.org/wiki/Canadarm2",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Canadarm2 (Q559298)",
+   "url": "https://www.wikidata.org/wiki/Q559298",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q559298"
+ },
+ "origin": "auto",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": [],
+ "excerpt": {
+  "text": "The Mobile Servicing System (MSS) is a robotic system on board the International Space Station (ISS). Launched to the ISS in 2001, it plays a key role in station assembly and maintenance; it moves equipment and supplies around the station, supports astronauts working in space, services instruments and other payloads attached to the ISS, and is used for external maintenance.",
+  "title": "Canadarm2",
+  "url": "https://en.wikipedia.org/wiki/Canadarm2"
+ }
+}

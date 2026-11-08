@@ -1,0 +1,40 @@
+{
+ "id": "progress-m-10",
+ "name": "Progress M-10",
+ "aka": [],
+ "section": "other",
+ "kind": "robot",
+ "maker": "",
+ "country": "",
+ "year": "1991",
+ "status": "",
+ "def": "Soviet turned Russian robotic spacecraft.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Progress M-10",
+   "url": "https://en.wikipedia.org/wiki/Progress_M-10",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Progress M-10 (Q7248553)",
+   "url": "https://www.wikidata.org/wiki/Q7248553",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7248553"
+ },
+ "origin": "auto",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": [],
+ "excerpt": {
+  "text": "Progress M-10 was a Soviet and subsequently Russian uncrewed cargo spacecraft which was launched in 1991 to resupply the Mir space station. The 28th of 64 Progress spacecraft to visit Mir, it used the Progress-M 11F615A55 configuration, and had the serial number 211.",
+  "title": "Progress M-10",
+  "url": "https://en.wikipedia.org/wiki/Progress_M-10"
+ }
+}

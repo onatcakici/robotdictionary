@@ -1,0 +1,45 @@
+{
+ "id": "mariner-4",
+ "name": "Mariner 4",
+ "aka": [],
+ "section": "other",
+ "kind": "robot",
+ "maker": "",
+ "country": "",
+ "year": "1964",
+ "status": "",
+ "def": "Robotic spacecraft sent by NASA to Mars.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.jpl.nasa.gov/missions/mariner-4/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Mariner 4",
+   "url": "https://en.wikipedia.org/wiki/Mariner_4",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Mariner 4 (Q203805)",
+   "url": "https://www.wikidata.org/wiki/Q203805",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q203805"
+ },
+ "origin": "auto",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": [],
+ "excerpt": {
+  "text": "Mariner 4 was the fourth in a series of spacecraft intended for planetary exploration in a flyby mode. It was designed to conduct closeup scientific observations of Mars and to transmit these observations to Earth.",
+  "title": "Mariner 4",
+  "url": "https://en.wikipedia.org/wiki/Mariner_4"
+ }
+}
