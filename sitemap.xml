@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://robotdictionary.com/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://robotdictionary.com/news/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/a-z/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/makers/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/countries/</loc><lastmod>2026-11-08</lastmod></url>
@@ -9,6 +10,7 @@
 <url><loc>https://robotdictionary.com/recent/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/about/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/legal/</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://robotdictionary.com/credits/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/humanoids/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/quadrupeds/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/wheeled/</loc><lastmod>2026-11-08</lastmod></url>
@@ -327,7 +329,6 @@
 <url><loc>https://robotdictionary.com/go2-w/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/abb-gofa/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/goldfish-class-rouv/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://robotdictionary.com/goliath-tracked-mine/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/gomate/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/gr-1/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/gr-100/</loc><lastmod>2026-11-08</lastmod></url>
@@ -522,7 +523,6 @@
 <url><loc>https://robotdictionary.com/mapp/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/marble-robot/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/marcbot/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://robotdictionary.com/marichka/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/marie-curie/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/mark-ii/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/marker/</loc><lastmod>2026-11-08</lastmod></url>
@@ -573,7 +573,6 @@
 <url><loc>https://robotdictionary.com/mit-leg-lab-quadruped/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/mit-manus/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/mitra/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://robotdictionary.com/mobile-land-mine/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/mobot/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/modular-advanced-armed-robotic-system/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/modulus/</loc><lastmod>2026-11-08</lastmod></url>
@@ -841,7 +840,6 @@
 <url><loc>https://robotdictionary.com/scythe-m52/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/sdr-4x/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/se01/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://robotdictionary.com/sea-baby/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/sea-dragon-class-rov/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/sea-hunter/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/seabotix-rov/</loc><lastmod>2026-11-08</lastmod></url>
@@ -1230,7 +1228,6 @@
 <url><loc>https://robotdictionary.com/countries/latvia/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/countries/luxembourg/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/countries/mexico/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://robotdictionary.com/countries/nazi-germany/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/countries/netherlands/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/countries/new-zealand/</loc><lastmod>2026-11-08</lastmod></url>
 <url><loc>https://robotdictionary.com/countries/norway/</loc><lastmod>2026-11-08</lastmod></url>

@@ -1033,12 +1033,6 @@
  },
  {
   "date": "2026-11-08",
-  "id": "goliath-tracked-mine",
-  "type": "added",
-  "note": ""
- },
- {
-  "date": "2026-11-08",
   "id": "gr-100",
   "type": "added",
   "note": ""
@@ -1807,12 +1801,6 @@
  },
  {
   "date": "2026-11-08",
-  "id": "marichka",
-  "type": "added",
-  "note": ""
- },
- {
-  "date": "2026-11-08",
   "id": "mark-ii",
   "type": "added",
   "note": ""
@@ -1988,12 +1976,6 @@
  {
   "date": "2026-11-08",
   "id": "mitra",
-  "type": "added",
-  "note": ""
- },
- {
-  "date": "2026-11-08",
-  "id": "mobile-land-mine",
   "type": "added",
   "note": ""
  },
@@ -3008,12 +2990,6 @@
  {
   "date": "2026-11-08",
   "id": "sdr-4x",
-  "type": "added",
-  "note": ""
- },
- {
-  "date": "2026-11-08",
-  "id": "sea-baby",
   "type": "added",
   "note": ""
  },

@@ -19,11 +19,22 @@ jobs:
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install picture tools
+        run: pip install --quiet pillow
       - name: Revise entries from sources
         continue-on-error: true
-        run: python3 tools/update.py
+        run: python tools/update.py
+      - name: Pictures from Wikimedia Commons
+        continue-on-error: true
+        run: python tools/images.py
+      - name: Robotics headlines
+        continue-on-error: true
+        run: python tools/news.py
       - name: Build pages
-        run: python3 tools/build.py
+        run: python tools/build.py
       - name: Publish
         run: |
           git config user.name "Robot Dictionary"

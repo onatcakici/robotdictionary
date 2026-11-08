@@ -3,7 +3,7 @@
  "url": "https://robotdictionary.com/",
  "licence": "CC BY 4.0, attribution: Robot Dictionary (robotdictionary.com)",
  "generated": "2026-11-08",
- "count": 1063,
+ "count": 1059,
  "entries": [
   {
    "id": "2-xl",
@@ -11124,44 +11124,6 @@
    "revised": "2026-11-08"
   },
   {
-   "id": "goliath-tracked-mine",
-   "name": "Goliath tracked mine",
-   "aka": [
-    "beetle tank"
-   ],
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "country": "Nazi Germany",
-   "status": "retired",
-   "def": "Unmanned single use tracked vehicle used by the German Army in the Second World War to carry a warhead against tanks, infantry, buildings and bridges.",
-   "facts": [
-    "Fielded by the German Army during World War II",
-    "Also known as the beetle tank"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Goliath tracked mine",
-     "url": "https://en.wikipedia.org/wiki/Goliath_tracked_mine",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Goliath tracked mine (Q571184)",
-     "url": "https://www.wikidata.org/wiki/Q571184",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Maker website",
-     "url": "http://www.borgward.com/",
-     "kind": "maker"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q571184"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
    "id": "gomate",
    "name": "GoMate",
    "section": "humanoids",
@@ -17009,10 +16971,6 @@
      "Teleoperated from Earth with several seconds of command delay"
     ],
     [
-     "Distance",
-     "approx. 10.5 km"
-    ],
-    [
      "Crew",
      "5-man Earth driving team"
     ]
@@ -17091,10 +17049,6 @@
     [
      "Autonomy",
      "Teleoperated from Earth using television guidance"
-    ],
-    [
-     "Distance",
-     "approx. 39 km"
     ],
     [
      "Crew",
@@ -17804,41 +17758,6 @@
    ],
    "ids": {
     "wikidata": "Q6714461"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "marichka",
-   "name": "Marichka",
-   "aka": [
-    "Marichka (UUV)",
-    "Marichka underwater drone",
-    "Marichka submarine drone"
-   ],
-   "section": "marine",
-   "kind": "autonomous underwater vehicle",
-   "country": "Ukraine",
-   "def": "Autonomous underwater vehicle made in Ukraine for several roles, including attacks beneath the surface, carrying cargo and reconnaissance.",
-   "refs": [
-    {
-     "label": "Wikipedia, Marichka",
-     "url": "https://en.wikipedia.org/wiki/Marichka",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Marichka (Q124751749)",
-     "url": "https://www.wikidata.org/wiki/Q124751749",
-     "kind": "wikidata"
-    },
-    {
-     "label": "Cited source, navalnews.com",
-     "url": "https://www.navalnews.com/naval-news/2023/08/ukraines-new-underwater-drone-marichka-breaks-cover/",
-     "kind": "cited"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q124751749"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -19533,35 +19452,6 @@
    ],
    "ids": {
     "wikidata": "Q85785951"
-   },
-   "added": "2026-11-08",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "mobile-land-mine",
-   "name": "Mobile Land Mine",
-   "section": "wheeled",
-   "kind": "military ground robot",
-   "country": "United Kingdom",
-   "status": "prototype",
-   "def": "Experimental British remote controlled tracked vehicle of the Second World War that carried an explosive charge.",
-   "facts": [
-    "Guided by wire and powered by two electric motors"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Mobile Land Mine",
-     "url": "https://en.wikipedia.org/wiki/Mobile_Land_Mine",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Mobile Land Mine (Q6886896)",
-     "url": "https://www.wikidata.org/wiki/Q6886896",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q6886896"
    },
    "added": "2026-11-08",
    "revised": "2026-11-08"
@@ -21736,10 +21626,6 @@
     [
      "Autonomy",
      "Ground planned drives with autonomous navigation and visual odometry"
-    ],
-    [
-     "Distance",
-     "approx. 45 km"
     ],
     [
      "Design life",
@@ -29654,39 +29540,6 @@
     }
    ],
    "added": "2026-08-14",
-   "revised": "2026-11-08"
-  },
-  {
-   "id": "sea-baby",
-   "name": "Sea Baby",
-   "aka": [
-    "SeaBaby",
-    "Sea Malyuk"
-   ],
-   "section": "marine",
-   "kind": "unmanned surface vessel",
-   "country": "Ukraine",
-   "status": "service",
-   "def": "Multipurpose uncrewed surface vessel built for Ukraine's Security Service during the Russian invasion, able to make explosive strikes on targets such as ships in port or to lay mines.",
-   "facts": [
-    "Can carry explosives for self destruct attacks or be configured to lay mines"
-   ],
-   "refs": [
-    {
-     "label": "Wikipedia, Sea Baby",
-     "url": "https://en.wikipedia.org/wiki/Sea_Baby",
-     "kind": "wikipedia"
-    },
-    {
-     "label": "Wikidata, Sea Baby (Q124518485)",
-     "url": "https://www.wikidata.org/wiki/Q124518485",
-     "kind": "wikidata"
-    }
-   ],
-   "ids": {
-    "wikidata": "Q124518485"
-   },
-   "added": "2026-11-08",
    "revised": "2026-11-08"
   },
   {

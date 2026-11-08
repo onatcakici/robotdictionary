@@ -27,7 +27,7 @@ SAMPLES = {"humanoids": ["asimo", "atlas", "optimus"], "quadrupeds": ["spot", "a
 STATUS = {"production": "In production", "service": "In service", "pilot": "In pilot deployments", "research": "Research platform",
           "prototype": "Prototype", "concept": "Announced, not yet in service", "development": "In development",
           "retired": "Retired", "discontinued": "Discontinued", "lost": "Lost", "completed": "Mission completed"}
-RESERVED = {s[0] for s in SECTIONS} | {"assets", "data", "tools", "makers", "countries", "timeline", "yc", "a-z", "about",
+RESERVED = {s[0] for s in SECTIONS} | {"assets", "data", "tools", "makers", "countries", "timeline", "yc", "a-z", "about", "news", "credits",
             "legal", "recent", "search", "img", "feed.xml", "sitemap.xml", "robots.txt", "404.html", "index.html", "CNAME"}
 GENERATED_LIST = os.path.join(ROOT, "tools", "generated.txt")
 
@@ -91,7 +91,7 @@ def thumbs(current=None):
 def header():
     return ('<header class="top"><div class="wrap">'
             '<a class="wordmark" href="/">Robot Dictionary<i>.</i></a>'
-            '<nav class="nav" aria-label="Site"><a href="/a-z/">A to Z</a><a href="/makers/">Makers</a><a href="/timeline/">Timeline</a>'
+            '<nav class="nav" aria-label="Site"><a href="/news/">News</a><a href="/a-z/">A to Z</a><a href="/makers/">Makers</a><a href="/timeline/">Timeline</a>'
             '<a href="/yc/">YC robots</a><a href="/recent/">Recent</a><a href="/about/">About</a></nav>'
             '<div class="find" data-find><input type="search" placeholder="Find a robot or maker" aria-label="Find a robot or maker" autocomplete="off">'
             '<ul class="hits" hidden></ul></div></div></header>')
@@ -102,7 +102,7 @@ def footer(stats):
             '<p>A reference of the world\'s robots in eight sections, revised daily. Every entry lists its sources.</p>'
             f'<p>Corrections and additions to <a class="u" href="mailto:{CONTACT}">{CONTACT}</a>.</p></div>'
             '<nav aria-label="More"><a href="/about/">About the dictionary</a><a href="/legal/">Legal notice</a><a href="/recent/">Recently added</a>'
-            '<a href="/countries/">Countries</a><a href="/data/robots.json">Open data</a><a href="/feed.xml">RSS feed</a>'
+            '<a href="/countries/">Countries</a><a href="/credits/">Picture credits</a><a href="/data/robots.json">Open data</a><a href="/feed.xml">RSS feed</a>'
             f'<a href="{REPO}">GitHub</a></nav></div></footer>')
 
 def page(path, title, desc, body, stats, section=None, jsonld=None, og_type="website", noindex=False, body_class=""):
@@ -158,14 +158,28 @@ def status_text(e):
     t = e.get("status_text") or STATUS.get(e.get("status") or "", "")
     return (t.rstrip(".") + ".") if t else ""
 
-def plate(e, big=False):
-    img = e.get("image")
-    inner = f'<img src="{esc(img)}" alt="{esc(e["name"])}" loading="lazy">' if img else ""
-    return f'<span class="plate" aria-hidden="{"false" if img else "true"}">{inner}</span>'
+def plate(e, eager=False):
+    p = e.get("pic")
+    if not p: return ""
+    return (f'<span class="plate"><img src="/img/{e["id"]}.webp" width="{p["w"]}" height="{p["h"]}" alt="{esc(e["name"])}"'
+            + ('' if eager else ' loading="lazy"') + ' decoding="async"></span>')
+
+def thumb(e):
+    p = e.get("pic")
+    if not p: return ""
+    return (f'<a class="th" href="/{e["id"]}/" tabindex="-1" aria-hidden="true"><img src="/img/{e["id"]}.t.webp" width="{p["tw"]}" height="{p["th"]}"'
+            ' alt="" loading="lazy" decoding="async"></a>')
+
+def pic_credit(e):
+    p = e.get("pic")
+    if not p: return ""
+    title = re.sub(r"\.(jpe?g|png|tiff?|webp)$", "", p["file"], flags=re.I)
+    lic = f'<a href="{esc(p["license_url"])}" rel="noopener">{esc(p["license"])}</a>' if p.get("license_url") else esc(p["license"])
+    return f'Picture: <a href="{esc(p["page"])}" rel="noopener">{esc(title)}</a> by {esc(p["author"])}, {lic}, via Wikimedia Commons'
 
 def dict_entry(e, mk, ct):
     st = status_text(e)
-    return (f'<p class="dent"><a class="hw" href="/{e["id"]}/">{esc(e["name"])}</a> <span class="pos">n., {esc(pos_label(e))}.</span> '
+    return (f'<p class="dent">{thumb(e)}<a class="hw" href="/{e["id"]}/">{esc(e["name"])}</a> <span class="pos">n., {esc(pos_label(e))}.</span> '
             f'<span class="org">{origin_line(e, mk, ct, links=False)}</span> {esc(e.get("def"))} '
             + (f'<span class="st">{esc(st)}</span>' if st else "") + "</p>")
 
@@ -176,6 +190,16 @@ class Out:
 
 def build():
     E = load_entries()
+    pics = json.load(open(os.path.join(ROOT, "data", "images.json"), encoding="utf-8")) if os.path.exists(os.path.join(ROOT, "data", "images.json")) else {}
+    blocked = set(load_state("image_blocklist.json", []))
+    for i, p in pics.items():
+        if i in E and i not in blocked and os.path.exists(os.path.join(ROOT, "img", f"{i}.webp")): E[i]["pic"] = p
+    news = json.load(open(os.path.join(ROOT, "data", "news.json"), encoding="utf-8")) if os.path.exists(os.path.join(ROOT, "data", "news.json")) else []
+    news = [n for n in news if n.get("title") and n.get("url")]
+    news_by = defaultdict(list)
+    for n in news:
+        for i in n.get("ids") or []:
+            if i in E: news_by[i].append(n)
     ids = sorted(E, key=lambda i: sort_key(E[i]["name"]))
     for i in ids:
         if i in RESERVED: sys.exit(f"entry id collides with a reserved path: {i}")
@@ -197,6 +221,8 @@ def build():
     # robot of the day
     featured = load_state("featured.json", [])
     eligible = [i for i in ids if E[i].get("origin") == "edited" and (E[i].get("body") or E[i].get("facts")) and E[i].get("def")]
+    with_pic = [i for i in eligible if E[i].get("pic")]
+    if len(with_pic) >= 30: eligible = with_pic
     todays = [f for f in featured if f["date"] == TODAY.isoformat() and f["id"] in E]
     if todays:
         rod = E[todays[0]["id"]]
@@ -215,7 +241,7 @@ def build():
         for n, e in enumerate(group):
             prev_e = group[n - 1] if n > 0 else None
             next_e = group[n + 1] if n + 1 < len(group) else None
-            out.put(f'{e["id"]}/index.html', entry_page(e, E, sec_key, title, group, n, prev_e, next_e, mk_pages, ct_pages, stats))
+            out.put(f'{e["id"]}/index.html', entry_page(e, E, sec_key, title, group, n, prev_e, next_e, mk_pages, ct_pages, stats, news_by.get(e["id"], [])))
 
     # ---- sections
     for k, (sec_key, title, blurb, _) in enumerate(SECTIONS):
@@ -237,7 +263,7 @@ def build():
         out.put(f"{sec_key}/index.html", page(f"/{sec_key}/", f"{title}, every entry | Robot Dictionary", desc, "\n".join(body), stats, sec_key, ld))
 
     # ---- home
-    out.put("index.html", home_page(E, ids, by_sec, rod, featured, changes, mk_pages, ct_pages, stats, makers, countries))
+    out.put("index.html", home_page(E, ids, by_sec, rod, featured, changes, mk_pages, ct_pages, stats, makers, countries, news))
 
     # ---- A to Z
     letters = defaultdict(list)
@@ -348,6 +374,27 @@ def build():
     body.append("</main>")
     out.put("recent/index.html", page("/recent/", "Recently added robots | Robot Dictionary", "New and revised entries in the Robot Dictionary, by date.", "\n".join(body), stats))
 
+    # ---- news
+    by_day = defaultdict(list)
+    for x in news: by_day[x["date"]].append(x)
+    body = ['<main class="wrap"><div class="page-h"><h1>Robotics headlines</h1>'
+            '<p>Collected each morning from robotics publishers and linked to the robots they mention. Every headline opens on the publisher\'s own site.</p></div>']
+    for d in sorted(by_day, reverse=True)[:45]:
+        body.append(f'<section class="batch"><h2>{nice_date(d)}</h2><ul class="news">' + "".join(news_item(x, E) for x in by_day[d]) + "</ul></section>")
+    if not news: body.append('<p class="more">The first headlines arrive with the next morning revision.</p>')
+    body.append("</main>")
+    out.put("news/index.html", page("/news/", "Robotics headlines, linked to the robots | Robot Dictionary",
+                                    "Daily robotics headlines from publishers, linked to the Robot Dictionary entries for the robots they mention.", "\n".join(body), stats))
+
+    # ---- picture credits
+    pe = sorted([E[i] for i in ids if E[i].get("pic")], key=lambda e: sort_key(e["name"]))
+    body = ['<main class="wrap"><div class="page-h"><h1>Picture credits</h1>'
+            f'<p>The {len(pe)} pictures in the dictionary come from Wikimedia Commons under free licences. They are shown in reduced size; follow each link for the original and its full licence.</p></div>',
+            '<div class="doc" style="max-width:none"><ol class="refs" style="columns:2;column-gap:40px">']
+    body += [f'<li style="break-inside:avoid"><a href="/{e["id"]}/">{esc(e["name"])}</a>. {pic_credit(e)}</li>' for e in pe]
+    body.append("</ol></div></main>")
+    out.put("credits/index.html", page("/credits/", "Picture credits | Robot Dictionary", "Authors and licences of the pictures used in the Robot Dictionary.", "\n".join(body), stats))
+
     # ---- about, legal, 404
     out.put("about/index.html", page("/about/", "About the Robot Dictionary", "How the Robot Dictionary is compiled, sourced and revised every day.", about_body(stats, len(makers), len(countries)), stats))
     out.put("legal/index.html", page("/legal/", "Legal notice | Robot Dictionary", "Disclaimer, sources and licences, trademarks, corrections and privacy for robotdictionary.com.", legal_body(), stats))
@@ -376,7 +423,7 @@ def build():
                     out.put(f"assets/{sub + '/' if sub == 'fonts' else ''}{fn}", open(os.path.join(d, fn), "rb").read())
     out.put("data/robots.json", json.dumps(open_data(E, ids), ensure_ascii=False, indent=1) + "\n")
     out.put("data/robots.csv", open_csv(E, ids))
-    urls = ["/", "/a-z/", "/makers/", "/countries/", "/timeline/", "/yc/", "/recent/", "/about/", "/legal/"] + [f"/{s[0]}/" for s in SECTIONS]
+    urls = ["/", "/news/", "/a-z/", "/makers/", "/countries/", "/timeline/", "/yc/", "/recent/", "/about/", "/legal/", "/credits/"] + [f"/{s[0]}/" for s in SECTIONS]
     urls += [f"/{i}/" for i in ids] + [f"/makers/{s}/" for s in sorted(mk_pages)] + [f"/countries/{s}/" for s in sorted(countries)]
     lastmod = {f"/{i}/": E[i].get("revised") or E[i].get("added") for i in ids}
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
@@ -391,7 +438,7 @@ def build():
     write(out)
     print(f"built {len(out.files)} files, {len(ids)} entries, robot of the day: {rod['name']}")
 
-def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, countries):
+def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, countries, news=()):
     recent_added = []
     seen = set()
     def notable(i):
@@ -415,7 +462,7 @@ def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, cou
          '<p>Try Atlas, Unitree, Opportunity or Japan. Press / to search from any page.</p></div></header>',
          '<hr class="double">',
          '<div class="spread"><section><h2 class="label">Robot of the day</h2>'
-         + (f'<article class="today"><a href="/{rod["id"]}/" aria-label="{esc(rod["name"])}">{plate(rod)}</a><div>' if rod.get("image") else '<article class="today noimg"><div>')
+         + (f'<article class="today"><a href="/{rod["id"]}/" aria-label="{esc(rod["name"])}">{plate(rod, True)}</a><div>' if rod.get("pic") else '<article class="today noimg"><div>')
          + f'<h2><a href="/{rod["id"]}/">{esc(rod["name"])}</a></h2>'
          f'<p class="pos"><i>n., {esc(pos_label(rod))}.</i> <span class="org">{origin_line(rod, mk, ct)}</span> <span class="st">{esc(status_text(rod))}</span></p>'
          f'<p class="def">{esc(rod.get("def"))}</p>'
@@ -423,11 +470,15 @@ def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, cou
          + f'<p class="more"><a class="u" href="/{rod["id"]}/">Read the full entry</a> in <a class="u" href="/{rod["section"]}/">{esc(rod_sec[1])}</a>.</p></div></article>'
          + ("<p class=\"more\" style=\"margin-top:22px;font-size:15.5px;color:var(--soft)\">Earlier this week: " + ", ".join(
              f'<a class="u" href="/{f["id"]}/">{esc(E[f["id"]]["name"])}</a>' for f in past) + ".</p>" if past else "")
-         + '</section><aside><h2 class="label">Recently added</h2><ul class="list">'
+         + '<h2 class="label" style="margin-top:34px">Recently added</h2><ul class="list">'
          + "".join(f'<li class="row"><span><a href="/{c["id"]}/">{esc(E[c["id"]]["name"])}</a>'
                    + (f' <span class="m">{esc(E[c["id"]]["maker"])}</span>' if E[c["id"]].get("maker") and E[c["id"]]["maker"].lower() not in E[c["id"]]["name"].lower() else "")
-                   + f'</span><span class="d">{dt.date.fromisoformat(c["date"]).strftime("%-d %b")}</span></li>' for c in recent_added)
-         + '</ul><p class="more" style="font-size:15.5px;margin-top:10px"><a class="u" href="/recent/">All recent changes</a></p></aside></div>',
+                   + f'</span><span class="d">{dt.date.fromisoformat(c["date"]).strftime("%-d %b")}</span></li>' for c in recent_added[:6])
+         + '</ul><p class="more" style="font-size:15.5px;margin-top:10px"><a class="u" href="/recent/">All recent changes</a></p>'
+         + '</section><aside><h2 class="label">In the news</h2>'
+         + ('<ul class="news">' + "".join(news_item(x, E) for x in news[:9]) + '</ul><p class="more" style="font-size:15.5px;margin-top:10px"><a class="u" href="/news/">All robotics headlines</a></p>'
+            if news else '<p class="more">Headlines from robotics publishers appear here each morning.</p>')
+         + '</aside></div>',
          '<section class="contents"><h2>Contents</h2><ol class="toc">']
     for k, (key, title, blurb, _) in enumerate(SECTIONS):
         group = by_sec.get(key, [])
@@ -448,7 +499,14 @@ def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, cou
                 f"Robot Dictionary records {len(ids):,} robots, from ASIMO and Atlas to Mars rovers and new startup machines, each with maker, measures, status and sources.",
                 "\n".join(h), stats, None, ld, body_class="home")
 
-def entry_page(e, E, sec_key, sec_title, group, n, prev_e, next_e, mk, ct, stats):
+def news_item(n, E, show_ids=True):
+    d = dt.date.fromisoformat(n["date"])
+    robots = [E[i] for i in (n.get("ids") or []) if i in E] if show_ids else []
+    return (f'<li><a class="nh" href="{esc(n["url"])}" rel="noopener nofollow">{esc(n["title"])}</a>'
+            f'<span class="ns">{esc(n["source"])}, {d.day} {d.strftime("%b")}'
+            + ("".join(f' <a class="nr" href="/{r["id"]}/">{esc(r["name"])}</a>' for r in robots) if robots else "") + "</span></li>")
+
+def entry_page(e, E, sec_key, sec_title, group, n, prev_e, next_e, mk, ct, stats, news_for=()):
     st = status_text(e)
     rows = []
     if e.get("maker"): rows.append(("Maker", maker_link(e, mk)))
@@ -476,6 +534,7 @@ def entry_page(e, E, sec_key, sec_title, group, n, prev_e, next_e, mk, ct, stats
     body.append(f'<p class="posline"><span class="pos">n., {esc(pos_label(e))}.</span> <span class="org">{origin_line(e, mk, ct)}</span> '
                 + (f'<span class="st">{esc(st)}</span>' if st else "") + "</p>")
     body.append(f'<p class="lead">{esc(e.get("def"))}</p>')
+    if e.get("pic"): body.append(f'<div class="mplate">{plate(e)}</div>')
     body.append('<table class="measures"><caption>Measures and facts</caption><tbody>' + "".join(
         f'<tr><th scope="row">{k}</th><td>{v}</td></tr>' for k, v in rows) + "</tbody></table>")
     if e.get("body"):
@@ -486,9 +545,12 @@ def entry_page(e, E, sec_key, sec_title, group, n, prev_e, next_e, mk, ct, stats
                     'available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p></div>')
     if e.get("facts"):
         body.append('<h3>Of note</h3><ul class="facts">' + "".join(f"<li>{esc(f)}</li>" for f in e["facts"]) + "</ul>")
-    if refs:
+    if news_for:
+        body.append('<h3>In the news</h3><ul class="news">' + "".join(news_item(x, E, False) for x in news_for[:6]) + "</ul>")
+    if refs or e.get("pic"):
         body.append('<h3>Sources</h3><ol class="refs">' + "".join(
-            f'<li><a href="{esc(r["url"])}" rel="noopener">{esc(r["label"])}</a>, {esc(domain(r["url"]))}</li>' for r in refs) + "</ol>")
+            f'<li><a href="{esc(r["url"])}" rel="noopener">{esc(r["label"])}</a>, {esc(domain(r["url"]))}</li>' for r in refs)
+            + (f'<li>{pic_credit(e)}</li>' if e.get("pic") else "") + "</ol>")
     if see:
         body.append('<h3>See also</h3><p class="see">' + ", ".join(f'<a href="/{s["id"]}/">{esc(s["name"])}</a>' for s in see) + ".</p>")
     body.append(f'<h3>Cite this entry</h3><p class="cite" id="{cite_id}">&ldquo;{esc(e["name"])}.&rdquo; <i>Robot Dictionary</i>, robotdictionary.com/{e["id"]}/. Revised {nice_date(revised)}.</p>'
@@ -507,6 +569,7 @@ def entry_page(e, E, sec_key, sec_title, group, n, prev_e, next_e, mk, ct, stats
     if e.get("country"): about["countryOfOrigin"] = e["country"]
     same = [r["url"] for r in refs if r.get("kind") in ("wikidata", "wikipedia")]
     if same: about["sameAs"] = same
+    if e.get("pic"): about["image"] = f"{SITE}/img/{e['id']}.webp"
     ld = {"@context": "https://schema.org", "@type": "WebPage", "name": title, "url": f"{SITE}/{e['id']}/", "description": desc,
           "dateModified": revised, "about": about,
           "breadcrumb": {"@type": "BreadcrumbList", "itemListElement": [
@@ -566,8 +629,10 @@ def about_body(stats, n_makers, n_countries):
 <p>Write to <a href="mailto:{CONTACT}">{CONTACT}</a> with the entry and a source, or edit the entry directly on <a href="{REPO}">GitHub</a>, where every entry is a small text file. Makers are welcome to send official figures and photographs.</p>
 <h2>Open data</h2>
 <p>The whole dictionary can be downloaded as <a href="/data/robots.json">JSON</a> or <a href="/data/robots.csv">CSV</a> and reused under CC BY 4.0 with credit to Robot Dictionary. Text quoted from Wikipedia is marked on the page and keeps its own CC BY-SA 4.0 licence.</p>
-<h2>Plates</h2>
-<p>Each entry has a reserved plate for a photograph of the robot on a plain white ground. Plates are added as cleared images arrive; an empty frame means the picture is still to come.</p>
+<h2>Pictures</h2>
+<p>Pictures come from Wikimedia Commons under free licences and are shown in reduced size to keep pages fast. Each one is credited in the sources of its entry and on the <a href="/credits/">picture credits</a> page. Entries without a suitable free picture are shown without one.</p>
+<h2>News</h2>
+<p>Each morning the dictionary also collects robotics headlines from publishers and links them to the robots they mention. They appear on the front page, on the robots' own entries and under <a href="/news/">News</a>.</p>
 </div></main>'''
 
 def legal_body():
@@ -587,8 +652,10 @@ def legal_body():
 <li>Company descriptions from the Y Combinator directory are summarised in our own words and linked to the company profile.</li>
 <li>The definitions, notes and arrangement of the dictionary are original work. The compiled dataset is offered under CC BY 4.0 with attribution to Robot Dictionary.</li>
 </ul>
-<h2>Images</h2>
-<p>Plates are published only when the image is our own, supplied by the maker for this purpose, or released under a licence that allows it, with credit given in the sources of the entry. If you hold rights in an image shown here and did not agree to its use, write to us and it will be taken down.</p>
+<h2>Pictures</h2>
+<p>Pictures come from Wikimedia Commons under free licences such as Creative Commons Attribution, Attribution ShareAlike, CC0 or the public domain, and are shown in reduced size. Each picture is credited with its author and licence in the sources of its entry and on the <a href="/credits/">picture credits</a> page. Photographs that show identifiable people are left out. If you hold rights in a picture shown here and did not agree to its use, write to us and it will be taken down.</p>
+<h2>News headlines</h2>
+<p>The news column lists headlines from robotics publishers with a link to the original article and the publisher's name. Articles are not copied or hosted here. Publishers who do not want their headlines listed can write to us.</p>
 <h2>Corrections and removal requests</h2>
 <p>To correct an entry, report an error, or ask for content to be removed, write to <a href="mailto:{CONTACT}">{CONTACT}</a> with the address of the page and the reason. Every request is reviewed and the outcome recorded in the next daily revision.</p>
 <h2>Privacy</h2>

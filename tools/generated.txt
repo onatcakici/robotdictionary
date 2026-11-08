@@ -244,7 +244,6 @@ countries/japan/index.html
 countries/latvia/index.html
 countries/luxembourg/index.html
 countries/mexico/index.html
-countries/nazi-germany/index.html
 countries/netherlands/index.html
 countries/new-zealand/index.html
 countries/norway/index.html
@@ -270,6 +269,7 @@ countries/yemen/index.html
 cozmo/index.html
 create-3/index.html
 creator-burger/index.html
+credits/index.html
 creoqode-nova/index.html
 cruzr/index.html
 crx10/index.html
@@ -421,7 +421,6 @@ go1/index.html
 go2-w/index.html
 go2/index.html
 goldfish-class-rouv/index.html
-goliath-tracked-mine/index.html
 gomate/index.html
 gr-1/index.html
 gr-100/index.html
@@ -748,7 +747,6 @@ mantis/index.html
 mapp/index.html
 marble-robot/index.html
 marcbot/index.html
-marichka/index.html
 marie-curie/index.html
 marine/index.html
 mark-ii/index.html
@@ -800,7 +798,6 @@ mit-leg-lab-quadruped/index.html
 mit-manus/index.html
 mit-planar-biped/index.html
 mitra/index.html
-mobile-land-mine/index.html
 mobot/index.html
 modular-advanced-armed-robotic-system/index.html
 modulus/index.html
@@ -844,6 +841,7 @@ neolix/index.html
 nereus/index.html
 neuroarm/index.html
 neuromorphic/index.html
+news/index.html
 nexi/index.html
 nextage/index.html
 nicobo/index.html
@@ -1081,7 +1079,6 @@ scrubber-50/index.html
 scythe-m52/index.html
 sdr-4x/index.html
 se01/index.html
-sea-baby/index.html
 sea-dragon-class-rov/index.html
 sea-hunter/index.html
 seabotix-rov/index.html
