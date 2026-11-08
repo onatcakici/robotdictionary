@@ -1,0 +1,39 @@
+{
+ "id": "orb-swarm",
+ "name": "Orb Swarm",
+ "aka": [],
+ "section": "other",
+ "kind": "spherical robot swarm",
+ "maker": "",
+ "country": "",
+ "year": "2007",
+ "status": "",
+ "def": "Kinetic art piece made up of six partly autonomous spherical robots, built in 2007 by engineers and artists to imitate natural swarms and human dance.",
+ "body": [],
+ "facts": [
+  "Consists of six spherical robots",
+  "Created in 2007 by a team including Michael Prados, Jon Foote and Lee Sonko",
+  "Nearly all of its hardware and software is open source"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Orb Swarm",
+   "url": "https://en.wikipedia.org/wiki/Orb_Swarm",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Orb Swarm (Q7099988)",
+   "url": "https://www.wikidata.org/wiki/Q7099988",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7099988"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

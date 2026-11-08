@@ -1,0 +1,75 @@
+{
+ "id": "kirobo",
+ "name": "Kirobo",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "University of Tokyo with Toyota, Dentsu and Robo Garage for JAXA",
+ "country": "Japan",
+ "year": "2013",
+ "status": "retired",
+ "def": "Small talking humanoid flown to the International Space Station in 2013 to test conversation between an astronaut and a robot in orbit.",
+ "body": [
+  "Kirobo stands about 34 cm tall and weighs roughly 1 kg, with a movable head and limbs plus onboard voice recognition, speech synthesis and face recognition. It launched on the HTV-4 cargo vehicle in August 2013, spoke its first words in orbit that month and held a recorded conversation with Japanese astronaut Koichi Wakata in December 2013. The robot returned to Earth in February 2015 and holds Guinness records for the first companion robot in space and the highest altitude conversation between a robot and a human.",
+  "Kirobo flew to the ISS in 2013 as astronaut Koichi Wakata's conversation partner, speaking the first robot words in orbit and setting two Guinness records on the way."
+ ],
+ "facts": [
+  "First robot to hold a conversation with an astronaut in orbit",
+  "Holds two Guinness World Records for companion robot firsts in space"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.34 m"
+  ],
+  [
+   "Mass",
+   "1 kg"
+  ],
+  [
+   "Actuation",
+   "Small servo motors in the head, arms and legs"
+  ],
+  [
+   "Sensors",
+   "Camera for face recognition, microphone"
+  ],
+  [
+   "Autonomy",
+   "Onboard speech recognition and dialogue with ground support"
+  ]
+ ],
+ "see": [
+  "kodomoroid",
+  "kuavo"
+ ],
+ "refs": [
+  {
+   "label": "University of Tokyo with Toyota, Dentsu and Robo Garage for JAXA website",
+   "url": "https://global.jaxa.jp",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "http://kibo-robo.jp/en/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Kirobo",
+   "url": "https://en.wikipedia.org/wiki/Kirobo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Kirobo (Q14469281)",
+   "url": "https://www.wikidata.org/wiki/Q14469281",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q14469281"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

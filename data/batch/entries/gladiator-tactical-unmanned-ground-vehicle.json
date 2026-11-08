@@ -1,0 +1,40 @@
+{
+ "id": "gladiator-tactical-unmanned-ground-vehicle",
+ "name": "Gladiator Tactical Unmanned Ground Vehicle",
+ "aka": [
+  "TUGV"
+ ],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "National Robotics Engineering Center",
+ "country": "United States",
+ "year": "2005",
+ "status": "",
+ "def": "Medium sized unmanned ground vehicle that Carnegie Mellon's National Robotics Engineering Center built for the US Marine Corps to take on scouting, attack and breaching tasks.",
+ "body": [],
+ "facts": [
+  "Designed by Emil Lien Akre in 2005",
+  "Intended to reduce risks to Marines during conflict"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Gladiator tactical unmanned ground vehicle",
+   "url": "https://en.wikipedia.org/wiki/Gladiator_tactical_unmanned_ground_vehicle",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Gladiator tactical unmanned ground vehicle (Q4039459)",
+   "url": "https://www.wikidata.org/wiki/Q4039459",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4039459"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,44 @@
+{
+ "id": "the-trons",
+ "name": "The Trons",
+ "aka": [],
+ "section": "other",
+ "kind": "robot band",
+ "maker": "",
+ "country": "New Zealand",
+ "year": "2008",
+ "status": "",
+ "def": "Robot band of four machines that play music by themselves, built from spare parts and electronics by Hamilton based musician Greg Locke.",
+ "body": [],
+ "facts": [
+  "Based in Hamilton, New Zealand",
+  "Made up of four robots built from scratch",
+  "Named after Hamilton's nickname, \"The Tron\""
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.myspace.com/thtrons",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, The Trons",
+   "url": "https://en.wikipedia.org/wiki/The_Trons",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, The Trons (Q7770328)",
+   "url": "https://www.wikidata.org/wiki/Q7770328",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7770328"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

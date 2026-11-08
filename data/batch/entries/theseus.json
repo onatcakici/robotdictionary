@@ -1,0 +1,35 @@
+{
+ "id": "theseus",
+ "name": "Theseus",
+ "aka": [],
+ "section": "other",
+ "kind": "robotic mouse",
+ "maker": "Bell Labs",
+ "country": "United States",
+ "year": "1950",
+ "status": "",
+ "def": "Magnetic robotic mouse built at Bell Labs in the United States in 1950.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Theseus (Q116505747)",
+   "url": "https://www.wikidata.org/wiki/Q116505747",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Bell Labs website",
+   "url": "http://www.bell-labs.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q116505747"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

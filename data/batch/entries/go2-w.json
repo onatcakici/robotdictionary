@@ -1,0 +1,31 @@
+{
+ "id": "go2-w",
+ "name": "Go2-W",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Unitree",
+ "country": "China",
+ "year": "2024",
+ "status": "production",
+ "def": "The consumer Go2 on wheels, rolling where legs would waste energy.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "unitree-h1",
+  "unitree-h2"
+ ],
+ "refs": [
+  {
+   "label": "Unitree website",
+   "url": "https://www.unitree.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

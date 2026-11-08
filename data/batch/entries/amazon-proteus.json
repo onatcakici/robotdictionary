@@ -1,0 +1,61 @@
+{
+ "id": "amazon-proteus",
+ "name": "Proteus",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Amazon Robotics",
+ "country": "United States",
+ "year": "2022",
+ "status": "service",
+ "def": "Amazon's first fully autonomous warehouse robot, a flat low base that lifts wheeled GoCart containers and moves them through areas shared with staff.",
+ "body": [
+  "Proteus is a low profile mobile robot that drives under a wheeled GoCart of packages, lifts it and hauls it between sortation and outbound dock areas. Earlier Amazon floor robots worked inside fenced fields, while Proteus uses onboard perception and a projected light field to move safely in open aisles alongside employees. It navigates without floor tape or barcode grids and is coordinated as part of a larger fleet inside Amazon fulfillment and sortation buildings.",
+  "Proteus is Amazon's first floor robot safe to roam freely among workers, glowing a green beam as it slides beneath carts; it marks the merger of the Kiva lineage with modern perception."
+ ],
+ "facts": [
+  "Announced in June 2022 as Amazon's first fully autonomous mobile robot",
+  "Built to work in the same floor space as employees rather than in a caged field",
+  "Moves the wheeled GoCart containers used for packages in outbound docks"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Low profile drive base that tunnels under wheeled carts and lifts them"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with autonomous charging"
+  ],
+  [
+   "Sensors",
+   "Lidar, cameras and safety scanners paired with a projected light field"
+  ],
+  [
+   "Autonomy",
+   "Onboard perception and fleet coordination with no floor infrastructure or fencing"
+  ],
+  [
+   "Safety",
+   "free roaming among workers"
+  ]
+ ],
+ "see": [
+  "kiva-system",
+  "puductor"
+ ],
+ "refs": [
+  {
+   "label": "Amazon Robotics website",
+   "url": "https://www.amazonrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "proteus"
+ ]
+}

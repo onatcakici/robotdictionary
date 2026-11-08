@@ -1,0 +1,55 @@
+{
+ "id": "epiroc-scooptram-st18",
+ "name": "Scooptram ST18",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Epiroc",
+ "country": "Sweden",
+ "year": "",
+ "status": "production",
+ "def": "Articulated underground loader rated at eighteen tonnes that can be run remotely from surface or drive itself between loading and dumping points.",
+ "body": [
+  "The Scooptram ST18 is a large articulated four wheel drive loader for underground metal mining, carrying 18 tonnes a bucket. With Scooptram Automation fitted it trams autonomously between a loading point and a tipping point, using onboard scanners to follow the drift, while an operator on surface handles the bucket fill by remote video. Taking operators out of the production area removes exposure to fumes, dust and ground fall. Mines run it on production and development headings."
+ ],
+ "facts": [
+  "Used in underground metal mines worldwide on production and development work",
+  "Epiroc was spun out of Atlas Copco as a separate mining equipment company in 2018",
+  "Automation packages range from teleremote operation to fully autonomous tramming cycles"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "18000 kg"
+  ],
+  [
+   "Actuation",
+   "Articulated four wheel drive underground loader with a front bucket"
+  ],
+  [
+   "Power",
+   "Diesel engine driving a hydrostatic or torque converter transmission"
+  ],
+  [
+   "Sensors",
+   "Onboard laser scanners for drift navigation with remote video for loading"
+  ],
+  [
+   "Autonomy",
+   "Scooptram Automation allows autonomous tramming with remote operator loading from a surface station"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Epiroc website",
+   "url": "https://www.epiroc.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

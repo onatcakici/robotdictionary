@@ -1,0 +1,62 @@
+{
+ "id": "quince",
+ "name": "Quince",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "rescue robot",
+ "maker": "Chiba Institute of Technology and Tohoku University",
+ "country": "Japan",
+ "year": "2011",
+ "status": "retired",
+ "def": "Tracked Japanese rescue robot that climbed stairs inside the damaged Fukushima Daiichi reactor buildings to measure radiation and take samples.",
+ "body": [
+  "Quince was developed for disaster response with two main tracks and four articulated sub tracks, letting it cross rubble and climb stairs in a building with no lighting or lifts. After the March 2011 accident it was modified for radiation hardness and cable operation and sent into reactor buildings at Fukushima Daiichi, returning dose maps, dust samples and video from upper floors that people could not reach. In October 2011 its communication cable was damaged on an upper floor of the unit two building and the robot had to be left in place."
+ ],
+ "facts": [
+  "Reached upper floors of a reactor building that people could not enter",
+  "Stranded inside unit two in October 2011 when its cable was damaged"
+ ],
+ "specs": [
+  [
+   "Length",
+   "1.1 m"
+  ],
+  [
+   "Mass",
+   "45 kg"
+  ],
+  [
+   "Top speed",
+   "1.6 m/s (5.8 km/h)"
+  ],
+  [
+   "Actuation",
+   "Two main tracks with four articulated sub tracks"
+  ],
+  [
+   "Power",
+   "Battery with a tethered communication cable"
+  ],
+  [
+   "Sensors",
+   "Six cameras, laser scanner, dosimeter, dust sampler, gyroscope and accelerometer"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated over a cable with assisted stair climbing"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Chiba Institute of Technology and Tohoku University website",
+   "url": "https://www.it-chiba.ac.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

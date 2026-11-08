@@ -1,0 +1,44 @@
+{
+ "id": "robotis-bioloid",
+ "name": "Robotis Bioloid",
+ "aka": [],
+ "section": "other",
+ "kind": "educational robot kit",
+ "maker": "Robotis",
+ "country": "South Korea",
+ "year": "",
+ "status": "",
+ "def": "Robot kit for hobbyists and education from the South Korean company Robotis, using modular servo units that combine into wheeled, legged or humanoid machines.",
+ "body": [],
+ "facts": [
+  "Built around daisy chained AX-12A Dynamixel servomotors",
+  "Programmed with the C based RoboPlus software",
+  "Often compared with Lego Mindstorms and VEX Robotics kits"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.robotis.com/xe/bioloid_en",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Robotis Bioloid",
+   "url": "https://en.wikipedia.org/wiki/Robotis_Bioloid",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robotis Bioloid (Q1660648)",
+   "url": "https://www.wikidata.org/wiki/Q1660648",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1660648"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

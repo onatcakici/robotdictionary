@@ -1,0 +1,31 @@
+{
+ "id": "cobalt",
+ "name": "Cobalt",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Cobalt Robotics",
+ "country": "United States",
+ "year": "2017",
+ "status": "production",
+ "def": "An indoor security robot pairing patrols with a human specialist on video.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "coco",
+  "cartken"
+ ],
+ "refs": [
+  {
+   "label": "Cobalt Robotics website",
+   "url": "https://www.cobaltrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

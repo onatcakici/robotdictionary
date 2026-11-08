@@ -1,0 +1,41 @@
+{
+ "id": "robby",
+ "name": "Robby",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "sidewalk delivery robot",
+ "maker": "Robby Technologies",
+ "country": "United States",
+ "year": "",
+ "status": "discontinued",
+ "def": "Self driving sidewalk robot for last mile delivery of food, groceries and parcels, built by a company founded by two MIT PhDs.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Robby Technologies",
+   "url": "https://www.ycombinator.com/companies/robby-technologies",
+   "kind": "yc"
+  },
+  {
+   "label": "Robby Technologies website",
+   "url": "http://robby.io",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "robby-technologies"
+ },
+ "yc": {
+  "company": "Robby Technologies",
+  "batch": "Summer 2016",
+  "status": "Inactive",
+  "url": "https://www.ycombinator.com/companies/robby-technologies"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

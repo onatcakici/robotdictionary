@@ -1,0 +1,44 @@
+{
+ "id": "avadin",
+ "name": "Avadin",
+ "aka": [
+  "Dasom",
+  "Avadin K",
+  "Dasom robot"
+ ],
+ "section": "other",
+ "kind": "care robot",
+ "maker": "Wonderful Platform",
+ "country": "South Korea",
+ "year": "",
+ "status": "",
+ "def": "Care robot for older people developed by the South Korean company Wonderful Platform, also known by the name Dasom.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://1thefull.com/solution",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Avadin (Q141458069)",
+   "url": "https://www.wikidata.org/wiki/Q141458069",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Wonderful Platform website",
+   "url": "https://1thefull.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q141458069"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

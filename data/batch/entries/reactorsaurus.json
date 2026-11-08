@@ -1,0 +1,37 @@
+{
+ "id": "reactorsaurus",
+ "name": "Reactorsaurus",
+ "aka": [],
+ "section": "other",
+ "kind": "nuclear decommissioning robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Robot built to dismantle the disused Dounreay nuclear reactor in Caithness, where neutron activation had made conditions too hazardous for human workers.",
+ "body": [],
+ "facts": [
+  "Built to take apart the defunct reactor at Dounreay, Caithness"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Reactorsaurus",
+   "url": "https://en.wikipedia.org/wiki/Reactorsaurus",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Reactorsaurus (Q28324908)",
+   "url": "https://www.wikidata.org/wiki/Q28324908",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q28324908"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

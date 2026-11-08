@@ -1,0 +1,114 @@
+{
+ "id": "vision-60",
+ "name": "Vision 60",
+ "aka": [
+  "Q-UGV"
+ ],
+ "section": "quadrupeds",
+ "kind": "rugged electric quadruped",
+ "maker": "Ghost Robotics",
+ "country": "United States",
+ "year": "2016",
+ "status": "production",
+ "def": "Rugged electric quadruped from Philadelphia sold mainly to defence and security customers for patrol and reconnaissance work.",
+ "body": [
+  "Vision 60 has twelve direct drive electric joints, a sealed IP67 body and a design that lets it keep walking with a damaged leg or after being flipped over. Ghost Robotics built the control stack around proprioceptive sensing so the robot can walk without vision, and adds cameras, lidar and radios as mission payloads. United States Air Force security squadrons have used it for perimeter patrols, most publicly at Tyndall Air Force Base from 2020, and third parties have fitted it with tethers, radios and weapon mounts.",
+  "Ghost Robotics' Vision 60 patrols US airbases and has been evaluated on borders, drawing controversy when a rifle armed configuration appeared at an Army trade show. Its maker was acquired by South Korea's LIG Nex1."
+ ],
+ "facts": [
+  "Adopted by US Air Force security forces for base perimeter patrols from 2020",
+  "Built to keep walking after losing a leg or being turned over"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.685 m"
+  ],
+  [
+   "Length",
+   "0.95 m"
+  ],
+  [
+   "Mass",
+   "51 kg"
+  ],
+  [
+   "Payload",
+   "10 kg"
+  ],
+  [
+   "Top speed",
+   "2.4 m/s (8.6 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Runtime",
+   "3 h"
+  ],
+  [
+   "Actuation",
+   "Direct drive electric joint modules, three per leg"
+  ],
+  [
+   "Power",
+   "Swappable lithium ion battery"
+  ],
+  [
+   "Sensors",
+   "Five RGB cameras, four depth sensors, dual RTK GPS, inertial measurement unit"
+  ],
+  [
+   "Autonomy",
+   "Proprioceptive blind walking with waypoint navigation"
+  ],
+  [
+   "Endurance",
+   "approx. 3 hr"
+  ],
+  [
+   "Pace",
+   "approx. 3 m/s"
+  ]
+ ],
+ "see": [
+  "minitaur",
+  "wildcat"
+ ],
+ "refs": [
+  {
+   "label": "Ghost Robotics website",
+   "url": "https://www.ghostrobotics.io",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.ghostrobotics.io/vision-60",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Vision 60 (Q133575991)",
+   "url": "https://www.wikidata.org/wiki/Q133575991",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, military.com",
+   "url": "https://www.military.com/daily-news/2023/08/28/army-wants-slap-next-generation-squad-weapon-robot-dog.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, heise.de",
+   "url": "https://www.heise.de/en/news/Bundeswehr-tests-Vision-60-from-Ghost-Robotics-10332491.html",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q133575991"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

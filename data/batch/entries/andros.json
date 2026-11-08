@@ -1,0 +1,42 @@
+{
+ "id": "andros",
+ "name": "ANDROS",
+ "aka": [
+  "Remotec ANDROS",
+  "ANDROS F6B ROBOTIC GROUND VEHICLE|ANDROS TITUS ROBOTIC GROUND VEHICLE|REMOTEC F6B BOMB ROBOT|Remotec HD-1/HD-2 Bomb Robot|Remotec MK5A1 Bomb Robot",
+  "REMOTEC ANDROS BOMB DISPOSAL ROBOT"
+ ],
+ "section": "wheeled",
+ "kind": "bomb disposal robot",
+ "maker": "Remotec",
+ "country": "",
+ "year": "",
+ "status": "service",
+ "def": "Family of remote controlled ground robots from Remotec, a Northrop Grumman subsidiary, used by military, bomb disposal and police teams.",
+ "body": [],
+ "facts": [
+  "Used in 2016 to kill Micah Xavier Johnson, who had shot Dallas police officers",
+  "Reported as the first time a robot was used to kill a person"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, ANDROS",
+   "url": "https://en.wikipedia.org/wiki/ANDROS",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ANDROS (Q433017)",
+   "url": "https://www.wikidata.org/wiki/Q433017",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q433017"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

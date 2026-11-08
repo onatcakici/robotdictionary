@@ -1,0 +1,35 @@
+{
+ "id": "hr6",
+ "name": "HR6",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Dr Robot",
+ "country": "Canada",
+ "year": "",
+ "status": "",
+ "def": "Humanoid robot model produced by Dr Robot, a robotics company based in Canada.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, HR6 (Q12766633)",
+   "url": "https://www.wikidata.org/wiki/Q12766633",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Dr Robot website",
+   "url": "http://www.drrobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q12766633"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

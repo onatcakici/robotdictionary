@@ -1,0 +1,70 @@
+{
+ "id": "sea-hunter",
+ "name": "Sea Hunter",
+ "aka": [
+  "USV Sea Hunter"
+ ],
+ "section": "marine",
+ "kind": "unmanned surface vessel",
+ "maker": "Leidos and Christensen Shipyards",
+ "country": "United States",
+ "year": "2016",
+ "status": "prototype",
+ "def": "Experimental uncrewed trimaran of the US Navy, created by Leidos under DARPA's ACTUV antisubmarine programme and launched in 2016.",
+ "body": [],
+ "facts": [
+  "Christened in Portland, Oregon, on 7 April 2016",
+  "Christensen Shipyards handled construction as subcontractor",
+  "Measures 40.2 m long and weighs 145 tonnes"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "145 tonne"
+  ],
+  [
+   "Length",
+   "40.2 m"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Sea Hunter",
+   "url": "https://en.wikipedia.org/wiki/Sea_Hunter",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sea Hunter (Q23806451)",
+   "url": "https://www.wikidata.org/wiki/Q23806451",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, naval-technology.com",
+   "url": "https://www.naval-technology.com/features/sea-hunter-inside-us-navys-autonomous-submarine-tracking-vessel/?cf-view",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, automatedresearch.org",
+   "url": "https://automatedresearch.org/weapon/vigor-industrial-seahunter-usv/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, darpa.mil",
+   "url": "https://www.darpa.mil/news/2018/sea-hunter-prototype",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, defense.gov",
+   "url": "https://www.defense.gov/News/News-Stories/Article/Article/716156/work-robot-warship-demonstrates-advances-in-autonomy-human-machine-collaboration/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q23806451"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

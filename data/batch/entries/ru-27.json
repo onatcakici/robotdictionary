@@ -1,0 +1,39 @@
+{
+ "id": "ru-27",
+ "name": "RU-27",
+ "aka": [],
+ "section": "marine",
+ "kind": "underwater glider",
+ "maker": "",
+ "country": "United States",
+ "year": "2009",
+ "status": "",
+ "def": "Experimental American underwater glider run by ocean scientists at Rutgers University that in 2009 made the first robotic crossing of the Atlantic beneath the surface.",
+ "body": [],
+ "facts": [
+  "Nicknamed Scarlet Knight, like the university's sports teams",
+  "A modified Slocum glider",
+  "The Atlantic crossing, finished in December 2009, took 221 days"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, RU-27",
+   "url": "https://en.wikipedia.org/wiki/RU-27",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RU-27 (Q3020414)",
+   "url": "https://www.wikidata.org/wiki/Q3020414",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3020414"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

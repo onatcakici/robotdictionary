@@ -1,0 +1,31 @@
+{
+ "id": "gomate",
+ "name": "GoMate",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "variable wheel legged humanoid",
+ "maker": "GAC Group",
+ "country": "China",
+ "year": "2024",
+ "status": "concept",
+ "def": "A variable wheel legged humanoid from Guangzhou's auto giant.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "gr-1",
+  "fourier-gr-2"
+ ],
+ "refs": [
+  {
+   "label": "GAC Group website",
+   "url": "https://www.gac.com.cn/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

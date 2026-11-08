@@ -1,0 +1,108 @@
+{
+ "id": "opportunity",
+ "name": "Opportunity",
+ "aka": [
+  "MER-B"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "2003",
+ "status": "retired",
+ "def": "Twin of Spirit that landed in Meridiani Planum, confirmed water altered bedrock and drove 45 kilometres over more than fourteen years.",
+ "body": [
+  "Opportunity landed inside Eagle crater in Meridiani Planum on 25 January 2004 and immediately found layered sulphate bedrock and haematite spherules formed in acidic water. It used the same solar powered rocker bogie design as Spirit, with an arm mounted microscope, spectrometers and a rock abrasion tool, and it examined the craters Endurance, Victoria and Endeavour. Contact was lost on 10 June 2018 during a planet encircling dust storm, after 45.16 kilometres of driving.",
+  "Opportunity's ninety day warranty stretched to fifteen years and forty five kilometres, the longest drive on another world. A global dust storm silenced it in 2018; its last data prompted the epitaph 'my battery is low and it's getting dark.'"
+ ],
+ "facts": [
+  "Holds the off Earth driving record for a wheeled vehicle at 45.16 km",
+  "First rover to complete a marathon distance on another planet",
+  "Found haematite spherules and sulphate rocks laid down in liquid water"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.5 m"
+  ],
+  [
+   "Mass",
+   "185 kg"
+  ],
+  [
+   "Distance driven",
+   "45.16 km"
+  ],
+  [
+   "Actuation",
+   "Six wheel rocker bogie drive with four corner steering"
+  ],
+  [
+   "Power",
+   "Solar arrays with rechargeable lithium ion batteries"
+  ],
+  [
+   "Sensors",
+   "Panoramic and navigation cameras, microscopic imager, alpha particle X ray and Moessbauer spectrometers, rock abrasion tool"
+  ],
+  [
+   "Autonomy",
+   "Ground planned drives with autonomous navigation and visual odometry"
+  ],
+  [
+   "Design life",
+   "90 sols; served 5,111"
+  ],
+  [
+   "Length",
+   "141 cm"
+  ],
+  [
+   "Width",
+   "122 cm"
+  ]
+ ],
+ "see": [
+  "sojourner",
+  "spirit"
+ ],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Opportunity (rover)",
+   "url": "https://en.wikipedia.org/wiki/Opportunity_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Opportunity (Q193538)",
+   "url": "https://www.wikidata.org/wiki/Q193538",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, pds.nasa.gov",
+   "url": "https://pds.nasa.gov/ds-view/pds/viewHostProfile.jsp?INSTRUMENT_HOST_ID=MER1",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, mars.nasa.gov",
+   "url": "https://mars.nasa.gov/mer/mission/spacecraft.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q193538"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

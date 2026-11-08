@@ -1,0 +1,35 @@
+{
+ "id": "turtlebot",
+ "name": "TurtleBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robot kit",
+ "maker": "Willow Garage",
+ "country": "",
+ "year": "2010",
+ "status": "",
+ "def": "Personal robot kit that runs open source software, first developed at Willow Garage in November 2010 by Melonee Wise and Tully Foote.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, TurtleBot",
+   "url": "https://en.wikipedia.org/wiki/TurtleBot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, TurtleBot (Q30644434)",
+   "url": "https://www.wikidata.org/wiki/Q30644434",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q30644434"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

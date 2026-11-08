@@ -1,0 +1,50 @@
+{
+ "id": "cornell-ranger",
+ "name": "Cornell Ranger",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "ultra efficient walking robot",
+ "maker": "Cornell University, Biorobotics and Locomotion Laboratory",
+ "country": "United States",
+ "year": "2008",
+ "status": "retired",
+ "def": "Ultra efficient walking robot from Cornell that covered 65.2 km without stopping or being touched, drawing about 16 watts of power.",
+ "body": [
+  "Ranger uses two pairs of legs that walk in a straight line much like a planar biped, steered by a small ankle actuator, and weighs about 10 kg including its lithium ion batteries. Andy Ruina's group designed it on passive dynamic principles, letting the legs swing largely under gravity so motors add only small amounts of energy each step. On 1 and 2 May 2011 it walked 65.2 km in 30 hours 49 minutes across 186,076 steps on a single charge, after earlier records of about 9 km in 2008 and 23 km in 2010."
+ ],
+ "facts": [
+  "Walked 65.2 km non stop on one battery charge in May 2011",
+  "Took 186,076 consecutive steps without falling"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "10 kg"
+  ],
+  [
+   "Actuation",
+   "Electric motors assisting passive dynamic leg swing"
+  ],
+  [
+   "Power",
+   "Onboard lithium ion battery, about 16 watts average draw"
+  ],
+  [
+   "Autonomy",
+   "Onboard gait controller with remote steering commands"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Cornell University, Biorobotics and Locomotion Laboratory website",
+   "url": "https://www.cornell.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

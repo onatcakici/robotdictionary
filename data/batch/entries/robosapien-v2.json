@@ -1,0 +1,39 @@
+{
+ "id": "robosapien-v2",
+ "name": "Robosapien V2",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "toy robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Second generation humanoid toy robot in Mark Tilden's Robosapien line, about 56 cm tall and able to speak a set of recorded phrases.",
+ "body": [],
+ "facts": [
+  "Nearly twice the size of the original Robosapien",
+  "Replaced the original's caveman grunts with prerecorded speech",
+  "Has infrared, colour, grip, touch and sonic sensors"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Robosapien v2",
+   "url": "https://en.wikipedia.org/wiki/Robosapien_v2",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robosapien v2 (Q7353309)",
+   "url": "https://www.wikidata.org/wiki/Q7353309",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7353309"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

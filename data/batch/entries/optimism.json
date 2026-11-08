@@ -1,0 +1,67 @@
+{
+ "id": "optimism",
+ "name": "OPTIMISM",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "2020",
+ "status": "research",
+ "def": "Full scale Earth twin of Perseverance kept in JPL's Mars Yard to rehearse drives and debug problems with the flight rover.",
+ "body": [
+  "OPTIMISM duplicates Perseverance's chassis, wheels, arm and sampling hardware, but runs in Earth gravity on laboratory power in the Mars Yard at JPL. Teams use it to practise driving and sampling sequences before uplink and to reproduce faults, most visibly when pebbles jammed the sample handling hardware in early 2022 and engineers recreated the problem on the twin. It remains in regular use as the mission's ground reference vehicle."
+ ],
+ "facts": [
+  "Used to reproduce and solve the 2022 sample tube pebble jam",
+  "Full scale twin that rehearses every complex rover activity"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Six wheel rocker bogie drive matching the flight rover"
+  ],
+  [
+   "Power",
+   "Mains or battery supply during yard testing"
+  ],
+  [
+   "Sensors",
+   "Flight like cameras, robotic arm and coring hardware"
+  ],
+  [
+   "Autonomy",
+   "Runs flight software builds to rehearse autonomous drives"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, OPTIMISM (Q108699617)",
+   "url": "https://www.wikidata.org/wiki/Q108699617",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, nasa.gov",
+   "url": "https://www.nasa.gov/feature/jpl/nasa-readies-perseverance-mars-rovers-earthly-twin",
+   "kind": "cited"
+  },
+  {
+   "label": "Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q108699617"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

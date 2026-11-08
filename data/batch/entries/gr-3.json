@@ -1,0 +1,31 @@
+{
+ "id": "gr-3",
+ "name": "GR-3",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Fourier",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "A soft touch companion humanoid marking Fourier's turn toward care robotics.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "n1-fourier",
+  "grace"
+ ],
+ "refs": [
+  {
+   "label": "Fourier website",
+   "url": "https://www.fftai.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

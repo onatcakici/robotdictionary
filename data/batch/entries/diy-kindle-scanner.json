@@ -1,0 +1,37 @@
+{
+ "id": "diy-kindle-scanner",
+ "name": "DIY Kindle Scanner",
+ "aka": [],
+ "section": "other",
+ "kind": "book scanning robot",
+ "maker": "",
+ "country": "",
+ "year": "2012",
+ "status": "",
+ "def": "Lego Mindstorms machine built by Peter Purgathofer that works with a computer and a Kindle reader to copy electronic books, sidestepping their copy protection.",
+ "body": [],
+ "facts": [
+  "Designed and built between 2012 and 2013"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, DIY Kindle Scanner",
+   "url": "https://en.wikipedia.org/wiki/DIY_Kindle_Scanner",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, DIY Kindle Scanner (Q22907868)",
+   "url": "https://www.wikidata.org/wiki/Q22907868",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q22907868"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

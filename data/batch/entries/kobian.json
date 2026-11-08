@@ -1,0 +1,37 @@
+{
+ "id": "kobian",
+ "name": "Kobian",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Waseda University",
+ "country": "Japan",
+ "year": "",
+ "status": "research",
+ "def": "Humanoid robot developed at Waseda University in Japan that can show emotional expressions and was made to perform greetings suited to particular cultures.",
+ "body": [],
+ "facts": [
+  "Can mimic human speech with lip movements and head oscillations"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Kobian",
+   "url": "https://en.wikipedia.org/wiki/Kobian",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Kobian (Q6424389)",
+   "url": "https://www.wikidata.org/wiki/Q6424389",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6424389"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

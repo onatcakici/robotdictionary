@@ -1,0 +1,50 @@
+{
+ "id": "ecovacs-deebot-x1-omni",
+ "name": "DEEBOT X1 OMNI",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "home vacuum",
+ "maker": "Ecovacs Robotics",
+ "country": "China",
+ "year": "",
+ "status": "service",
+ "def": "Home vacuum and mop robot paired with a station that empties its dustbin, washes the mop pads and refills the water tank automatically.",
+ "body": [
+  "The X1 OMNI navigates with a laser distance sensor and adds a forward depth camera that recognises small obstacles such as cables, shoes and pet bowls. Twin spinning mop pads scrub while the robot vacuums at up to 5,000 Pa, and it returns to an all in one station that empties dust, washes the pads and dries them with warm air. It supports voice commands and a phone app with stored floor maps. Later Ecovacs models have superseded it, though many remain in service."
+ ],
+ "facts": [
+  "Rated at 5,000 Pa of suction",
+  "Station empties the bin, washes the mop pads and dries them with hot air"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Two drive wheels with a brush roller and twin spinning mop pads"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with an all in one docking station"
+  ],
+  [
+   "Sensors",
+   "Laser distance sensor with a depth camera for obstacle recognition"
+  ],
+  [
+   "Autonomy",
+   "Laser mapping with camera based obstacle avoidance and voice control"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Ecovacs Robotics website",
+   "url": "https://www.ecovacs.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

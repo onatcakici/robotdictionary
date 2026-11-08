@@ -1,0 +1,41 @@
+{
+ "id": "darwin-robotics",
+ "name": "Darwin",
+ "aka": [],
+ "section": "other",
+ "kind": "data center robot",
+ "maker": "Darwin",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robot technician being built to assemble, commission and maintain data center hardware, with first deployments targeted for 2027.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Darwin",
+   "url": "https://www.ycombinator.com/companies/darwin",
+   "kind": "yc"
+  },
+  {
+   "label": "Darwin website",
+   "url": "https://darwinrobotics.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "darwin"
+ },
+ "yc": {
+  "company": "Darwin",
+  "batch": "Fall 2025",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/darwin"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,45 @@
+{
+ "id": "pio",
+ "name": "Pio",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "automated storage and retrieval system",
+ "maker": "AutoStore",
+ "country": "Norway",
+ "year": "2020",
+ "status": "",
+ "def": "Scaled down automated storage and retrieval system from the Norwegian company AutoStore, intended for smaller businesses.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://pio.com/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Pio (warehouse automation)",
+   "url": "https://en.wikipedia.org/wiki/Pio_(warehouse_automation)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Pio (Q140603043)",
+   "url": "https://www.wikidata.org/wiki/Q140603043",
+   "kind": "wikidata"
+  },
+  {
+   "label": "AutoStore website",
+   "url": "https://autostoresystem.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140603043"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

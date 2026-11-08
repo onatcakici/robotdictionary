@@ -1,0 +1,39 @@
+{
+ "id": "arachno-bot",
+ "name": "Arachno-Bot",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "eight legged robot",
+ "maker": "Fraunhofer Institute of Manufacturing Engineering and Automation",
+ "country": "Germany",
+ "year": "2011",
+ "status": "research",
+ "def": "Eight legged spider inspired robot developed in 2011 at the Fraunhofer Institute of Manufacturing Engineering and Automation in Stuttgart to survey areas too dangerous for people.",
+ "body": [],
+ "facts": [
+  "Each leg uses an electrohydraulic soft joint modeled on a spider's",
+  "Mostly plastic, produced by 3D printing with selective laser sintering",
+  "Able to crawl, climb and jump"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Arachno-Bot",
+   "url": "https://en.wikipedia.org/wiki/Arachno-Bot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Arachno-Bot (Q4783561)",
+   "url": "https://www.wikidata.org/wiki/Q4783561",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4783561"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

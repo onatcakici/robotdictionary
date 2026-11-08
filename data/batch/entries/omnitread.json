@@ -1,0 +1,28 @@
+{
+ "id": "omnitread",
+ "name": "OmniTread",
+ "aka": [],
+ "section": "other",
+ "kind": "serpentine robot",
+ "maker": "University of Michigan",
+ "country": "United States",
+ "year": "",
+ "status": "research",
+ "def": "Segmented serpentine robot covered in moving treads on all sides, so it can push through rubble whichever way it lands.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "University of Michigan website",
+   "url": "https://umich.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

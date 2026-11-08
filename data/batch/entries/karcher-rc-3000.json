@@ -1,0 +1,43 @@
+{
+ "id": "karcher-rc-3000",
+ "name": "Kärcher RC 3000",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "Kärcher",
+ "country": "",
+ "year": "2002",
+ "status": "discontinued",
+ "def": "Robotic vacuum cleaner made by Kärcher, notable for a docking station that emptied the dirt it collected into a paper bag.",
+ "body": [],
+ "facts": [
+  "Introduced in 2002 and manufactured until January 2015",
+  "Its station let it keep running longer than other robot vacuums of the time"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Kärcher RC3000",
+   "url": "https://en.wikipedia.org/wiki/Kärcher_RC3000",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Kärcher RC3000 (Q6453436)",
+   "url": "https://www.wikidata.org/wiki/Q6453436",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Wikipedia, Kärcher RC3000",
+   "url": "https://en.wikipedia.org/wiki/K%C3%A4rcher_RC3000",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6453436"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

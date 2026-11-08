@@ -1,0 +1,38 @@
+{
+ "id": "push-the-talking-trash-can",
+ "name": "Push the Talking Trash Can",
+ "aka": [],
+ "section": "other",
+ "kind": "entertainment robot",
+ "maker": "",
+ "country": "United States",
+ "year": "",
+ "status": "service",
+ "def": "Radio controlled talking trash can robot that toured Tomorrowland at several Disney parks and still patrols Hong Kong Disneyland daily.",
+ "body": [],
+ "facts": [
+  "Appeared at Disneyland, Disney California Adventure, Disneyland Paris and Tokyo Disneyland",
+  "Formerly also roamed the Magic Kingdom at Walt Disney World"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Push the Talking Trash Can",
+   "url": "https://en.wikipedia.org/wiki/Push_the_Talking_Trash_Can",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Push the Talking Trash Can (Q7261770)",
+   "url": "https://www.wikidata.org/wiki/Q7261770",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7261770"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

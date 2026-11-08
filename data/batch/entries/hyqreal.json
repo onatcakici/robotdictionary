@@ -1,0 +1,36 @@
+{
+ "id": "hyqreal",
+ "name": "HyQReal",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Italian Institute of Technology",
+ "country": "Italy",
+ "year": "2019",
+ "status": "research",
+ "def": "A hydraulic heavyweight that once towed a three tonne aircraft.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Mass",
+   "approx. 130 kg"
+  ]
+ ],
+ "see": [
+  "icub",
+  "ergocub"
+ ],
+ "refs": [
+  {
+   "label": "Italian Institute of Technology website",
+   "url": "https://www.iit.it",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

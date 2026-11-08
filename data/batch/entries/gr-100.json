@@ -1,0 +1,46 @@
+{
+ "id": "gr-100",
+ "name": "GR-100",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "tomato harvesting robot",
+ "maker": "Four Growers",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Greenhouse robot from Four Growers that picks ripe tomatoes and records crop data as it travels the heating rails between rows.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Four Growers",
+   "url": "https://www.ycombinator.com/companies/four-growers",
+   "kind": "yc"
+  },
+  {
+   "label": "Four Growers website",
+   "url": "https://fourgrowers.com/",
+   "kind": "maker"
+  },
+  {
+   "label": "Four Growers, GR-100 product page",
+   "url": "https://four-growers.carney.co/products/robotic-harvesting-technology/",
+   "kind": "press"
+  }
+ ],
+ "ids": {
+  "yc": "four-growers"
+ },
+ "yc": {
+  "company": "Four Growers",
+  "batch": "Summer 2018",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/four-growers"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,31 @@
+{
+ "id": "lucki",
+ "name": "LuckiBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "OrionStar",
+ "country": "China",
+ "year": "2021",
+ "status": "production",
+ "def": "A greeter and guide service robot leading guests to tables and rooms.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "lunokhod-1",
+  "lunokhod-2"
+ ],
+ "refs": [
+  {
+   "label": "OrionStar website",
+   "url": "https://www.orionstar.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

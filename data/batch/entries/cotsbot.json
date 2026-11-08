@@ -1,0 +1,39 @@
+{
+ "id": "cotsbot",
+ "name": "COTSBot",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Queensland University of Technology",
+ "country": "Australia",
+ "year": "",
+ "status": "research",
+ "def": "Small autonomous underwater vehicle from Queensland University of Technology that finds crown of thorns starfish on the Great Barrier Reef and kills them by injection.",
+ "body": [],
+ "facts": [
+  "About 1.4 m long",
+  "Uses a neural network to spot starfish in camera images",
+  "Injects a bile salt solution through a needle on a folding arm"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, COTSBot",
+   "url": "https://en.wikipedia.org/wiki/COTSBot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, COTSBot (Q28135546)",
+   "url": "https://www.wikidata.org/wiki/Q28135546",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q28135546"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

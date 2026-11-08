@@ -1,0 +1,77 @@
+{
+ "id": "sophia",
+ "name": "Sophia",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Hanson Robotics",
+ "country": "Hong Kong",
+ "year": "2016",
+ "status": "production",
+ "def": "Expressive interaction humanoid known for public appearances and media work, produced in small numbers and supplied to research, education and events.",
+ "body": [
+  "Sophia is a humanoid head and torso with a face cast in Hanson's patented elastomer skin material, driven by around 60 small actuators to produce recognisable expressions. Most units are static or mounted on a wheeled base; a walking variant was built by fitting the torso onto a separate pair of legs. Speech and behaviour come from a mix of scripted content, chatbot dialogue and human operator input, which Hanson has acknowledged publicly. Sophia has been used in conference keynotes, television interviews and United Nations events, and Hanson also sells the smaller desktop Little Sophia for education.",
+  "Sophia became a media phenomenon after Saudi Arabia granted her citizenship in 2017, a first for any robot. Critics call her a chatbot in latex; her maker calls her a canvas for studying human robot rapport. Both are somewhat right."
+ ],
+ "facts": [
+  "Granted honorary Saudi citizenship in 2017 during a Riyadh conference appearance",
+  "Appeared at United Nations events and in numerous televised interviews",
+  "Sold alongside the smaller desktop Little Sophia education robot"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Roughly 60 electric actuators driving a face cast in a patented elastomer skin"
+  ],
+  [
+   "Power",
+   "Mains or onboard battery depending on configuration"
+  ],
+  [
+   "Sensors",
+   "Cameras in the eyes, microphones, chest depth sensing"
+  ],
+  [
+   "Autonomy",
+   "Mixture of scripted content, chatbot dialogue and human operator control"
+  ]
+ ],
+ "see": [
+  "sprout",
+  "star1"
+ ],
+ "refs": [
+  {
+   "label": "Hanson Robotics website",
+   "url": "https://www.hansonrobotics.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "http://www.hansonrobotics.com/robot/sophia/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Sophia (robot)",
+   "url": "https://en.wikipedia.org/wiki/Sophia_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sophia (Q42330811)",
+   "url": "https://www.wikidata.org/wiki/Q42330811",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Hanson Robotics website",
+   "url": "https://www.hansonrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q42330811"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

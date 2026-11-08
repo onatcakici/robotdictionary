@@ -1,0 +1,72 @@
+{
+ "id": "figure-03",
+ "name": "Figure 03",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Figure AI",
+ "country": "United States",
+ "year": "2025",
+ "status": "pilot",
+ "def": "Figure's third machine, built for the Helix vision language action model and scaled to dozens of units at customer sites.",
+ "body": [
+  "Figure 03 was designed around Helix, the company's vision language action model, with a home safe soft exterior and camera equipped palms. Dozens of units were reported working a BMW site by 2026, and a Series C in late 2025 valued Figure at thirty nine billion dollars."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 168 cm"
+  ],
+  [
+   "Deployments",
+   "BMW; multiple pilots"
+  ],
+  [
+   "Business model",
+   "robots as a service"
+  ],
+  [
+   "Mass",
+   "61 kg"
+  ]
+ ],
+ "see": [
+  "figure-01",
+  "figure-02"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.figure.ai/figure",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Figure 03 (Q140674084)",
+   "url": "https://www.wikidata.org/wiki/Q140674084",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, figure.ai",
+   "url": "https://www.figure.ai/news/introducing-figure-03",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, time.com",
+   "url": "https://time.com/collections/best-inventions-2025/7318493/figure-03/",
+   "kind": "cited"
+  },
+  {
+   "label": "Figure AI website",
+   "url": "https://www.figure.ai/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140674084"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,52 @@
+{
+ "id": "duaxel",
+ "name": "DuAxel",
+ "aka": [
+  "Axel"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "",
+ "status": "research",
+ "def": "Two part JPL rover that splits in half so a tethered two wheeled module can rappel down cliffs and crater walls.",
+ "body": [
+  "DuAxel is made of two Axel rovers joined by a central payload module, giving a stable four wheeled vehicle for long drives. On reaching a steep slope the assembly anchors itself, undocks, and one Axel descends on a tether that carries power and data while its two wheels and a trailing arm keep it stable. JPL has driven the system in the Mojave Desert and other steep terrain to show it can reach gullies, pit walls and crater slopes that conventional rovers cannot."
+ ],
+ "facts": [
+  "Splits into a tethered module that can rappel down cliffs",
+  "Demonstrated on steep desert terrain in California"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Two wheeled tethered modules that dock into a four wheeled vehicle"
+  ],
+  [
+   "Power",
+   "Battery electric with power passed along the tether"
+  ],
+  [
+   "Sensors",
+   "Stereo cameras, tether tension sensing, instruments carried in the wheel hubs"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated descent with autonomous tether and stability control"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

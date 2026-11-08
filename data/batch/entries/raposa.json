@@ -1,0 +1,44 @@
+{
+ "id": "raposa",
+ "name": "RAPOSA",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "search and rescue robot",
+ "maker": "",
+ "country": "Portugal",
+ "year": "",
+ "status": "",
+ "def": "Portuguese remotely operated search and rescue robot built to work in dangerous outdoor areas such as the rubble of collapsed structures and detect victims with its sensors.",
+ "body": [],
+ "facts": [
+  "Measures 75 cm long, 37 cm wide and 17.5 cm high, weighing 27 kg",
+  "Sensor options include a thermal camera, explosive and toxic gas sensors and inclinometers",
+  "Currently fitted for searching only, not for rescue"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://raposa.idmind.pt/?l=en",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, RAPOSA",
+   "url": "https://en.wikipedia.org/wiki/RAPOSA",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RAPOSA (Q7275800)",
+   "url": "https://www.wikidata.org/wiki/Q7275800",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7275800"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

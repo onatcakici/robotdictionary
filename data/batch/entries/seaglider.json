@@ -1,0 +1,28 @@
+{
+ "id": "seaglider",
+ "name": "Seaglider",
+ "aka": [],
+ "section": "marine",
+ "kind": "underwater glider",
+ "maker": "University of Washington",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Long endurance underwater glider developed at the University of Washington that profiles ocean temperature and salinity for months at a time.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "University of Washington website",
+   "url": "https://www.washington.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

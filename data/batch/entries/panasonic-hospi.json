@@ -1,0 +1,84 @@
+{
+ "id": "panasonic-hospi",
+ "name": "HOSPI",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "autonomous hospital delivery robot",
+ "maker": "Panasonic",
+ "country": "Japan",
+ "year": "2004",
+ "status": "service",
+ "def": "Autonomous hospital delivery robot that moves medicines, specimens and records between departments around the clock in locked trays.",
+ "body": [
+  "HOSPI is a chest high cabinet robot that holds up to six lockable trays and carries 20 kg between wards, pharmacies and laboratories. It follows stored map data of the building with sensor based obstacle avoidance, reports its position over wireless and opens only to staff identity cards. Panasonic ran hospital trials in Japan before commercial sales, and variants have been tested as guides in an airport and as drink servers in a hotel. Four units entered service at Changi General Hospital in Singapore in 2015."
+ ],
+ "facts": [
+  "Four units entered service at Changi General Hospital in Singapore in 2015, its first hospital outside Japan",
+  "Certified to the ISO 13482 service robot safety standard",
+  "Carries up to six lockable medication trays"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.386 m"
+  ],
+  [
+   "Mass",
+   "170 kg"
+  ],
+  [
+   "Payload",
+   "20 kg"
+  ],
+  [
+   "Top speed",
+   "1 m/s (3.6 km/h)"
+  ],
+  [
+   "Runtime",
+   "9 h"
+  ],
+  [
+   "Power",
+   "Battery with automatic charging and about 4.5 hours to recharge"
+  ],
+  [
+   "Sensors",
+   "Laser and obstacle sensors with card reader access control"
+  ],
+  [
+   "Autonomy",
+   "Follows stored building map data with obstacle avoidance and wireless reporting"
+  ]
+ ],
+ "see": [
+  "nicobo",
+  "hsr"
+ ],
+ "refs": [
+  {
+   "label": "Panasonic website",
+   "url": "https://www.panasonic.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Hospi",
+   "url": "https://en.wikipedia.org/wiki/Hospi",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Hospi (Q18207864)",
+   "url": "https://www.wikidata.org/wiki/Q18207864",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q18207864"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "hospi"
+ ]
+}

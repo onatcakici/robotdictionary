@@ -1,0 +1,62 @@
+{
+ "id": "lupex-rover",
+ "name": "LUPEX rover",
+ "aka": [],
+ "section": "rovers",
+ "kind": "lunar rover",
+ "maker": "Mitsubishi Heavy Industries",
+ "country": "Japan",
+ "year": "",
+ "status": "development",
+ "def": "Tracked lunar rover from Mitsubishi Heavy Industries of Japan for the Lunar Polar Exploration Mission, weighing 350 kg and measuring 2 m long.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "3.3 m"
+  ],
+  [
+   "Mass",
+   "350 kg"
+  ],
+  [
+   "Length",
+   "2 m"
+  ],
+  [
+   "Width",
+   "1.8 m"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Lunar Polar Exploration rover (Q141908977)",
+   "url": "https://www.wikidata.org/wiki/Q141908977",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, isro.gov.in",
+   "url": "https://www.isro.gov.in/ISRO_JAXA_CH5_Technical_Interface_Meet.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, humans-in-space.jaxa.jp",
+   "url": "https://humans-in-space.jaxa.jp/en/biz-lab/tech/lupex/",
+   "kind": "cited"
+  },
+  {
+   "label": "Mitsubishi Heavy Industries website",
+   "url": "https://www.mhi.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q141908977"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

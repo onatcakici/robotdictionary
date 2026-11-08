@@ -1,0 +1,39 @@
+{
+ "id": "wheelbarrow",
+ "name": "Wheelbarrow",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "bomb disposal robot",
+ "maker": "",
+ "country": "United Kingdom",
+ "year": "1972",
+ "status": "",
+ "def": "Remote controlled bomb disposal robot created in 1972 for British Army teams and used in Iraq, Northern Ireland and mainland Britain.",
+ "body": [],
+ "facts": [
+  "Designed in 1972 for British Army bomb disposal teams",
+  "Deployed in Northern Ireland, mainland Britain and Iraq",
+  "More than 400 have been destroyed during operations"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Wheelbarrow (robot)",
+   "url": "https://en.wikipedia.org/wiki/Wheelbarrow_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Wheelbarrow (Q7992054)",
+   "url": "https://www.wikidata.org/wiki/Q7992054",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7992054"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

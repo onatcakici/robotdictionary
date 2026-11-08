@@ -1,0 +1,28 @@
+{
+ "id": "kawasaki-duaro",
+ "name": "duAro",
+ "aka": [],
+ "section": "arms",
+ "kind": "dual arm collaborative robot",
+ "maker": "Kawasaki Heavy Industries",
+ "country": "Japan",
+ "year": "2015",
+ "status": "production",
+ "def": "Two armed SCARA style robot from Kawasaki on a wheeled base, sized to take the place of one worker on an assembly line.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Kawasaki Robotics website",
+   "url": "https://kawasakirobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,50 @@
+{
+ "id": "phony-pony",
+ "name": "Phony Pony",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "electrically driven quadruped",
+ "maker": "University of Southern California",
+ "country": "United States",
+ "year": "1966",
+ "status": "retired",
+ "def": "Early electrically driven quadruped from USC, generally recognised as the first walking machine in the United States controlled entirely by a computer.",
+ "body": [
+  "Andrew Frank and Robert McGhee built the Phony Pony to test whether finite state logic could generate walking gaits. Each of its four legs had two powered joints, a hip and a knee, driven by electric motors, and a digital controller switched the legs through walk and trot patterns. It was slow and tethered to external electronics, but it established the state machine approach to gait generation that later legged robots refined."
+ ],
+ "facts": [
+  "Walked and trotted under computer control without human balance corrections",
+  "The work led to Robert McGhee's later hexapod research at Ohio State University"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "8"
+  ],
+  [
+   "Actuation",
+   "Electric motors at the hip and knee of each leg"
+  ],
+  [
+   "Power",
+   "External electrical supply"
+  ],
+  [
+   "Autonomy",
+   "Finite state digital gait controller"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "University of Southern California website",
+   "url": "https://www.usc.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

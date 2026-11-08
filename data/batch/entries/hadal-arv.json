@@ -1,0 +1,59 @@
+{
+ "id": "hadal-arv",
+ "name": "Hadal ARV",
+ "aka": [
+  "Hadal Autonomous Remotely-controlled Vehicle"
+ ],
+ "section": "marine",
+ "kind": "hybrid underwater vehicle",
+ "maker": "Shenyang Institute of Automation",
+ "country": "China",
+ "year": "",
+ "status": "",
+ "def": "Chinese hybrid unmanned underwater vehicle from the Shenyang Institute of Automation that can work either autonomously or under remote control, much like Nereus.",
+ "body": [],
+ "facts": [
+  "Its ARV label means autonomous remotely controlled vehicle",
+  "Successor to the Arctic ARV and predecessor of the Hadal 1 ARV",
+  "Developer is part of the Chinese Academy of Sciences",
+  "Can operate as an autonomous vehicle or a remotely operated one",
+  "Chief designer is Tang Yuan-Gui",
+  "Chinese counterpart to the Nereus hybrid underwater vehicle"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Hadal ARV",
+   "url": "https://en.wikipedia.org/wiki/Hadal_ARV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Hadal ARV (Q28411727)",
+   "url": "https://www.wikidata.org/wiki/Q28411727",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Shenyang Institute of Automation website",
+   "url": "http://english.sia.cas.cn/",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Hadal 1 ARV",
+   "url": "https://en.wikipedia.org/wiki/Hadal_1_ARV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Hadal 1 ARV (Q97178497)",
+   "url": "https://www.wikidata.org/wiki/Q97178497",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q28411727"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

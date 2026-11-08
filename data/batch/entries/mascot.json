@@ -1,0 +1,30 @@
+{
+ "id": "mascot",
+ "name": "MASCOT",
+ "aka": [],
+ "section": "rovers",
+ "kind": "hopping asteroid lander",
+ "maker": "DLR and CNES",
+ "country": "Germany",
+ "year": "2018",
+ "status": "completed",
+ "def": "Shoebox sized lander carried by Hayabusa2 that used an internal swinging arm to hop across asteroid Ryugu in 2018.",
+ "body": [],
+ "facts": [
+  "Worked for about 17 hours on its battery"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "DLR website",
+   "url": "https://www.dlr.de/en",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,43 @@
+{
+ "id": "crx10",
+ "name": "CRX10",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "mobile robot platform",
+ "maker": "CNRobot",
+ "country": "South Korea",
+ "year": "2011",
+ "status": "",
+ "def": "Self navigating mobile robot platform from South Korean company CNRobot, intended for teaching, training and research and first shown in May 2011.",
+ "body": [],
+ "facts": [
+  "Unveiled in May 2011",
+  "Can be programmed with MSRDS, SPL, AVR and Android"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://cnrobot.co.kr/en",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, CRX10",
+   "url": "https://en.wikipedia.org/wiki/CRX10",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, CRX10 (Q4035690)",
+   "url": "https://www.wikidata.org/wiki/Q4035690",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4035690"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

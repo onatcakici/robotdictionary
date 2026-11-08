@@ -1,0 +1,31 @@
+{
+ "id": "kaleido",
+ "name": "Kaleido",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Kawasaki",
+ "country": "Japan",
+ "year": "2017",
+ "status": "research",
+ "def": "Kawasaki's rugged full size humanoid, iterated yearly toward heavy field work.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "bex",
+  "corleo"
+ ],
+ "refs": [
+  {
+   "label": "Kawasaki website",
+   "url": "https://kawasakirobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

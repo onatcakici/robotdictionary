@@ -1,0 +1,31 @@
+{
+ "id": "misty-ii",
+ "name": "Misty II",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "developer platform desk robot",
+ "maker": "Misty Robotics",
+ "country": "United States",
+ "year": "2019",
+ "status": "production",
+ "def": "A developer platform desk robot with a programmable personality.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "moxi",
+  "segway-navimow"
+ ],
+ "refs": [
+  {
+   "label": "Misty Robotics website",
+   "url": "https://www.mistyrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

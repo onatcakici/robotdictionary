@@ -1,0 +1,33 @@
+{
+ "id": "erica",
+ "name": "Erica",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "conversational android",
+ "maker": "Ishiguro Laboratories",
+ "country": "Japan",
+ "year": "2015",
+ "status": "research",
+ "def": "A conversational android of studied realism; once hired as a television news anchor.",
+ "body": [
+  "Erica was designed as the most humanlike conversational android of her generation and was announced as a Japanese television news anchor in 2018; she has since been cast in a Hollywood film project."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "geminoid",
+  "telenoid"
+ ],
+ "refs": [
+  {
+   "label": "Ishiguro Laboratories website",
+   "url": "http://www.geminoid.jp/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

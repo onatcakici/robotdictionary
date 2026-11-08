@@ -1,0 +1,41 @@
+{
+ "id": "hermes-robotics",
+ "name": "Hermes Robotics",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "autonomous street sweeper",
+ "maker": "Hermes Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Retrofit autonomy for street sweepers, sold as a sweeping service.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Hermes Robotics",
+   "url": "https://www.ycombinator.com/companies/hermes-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Hermes Robotics website",
+   "url": "http://hermes-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "hermes-robotics"
+ },
+ "yc": {
+  "company": "Hermes Robotics",
+  "batch": "Winter 2021",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/hermes-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

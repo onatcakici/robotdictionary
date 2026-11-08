@@ -1,0 +1,54 @@
+{
+ "id": "mini-pupper-2",
+ "name": "Mini Pupper 2",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "MangDang",
+ "country": "Hong Kong",
+ "year": "2022",
+ "status": "production",
+ "def": "Small open source quadruped kit built around a Raspberry Pi and ROS 2, aimed at students learning navigation and mapping.",
+ "body": [
+  "Mini Pupper 2 descends from the Stanford Pupper design and ships as a kit with twelve servo driven joints, a Raspberry Pi compute module, a small display face and an optional lidar. Its software runs ROS 2 with simultaneous localisation and mapping and navigation examples, plus interfaces for vision and voice, so it can carry a full robotics course on cheap hardware. MangDang funded it on Kickstarter in late 2022 and sells both assembled and self build versions."
+ ],
+ "facts": [
+  "Crowdfunded in late 2022 and supplied as an open source ROS 2 teaching kit",
+  "Derived from the openly published Stanford Pupper design"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Servo actuators, three per leg"
+  ],
+  [
+   "Power",
+   "Onboard lithium battery"
+  ],
+  [
+   "Sensors",
+   "Camera, optional two dimensional lidar, inertial measurement unit"
+  ],
+  [
+   "Autonomy",
+   "ROS 2 stack with mapping and navigation on a Raspberry Pi"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "MangDang website",
+   "url": "https://mangdang.store",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

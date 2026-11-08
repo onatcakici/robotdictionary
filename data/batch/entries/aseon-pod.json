@@ -1,0 +1,41 @@
+{
+ "id": "aseon-pod",
+ "name": "Aseon Pod",
+ "aka": [],
+ "section": "arms",
+ "kind": "robotic service depot",
+ "maker": "Aseon Labs",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robotic micro depot that charges, cleans and services self driving cars between trips.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Aseon Labs",
+   "url": "https://www.ycombinator.com/companies/aseon-labs",
+   "kind": "yc"
+  },
+  {
+   "label": "Aseon Labs website",
+   "url": "https://www.aseonlabs.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "aseon-labs"
+ },
+ "yc": {
+  "company": "Aseon Labs",
+  "batch": "Spring 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/aseon-labs"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

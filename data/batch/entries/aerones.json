@@ -1,0 +1,41 @@
+{
+ "id": "aerones",
+ "name": "Aerones",
+ "aka": [],
+ "section": "other",
+ "kind": "wind turbine maintenance robot",
+ "maker": "Aerones",
+ "country": "Latvia",
+ "year": "",
+ "status": "",
+ "def": "Rope suspended robotic system that climbs wind turbine blades to clean, inspect, test lightning conductors and repair leading edges.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Aerones",
+   "url": "https://www.ycombinator.com/companies/aerones",
+   "kind": "yc"
+  },
+  {
+   "label": "Aerones website",
+   "url": "http://www.aerones.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "aerones"
+ },
+ "yc": {
+  "company": "Aerones",
+  "batch": "Winter 2018",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/aerones"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

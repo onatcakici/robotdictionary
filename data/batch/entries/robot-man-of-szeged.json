@@ -1,0 +1,42 @@
+{
+ "id": "robot-man-of-szeged",
+ "name": "Robot Man of Szeged",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "receptionist robot",
+ "maker": "University of Szeged",
+ "country": "Hungary",
+ "year": "1962",
+ "status": "retired",
+ "def": "Early Hungarian robot built in 1962 by Dániel Muszka of the University of Szeged to welcome guests and direct them at the entrance of the Szeged Pioneer House.",
+ "body": [],
+ "facts": [
+  "Made by the same creator as the Ladybird of Szeged"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Robot Man of Szeged",
+   "url": "https://en.wikipedia.org/wiki/Robot_Man_of_Szeged",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robot Man of Szeged (Q39055742)",
+   "url": "https://www.wikidata.org/wiki/Q39055742",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Szeged website",
+   "url": "https://u-szeged.hu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q39055742"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,69 @@
+{
+ "id": "prop-m",
+ "name": "PrOP-M",
+ "aka": [
+  "Mars 2 rover",
+  "Mars 3 rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "VNII Transmash and NPO Lavochkin",
+ "country": "Soviet Union",
+ "year": "1971",
+ "status": "lost",
+ "def": "Small tethered walking rover carried by the Mars 2 and Mars 3 landers, intended to skid across the surface on twin skis.",
+ "body": [
+  "Each PrOP-M was a squat box that moved on two powered skis rather than wheels, connected to its lander by a 15 metre umbilical and steered by simple contact logic that reversed and turned at obstacles. A manipulator arm was to lift the rover onto the ground, after which it would leave tracks and take penetrometer and radiation density readings within view of the lander cameras. Mars 2 crashed in November 1971 and Mars 3 stopped transmitting seconds after landing, so neither rover was ever deployed."
+ ],
+ "facts": [
+  "First rovers sent to Mars, neither of which operated",
+  "Tether limited operation to 15 metres from the lander"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "4.5 kg"
+  ],
+  [
+   "Actuation",
+   "Two powered skis with obstacle contact reversing"
+  ],
+  [
+   "Power",
+   "Supplied by cable from the lander"
+  ],
+  [
+   "Sensors",
+   "Penetrometer and gamma ray densitometer"
+  ],
+  [
+   "Autonomy",
+   "Hardwired reflex behaviour on contact with obstacles"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "VNII Transmash and NPO Lavochkin website",
+   "url": "https://www.laspace.ru",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, PrOP-M",
+   "url": "https://en.wikipedia.org/wiki/PrOP-M",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Prop-M Rover (Q3197862)",
+   "url": "https://www.wikidata.org/wiki/Q3197862",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3197862"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

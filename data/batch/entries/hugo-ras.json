@@ -1,0 +1,28 @@
+{
+ "id": "hugo-ras",
+ "name": "Hugo RAS",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Medtronic",
+ "country": "United States",
+ "year": "2021",
+ "status": "production",
+ "def": "Modular robotic surgery system from Medtronic with an open surgeon console, first used on a patient in Chile in 2021.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Medtronic website",
+   "url": "https://www.medtronic.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

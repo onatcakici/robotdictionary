@@ -1,0 +1,41 @@
+{
+ "id": "bistrobot",
+ "name": "Bistrobot",
+ "aka": [],
+ "section": "arms",
+ "kind": "sandwich making robot",
+ "maker": "Bistrobot",
+ "country": "United States",
+ "year": "",
+ "status": "discontinued",
+ "def": "Automated sandwich line from a San Francisco startup that assembled orders while customers watched.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Bistrobot",
+   "url": "https://www.ycombinator.com/companies/bistrobot",
+   "kind": "yc"
+  },
+  {
+   "label": "Bistrobot website",
+   "url": "http://bistrobot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "bistrobot"
+ },
+ "yc": {
+  "company": "Bistrobot",
+  "batch": "Summer 2015",
+  "status": "Inactive",
+  "url": "https://www.ycombinator.com/companies/bistrobot"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

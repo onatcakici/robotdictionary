@@ -1,0 +1,71 @@
+{
+ "id": "aethon-tug",
+ "name": "TUG T3",
+ "aka": [
+  "Aethon TUG"
+ ],
+ "section": "wheeled",
+ "kind": "hospital courier robot",
+ "maker": "Aethon",
+ "country": "United States",
+ "year": "2004",
+ "status": "production",
+ "def": "Hospital courier robot that tows carts of medication, meals, linen and waste, calling elevators and automatic doors over the building network.",
+ "body": [
+  "The TUG is a compact tractor unit that hitches to hospital carts and hauls up to 453 kg through corridors, service lifts and clinical floors. It navigates from a stored facility map using laser, inertial and vision sensing, so it needs no floor tape or buried wire, and it talks to elevators and fire doors by wireless link. Deliveries are dispatched on a schedule or by touchscreen, and the robot returns to a dock to charge itself. Hundreds of units work in North American hospitals, including pharmacy and laboratory runs at night.",
+  "Aethon's TUG has hauled hospital logistics since 2004, among the longest continuously deployed autonomous robots anywhere; hundreds run around the clock in American medical centres."
+ ],
+ "facts": [
+  "Deployed at hospitals including UCSF Medical Center at Mission Bay",
+  "Tows loaded carts of up to about 453 kg",
+  "Aethon was acquired by ST Engineering in 2019"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "453 kg"
+  ],
+  [
+   "Top speed",
+   "0.76 m/s (2.7 km/h)"
+  ],
+  [
+   "Runtime",
+   "10 h"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with an autonomous charging dock"
+  ],
+  [
+   "Sensors",
+   "Laser scanners, sonar and infrared sensors with contact bumpers"
+  ],
+  [
+   "Autonomy",
+   "Laser and inertial SLAM on a stored map, integrated with elevators and doors"
+  ],
+  [
+   "Service",
+   "since 2004, 24/7 hospital duty"
+  ]
+ ],
+ "see": [
+  "turtlebot-4",
+  "uvd-robot"
+ ],
+ "refs": [
+  {
+   "label": "Aethon website",
+   "url": "https://aethon.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "tug"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "id": "manav",
+ "name": "Manav",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "",
+ "country": "India",
+ "year": "",
+ "status": "",
+ "def": "Humanoid robot developed in India, built with a body modelled on the human form.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Manav (Q22906694)",
+   "url": "https://www.wikidata.org/wiki/Q22906694",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q22906694"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,50 @@
+{
+ "id": "robop",
+ "name": "Robop",
+ "aka": [
+  "robotic bird of prey"
+ ],
+ "section": "other",
+ "kind": "robotic bird deterrent",
+ "maker": "Robop Ltd",
+ "country": "United Kingdom",
+ "year": "2001",
+ "status": "",
+ "def": "Robotic peregrine falcon from the British firm Robop Ltd that deters pest birds by flapping its wings, turning its head and sounding a falcon's call.",
+ "body": [],
+ "facts": [
+  "Name is short for robotic bird of prey",
+  "Sold as the R:Falcon"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://robop.com/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Robop",
+   "url": "https://en.wikipedia.org/wiki/Robop",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robop (Q7353292)",
+   "url": "https://www.wikidata.org/wiki/Q7353292",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, robop.com",
+   "url": "https://robop.com/why-robop/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7353292"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

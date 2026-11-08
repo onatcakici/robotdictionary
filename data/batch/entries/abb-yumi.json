@@ -1,0 +1,36 @@
+{
+ "id": "abb-yumi",
+ "name": "YuMi",
+ "aka": [],
+ "section": "arms",
+ "kind": "dual arm collaborative robot",
+ "maker": "ABB",
+ "country": "Switzerland",
+ "year": "2015",
+ "status": "production",
+ "def": "Two armed collaborative robot from ABB, padded and lightweight, built for small parts assembly beside people.",
+ "body": [],
+ "facts": [
+  "Model number IRB 14000",
+  "Name comes from the phrase you and me"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "0.5 kg per arm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ABB Robotics website",
+   "url": "https://new.abb.com/products/robotics",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

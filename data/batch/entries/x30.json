@@ -1,0 +1,43 @@
+{
+ "id": "x30",
+ "name": "Jueying X30",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "all weather inspection quadruped",
+ "maker": "DEEP Robotics",
+ "country": "China",
+ "year": "2023",
+ "status": "production",
+ "def": "An all weather inspection quadruped working power stations and tunnels.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "lite3",
+  "lynx"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.deeprobotics.cn/en/index/product3.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, X30 (Q140917564)",
+   "url": "https://www.wikidata.org/wiki/Q140917564",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, technode.com",
+   "url": "https://technode.com/2025/01/07/deep-robotics-delivers-x30-quadruped-robot-spock-for-singapore-power-inspections/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140917564"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

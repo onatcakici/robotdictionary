@@ -1,0 +1,51 @@
+{
+ "id": "cartken-model-c",
+ "name": "Cartken Model C",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "six wheeled sidewalk robot",
+ "maker": "Cartken",
+ "country": "United States",
+ "year": "",
+ "status": "service",
+ "def": "Six wheeled sidewalk robot that delivers food and light goods using camera based navigation, deployed on campuses and city streets in North America, Europe and Japan.",
+ "body": [
+  "The Model C is a six wheeled sidewalk robot that navigates from cameras and onboard neural networks rather than lidar, which keeps unit cost down. Wheel clusters let it climb kerbs and handle rough pavement, and remote staff monitor fleets. Cartken licenses and sells the platform to partners who run their own delivery operations, and a related Hauler variant moves parts and materials between buildings. It works university campuses, business parks and public sidewalks."
+ ],
+ "facts": [
+  "Distributed in Japan through Mitsubishi Electric, with sidewalk deliveries in Tokyo",
+  "Ran campus food delivery in the United States with Grubhub dining programmes",
+  "Founded by former Google engineers who worked on the Bookbot delivery robot project"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Six wheels in driven clusters for kerb climbing"
+  ],
+  [
+   "Power",
+   "Rechargeable battery electric drive"
+  ],
+  [
+   "Sensors",
+   "Multiple cameras with onboard visual navigation, without lidar"
+  ],
+  [
+   "Autonomy",
+   "Camera based autonomous navigation with remote monitoring and assistance"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Cartken website",
+   "url": "https://www.cartken.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

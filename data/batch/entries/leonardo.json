@@ -1,0 +1,44 @@
+{
+ "id": "leonardo",
+ "name": "Leonardo",
+ "aka": [],
+ "section": "other",
+ "kind": "social robot",
+ "maker": "Massachusetts Institute of Technology",
+ "country": "United States",
+ "year": "2002",
+ "status": "research",
+ "def": "Social robot standing 2.5 feet tall, built by MIT's Personal Robots Group to study interaction and collaboration between humans and robots.",
+ "body": [],
+ "facts": [
+  "Body built by Stan Winston Studios and completed in 2002",
+  "Created under the direction of Cynthia Breazeal",
+  "Named in Wired magazine's 50 Best Robots Ever list in 2006"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Leonardo (robot)",
+   "url": "https://en.wikipedia.org/wiki/Leonardo_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Leonardo (Q16932522)",
+   "url": "https://www.wikidata.org/wiki/Q16932522",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Massachusetts Institute of Technology website",
+   "url": "https://mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q16932522"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

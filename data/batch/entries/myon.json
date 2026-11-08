@@ -1,0 +1,50 @@
+{
+ "id": "myon",
+ "name": "Myon",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "modular humanoid",
+ "maker": "Humboldt University of Berlin, Neurorobotics Research Laboratory",
+ "country": "Germany",
+ "year": "2010",
+ "status": "research",
+ "def": "Modular humanoid from Berlin whose limbs can be detached and keep working, built for research on distributed neural style control.",
+ "body": [
+  "Myon is about 1.25 m tall and weighs roughly 15 kg, with each body part carrying its own power supply, processing and actuation so a single arm or leg still functions once removed. Control runs across a distributed network of small processing nodes rather than one central computer, which suits experiments in sensorimotor learning and self exploration. The robot took a singing and acting role in the opera My Square Lady at the Komische Oper Berlin in 2015."
+ ],
+ "facts": [
+  "Limbs can be removed and continue operating on their own power",
+  "Performed in the opera My Square Lady at the Komische Oper Berlin"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.25 m"
+  ],
+  [
+   "Mass",
+   "15 kg"
+  ],
+  [
+   "Actuation",
+   "Modular electric actuator units, one set per body part"
+  ],
+  [
+   "Autonomy",
+   "Distributed neural style control across per limb processing nodes"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Humboldt University of Berlin, Neurorobotics Research Laboratory website",
+   "url": "https://www.hu-berlin.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

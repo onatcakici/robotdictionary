@@ -1,0 +1,108 @@
+{
+ "id": "unitree-g1",
+ "name": "Unitree G1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Unitree Robotics",
+ "country": "China",
+ "year": "2024",
+ "status": "production",
+ "def": "Compact humanoid priced from around 13,500 dollars, sold in volume to developers, universities and companies as an affordable locomotion and manipulation platform.",
+ "body": [
+  "G1 stands 132 centimetres and weighs about 35 kilograms, folding down to 69 centimetres for transport, with 23 degrees of freedom in the base model and up to 43 on the EDU version with a three axis waist and dexterous hands. Each arm carries about two kilograms, knee joints are rated at 90 newton metres, and a 9,000 milliamp hour pack gives roughly two hours of use. Sensing is by 3D lidar and depth camera with a four microphone array, and an eight core processor runs Unitree's stack with reinforcement learning training environments supplied. Its low price made it the most common humanoid in university labs, developer projects and public demonstrations, including choreographed appearances on Chinese state television.",
+  "The G1 compressed Unitree's humanoid stack into a child sized frame priced like a car option package. It became the default research humanoid almost overnight, appearing in labs, boxing demonstrations and viral kung fu videos."
+ ],
+ "facts": [
+  "Listed from about 13,500 dollars, undercutting most full size humanoids",
+  "EDU configuration extends the robot to as many as 43 degrees of freedom",
+  "Performed a mass choreographed routine on Chinese state television in 2025"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.32 m"
+  ],
+  [
+   "Mass",
+   "35 kg"
+  ],
+  [
+   "Payload",
+   "2 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "23"
+  ],
+  [
+   "Runtime",
+   "2 h"
+  ],
+  [
+   "Actuation",
+   "In house electric joint modules with dual encoders and 90 newton metre knee torque"
+  ],
+  [
+   "Power",
+   "9,000 milliamp hour lithium battery giving roughly two hours"
+  ],
+  [
+   "Sensors",
+   "3D lidar, depth camera, four microphone array"
+  ],
+  [
+   "Autonomy",
+   "Unitree software development kit with reinforcement learning training environments"
+  ],
+  [
+   "Price",
+   "approx. $16,000"
+  ]
+ ],
+ "see": [
+  "unitree-h1",
+  "unitree-h2"
+ ],
+ "refs": [
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.unitree.com/g1",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Unitree G1 (Q140668433)",
+   "url": "https://www.wikidata.org/wiki/Q140668433",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, heise.de",
+   "url": "https://www.heise.de/en/news/Humanoider-Roboter-Unitree-G1-kostet-16-000-Dollar-9720187.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, therobotreport.com",
+   "url": "https://www.therobotreport.com/unitree-robotics-unveils-g1-humanoid-for-16k/",
+   "kind": "cited"
+  },
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140668433"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "g1-unitree"
+ ]
+}

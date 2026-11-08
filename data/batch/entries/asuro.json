@@ -1,0 +1,30 @@
+{
+ "id": "asuro",
+ "name": "Asuro",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "programmable robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Programmable robot able to act autonomously, carrying out behaviours that its user writes and loads as software.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Asuro (Q298085)",
+   "url": "https://www.wikidata.org/wiki/Q298085",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q298085"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

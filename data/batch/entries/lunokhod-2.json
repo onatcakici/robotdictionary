@@ -1,0 +1,92 @@
+{
+ "id": "lunokhod-2",
+ "name": "Lunokhod 2",
+ "aka": [
+  "Luna 21 rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NPO Lavochkin and VNII Transmash",
+ "country": "Soviet Union",
+ "year": "1973",
+ "status": "retired",
+ "def": "Second Soviet lunar rover, delivered by Luna 21 to Le Monnier crater, which drove roughly 39 kilometres in under four months.",
+ "body": [
+  "Lunokhod 2 landed on 15 January 1973 and explored the boundary between Le Monnier crater and the Taurus mountains, driving faster than its predecessor thanks to a third television camera and an improved navigation system. Power came from a lid mounted solar panel with a polonium 210 heater for the lunar night, turning the same eight wheel chassis. It surveyed the local magnetic field and a nearby rille before its open lid scooped dust onto the radiator in May 1973, causing the rover to overheat."
+ ],
+ "facts": [
+  "Held the off world driving record for four decades",
+  "Agreed traverse of about 39 km, re estimated near 42 km from orbital imagery",
+  "Carried a French laser retroreflector still used for ranging"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "840 kg"
+  ],
+  [
+   "Distance driven",
+   "39 km"
+  ],
+  [
+   "Actuation",
+   "Eight independently driven wheels with individual motors and brakes"
+  ],
+  [
+   "Power",
+   "Lid mounted solar panel with polonium 210 radioisotope heater"
+  ],
+  [
+   "Sensors",
+   "Three television cameras, panoramic telephotometers, boom mounted magnetometer, photodetector, solar X ray experiment, laser retroreflector"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated from Earth using television guidance"
+  ],
+  [
+   "Crew",
+   "Earth driven, 1973"
+  ],
+  [
+   "Height",
+   "135 cm"
+  ],
+  [
+   "Length",
+   "170 cm"
+  ],
+  [
+   "Width",
+   "160 cm"
+  ]
+ ],
+ "see": [
+  "lunokhod-1",
+  "matic"
+ ],
+ "refs": [
+  {
+   "label": "NPO Lavochkin and VNII Transmash website",
+   "url": "https://www.laspace.ru",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Lunokhod 2",
+   "url": "https://en.wikipedia.org/wiki/Lunokhod_2",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Lunokhod 2 (Q1051675)",
+   "url": "https://www.wikidata.org/wiki/Q1051675",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1051675"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

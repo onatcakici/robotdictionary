@@ -1,0 +1,45 @@
+{
+ "id": "ballie",
+ "name": "Ballie",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Samsung",
+ "country": "South Korea",
+ "year": "2025",
+ "status": "production",
+ "def": "A rolling home companion ball with a built in projector, launched after six years of teasers.",
+ "body": [
+  "Samsung teased Ballie at CES for six years before finally shipping the rolling projector companion in 2025, developed with Google's Gemini models inside."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "beam",
+  "pudu-bellabot"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia, Ballie",
+   "url": "https://en.wikipedia.org/wiki/Ballie",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ballie (Q124301380)",
+   "url": "https://www.wikidata.org/wiki/Q124301380",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Samsung Electronics website",
+   "url": "https://samsung.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q124301380"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

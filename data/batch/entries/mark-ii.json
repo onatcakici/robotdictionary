@@ -1,0 +1,39 @@
+{
+ "id": "mark-ii",
+ "name": "Mark II",
+ "aka": [],
+ "section": "other",
+ "kind": "rideable robot",
+ "maker": "MegaBots",
+ "country": "United States",
+ "year": "2015",
+ "status": "",
+ "def": "Rideable robot controlled by its riders, made by the US company MegaBots and first shown at Maker Faire San Mateo in May 2015.",
+ "body": [],
+ "facts": [
+  "Upgrade for melee combat announced in August 2015 to take on Kuratas",
+  "Upgrade funding came from a Kickstarter campaign",
+  "Successor Mk.III was scheduled to fight Kuratas in August 2017"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Mark II (robot)",
+   "url": "https://en.wikipedia.org/wiki/Mark_II_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Mark II (Q21233558)",
+   "url": "https://www.wikidata.org/wiki/Q21233558",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q21233558"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

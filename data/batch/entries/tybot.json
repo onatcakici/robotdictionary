@@ -1,0 +1,47 @@
+{
+ "id": "tybot",
+ "name": "TyBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "self propelled gantry robot",
+ "maker": "Advanced Construction Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "service",
+ "def": "Self propelled gantry robot that rolls along a bridge deck rebar mat and ties intersections automatically without needing a building information model.",
+ "body": [
+  "TyBot is a wheeled gantry that spans a bridge deck and rolls along rails or the deck edges above a laid out mat of reinforcing bar. Machine vision finds each bar intersection on the fly, so it needs no digital model of the deck, and a tying head then wraps and twists a tie at each crossing. One operator sets it up and supervises while the robot works the mat, removing a physically punishing manual task. It is used on highway bridge deck construction."
+ ],
+ "facts": [
+  "Used on highway bridge deck projects across the United States",
+  "Removes a repetitive stooped labour task associated with worker injury",
+  "The same company builds IronBot, which lifts and places reinforcing bar"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Self propelled wheeled gantry spanning the deck with a robotic rebar tying head"
+  ],
+  [
+   "Sensors",
+   "Machine vision that locates rebar intersections without a pre loaded digital model"
+  ],
+  [
+   "Autonomy",
+   "Autonomously locates and ties intersections across the mat with one operator supervising"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Advanced Construction Robotics website",
+   "url": "https://www.advancedconstructionrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

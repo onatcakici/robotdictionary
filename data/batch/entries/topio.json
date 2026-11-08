@@ -1,0 +1,41 @@
+{
+ "id": "topio",
+ "name": "TOPIO",
+ "aka": [
+  "TOSY Ping Pong Playing Robot"
+ ],
+ "section": "humanoids",
+ "kind": "two legged humanoid robot",
+ "maker": "TOSY",
+ "country": "Vietnam",
+ "year": "2007",
+ "status": "",
+ "def": "Two legged humanoid robot from the Vietnamese firm TOSY, built to compete against people at table tennis.",
+ "body": [],
+ "facts": [
+  "In development at TOSY since 2005",
+  "Demonstrated at the International Robot Exhibition in Tokyo on 28 November 2007",
+  "TOPIO 3.0 stands roughly 1.88 m high with a mass of 120 kg"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, TOPIO",
+   "url": "https://en.wikipedia.org/wiki/TOPIO",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, TOPIO (Q2233601)",
+   "url": "https://www.wikidata.org/wiki/Q2233601",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2233601"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

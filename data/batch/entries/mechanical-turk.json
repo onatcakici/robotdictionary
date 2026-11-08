@@ -1,0 +1,41 @@
+{
+ "id": "mechanical-turk",
+ "name": "Mechanical Turk",
+ "aka": [
+  "Automaton Chess Player"
+ ],
+ "section": "other",
+ "kind": "automaton",
+ "maker": "Wolfgang von Kempelen",
+ "country": "",
+ "year": "1769",
+ "status": "lost",
+ "def": "Hoax chess automaton built by Wolfgang von Kempelen whose apparent skill came from a chess master concealed inside, moving the pieces with levers and magnets.",
+ "body": [],
+ "facts": [
+  "First displayed in 1770",
+  "Toured as an automaton for 84 years before a fire destroyed it in 1854",
+  "Its secret was fully explained in an 1857 article by the owner's son"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Mechanical Turk",
+   "url": "https://en.wikipedia.org/wiki/Mechanical_Turk",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, The Turk (Q275924)",
+   "url": "https://www.wikidata.org/wiki/Q275924",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q275924"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

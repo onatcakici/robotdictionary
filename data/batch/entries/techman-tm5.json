@@ -1,0 +1,28 @@
+{
+ "id": "techman-tm5",
+ "name": "TM5",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Techman Robot",
+ "country": "Taiwan",
+ "year": "",
+ "status": "production",
+ "def": "Collaborative arm from Techman Robot with a camera built into the wrist for locating parts.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Techman Robot website",
+   "url": "https://www.tm-robot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

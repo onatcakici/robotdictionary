@@ -1,0 +1,44 @@
+{
+ "id": "han",
+ "name": "Han",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "social humanoid robot",
+ "maker": "Hanson Robotics",
+ "country": "Hong Kong",
+ "year": "2015",
+ "status": "",
+ "def": "Social humanoid robot from the Hong Kong firm Hanson Robotics, built mostly as a head with Frubber skin that senses people and gauges their age, gender and emotional expression.",
+ "body": [],
+ "facts": [
+  "Switched on for the first time in 2015",
+  "Debuted at the Global Sources Electronics Fair in 2015",
+  "Head can sit on a clear body that exposes its electronics"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Han (robot)",
+   "url": "https://en.wikipedia.org/wiki/Han_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Han (Q124936558)",
+   "url": "https://www.wikidata.org/wiki/Q124936558",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Hanson Robotics website",
+   "url": "https://www.hansonrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q124936558"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

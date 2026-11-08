@@ -1,0 +1,38 @@
+{
+ "id": "george",
+ "name": "George",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Tony Sale",
+ "country": "United Kingdom",
+ "year": "1949",
+ "status": "retired",
+ "def": "British humanoid robot that Tony Sale assembled in 1949 from scrap metal taken off a crashed RAF Wellington bomber.",
+ "body": [],
+ "facts": [
+  "Reactivated by Sale in 2010",
+  "Now exhibited at The National Museum of Computing, Bletchley Park"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, George (robot)",
+   "url": "https://en.wikipedia.org/wiki/George_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, George (Q5535910)",
+   "url": "https://www.wikidata.org/wiki/Q5535910",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5535910"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

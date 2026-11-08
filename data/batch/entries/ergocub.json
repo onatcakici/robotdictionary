@@ -1,0 +1,31 @@
+{
+ "id": "ergocub",
+ "name": "ergoCub",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Italian Institute of Technology",
+ "country": "Italy",
+ "year": "2023",
+ "status": "research",
+ "def": "iCub's industrial descendant, built with INAIL to study safe human robot labour.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "icub",
+  "walk-man"
+ ],
+ "refs": [
+  {
+   "label": "Italian Institute of Technology website",
+   "url": "https://www.iit.it",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

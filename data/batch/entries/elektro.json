@@ -1,0 +1,52 @@
+{
+ "id": "elektro",
+ "name": "Elektro",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Westinghouse Electric Corporation",
+ "country": "United States",
+ "year": "1937",
+ "status": "",
+ "def": "Humanoid robot constructed in 1937 and 1938 by a team of Westinghouse Electric Corporation engineers at the company's plant in Mansfield, Ohio.",
+ "body": [],
+ "facts": [
+  "Stood 7 ft tall and weighed 265 lb",
+  "Engineering team included J.M. Barnett, Jack Weeks Sr. and Harold Gorsuch"
+ ],
+ "specs": [
+  [
+   "Height",
+   "7 ft"
+  ],
+  [
+   "Mass",
+   "265 lb"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Elektro",
+   "url": "https://en.wikipedia.org/wiki/Elektro",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Elektro (Q1112027)",
+   "url": "https://www.wikidata.org/wiki/Q1112027",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, spectrum.ieee.org",
+   "url": "https://spectrum.ieee.org/tech-history/dawn-of-electronics/elektro-the-motoman-had-the-biggest-brain-at-the-1939-worlds-fair",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1112027"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

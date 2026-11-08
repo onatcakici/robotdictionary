@@ -1,0 +1,39 @@
+{
+ "id": "pleo",
+ "name": "Pleo",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "robotic toy dinosaur",
+ "maker": "Innvo Labs",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Animatronic toy dinosaur modelled on a baby Camarasaurus about a week old, designed by Caleb Chung, who helped create the Furby, and first sold by Ugobe.",
+ "body": [],
+ "facts": [
+  "Designed by Caleb Chung, one of the Furby's creators",
+  "First sold by Ugobe and now made by Innvo Labs",
+  "Its large body and head leave room to hide sensors and motors"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Pleo",
+   "url": "https://en.wikipedia.org/wiki/Pleo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Pleo (Q779687)",
+   "url": "https://www.wikidata.org/wiki/Q779687",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q779687"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

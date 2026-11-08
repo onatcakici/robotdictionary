@@ -1,0 +1,55 @@
+{
+ "id": "rhino",
+ "name": "RHINO",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "research tour guide robot",
+ "maker": "University of Bonn",
+ "country": "Germany",
+ "year": "1997",
+ "status": "retired",
+ "def": "Research tour guide robot that led museum visitors for six days in 1997, among the first robots to work unattended in a public crowd.",
+ "body": [
+  "RHINO was a wheeled research base fitted with a ring of 24 ultrasonic transducers, two laser range finders covering 360 degrees, infrared sensors and touch panels. Probabilistic localisation and map based planning let it keep track of itself and pick paths through moving crowds, with three onboard computers and two workstations doing the work. It guided visitors around exhibits at the Deutsches Museum Bonn, explaining each stop, and remote users could also send it to exhibits over the web. It travelled 18.6 km in about 47 hours of operation and is now retired."
+ ],
+ "facts": [
+  "Guided more than 2,000 museum visitors during a six day deployment in May 1997",
+  "Travelled 18.6 km in about 47 hours with only six minor collisions",
+  "Also served about 2,000 remote visitors who directed it over the web"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "0.8 m/s (2.9 km/h)"
+  ],
+  [
+   "Actuation",
+   "Differential drive research base carrying three onboard computers"
+  ],
+  [
+   "Power",
+   "Battery powered research base"
+  ],
+  [
+   "Sensors",
+   "24 ultrasonic transducers, two laser range finders covering 360 degrees, infrared and touch panels"
+  ],
+  [
+   "Autonomy",
+   "Probabilistic localisation with map based planning and collision avoidance in crowds"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "University of Bonn website",
+   "url": "https://www.uni-bonn.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

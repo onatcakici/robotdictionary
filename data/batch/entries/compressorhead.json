@@ -1,0 +1,42 @@
+{
+ "id": "compressorhead",
+ "name": "Compressorhead",
+ "aka": [],
+ "section": "other",
+ "kind": "animatronic robot band",
+ "maker": "",
+ "country": "Germany",
+ "year": "2013",
+ "status": "",
+ "def": "Robot rock cover band whose members are animatronic machines, created by Berlin based artist Frank Barnes and several collaborators.",
+ "body": [],
+ "facts": [
+  "Musical director, songwriter and vocalist is John, formerly of NoMeansNo"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://compressorhead.rocks",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Compressorhead",
+   "url": "https://en.wikipedia.org/wiki/Compressorhead",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Compressorhead (Q7486160)",
+   "url": "https://www.wikidata.org/wiki/Q7486160",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7486160"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

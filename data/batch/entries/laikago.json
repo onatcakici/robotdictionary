@@ -1,0 +1,57 @@
+{
+ "id": "laikago",
+ "name": "Laikago",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "commercial quadruped",
+ "maker": "Unitree Robotics",
+ "country": "China",
+ "year": "2017",
+ "status": "discontinued",
+ "def": "First commercial quadruped from Unitree and the machine that opened the low cost Chinese robot dog market.",
+ "body": [
+  "Laikago used twelve brushless motors with planetary gearboxes designed in house, which let Unitree sell a dynamic quadruped for a fraction of the price of Western machines. It walked and trotted with onboard balance control, carried a small payload and offered a development interface for researchers. Unitree shipped it to universities and companies from 2018, and the actuator and pricing approach it established runs through every later Unitree model."
+ ],
+ "facts": [
+  "First quadruped sold commercially by a Chinese manufacturer",
+  "Founder Wang Xingxing developed its actuators from his university XDog prototype"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "22 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "In house brushless motors with planetary gear reduction"
+  ],
+  [
+   "Power",
+   "Onboard lithium battery"
+  ],
+  [
+   "Autonomy",
+   "Onboard balance and gait control with a developer interface"
+  ]
+ ],
+ "see": [
+  "unitree-h1",
+  "unitree-h2"
+ ],
+ "refs": [
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

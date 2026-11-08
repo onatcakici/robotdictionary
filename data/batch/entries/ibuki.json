@@ -1,0 +1,31 @@
+{
+ "id": "ibuki",
+ "name": "ibuki",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "child android",
+ "maker": "Ishiguro Laboratories",
+ "country": "Japan",
+ "year": "2018",
+ "status": "research",
+ "def": "A child android on wheels, built to study affinity with young humanoids.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "erica",
+  "geminoid"
+ ],
+ "refs": [
+  {
+   "label": "Ishiguro Laboratories website",
+   "url": "http://www.geminoid.jp/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

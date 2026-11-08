@@ -1,0 +1,64 @@
+{
+ "id": "booster-t1",
+ "name": "Booster T1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "mid size developer humanoid",
+ "maker": "Booster Robotics",
+ "country": "China",
+ "year": "2024",
+ "status": "production",
+ "def": "Mid size developer humanoid sold to universities and robot sports teams, widely used in RoboCup humanoid league competition.",
+ "body": [
+  "T1 is a 23-degree of freedom biped with four degree of freedom arms and no end effectors in the standard configuration, designed as an affordable research and competition platform. An Intel Core i7 processor pairs with an NVIDIA Jetson AGX Orin module for roughly 200 trillion operations per second of onboard compute, and sensing is by RGB-D camera, microphone array and a nine axis inertial unit. It walks for about two hours or stands for four on a charge, and ships with an open software development kit and simulation environment. Booster Robotics sells it internationally through robotics distributors, and it has become a common machine in RoboCup humanoid league teams and university locomotion courses."
+ ],
+ "facts": [
+  "Widely adopted by RoboCup humanoid league competition teams",
+  "Combines an Intel Core i7 with an NVIDIA Jetson AGX Orin for onboard learning",
+  "Sold internationally through robotics distributors as a developer platform"
+ ],
+ "specs": [
+  [
+   "Degrees of freedom",
+   "23"
+  ],
+  [
+   "Runtime",
+   "2 h"
+  ],
+  [
+   "Actuation",
+   "Electric joint modules with four degree of freedom arms and no standard end effectors"
+  ],
+  [
+   "Power",
+   "Onboard battery giving about two hours walking or four standing"
+  ],
+  [
+   "Sensors",
+   "RGB-D camera, microphone array, speaker, nine axis IMU"
+  ],
+  [
+   "Autonomy",
+   "Open software development kit with a simulation environment"
+  ]
+ ],
+ "see": [
+  "talos",
+  "telenoid"
+ ],
+ "refs": [
+  {
+   "label": "Booster Robotics website",
+   "url": "https://www.boosterobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "t1-booster"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "amazon-scout",
+ "name": "Amazon Scout",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Amazon",
+ "country": "United States",
+ "year": "2019",
+ "status": "retired",
+ "def": "Six wheeled cooler sized sidewalk delivery robot that Amazon field tested in four United States neighbourhoods before ending the programme in 2022.",
+ "body": [
+  "Scout was a six wheeled electric sidewalk robot about the size of a cool box, built to carry parcels the last few hundred metres from a van or depot to a doorstep. It followed mapped sidewalk routes autonomously while a human attendant walked alongside during most public testing. Amazon expanded field tests from Washington state to California, Georgia and Tennessee. The company ended the field tests in October 2022 and reassigned the team."
+ ],
+ "facts": [
+  "First field test launched in Snohomish County, Washington, in January 2019",
+  "Later tests ran in Irvine, California, Atlanta, Georgia, and Franklin, Tennessee",
+  "Amazon ended Scout field tests in October 2022, the same month FedEx cancelled its Roxo robot"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Six wheeled electric drive with a hinged lid cargo compartment"
+  ],
+  [
+   "Power",
+   "Battery electric drive"
+  ],
+  [
+   "Sensors",
+   "Cameras and satellite positioning"
+  ],
+  [
+   "Autonomy",
+   "Autonomous sidewalk route following, accompanied by a human attendant during public trials"
+  ]
+ ],
+ "see": [
+  "astro",
+  "gausium-scrubber-50"
+ ],
+ "refs": [
+  {
+   "label": "Amazon website",
+   "url": "https://www.amazon.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Amazon Scout",
+   "url": "https://en.wikipedia.org/wiki/Amazon_Scout",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Amazon Scout (Q85741156)",
+   "url": "https://www.wikidata.org/wiki/Q85741156",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q85741156"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "scout"
+ ]
+}

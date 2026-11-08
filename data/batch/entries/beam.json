@@ -1,0 +1,31 @@
+{
+ "id": "beam",
+ "name": "Beam",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Suitable Technologies",
+ "country": "United States",
+ "year": "2014",
+ "status": "retired",
+ "def": "The telepresence pioneer that let Edward Snowden wander conference stages.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "pudu-bellabot",
+  "bossa-nova"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Beam",
+   "url": "https://en.wikipedia.org/w/index.php?search=Beam+Suitable+Technologies",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

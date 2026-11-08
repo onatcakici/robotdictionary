@@ -1,0 +1,37 @@
+{
+ "id": "ur3e",
+ "name": "UR3e",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Universal Robots",
+ "country": "Denmark",
+ "year": "2018",
+ "status": "production",
+ "def": "Smallest arm of the Universal Robots e-Series, sized for benchtop assembly and screwdriving.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "3 kg"
+  ],
+  [
+   "Reach",
+   "500 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Universal Robots website",
+   "url": "https://www.universal-robots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

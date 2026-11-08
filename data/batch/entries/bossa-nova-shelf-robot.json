@@ -1,0 +1,50 @@
+{
+ "id": "bossa-nova-shelf-robot",
+ "name": "Bossa Nova shelf scanning robot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Bossa Nova Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "discontinued",
+ "def": "Tall camera tower on a wheeled base that scanned supermarket shelves for gaps and pricing errors, best known from a large Walmart rollout.",
+ "body": [
+  "The robot rolled slowly along store aisles capturing images of every shelf, which were analysed off the robot to report empty facings, misplaced stock and wrong labels. It navigated a stored store map among shoppers and was deployed in hundreds of Walmart stores from 2017 in the largest retail robot fleet of its time. Walmart ended the contract in November 2020, choosing other ways to track inventory, and Bossa Nova wound down the retail robot business. The company had earlier made consumer toy robots."
+ ],
+ "facts": [
+  "Deployed in hundreds of Walmart stores, with reports of plans for about 1,000",
+  "Walmart ended the contract in November 2020 and the retail robot business wound down"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Wheeled base with a tall camera mast"
+  ],
+  [
+   "Power",
+   "Rechargeable battery"
+  ],
+  [
+   "Sensors",
+   "Vertical array of cameras with depth sensing"
+  ],
+  [
+   "Autonomy",
+   "Map based aisle navigation among shoppers with off robot image analysis"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia search, Bossa Nova shelf scanning robot",
+   "url": "https://en.wikipedia.org/w/index.php?search=Bossa+Nova+shelf+scanning+robot+Bossa+Nova+Robotics",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

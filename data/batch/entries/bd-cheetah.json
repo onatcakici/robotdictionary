@@ -1,0 +1,61 @@
+{
+ "id": "bd-cheetah",
+ "name": "Cheetah",
+ "aka": [
+  "Boston Dynamics Cheetah"
+ ],
+ "section": "quadrupeds",
+ "kind": "tethered hydraulic quadruped",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2012",
+ "status": "retired",
+ "def": "Tethered hydraulic quadruped built for DARPA that set the land speed record for a legged robot on a laboratory treadmill.",
+ "body": [
+  "Cheetah ran on a treadmill with an articulated back that flexed with each stride, powered by an off board hydraulic supply. Boston Dynamics tuned its galloping gait for speed rather than autonomy, and in 2012 it reached 45.5 kilometres per hour, beating the previous legged robot record set in the 1980s. The programme fed directly into WildCat, an untethered petrol powered machine built to run free of the treadmill and boom."
+ ],
+ "facts": [
+  "Reached 45.5 km/h in 2012, a record for a legged robot",
+  "Funded by the DARPA Maximum Mobility and Manipulation programme"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "12.6 m/s (45.4 km/h)"
+  ],
+  [
+   "Actuation",
+   "Hydraulic actuators with an actuated flexing spine"
+  ],
+  [
+   "Power",
+   "Off board hydraulic power unit through a tether"
+  ],
+  [
+   "Autonomy",
+   "None, gait commanded from off board computers"
+  ],
+  [
+   "Pace",
+   "approx. 12.8 m/s"
+  ]
+ ],
+ "see": [
+  "atlas-hydraulic",
+  "atlas"
+ ],
+ "refs": [
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://bostondynamics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "cheetah-bd"
+ ]
+}

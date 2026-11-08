@@ -1,0 +1,99 @@
+{
+ "id": "sojourner",
+ "name": "Sojourner",
+ "aka": [
+  "Mars Pathfinder rover",
+  "MFEX"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "1996",
+ "status": "completed",
+ "def": "Six wheeled microrover of the Mars Pathfinder mission, the first wheeled vehicle to drive on another planet, operating in Ares Vallis.",
+ "body": [
+  "Sojourner rolled off the Pathfinder lander on 6 July 1997 and worked in Ares Vallis, an ancient flood plain on Mars. Solar panels and non rechargeable lithium batteries powered six independently driven wheels on a rocker bogie chassis, and an alpha proton X ray spectrometer measured rock chemistry. It stayed within a few tens of metres of the lander, which relayed all of its data to Earth, and it operated for 83 sols against a planned seven.",
+  "Sojourner, named for Sojourner Truth, was the first rover on Mars, creeping a hundred metres around the Pathfinder lander in 1997 while the early web watched daily photos arrive."
+ ],
+ "facts": [
+  "First wheeled robot to drive on another planet",
+  "Operated 83 sols against a planned seven sol mission",
+  "Returned 550 images and 16 rock and soil chemistry measurements"
+ ],
+ "specs": [
+  [
+   "Length",
+   "0.65 m"
+  ],
+  [
+   "Mass",
+   "10.6 kg"
+  ],
+  [
+   "Distance driven",
+   "0.1 km"
+  ],
+  [
+   "Actuation",
+   "Six independently driven wheels on a rocker bogie chassis"
+  ],
+  [
+   "Power",
+   "Solar array with non rechargeable lithium thionyl chloride batteries"
+  ],
+  [
+   "Sensors",
+   "Three cameras, laser stripe hazard detection, alpha proton X ray spectrometer"
+  ],
+  [
+   "Autonomy",
+   "Operator designated waypoints with onboard hazard detection"
+  ],
+  [
+   "Distance",
+   "approx. 100 m"
+  ],
+  [
+   "Height",
+   "30 cm"
+  ],
+  [
+   "Width",
+   "48 cm"
+  ]
+ ],
+ "see": [
+  "spirit",
+  "opportunity"
+ ],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.nasa.gov/mission_pages/mars-pathfinder/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Sojourner (rover)",
+   "url": "https://en.wikipedia.org/wiki/Sojourner_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sojourner (Q1770537)",
+   "url": "https://www.wikidata.org/wiki/Q1770537",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1770537"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

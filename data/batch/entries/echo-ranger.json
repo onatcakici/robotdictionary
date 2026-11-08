@@ -1,0 +1,40 @@
+{
+ "id": "echo-ranger",
+ "name": "Echo Ranger",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Boeing",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Autonomous underwater vehicle from the American company Boeing, built to operate at sea without anyone aboard.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Echo Ranger",
+   "url": "https://en.wikipedia.org/wiki/Echo_Ranger",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Echo Ranger (Q5332748)",
+   "url": "https://www.wikidata.org/wiki/Q5332748",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boeing website",
+   "url": "https://boeing.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5332748"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

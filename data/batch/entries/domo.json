@@ -1,0 +1,45 @@
+{
+ "id": "domo",
+ "name": "Domo",
+ "aka": [
+  "Dobo"
+ ],
+ "section": "humanoids",
+ "kind": "experimental humanoid robot",
+ "maker": "Massachusetts Institute of Technology",
+ "country": "United States",
+ "year": "2004",
+ "status": "research",
+ "def": "Experimental humanoid robot built at the Massachusetts Institute of Technology by Jeff Weber and Aaron Edsinger to interact with people.",
+ "body": [],
+ "facts": [
+  "Named after the Japanese phrase domo arigato and the Styx song Mr. Roboto",
+  "Funded first by NASA and later also by Toyota"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Domo (robot)",
+   "url": "https://en.wikipedia.org/wiki/Domo_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Domo (Q5291324)",
+   "url": "https://www.wikidata.org/wiki/Q5291324",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Massachusetts Institute of Technology website",
+   "url": "https://mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5291324"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

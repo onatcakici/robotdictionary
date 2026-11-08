@@ -1,0 +1,52 @@
+{
+ "id": "furby",
+ "name": "Furby",
+ "aka": [
+  "Furbies",
+  "Furbys"
+ ],
+ "section": "other",
+ "kind": "robotic toy",
+ "maker": "Hasbro",
+ "country": "United States",
+ "year": "1998",
+ "status": "",
+ "def": "Talking robot toy resembling an owl, made by Hasbro subsidiary Tiger Electronics, that became a sought after holiday gift following its October 1998 launch.",
+ "body": [],
+ "facts": [
+  "First released in October 1998",
+  "Over 40 million sold in its original three years of production",
+  "Its speech was translated into 17 languages"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://shop.hasbro.com/en-us/furby",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Furby",
+   "url": "https://en.wikipedia.org/wiki/Furby",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Furby (Q932209)",
+   "url": "https://www.wikidata.org/wiki/Q932209",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Hasbro website",
+   "url": "https://shop.hasbro.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q932209"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

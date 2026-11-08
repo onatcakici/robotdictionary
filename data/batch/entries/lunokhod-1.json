@@ -1,0 +1,87 @@
+{
+ "id": "lunokhod-1",
+ "name": "Lunokhod 1",
+ "aka": [
+  "Luna 17 rover",
+  "Ye-8 No.203"
+ ],
+ "section": "rovers",
+ "kind": "robotic rover",
+ "maker": "NPO Lavochkin and VNII Transmash",
+ "country": "Soviet Union",
+ "year": "1970",
+ "status": "retired",
+ "def": "First robotic rover to operate on another world, driving 10.5 kilometres across Mare Imbrium for the Soviet Luna 17 mission.",
+ "body": [
+  "Luna 17 delivered Lunokhod 1 to Mare Imbrium on 17 November 1970, where a five person crew in Crimea drove it by radio using slow television images. Eight independently driven wheels carried a sealed tub shaped body warmed through the lunar night by a polonium 210 heat source, with a solar panel mounted inside the hinged lid. It worked for eleven lunar days, covered 10,540 metres, returned more than 20,000 television pictures and tested the soil at hundreds of points before contact ended in September 1971.",
+  "Lunokhod 1 was the first roving vehicle on another world, driven across the Moon in 1970 by a five man Soviet crew working joysticks on a time delay. Its retroreflector is still used for laser ranging today."
+ ],
+ "facts": [
+  "First remotely operated rover on another celestial body",
+  "Drove 10,540 metres over eleven lunar days",
+  "Held the lunar longevity record until Yutu-2 passed it in 2019"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "756 kg"
+  ],
+  [
+   "Distance driven",
+   "10.54 km"
+  ],
+  [
+   "Actuation",
+   "Eight independently driven wheels with individual motors and brakes"
+  ],
+  [
+   "Power",
+   "Lid mounted solar panel with polonium 210 radioisotope heater"
+  ],
+  [
+   "Sensors",
+   "Two television cameras, four panoramic telephotometers, X ray spectrometer, penetrometer, laser retroreflector, radiation detector"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated from Earth with several seconds of command delay"
+  ],
+  [
+   "Crew",
+   "5-man Earth driving team"
+  ]
+ ],
+ "see": [
+  "lunokhod-2",
+  "matic"
+ ],
+ "refs": [
+  {
+   "label": "NPO Lavochkin and VNII Transmash website",
+   "url": "https://www.laspace.ru",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "http://selena.sai.msu.ru/Home/Spacecrafts/Lunokhod1/lunokhod1e.htm",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Lunokhod 1",
+   "url": "https://en.wikipedia.org/wiki/Lunokhod_1",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Lunokhod 1 (Q261052)",
+   "url": "https://www.wikidata.org/wiki/Q261052",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q261052"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

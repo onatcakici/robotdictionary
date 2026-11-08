@@ -1,0 +1,35 @@
+{
+ "id": "robug-iii",
+ "name": "Robug III",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "walking robot",
+ "maker": "University of Portsmouth",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "",
+ "def": "Mobile robot shaped like a spider, developed at the University of Portsmouth in the United Kingdom.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Robug III (Q9311321)",
+   "url": "https://www.wikidata.org/wiki/Q9311321",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Portsmouth website",
+   "url": "https://port.ac.uk",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q9311321"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

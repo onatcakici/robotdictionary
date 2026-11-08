@@ -1,0 +1,31 @@
+{
+ "id": "buddy",
+ "name": "Buddy",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "emotional companion robot",
+ "maker": "Blue Frog Robotics",
+ "country": "France",
+ "year": "2018",
+ "status": "pilot",
+ "def": "A French emotional companion robot aimed at classrooms and eldercare.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "burro",
+  "care-o-bot"
+ ],
+ "refs": [
+  {
+   "label": "Blue Frog Robotics website",
+   "url": "https://www.bluefrogrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

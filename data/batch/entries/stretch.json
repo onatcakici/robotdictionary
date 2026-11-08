@@ -1,0 +1,42 @@
+{
+ "id": "stretch",
+ "name": "Stretch",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "box moving mobile arm",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2021",
+ "status": "production",
+ "def": "A box moving mobile arm unloading trucks one carton per second at DHL.",
+ "body": [
+  "Stretch pairs a suction arm with a mobile base to unload trucks, the job warehouse workers most want automated. DHL signed for over a thousand units, Boston Dynamics' first volume commercial contract."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Rate",
+   "approx. 600 cases/hr"
+  ],
+  [
+   "Payload",
+   "approx. 23 kg cases"
+  ]
+ ],
+ "see": [
+  "atlas-hydraulic",
+  "atlas"
+ ],
+ "refs": [
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://bostondynamics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

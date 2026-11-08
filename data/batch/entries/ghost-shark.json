@@ -1,0 +1,47 @@
+{
+ "id": "ghost-shark",
+ "name": "Ghost Shark",
+ "aka": [
+  "Ghost Shark AUV",
+  "Ghost Shark XL-AUV"
+ ],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "Anduril Industries",
+ "country": "United States",
+ "year": "2024",
+ "status": "production",
+ "def": "Uncrewed submarine of the extra large class, built for long range missions and developed by Anduril Industries with Australia's Department of Defence for the Royal Australian Navy.",
+ "body": [],
+ "facts": [
+  "First shown publicly in April 2024",
+  "Prototypes ordered: three for the Royal Australian Navy, one for the US Navy",
+  "Announcement of full rate production for Australia came in September 2025"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Ghost Shark (submarine)",
+   "url": "https://en.wikipedia.org/wiki/Ghost_Shark_(submarine)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ghost Shark (Q125912843)",
+   "url": "https://www.wikidata.org/wiki/Q125912843",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Maker website",
+   "url": "https://www.anduril.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q125912843"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

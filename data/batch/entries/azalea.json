@@ -1,0 +1,41 @@
+{
+ "id": "azalea",
+ "name": "Azalea",
+ "aka": [],
+ "section": "arms",
+ "kind": "baggage handling robot",
+ "maker": "Azalea Robotics Corporation",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robots that load and sort checked luggage in airport baggage halls.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Azalea Robotics Corporation",
+   "url": "https://www.ycombinator.com/companies/azalea-robotics-corporation",
+   "kind": "yc"
+  },
+  {
+   "label": "Azalea Robotics Corporation website",
+   "url": "https://azalearobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "azalea-robotics-corporation"
+ },
+ "yc": {
+  "company": "Azalea Robotics Corporation",
+  "batch": "Summer 2024",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/azalea-robotics-corporation"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

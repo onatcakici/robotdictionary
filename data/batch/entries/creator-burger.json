@@ -1,0 +1,28 @@
+{
+ "id": "creator-burger",
+ "name": "Creator",
+ "aka": [],
+ "section": "arms",
+ "kind": "burger making machine",
+ "maker": "Creator",
+ "country": "United States",
+ "year": "2018",
+ "status": "",
+ "def": "Automated burger line that ground, cooked and assembled burgers to order at a San Francisco restaurant that opened in 2018.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/w/index.php?search=Creator+burger+robot",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

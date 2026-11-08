@@ -1,0 +1,41 @@
+{
+ "id": "nuum",
+ "name": "Nuum",
+ "aka": [],
+ "section": "other",
+ "kind": "snake robot",
+ "maker": "Nuum Robotics",
+ "country": "Canada",
+ "year": "",
+ "status": "",
+ "def": "Snake like robot that travels inside machinery to inspect and maintain it.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Nuum Robotics",
+   "url": "https://www.ycombinator.com/companies/nuum-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Nuum Robotics website",
+   "url": "https://nuumrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "nuum-robotics"
+ },
+ "yc": {
+  "company": "Nuum Robotics",
+  "batch": "Winter 2027",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/nuum-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

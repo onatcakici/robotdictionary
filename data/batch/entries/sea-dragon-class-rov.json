@@ -1,0 +1,38 @@
+{
+ "id": "sea-dragon-class-rov",
+ "name": "Sea Dragon class ROV",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "",
+ "country": "China",
+ "year": "",
+ "status": "service",
+ "def": "Series of Chinese work class remotely operated vehicles for oil platform servicing, salvage and rescue, all derived from the original Sea Dragon.",
+ "body": [],
+ "facts": [
+  "The original Sea Dragon could dive to 3,500 meters",
+  "Later models were adapted to different operating conditions"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Sea Dragon-class ROV",
+   "url": "https://en.wikipedia.org/wiki/Sea_Dragon-class_ROV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Sea Dragon class ROV (Q7439876)",
+   "url": "https://www.wikidata.org/wiki/Q7439876",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7439876"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

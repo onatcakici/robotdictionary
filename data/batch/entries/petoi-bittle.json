@@ -1,0 +1,71 @@
+{
+ "id": "petoi-bittle",
+ "name": "Bittle",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Petoi",
+ "country": "United States",
+ "year": "2020",
+ "status": "production",
+ "def": "Palm sized programmable robot dog kit with nine powered joints, sold as an education platform for coding and robotics classes.",
+ "body": [
+  "Bittle is a 280 gram quadruped built around Petoi's Arduino compatible NyBoard, with nine servo driven joints and an inertial sensor that lets it walk, trot and recover from being pushed. Users program it with block based coding, the Arduino environment or a Python interface, and can add a Raspberry Pi, camera or voice module for higher level behaviour. It was funded on Kickstarter in October 2020, raising more than half a million dollars, and is sold worldwide for classroom and hobby use."
+ ],
+ "facts": [
+  "Raised over 500,000 US dollars on Kickstarter in 2020",
+  "Runs the open source OpenCat framework, one of the most used open quadruped code bases"
+ ],
+ "specs": [
+  [
+   "Length",
+   "0.2 m"
+  ],
+  [
+   "Mass",
+   "0.28 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "9"
+  ],
+  [
+   "Runtime",
+   "1 h"
+  ],
+  [
+   "Actuation",
+   "Micro servo motors"
+  ],
+  [
+   "Power",
+   "7.4 volt 1000 mAh lithium ion battery"
+  ],
+  [
+   "Sensors",
+   "Six axis inertial measurement unit, infrared receiver, optional camera and touch sensors"
+  ],
+  [
+   "Autonomy",
+   "OpenCat gait framework on an Arduino compatible board"
+  ]
+ ],
+ "see": [
+  "bd-cheetah",
+  "mit-cheetah-3"
+ ],
+ "refs": [
+  {
+   "label": "Petoi website",
+   "url": "https://www.petoi.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "bittle"
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "minitaur",
+ "name": "Minitaur",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "springy direct drive quadruped",
+ "maker": "Ghost Robotics",
+ "country": "United States",
+ "year": "2016",
+ "status": "retired",
+ "def": "A springy direct drive quadruped that climbed fences and opened doors on legs alone.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "vision-60",
+  "stanford-pupper"
+ ],
+ "refs": [
+  {
+   "label": "Ghost Robotics website",
+   "url": "https://www.ghostrobotics.io",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

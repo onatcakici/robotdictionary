@@ -1,0 +1,28 @@
+{
+ "id": "dobot-magician",
+ "name": "Dobot Magician",
+ "aka": [],
+ "section": "arms",
+ "kind": "desktop robot arm",
+ "maker": "Dobot",
+ "country": "China",
+ "year": "",
+ "status": "production",
+ "def": "Small four axis desktop arm that can draw, laser engrave and 3D print, used widely in schools.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Dobot website",
+   "url": "https://www.dobot-robots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,35 @@
+{
+ "id": "cubestormer-ii",
+ "name": "CubeStormer II",
+ "aka": [],
+ "section": "other",
+ "kind": "puzzle solving robot",
+ "maker": "Mike Dobson and David Gilday",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Rubik's Cube solving robot built mostly from Lego Mindstorms parts with a Samsung Galaxy S2, made by Mike Dobson and David Gilday for ARM Holdings.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, CubeStormer II",
+   "url": "https://en.wikipedia.org/wiki/CubeStormer_II",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, CubeStormer II (Q5192201)",
+   "url": "https://www.wikidata.org/wiki/Q5192201",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5192201"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

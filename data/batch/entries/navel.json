@@ -1,0 +1,45 @@
+{
+ "id": "navel",
+ "name": "Navel",
+ "aka": [],
+ "section": "other",
+ "kind": "social robot",
+ "maker": "navel robotics",
+ "country": "Germany",
+ "year": "",
+ "status": "",
+ "def": "Social robot developed by the German company navel robotics for use in care facilities.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://navelrobotics.com/en/navel-empathic-roboter-for-care/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, navel (Q140917568)",
+   "url": "https://www.wikidata.org/wiki/Q140917568",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, heise.de",
+   "url": "https://www.heise.de/en/news/Soon-100-social-robots-from-Navel-Robotics-in-use-11194230.html",
+   "kind": "cited"
+  },
+  {
+   "label": "navel robotics website",
+   "url": "https://navelrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140917568"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

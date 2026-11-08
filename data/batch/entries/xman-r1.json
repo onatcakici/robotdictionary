@@ -1,0 +1,31 @@
+{
+ "id": "xman-r1",
+ "name": "XMAN-R1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "wheeled embodied service humanoid",
+ "maker": "Keenon Robotics",
+ "country": "China",
+ "year": "2025",
+ "status": "concept",
+ "def": "A wheeled embodied service humanoid from the restaurant robot leader.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "dinerbot-t8",
+  "w3"
+ ],
+ "refs": [
+  {
+   "label": "Keenon Robotics website",
+   "url": "https://www.keenon.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

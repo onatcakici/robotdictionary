@@ -1,0 +1,28 @@
+{
+ "id": "amazon-sparrow",
+ "name": "Sparrow",
+ "aka": [],
+ "section": "arms",
+ "kind": "item picking robot",
+ "maker": "Amazon Robotics",
+ "country": "United States",
+ "year": "2022",
+ "status": "pilot",
+ "def": "Robot arm from Amazon that uses computer vision and suction to pick individual products from bins in fulfilment centres.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "About Amazon website",
+   "url": "https://www.aboutamazon.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

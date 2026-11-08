@@ -1,0 +1,67 @@
+{
+ "id": "scythe-m52",
+ "name": "Scythe M.52",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Scythe Robotics",
+ "country": "United States",
+ "year": "2021",
+ "status": "production",
+ "def": "Commercial grade autonomous zero turn mower with a fifty two inch deck that mows areas an operator has driven around once.",
+ "body": [
+  "The M.52 is a commercial electric mower with a 52 inch side discharge deck, built for landscape contractors rather than homeowners. An operator drives the perimeter of a mow zone once and the machine remembers it, then mows the interior autonomously, steering around trees and poles and stopping for people and pets. Perception comes from eight high dynamic range cameras and a ring of ultrasonic sensors, with no boundary wire required. Scythe sells it on a pay per acre basis rather than outright."
+ ],
+ "facts": [
+  "Mows about 1.5 to 2 acres per hour with a cut height range of 1.5 to 6 inches",
+  "Offered to commercial landscape contractors on a pay per acre service model",
+  "Cuts fuel, noise and emissions compared with petrol zero turn mowers"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.19 m"
+  ],
+  [
+   "Length",
+   "1.77 m"
+  ],
+  [
+   "Mass",
+   "646 kg"
+  ],
+  [
+   "Top speed",
+   "2.9 m/s (10.4 km/h)"
+  ],
+  [
+   "Actuation",
+   "Electric all wheel drive with a 52 inch side discharge cutting deck"
+  ],
+  [
+   "Power",
+   "Battery electric, recharging in six to eight hours on a 240 volt supply"
+  ],
+  [
+   "Sensors",
+   "Eight high dynamic range cameras, twelve ultrasonic sensors, two inertial measurement units and satellite positioning"
+  ],
+  [
+   "Autonomy",
+   "Operator teaches the mow zone perimeter once, then the mower works it autonomously"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Scythe Robotics website",
+   "url": "https://scytherobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

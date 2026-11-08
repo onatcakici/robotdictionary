@@ -1,0 +1,40 @@
+{
+ "id": "carl",
+ "name": "Carl",
+ "aka": [],
+ "section": "other",
+ "kind": "robotic leg",
+ "maker": "University of Kaiserslautern",
+ "country": "Germany",
+ "year": "",
+ "status": "",
+ "def": "Robot in the form of a compliant robotic leg, built at the University of Kaiserslautern in Germany.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://agrosy.informatik.uni-kl.de/en/robots/carl/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Carl (robot) (Q96743505)",
+   "url": "https://www.wikidata.org/wiki/Q96743505",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Kaiserslautern website",
+   "url": "https://www.uni-kl.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q96743505"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

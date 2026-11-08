@@ -1,0 +1,37 @@
+{
+ "id": "avatar",
+ "name": "Avatar",
+ "aka": [
+  "RoboteX Avatar Tactical Robot|Robotex A00476"
+ ],
+ "section": "wheeled",
+ "kind": "tactical ground robot",
+ "maker": "Robotex",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Series of unmanned tactical ground robots built by the company Robotex and listed as military equipment.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Avatar (Q128123730)",
+   "url": "https://www.wikidata.org/wiki/Q128123730",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, acornpd.com",
+   "url": "https://www.acornpd.com/robotex-avatar-tactical-robot",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q128123730"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,100 @@
+{
+ "id": "optimus",
+ "name": "Optimus",
+ "aka": [
+  "Tesla Bot"
+ ],
+ "section": "humanoids",
+ "kind": "full size electric humanoid",
+ "maker": "Tesla",
+ "country": "United States",
+ "year": "2022",
+ "status": "prototype",
+ "def": "Full size electric humanoid that Tesla is developing for factory and general labour tasks, currently used only inside Tesla facilities.",
+ "body": [
+  "Optimus is a bipedal humanoid roughly 1.73 metres tall, driven by custom rotary and linear electric actuators with an 11-degree of freedom hand. Control comes from end to end neural network policies trained on video and teleoperation data, reusing perception software from Tesla's driver assistance stack. Tesla first walked a working prototype on stage in September 2022 and showed a lighter second generation in December 2023. Units have been shown handling parts inside Tesla plants and serving food at a company diner, but none have been sold to outside customers.",
+  "Announced at Tesla's 2021 AI Day as a dancer in a spandex suit, Optimus became hardware within a year and has since iterated through successive generations shown sorting battery cells and walking Tesla's factory floors. Musk has framed it as ultimately more valuable than the car business; the robot shares its vision stack with the company's driver assistance software."
+ ],
+ "facts": [
+  "Walked unassisted on stage at Tesla AI Day in September 2022",
+  "Second generation announced in December 2023 with reduced mass and faster walking",
+  "Shown handling parts inside Tesla manufacturing sites and serving food at a company diner"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.73 m"
+  ],
+  [
+   "Actuation",
+   "Custom rotary and linear electric actuators with an 11-degree of freedom hand"
+  ],
+  [
+   "Power",
+   "2.3 kWh battery pack housed in the torso"
+  ],
+  [
+   "Sensors",
+   "Camera based vision with tactile fingertip sensing"
+  ],
+  [
+   "Autonomy",
+   "End to end neural network policies sharing perception software with Tesla's driver assistance stack"
+  ],
+  [
+   "Mass",
+   "approx. 57 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "approx. 28 (body)"
+  ],
+  [
+   "Hands",
+   "11 DoF, later 22 DoF"
+  ]
+ ],
+ "see": [
+  "p3",
+  "pepper"
+ ],
+ "refs": [
+  {
+   "label": "Tesla website",
+   "url": "https://www.tesla.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Optimus (robot)",
+   "url": "https://en.wikipedia.org/wiki/Optimus_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Optimus (Q108167797)",
+   "url": "https://www.wikidata.org/wiki/Q108167797",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, spectrum.ieee.org",
+   "url": "https://spectrum.ieee.org/robotics-experts-tesla-bot-optimus",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, spectrum.ieee.org",
+   "url": "https://spectrum.ieee.org/tesla-optimus-robot",
+   "kind": "cited"
+  },
+  {
+   "label": "Tesla website",
+   "url": "http://www.tesla.cz/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q108167797"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

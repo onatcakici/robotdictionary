@@ -1,0 +1,43 @@
+{
+ "id": "khepera",
+ "name": "Khepera",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "matchbox research robot",
+ "maker": "K-Team",
+ "country": "Switzerland",
+ "year": "1996",
+ "status": "production",
+ "def": "A matchbox research robot that made swarm experiments tabletop affairs.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "kiva-system",
+  "kiwibot"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia, Khepera mobile robot",
+   "url": "https://en.wikipedia.org/wiki/Khepera_mobile_robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Khepera mobile robot (Q10314262)",
+   "url": "https://www.wikidata.org/wiki/Q10314262",
+   "kind": "wikidata"
+  },
+  {
+   "label": "K-Team website",
+   "url": "https://www.k-team.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q10314262"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

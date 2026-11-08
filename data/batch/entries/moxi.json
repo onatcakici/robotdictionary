@@ -1,0 +1,54 @@
+{
+ "id": "moxi",
+ "name": "Moxi",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "hospital service robot",
+ "maker": "Diligent Robotics",
+ "country": "United States",
+ "year": "2018",
+ "status": "service",
+ "def": "Hospital service robot with a single arm and an expressive head, leased to health systems to fetch and deliver supplies for nurses.",
+ "body": [
+  "Moxi pairs a seven degree of freedom arm and a socially expressive head with LED eyes on an omnidirectional wheeled base rather than legs. It navigates hospital corridors autonomously, calls lifts over the network, opens supply room doors and hands off items, using learned manipulation behaviours with remote human assistance for unusual cases. Diligent sells it as a subscription service, and units have run at Texas Health Resources, Mary Washington Healthcare and other United States hospital systems."
+ ],
+ "facts": [
+  "Deployed across multiple United States hospital systems on a subscription model",
+  "Uses networked control to ride lifts and open supply room doors unaided",
+  "Texas Health Resources was among its first large health system customers"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Single seven degree of freedom arm on an omnidirectional wheeled base"
+  ],
+  [
+   "Power",
+   "Onboard rechargeable battery with automatic docking"
+  ],
+  [
+   "Sensors",
+   "Lidar, depth cameras and a socially expressive LED eye display"
+  ],
+  [
+   "Autonomy",
+   "Autonomous corridor navigation with networked lift and door control plus remote human fallback"
+  ]
+ ],
+ "see": [
+  "segway-navimow",
+  "neo-avidbots"
+ ],
+ "refs": [
+  {
+   "label": "Diligent Robotics website",
+   "url": "https://www.diligentrobots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,62 @@
+{
+ "id": "mabel",
+ "name": "MABEL",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "University of Michigan with Carnegie Mellon University",
+ "country": "United States",
+ "year": "2009",
+ "status": "retired",
+ "def": "Boom constrained biped at Michigan that used springs in series with its motors to run at 3.06 m/s, a record for a robot with knees.",
+ "body": [
+  "MABEL weighs about 65 kg with most of its mass in the torso, and each hip and knee is driven by two motors through a cable differential with a spring in series, so the springs store and return energy during running. Jessy Grizzle's group controlled it with hybrid zero dynamics, an analytical method that stabilises a whole periodic gait instead of tracking a fixed trajectory. In August 2011 it ran at 3.06 m/s with a flight phase covering roughly a quarter of each stride, and it also walked over uneven ground and up a coarse ramp."
+ ],
+ "facts": [
+  "Ran at 3.06 m/s in 2011, then the fastest for a knee equipped biped",
+  "Main experimental test bed for hybrid zero dynamics control"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "65 kg"
+  ],
+  [
+   "Top speed",
+   "3.06 m/s (11 km/h)"
+  ],
+  [
+   "Actuation",
+   "Electric motors with cable differentials and series springs"
+  ],
+  [
+   "Autonomy",
+   "Hybrid zero dynamics feedback control, boom constrained to the sagittal plane"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "University of Michigan with Carnegie Mellon University website",
+   "url": "https://umich.edu",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, MABEL (robot)",
+   "url": "https://en.wikipedia.org/wiki/MABEL_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Michigan Anthropomorphic Biped With Electronic Legs (Q22095776)",
+   "url": "https://www.wikidata.org/wiki/Q22095776",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q22095776"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

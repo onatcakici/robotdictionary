@@ -1,0 +1,42 @@
+{
+ "id": "treads-robot",
+ "name": "Treads Robot",
+ "aka": [
+  "Treads"
+ ],
+ "section": "other",
+ "kind": "educational robot",
+ "maker": "True Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Educational robot from the American company True Robotics, intended for classroom use from kindergarten through grade 3.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.truerobotics.org/robots/treads",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Treads Robot (Q141648853)",
+   "url": "https://www.wikidata.org/wiki/Q141648853",
+   "kind": "wikidata"
+  },
+  {
+   "label": "True Robotics website",
+   "url": "https://www.truerobotics.org/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q141648853"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,47 @@
+{
+ "id": "bio-intelligent-cyborg-insect",
+ "name": "Bio-Intelligent Cyborg Insect",
+ "aka": [
+  "BCI,bio-intelligent cyborg insect,biointelligent cyborg insect,UV-controlled cyborg insect"
+ ],
+ "section": "other",
+ "kind": "cyborg insect",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "research",
+ "def": "Biohybrid robotic system that steers living insects without surgery by using ultraviolet light, relying on their natural tendency to move away from it.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Bio-Intelligent Cyborg Insect (Q139833236)",
+   "url": "https://www.wikidata.org/wiki/Q139833236",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, advanced.onlinelibrary.wiley.com",
+   "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202400838",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, resou.osaka-u.ac.jp",
+   "url": "https://resou.osaka-u.ac.jp/en/research/2025/20250512_1",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, sciencedaily.com",
+   "url": "https://www.sciencedaily.com/releases/2025/05/250514181651.htm",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q139833236"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,28 @@
+{
+ "id": "kuka-kr-1000-titan",
+ "name": "KR 1000 titan",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot arm",
+ "maker": "KUKA",
+ "country": "Germany",
+ "year": "2007",
+ "status": "production",
+ "def": "Heavy duty arm from KUKA rated for loads of about one tonne, used to move engine blocks, stone and glass.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "KUKA website",
+   "url": "https://www.kuka.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

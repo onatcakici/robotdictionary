@@ -1,0 +1,38 @@
+{
+ "id": "berkeley-lower-extremity-exoskeleton",
+ "name": "Berkeley Lower Extremity Exoskeleton",
+ "aka": [],
+ "section": "medical",
+ "kind": "powered exoskeleton",
+ "maker": "Berkeley Robotics and Human Engineering Laboratory",
+ "country": "United States",
+ "year": "2004",
+ "status": "prototype",
+ "def": "Lower body powered exoskeleton developed by the Berkeley Robotics and Human Engineering Laboratory at the University of California, Berkeley, with DARPA funding, to add strength to leg movements.",
+ "body": [],
+ "facts": [
+  "DARPA supplied $50 million in initial funding in 2001",
+  "A prototype was shown at the DARPA Technical Symposium in 2004"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Berkeley Lower Extremity Exoskeleton",
+   "url": "https://en.wikipedia.org/wiki/Berkeley_Lower_Extremity_Exoskeleton",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Berkeley Lower Extremity Exoskeleton (Q4892053)",
+   "url": "https://www.wikidata.org/wiki/Q4892053",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4892053"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

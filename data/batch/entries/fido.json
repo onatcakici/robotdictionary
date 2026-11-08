@@ -1,0 +1,52 @@
+{
+ "id": "fido",
+ "name": "FIDO",
+ "aka": [
+  "Field Integrated Design and Operations rover"
+ ],
+ "section": "rovers",
+ "kind": "terrestrial prototype rover",
+ "maker": "NASA Jet Propulsion Laboratory",
+ "country": "United States",
+ "year": "1999",
+ "status": "retired",
+ "def": "Terrestrial prototype rover used to rehearse Mars Exploration Rover science operations in desert field tests before the 2003 launches.",
+ "body": [
+  "FIDO carried a mast with panoramic and infrared instruments plus an arm with a microscopic imager and a mini corer for rock sampling, closely mirroring the payload later flown on Spirit and Opportunity. Between 1999 and 2002 it worked at sites in Nevada, California and Arizona while science teams operated it blind from JPL, exactly as they would a Mars mission. Those campaigns trained many of the people who went on to run the flight rovers."
+ ],
+ "facts": [
+  "Trained the science teams that later operated Spirit and Opportunity",
+  "Carried a mini corer to practise rock sampling in the field"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Six wheel rocker bogie drive with four corner steering"
+  ],
+  [
+   "Power",
+   "Solar panel with rechargeable batteries"
+  ],
+  [
+   "Sensors",
+   "Mast mounted panoramic and infrared imagers, microscopic imager, mini corer"
+  ],
+  [
+   "Autonomy",
+   "Remote operations with autonomous navigation and instrument placement"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "NASA Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

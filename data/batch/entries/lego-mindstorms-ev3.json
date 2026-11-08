@@ -1,0 +1,45 @@
+{
+ "id": "lego-mindstorms-ev3",
+ "name": "Lego Mindstorms EV3",
+ "aka": [],
+ "section": "other",
+ "kind": "robotics kit",
+ "maker": "The Lego Group",
+ "country": "Denmark",
+ "year": "2013",
+ "status": "",
+ "def": "Programmable robotics kit from the Lego Group, the third generation of the Mindstorms line, announced at CES in January 2013 and succeeding the NXT.",
+ "body": [],
+ "facts": [
+  "Announced on 4 January 2013 at CES in Las Vegas",
+  "Reached shops on 1 September 2013; education edition on 1 August 2013",
+  "Used in contests such as FIRST LEGO League Challenge and World Robot Olympiad",
+  "LEGO retired the Mindstorms line at the end of 2022"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Lego Mindstorms EV3",
+   "url": "https://en.wikipedia.org/wiki/Lego_Mindstorms_EV3",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Lego Mindstorms EV3 (Q10854195)",
+   "url": "https://www.wikidata.org/wiki/Q10854195",
+   "kind": "wikidata"
+  },
+  {
+   "label": "The Lego Group website",
+   "url": "https://www.lego.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q10854195"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

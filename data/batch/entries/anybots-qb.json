@@ -1,0 +1,28 @@
+{
+ "id": "anybots-qb",
+ "name": "QB",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "telepresence robot",
+ "maker": "Anybots",
+ "country": "United States",
+ "year": "2010",
+ "status": "discontinued",
+ "def": "Self balancing telepresence robot from Anybots with a camera head on a telescoping neck.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/w/index.php?search=Anybots+QB",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

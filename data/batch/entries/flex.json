@@ -1,0 +1,83 @@
+{
+ "id": "flex",
+ "name": "FLEX",
+ "aka": [
+  "Flexible Logistics and Exploration rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Venturi Astrolab",
+ "country": "United States",
+ "year": "",
+ "status": "prototype",
+ "def": "Large commercial lunar rover prototype that can carry cargo or two standing astronauts, demonstrated in field trials in the California desert.",
+ "body": [
+  "Astrolab built a full scale FLEX prototype and drove it in Death Valley with former astronaut Chris Hadfield aboard, testing cargo handling and crew driving positions. The design lifts and carries modular payload pallets of up to 1,500 kilograms, runs on batteries with solar recharging, and is aimed at both uncrewed logistics and Artemis era crew mobility. Astrolab holds a contract for a lunar flight on a SpaceX Starship and is among the companies studying NASA's lunar terrain vehicle."
+ ],
+ "facts": [
+  "Full scale prototype driven with an astronaut aboard in Death Valley",
+  "Designed to carry up to 1,500 kg of modular payload"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "1500 kg"
+  ],
+  [
+   "Actuation",
+   "Four wheel drive and steering with a payload lifting frame"
+  ],
+  [
+   "Power",
+   "Battery electric with solar recharging"
+  ],
+  [
+   "Sensors",
+   "Driving cameras and lidar"
+  ],
+  [
+   "Autonomy",
+   "Teleoperation with autonomous point to point driving"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Venturi Astrolab website",
+   "url": "https://www.astrolab.space",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, FLEX Rover (Q137380430)",
+   "url": "https://www.wikidata.org/wiki/Q137380430",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, astrolab.space",
+   "url": "https://www.astrolab.space/flex-rover/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, lefigaro.fr",
+   "url": "https://www.lefigaro.fr/automobile/le-vehicule-rover-venturi-direction-la-lune-20250106",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, astrolab.space",
+   "url": "https://www.astrolab.space/2022/03/10/driving-flex-whats-it-like-to-drive-the-most-advanced-ltv/",
+   "kind": "cited"
+  },
+  {
+   "label": "Venturi Astrolab inc. website",
+   "url": "https://Astrolab.space",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q137380430"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

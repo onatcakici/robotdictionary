@@ -1,0 +1,31 @@
+{
+ "id": "bex",
+ "name": "Bex",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Kawasaki",
+ "country": "Japan",
+ "year": "2022",
+ "status": "concept",
+ "def": "A rideable robot ibex that carries a person on its back and kneels on wheels.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "kaleido",
+  "corleo"
+ ],
+ "refs": [
+  {
+   "label": "Kawasaki website",
+   "url": "https://kawasakirobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

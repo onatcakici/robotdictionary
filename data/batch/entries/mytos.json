@@ -1,0 +1,41 @@
+{
+ "id": "mytos",
+ "name": "Mytos",
+ "aka": [],
+ "section": "arms",
+ "kind": "cell manufacturing robot",
+ "maker": "Mytos",
+ "country": "United Kingdom",
+ "year": "",
+ "status": "",
+ "def": "Robotic platform that turns stem cells into specific cell types such as neurons and heart cells over several weeks.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Mytos",
+   "url": "https://www.ycombinator.com/companies/cytera-cellworks",
+   "kind": "yc"
+  },
+  {
+   "label": "Mytos website",
+   "url": "https://www.mytos.bio",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "cytera-cellworks"
+ },
+ "yc": {
+  "company": "Mytos",
+  "batch": "Summer 2018",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/cytera-cellworks"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,39 @@
+{
+ "id": "curv-iii",
+ "name": "CURV-III",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "",
+ "country": "United States",
+ "year": "",
+ "status": "retired",
+ "def": "US Navy remotely operated recovery vehicle, fourth in the CURV series, that made the deepest underwater rescue on record by saving two men trapped in a submersible in 1973.",
+ "body": [],
+ "facts": [
+  "Rescued two men from Pisces III at 480 m after 76 hours trapped",
+  "Surveyed the SS Edmund Fitzgerald wreck in 1976",
+  "Replaced by the current generation, CURV-21"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, CURV",
+   "url": "https://en.wikipedia.org/wiki/CURV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, CURV-III (Q2932074)",
+   "url": "https://www.wikidata.org/wiki/Q2932074",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2932074"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

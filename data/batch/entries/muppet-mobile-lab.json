@@ -1,0 +1,42 @@
+{
+ "id": "muppet-mobile-lab",
+ "name": "Muppet Mobile Lab",
+ "aka": [],
+ "section": "other",
+ "kind": "animatronic attraction",
+ "maker": "Walt Disney Imagineering",
+ "country": "United States",
+ "year": "",
+ "status": "retired",
+ "def": "Free roving animatronic attraction created by Walt Disney Imagineering and trialled at Disney theme parks in Anaheim, Orlando and Hong Kong.",
+ "body": [],
+ "facts": [
+  "Tested at Disney California Adventure, Walt Disney World and Hong Kong Disneyland"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Muppet Mobile Lab",
+   "url": "https://en.wikipedia.org/wiki/Muppet_Mobile_Lab",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Muppet Mobile Lab (Q6937119)",
+   "url": "https://www.wikidata.org/wiki/Q6937119",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Walt Disney Imagineering website",
+   "url": "https://la.disneyresearch.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6937119"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,76 @@
+{
+ "id": "bigdog",
+ "name": "BigDog",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2005",
+ "status": "retired",
+ "def": "The gasoline engined pack mule whose recovery from a kick announced the legged robot age.",
+ "body": [
+  "Funded by DARPA as a robotic pack mule, BigDog carried 150 kilograms across mud and snow behind a two stroke engine's scream. The 2008 video of it recovering from a kick introduced the world to dynamic legged balance."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "approx. 150 kg"
+  ],
+  [
+   "Pace",
+   "approx. 6.4 km/h"
+  ],
+  [
+   "Engine",
+   "two stroke gasoline"
+  ],
+  [
+   "Height",
+   "76 cm"
+  ],
+  [
+   "Mass",
+   "109 kg"
+  ]
+ ],
+ "see": [
+  "atlas-hydraulic",
+  "atlas"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.bostondynamics.com/bigdog",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, BigDog",
+   "url": "https://en.wikipedia.org/wiki/BigDog",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, BigDog (Q858422)",
+   "url": "https://www.wikidata.org/wiki/Q858422",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, theguardian.com",
+   "url": "https://www.theguardian.com/technology/2015/dec/30/us-marines-reject-bigdog-robot-boston-dynamics-ls3-too-noisy",
+   "kind": "cited"
+  },
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://www.bostondynamics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q858422"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

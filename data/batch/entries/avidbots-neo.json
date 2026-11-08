@@ -1,0 +1,73 @@
+{
+ "id": "avidbots-neo",
+ "name": "Neo",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Avidbots",
+ "country": "Canada",
+ "year": "2024",
+ "status": "production",
+ "def": "Self driving floor scrubbing machine for large indoor sites that maps a building once and then repeats cleaning routes without an operator.",
+ "body": [
+  "Neo is a ride on sized scrubber with separate solution and recovery tanks, converted into a robot by a sensor mast and autonomy software. Lidar and 3D cameras give 360 degree coverage so it avoids shoppers, pallets and cleaning staff while following stored plans. Cleaning reports and coverage maps go to facility managers, and staff can still drive it manually. Avidbots was founded in Kitchener, Ontario in 2014, and Neo units clean airports, warehouses, malls, hospitals and factories.",
+  "1X's NEO wraps its motors in soft knitted fabric and weighs about as much as a large dog, a deliberate answer to home safety fears. Offered at twenty thousand dollars or a monthly subscription, early deliveries drew debate for leaning on teleoperators while autonomy matures."
+ ],
+ "facts": [
+  "Deployed at Changi Airport, Narita International Airport and Montreal Trudeau",
+  "Also sold as the Neo 2W, with a smaller Kas model for tight spaces",
+  "Avidbots was founded in Kitchener, Ontario in 2014"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Scrubber deck with separate solution and recovery tanks on a self driving chassis"
+  ],
+  [
+   "Power",
+   "Onboard battery pack"
+  ],
+  [
+   "Sensors",
+   "Lidar and 3D cameras giving 360 degree coverage"
+  ],
+  [
+   "Autonomy",
+   "Maps a site once, then repeats stored cleaning plans with dynamic obstacle avoidance"
+  ],
+  [
+   "Mass",
+   "approx. 30 kg"
+  ],
+  [
+   "Price",
+   "approx. $20,000"
+  ],
+  [
+   "Height",
+   "approx. 165 cm"
+  ],
+  [
+   "Subscription",
+   "approx. $499/mo"
+  ]
+ ],
+ "see": [
+  "eve",
+  "nextage"
+ ],
+ "refs": [
+  {
+   "label": "Avidbots website",
+   "url": "https://avidbots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "neo"
+ ]
+}

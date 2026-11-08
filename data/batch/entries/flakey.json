@@ -1,0 +1,42 @@
+{
+ "id": "flakey",
+ "name": "Flakey",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "research robot",
+ "maker": "SRI International",
+ "country": "",
+ "year": "",
+ "status": "retired",
+ "def": "Research robot developed at SRI International's Artificial Intelligence Center to succeed the earlier Shakey robot.",
+ "body": [],
+ "facts": [
+  "Appeared on the television series Scientific American Frontiers"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Flakey the robot",
+   "url": "https://en.wikipedia.org/wiki/Flakey_the_robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Flakey the robot (Q16837077)",
+   "url": "https://www.wikidata.org/wiki/Q16837077",
+   "kind": "wikidata"
+  },
+  {
+   "label": "SRI International website",
+   "url": "https://www.sri.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q16837077"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,70 @@
+{
+ "id": "nomad",
+ "name": "Nomad",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Carnegie Mellon University",
+ "country": "United States",
+ "year": "1997",
+ "status": "retired",
+ "def": "Car sized Carnegie Mellon field rover that drove 215 kilometres across the Atacama Desert and later searched Antarctica for meteorites.",
+ "body": [
+  "Nomad was built to test long distance planetary style exploration on Earth, with four wheel drive and steering, an expanding chassis for stability and a panoramic imaging mast. During the 1997 Atacama Desert Trek it covered 215 kilometres in 45 days under remote control from Pittsburgh, about 20 of them fully autonomous. In January 2000 it worked at Elephant Moraine in Antarctica, where it became the first robot to find and classify a meteorite without human help."
+ ],
+ "facts": [
+  "Drove 215 km in 45 days across the Atacama Desert",
+  "First robot to autonomously identify a meteorite, in Antarctica in 2000"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "550 kg"
+  ],
+  [
+   "Distance driven",
+   "215 km"
+  ],
+  [
+   "Actuation",
+   "Four wheel drive and four wheel steering on an expanding chassis"
+  ],
+  [
+   "Power",
+   "Petrol generator during terrestrial trials"
+  ],
+  [
+   "Sensors",
+   "Panoramic imaging mast, stereo cameras, spectrometer and metal detector for meteorite work"
+  ],
+  [
+   "Autonomy",
+   "Mostly teleoperated with autonomous navigation segments"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Carnegie Mellon University website",
+   "url": "https://www.cmu.edu",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Nomad rover",
+   "url": "https://en.wikipedia.org/wiki/Nomad_rover",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Nomad rover (Q7048402)",
+   "url": "https://www.wikidata.org/wiki/Q7048402",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7048402"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

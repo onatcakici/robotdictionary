@@ -1,0 +1,37 @@
+{
+ "id": "stanford-arm",
+ "name": "Stanford arm",
+ "aka": [],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "Stanford University",
+ "country": "",
+ "year": "1969",
+ "status": "",
+ "def": "Early robot arm offering six degrees of freedom, created by Victor Scheinman at Stanford University in 1969 and often used as a teaching example in robotics.",
+ "body": [],
+ "facts": [
+  "Kinematic chain of two revolute base joints, one prismatic joint and one spherical joint"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Stanford arm",
+   "url": "https://en.wikipedia.org/wiki/Stanford_arm",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Stanford arm (Q55080184)",
+   "url": "https://www.wikidata.org/wiki/Q55080184",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q55080184"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

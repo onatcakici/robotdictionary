@@ -1,0 +1,41 @@
+{
+ "id": "somatic",
+ "name": "Somatic",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "bathroom cleaning robot",
+ "maker": "SOMATIC",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Mobile robot that cleans restrooms in office buildings on its own.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, SOMATIC",
+   "url": "https://www.ycombinator.com/companies/somatic",
+   "kind": "yc"
+  },
+  {
+   "label": "SOMATIC website",
+   "url": "http://getsomatic.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "somatic"
+ },
+ "yc": {
+  "company": "SOMATIC",
+  "batch": "Winter 2020",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/somatic"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

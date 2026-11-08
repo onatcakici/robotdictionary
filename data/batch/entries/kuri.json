@@ -1,0 +1,31 @@
+{
+ "id": "kuri",
+ "name": "Kuri",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Mayfield Robotics",
+ "country": "United States",
+ "year": "2017",
+ "status": "retired",
+ "def": "An adorable humming home robot cancelled weeks before mass shipment.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "carbon-robotics-laserweeder",
+  "loomo"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Kuri",
+   "url": "https://en.wikipedia.org/w/index.php?search=Kuri+Mayfield+Robotics",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

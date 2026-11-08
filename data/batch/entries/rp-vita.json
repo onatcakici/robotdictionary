@@ -1,0 +1,63 @@
+{
+ "id": "rp-vita",
+ "name": "RP-VITA",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "hospital telemedicine robot",
+ "maker": "InTouch Health",
+ "country": "United States",
+ "year": "2012",
+ "status": "discontinued",
+ "def": "Hospital telemedicine robot on an autonomous wheeled base, letting a specialist examine patients remotely without a nurse steering the machine.",
+ "body": [
+  "RP-VITA paired InTouch Health telemedicine electronics with the iRobot Ava mobile base, so a clinician could tap a room on a tablet and let the robot drive there. Lidar, depth cameras and sonar gave it mapping and collision avoidance in corridors busy with beds and staff. It received clearance from the United States Food and Drug Administration in 2012 for hospital use and was leased to stroke and intensive care units. InTouch Health was acquired by Teladoc Health in 2020 and the robot is no longer offered."
+ ],
+ "facts": [
+  "Received United States regulatory clearance for hospital use in 2012",
+  "Built on the iRobot Ava mobile base",
+  "InTouch Health was acquired by Teladoc Health in 2020"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.68 m"
+  ],
+  [
+   "Mass",
+   "79.8 kg"
+  ],
+  [
+   "Top speed",
+   "1.5 m/s (5.4 km/h)"
+  ],
+  [
+   "Actuation",
+   "Differential drive base derived from the iRobot Ava platform"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with self docking"
+  ],
+  [
+   "Sensors",
+   "Lidar, 3D depth cameras and sonar"
+  ],
+  [
+   "Autonomy",
+   "Autonomous point to point navigation with mapping and collision avoidance"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia search, RP-VITA",
+   "url": "https://en.wikipedia.org/w/index.php?search=RP-VITA+InTouch+Health",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

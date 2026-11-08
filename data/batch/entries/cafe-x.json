@@ -1,0 +1,28 @@
+{
+ "id": "cafe-x",
+ "name": "Cafe X",
+ "aka": [],
+ "section": "arms",
+ "kind": "coffee robot",
+ "maker": "Cafe X",
+ "country": "United States",
+ "year": "2017",
+ "status": "",
+ "def": "Robotic coffee kiosk in which an arm pulls espresso drinks ordered from a phone or touchscreen, first opened in San Francisco.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Cafe X website",
+   "url": "https://cafexapp.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

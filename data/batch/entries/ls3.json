@@ -1,0 +1,79 @@
+{
+ "id": "ls3",
+ "name": "LS3",
+ "aka": [
+  "Legged Squad Support System",
+  "AlphaDog"
+ ],
+ "section": "quadrupeds",
+ "kind": "large hydraulic pack quadruped",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2012",
+ "status": "retired",
+ "def": "Large hydraulic pack quadruped developed for DARPA and the US Marine Corps to carry squad equipment on foot patrols.",
+ "body": [
+  "LS3 was a heavier and quieter successor to BigDog, sized to carry a squad's kit and follow a marine over terrain that vehicles cannot use. A petrol engine drove hydraulic actuators in four legs, while onboard perception let it follow a leader using camera and lidar and accept spoken commands. Marine Corps trials from 2012 to 2015 showed it hauling around 180 kilograms over long distances, but the programme ended because the machine was too noisy and too hard to repair in the field."
+ ],
+ "facts": [
+  "Specified to carry 181 kg for 32 km over 24 hours without refuelling",
+  "Tested with the US Marine Corps in exercises including Rim of the Pacific 2014",
+  "Shelved after trials because of engine noise and field maintenance difficulty"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "590 kg"
+  ],
+  [
+   "Payload",
+   "181 kg"
+  ],
+  [
+   "Actuation",
+   "Hydraulic cylinders driven by a petrol engine"
+  ],
+  [
+   "Power",
+   "Internal combustion engine with onboard hydraulic pump"
+  ],
+  [
+   "Sensors",
+   "Stereo cameras, lidar, inertial measurement unit, microphone for voice commands"
+  ],
+  [
+   "Autonomy",
+   "Leader following and waypoint navigation with a voice command interface"
+  ]
+ ],
+ "see": [
+  "anymal",
+  "anymal-x"
+ ],
+ "refs": [
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://bostondynamics.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Legged Squad Support System",
+   "url": "https://en.wikipedia.org/wiki/Legged_Squad_Support_System",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Legged Squad Support System (Q3829818)",
+   "url": "https://www.wikidata.org/wiki/Q3829818",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3829818"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "alphadog"
+ ]
+}

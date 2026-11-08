@@ -1,0 +1,55 @@
+{
+ "id": "icub",
+ "name": "iCub",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Italian Institute of Technology",
+ "country": "Italy",
+ "year": "2008",
+ "status": "research",
+ "def": "A child sized open source humanoid distributed to dozens of labs to study embodied cognition.",
+ "body": [
+  "iCub is Europe's shared humanoid child: over fifty copies in labs worldwide study how embodied minds learn to see, grasp and speak, all on an open source body."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 104 cm"
+  ]
+ ],
+ "see": [
+  "ergocub",
+  "walk-man"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.robotcub.org",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, ICub",
+   "url": "https://en.wikipedia.org/wiki/ICub",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, iCub (Q1653368)",
+   "url": "https://www.wikidata.org/wiki/Q1653368",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Istituto Italiano di Tecnologia website",
+   "url": "https://www.iit.it/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1653368"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

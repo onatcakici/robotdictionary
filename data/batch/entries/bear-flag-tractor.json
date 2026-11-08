@@ -1,0 +1,41 @@
+{
+ "id": "bear-flag-tractor",
+ "name": "Bear Flag autonomous tractor",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "autonomous tractor",
+ "maker": "Bear Flag Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Retrofit kit that turned existing farm tractors and implements into driverless machines; the company was acquired by Deere.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Bear Flag Robotics",
+   "url": "https://www.ycombinator.com/companies/bear-flag-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Bear Flag Robotics website",
+   "url": "http://bearflagrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "bear-flag-robotics"
+ },
+ "yc": {
+  "company": "Bear Flag Robotics",
+  "batch": "Winter 2018",
+  "status": "Acquired",
+  "url": "https://www.ycombinator.com/companies/bear-flag-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

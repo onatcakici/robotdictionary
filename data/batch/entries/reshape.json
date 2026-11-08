@@ -1,0 +1,41 @@
+{
+ "id": "reshape",
+ "name": "Reshape",
+ "aka": [],
+ "section": "arms",
+ "kind": "laboratory robot",
+ "maker": "Reshape Biotech",
+ "country": "Denmark",
+ "year": "",
+ "status": "",
+ "def": "Single purpose lab robots that fill plates and photograph cultures for microbiologists.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Reshape Biotech",
+   "url": "https://www.ycombinator.com/companies/reshape-biotech",
+   "kind": "yc"
+  },
+  {
+   "label": "Reshape Biotech website",
+   "url": "http://reshapebiotech.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "reshape-biotech"
+ },
+ "yc": {
+  "company": "Reshape Biotech",
+  "batch": "Winter 2021",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/reshape-biotech"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,43 @@
+{
+ "id": "alice",
+ "name": "Alice",
+ "aka": [],
+ "section": "other",
+ "kind": "miniature mobile robot",
+ "maker": "École Polytechnique Fédérale de Lausanne",
+ "country": "Switzerland",
+ "year": "1998",
+ "status": "research",
+ "def": "Tiny cube shaped mobile robot measuring 2 by 2 by 2 cm, created at the Autonomous Systems Lab of the École Polytechnique Fédérale de Lausanne.",
+ "body": [],
+ "facts": [
+  "Work on it ran from 1998 to 2004 in Lausanne, Switzerland",
+  "Has belonged to the Institute of Robotics and Intelligent Systems in Zürich since 2006"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://ag-vp-www.informatik.uni-kl.de/Projekte/ALICE/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Alice mobile robot",
+   "url": "https://en.wikipedia.org/wiki/Alice_mobile_robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Alice mobile robot (Q4726194)",
+   "url": "https://www.wikidata.org/wiki/Q4726194",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4726194"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

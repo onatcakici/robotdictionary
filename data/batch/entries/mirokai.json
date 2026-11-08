@@ -1,0 +1,50 @@
+{
+ "id": "mirokai",
+ "name": "Mirokai",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "character styled service robot",
+ "maker": "Enchanted Tools",
+ "country": "France",
+ "year": "2023",
+ "status": "prototype",
+ "def": "Character styled service robot that balances on a single ball, trialled in Paris hospitals for carrying samples, linens and small deliveries.",
+ "body": [
+  "Mirokai is a humanoid upper body with two arms and an animated face that rides on a ball balancing drive rather than legs or a wheeled chassis, letting it pivot in place in narrow corridors. Enchanted Tools designed it deliberately as a fictional character, with a puppet inspired head and voice, on the argument that people accept a stylised robot more readily than an imitation human. It carries trays and containers, driven by a mix of autonomous navigation and remote operator support. The company has run trials in Paris hospitals and shown the robot at CES, but it is not yet a volume product."
+ ],
+ "facts": [
+  "Trialled in Paris hospitals for internal transport of samples and supplies",
+  "Ball balancing drive lets it turn on the spot in narrow corridors",
+  "Designed as a stylised fictional character rather than a human likeness"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Ball balancing single sphere drive with two electric arms"
+  ],
+  [
+   "Sensors",
+   "Depth cameras, lidar, microphone array, animated face display"
+  ],
+  [
+   "Autonomy",
+   "Autonomous indoor navigation with remote operator assistance"
+  ]
+ ],
+ "see": [
+  "mona",
+  "n1-fourier"
+ ],
+ "refs": [
+  {
+   "label": "Enchanted Tools website",
+   "url": "https://enchanted.tools",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

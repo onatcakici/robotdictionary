@@ -1,0 +1,35 @@
+{
+ "id": "colossus",
+ "name": "Colossus",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "firefighting robot",
+ "maker": "",
+ "country": "France",
+ "year": "",
+ "status": "",
+ "def": "French robot built for firefighting, meant to help fire services by taking on fire suppression work.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Colossus (Q63230203)",
+   "url": "https://www.wikidata.org/wiki/Q63230203",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Maker website",
+   "url": "https://www.shark-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q63230203"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

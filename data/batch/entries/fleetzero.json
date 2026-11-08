@@ -1,0 +1,41 @@
+{
+ "id": "fleetzero",
+ "name": "Fleetzero",
+ "aka": [],
+ "section": "marine",
+ "kind": "robotic cargo ship",
+ "maker": "Fleetzero",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Electric cargo vessels designed to run with remote supervision instead of a full crew.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Fleetzero",
+   "url": "https://www.ycombinator.com/companies/fleetzero",
+   "kind": "yc"
+  },
+  {
+   "label": "Fleetzero website",
+   "url": "https://www.fleetzero.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "fleetzero"
+ },
+ "yc": {
+  "company": "Fleetzero",
+  "batch": "Winter 2022",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/fleetzero"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

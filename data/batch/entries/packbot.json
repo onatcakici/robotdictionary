@@ -1,0 +1,88 @@
+{
+ "id": "packbot",
+ "name": "PackBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "iRobot",
+ "country": "United States",
+ "year": "2002",
+ "status": "service",
+ "def": "Tracked man portable ground robot used by military and emergency teams, including radiation surveys inside the Fukushima Daiichi buildings.",
+ "body": [
+  "PackBot is a compact tracked vehicle with two articulated flippers that let it climb rubble and stairs, light enough to be carried in a backpack and driven from a portable controller. First deployed with United States forces in Afghanistan in 2002 and later widely used for bomb disposal, several units were flown to Japan in 2011 and were the first robots to enter reactor buildings at Fukushima Daiichi, mapping radiation and temperature. The design line remains in production under Teledyne FLIR.",
+  "PackBot went down the caves of Afghanistan, disarmed roadside bombs in Iraq by the thousand, and entered Fukushima's reactor buildings when humans could not. It is the most battle proven robot ever fielded."
+ ],
+ "facts": [
+  "First robots to enter the Fukushima Daiichi reactor buildings in 2011",
+  "Man portable design widely used for bomb disposal"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "24 kg"
+  ],
+  [
+   "Actuation",
+   "Two tracks with articulated flipper arms"
+  ],
+  [
+   "Power",
+   "Rechargeable lithium ion batteries"
+  ],
+  [
+   "Sensors",
+   "Cameras, radiation and gas detectors, manipulator arm on some variants"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated with self righting and assisted climbing"
+  ],
+  [
+   "Units",
+   "thousands fielded"
+  ],
+  [
+   "Service",
+   "Iraq; Afghanistan; Fukushima"
+  ]
+ ],
+ "see": [
+  "perseverance",
+  "pioneer-3-dx"
+ ],
+ "refs": [
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "http://www.irobot.com/gi/ground/510_PackBot",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, PackBot",
+   "url": "https://en.wikipedia.org/wiki/PackBot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, PackBot (Q2492936)",
+   "url": "https://www.wikidata.org/wiki/Q2492936",
+   "kind": "wikidata"
+  },
+  {
+   "label": "iRobot website",
+   "url": "https://www.irobot.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2492936"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

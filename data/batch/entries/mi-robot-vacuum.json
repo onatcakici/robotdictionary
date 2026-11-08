@@ -1,0 +1,28 @@
+{
+ "id": "mi-robot-vacuum",
+ "name": "Mi Robot Vacuum",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robot vacuum cleaner",
+ "maker": "Xiaomi",
+ "country": "China",
+ "year": "2016",
+ "status": "discontinued",
+ "def": "Laser mapping robot vacuum sold by Xiaomi and made by Roborock, which brought lidar navigation to a low price.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Xiaomi website",
+   "url": "https://www.mi.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

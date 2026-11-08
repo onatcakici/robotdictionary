@@ -1,0 +1,28 @@
+{
+ "id": "kinova-jaco",
+ "name": "JACO",
+ "aka": [],
+ "section": "arms",
+ "kind": "assistive robot arm",
+ "maker": "Kinova",
+ "country": "Canada",
+ "year": "",
+ "status": "production",
+ "def": "Lightweight arm mounted on a power wheelchair so people with limited upper body mobility can eat, drink and open doors.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Kinova website",
+   "url": "https://www.kinovarobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

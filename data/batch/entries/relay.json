@@ -1,0 +1,69 @@
+{
+ "id": "relay",
+ "name": "Relay",
+ "aka": [
+  "Savioke Relay",
+  "A.L.O. Botlr"
+ ],
+ "section": "wheeled",
+ "kind": "small lidded courier robot",
+ "maker": "Relay Robotics",
+ "country": "United States",
+ "year": "2014",
+ "status": "production",
+ "def": "Small lidded courier robot that delivers towels, snacks, medicines and specimens along hotel corridors and hospital wards, riding elevators by itself.",
+ "body": [
+  "Relay is a knee high wheeled robot with a lockable bin on top, sized to share a lift with people and to wait politely at a guest room door. Lidar, 3D cameras and sonar drive SLAM navigation, and a wireless link lets it call and ride elevators between floors. The first hotel pilot ran at the Aloft in Cupertino in 2014 under the name Botlr, and later deployments include hospital laboratory and pharmacy runs. Savioke renamed itself Relay Robotics in 2021."
+ ],
+ "facts": [
+  "First hotel deployment was at the Aloft in Cupertino, California in 2014",
+  "Savioke changed its name to Relay Robotics in 2021",
+  "Also used for hospital laboratory specimen and pharmacy runs"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.92 m"
+  ],
+  [
+   "Mass",
+   "40.8 kg"
+  ],
+  [
+   "Top speed",
+   "0.69 m/s (2.5 km/h)"
+  ],
+  [
+   "Runtime",
+   "4 h"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with a charging dock"
+  ],
+  [
+   "Sensors",
+   "Lidar, 3D cameras, sonar and a safety bumper"
+  ],
+  [
+   "Autonomy",
+   "SLAM navigation with wireless elevator integration and unattended delivery"
+  ]
+ ],
+ "see": [
+  "rev-1",
+  "robomaster-s1"
+ ],
+ "refs": [
+  {
+   "label": "Relay Robotics website",
+   "url": "https://relayrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,44 @@
+{
+ "id": "ever",
+ "name": "EveR",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "android",
+ "maker": "Korea University of Science and Technology",
+ "country": "South Korea",
+ "year": "2003",
+ "status": "research",
+ "def": "Line of female android robots developed by South Korean researchers at the Korea Institute of Industrial Technology and first shown to the public in Seoul in 2003.",
+ "body": [],
+ "facts": [
+  "Unveiled at the Kyoyuk MunHwa HoeKwan hotel in Seoul on 4 May 2003",
+  "Project led by Baek Moon hong",
+  "Name joins the biblical Eve with the letter r for robot"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, EveR",
+   "url": "https://en.wikipedia.org/wiki/EveR",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, EveR (Q3735277)",
+   "url": "https://www.wikidata.org/wiki/Q3735277",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Korea University of Science and Technology website",
+   "url": "http://www.ust.ac.kr",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3735277"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

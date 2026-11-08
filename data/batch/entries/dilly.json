@@ -1,0 +1,31 @@
+{
+ "id": "dilly",
+ "name": "Dilly",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Woowa Brothers",
+ "country": "South Korea",
+ "year": "2019",
+ "status": "pilot",
+ "def": "Korea's food delivery robot rolling through Seoul apartment complexes.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "dinerbot-t8",
+  "dingo"
+ ],
+ "refs": [
+  {
+   "label": "Woowa Brothers website",
+   "url": "https://www.woowahan.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

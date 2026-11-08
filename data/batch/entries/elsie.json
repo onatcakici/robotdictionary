@@ -1,0 +1,33 @@
+{
+ "id": "elsie",
+ "name": "Elsie",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "W. Grey Walter",
+ "country": "United Kingdom",
+ "year": "1949",
+ "status": "retired",
+ "def": "One of the first electronic tortoises, seeking light with two vacuum tubes for a brain.",
+ "body": [
+  "Grey Walter's tortoises Elmer and Elsie, built in 1949 Bristol with two vacuum tubes each, sought light and recharged themselves, demonstrating that lifelike behaviour needs almost no brain, a founding insight of behavioural robotics."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "emo",
+  "flashbot"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia search, Elsie",
+   "url": "https://en.wikipedia.org/w/index.php?search=Elsie+W.+Grey+Walter",
+   "kind": "search"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

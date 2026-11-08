@@ -1,0 +1,28 @@
+{
+ "id": "monarch-platform",
+ "name": "Monarch",
+ "aka": [],
+ "section": "medical",
+ "kind": "robotic endoscopy system",
+ "maker": "Auris Health",
+ "country": "United States",
+ "year": "2018",
+ "status": "production",
+ "def": "Robotic platform for bronchoscopy developed by Auris Health, which Johnson and Johnson acquired in 2019.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Johnson and Johnson MedTech website",
+   "url": "https://www.jnjmedtech.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

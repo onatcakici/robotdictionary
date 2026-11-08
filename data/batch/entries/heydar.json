@@ -1,0 +1,37 @@
+{
+ "id": "heydar",
+ "name": "Heydar",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "Islamic Republic of Iran Army Ground Forces",
+ "country": "Iran",
+ "year": "2019",
+ "status": "",
+ "def": "Iranian combat robot developed by the Islamic Republic of Iran Army Ground Forces and first shown to the public in October 2019.",
+ "body": [],
+ "facts": [
+  "Unveiled on 3 October 2019"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Heydar (robot)",
+   "url": "https://en.wikipedia.org/wiki/Heydar_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Iran Heydar combat robot (Q136440304)",
+   "url": "https://www.wikidata.org/wiki/Q136440304",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q136440304"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

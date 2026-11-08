@@ -1,0 +1,33 @@
+{
+ "id": "automower",
+ "name": "Automower 450X",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Husqvarna",
+ "country": "Sweden",
+ "year": "1995",
+ "status": "production",
+ "def": "The descendant of the world's first robotic lawn mower, three decades on the job.",
+ "body": [
+  "Husqvarna shipped the first robotic lawn mower in 1995, solar powered and wire guided; three decades of descendants make mowing the most automated chore after vacuuming."
+ ],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "avride",
+  "ballie"
+ ],
+ "refs": [
+  {
+   "label": "Husqvarna website",
+   "url": "https://www.husqvarna.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

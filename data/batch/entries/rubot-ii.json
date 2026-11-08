@@ -1,0 +1,37 @@
+{
+ "id": "rubot-ii",
+ "name": "RuBot II",
+ "aka": [],
+ "section": "other",
+ "kind": "puzzle solving robot",
+ "maker": "",
+ "country": "Ireland",
+ "year": "",
+ "status": "",
+ "def": "Rubik's Cube solving robot built by Irish roboticist and inventor Pete Redmond that entered the Guinness Book of World Records as the fastest machine of its kind.",
+ "body": [],
+ "facts": [
+  "Also known as the Cubinator"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, RuBot II",
+   "url": "https://en.wikipedia.org/wiki/RuBot_II",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RuBot II (Q7375604)",
+   "url": "https://www.wikidata.org/wiki/Q7375604",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7375604"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

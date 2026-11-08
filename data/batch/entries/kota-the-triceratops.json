@@ -1,0 +1,37 @@
+{
+ "id": "kota-the-triceratops",
+ "name": "Kota the Triceratops",
+ "aka": [],
+ "section": "other",
+ "kind": "animatronic toy",
+ "maker": "Hasbro and Playskool",
+ "country": "",
+ "year": "",
+ "status": "discontinued",
+ "def": "Animatronic toy dinosaur in the form of a Triceratops that Hasbro and Playskool produced for children from 3 to 6 years old.",
+ "body": [],
+ "facts": [
+  "Recommended age range of 3 to 6 years"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Kota the triceratops",
+   "url": "https://en.wikipedia.org/wiki/Kota_the_triceratops",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Kota the triceratops (Q10314663)",
+   "url": "https://www.wikidata.org/wiki/Q10314663",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q10314663"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

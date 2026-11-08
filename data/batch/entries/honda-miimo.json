@@ -1,0 +1,35 @@
+{
+ "id": "honda-miimo",
+ "name": "Honda Miimo",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "robotic lawn mower",
+ "maker": "Honda",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Battery powered robotic lawn mower model produced by the Japanese company Honda.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Honda Miimo (Q57079447)",
+   "url": "https://www.wikidata.org/wiki/Q57079447",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Honda website",
+   "url": "https://global.honda",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q57079447"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

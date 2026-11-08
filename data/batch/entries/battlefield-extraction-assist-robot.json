@@ -1,0 +1,42 @@
+{
+ "id": "battlefield-extraction-assist-robot",
+ "name": "Battlefield Extraction-Assist Robot",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "military rescue robot",
+ "maker": "Vecna Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Remote controlled humanoid robot from Vecna Robotics built to carry wounded soldiers off the battlefield, using strong hydraulics to lift people over rough ground and stairs.",
+ "body": [],
+ "facts": [
+  "Can also carry heavy loads across long distances"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://vecna.com/robotics/multimedia/downloads/BEAR.pdf",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Battlefield Extraction-Assist Robot",
+   "url": "https://en.wikipedia.org/wiki/Battlefield_Extraction-Assist_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Battlefield Extraction-Assist Robot (Q4034916)",
+   "url": "https://www.wikidata.org/wiki/Q4034916",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4034916"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

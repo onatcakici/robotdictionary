@@ -1,0 +1,31 @@
+{
+ "id": "promobot",
+ "name": "Promobot V.4",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Promobot",
+ "country": "Russia",
+ "year": "2019",
+ "status": "production",
+ "def": "A wheeled promotional humanoid staffing malls, banks and airports in dozens of countries.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "qinglong",
+  "qrio"
+ ],
+ "refs": [
+  {
+   "label": "Promobot website",
+   "url": "https://promo-bot.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

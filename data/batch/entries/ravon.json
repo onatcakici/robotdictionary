@@ -1,0 +1,48 @@
+{
+ "id": "ravon",
+ "name": "RAVON",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "unmanned ground vehicle",
+ "maker": "University of Kaiserslautern",
+ "country": "Germany",
+ "year": "",
+ "status": "research",
+ "def": "Off road research vehicle from the Robotics Research Lab at the University of Kaiserslautern, used to test behaviour based navigation and localisation on uneven outdoor ground.",
+ "body": [],
+ "facts": [
+  "Built on a base vehicle produced by Robosoft",
+  "Serves as a testbed for motion adaptation, localisation and navigation research"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://agrosy.informatik.uni-kl.de/en/robots/ravon/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, RAVON",
+   "url": "https://en.wikipedia.org/wiki/RAVON",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ravon (Q96743506)",
+   "url": "https://www.wikidata.org/wiki/Q96743506",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Kaiserslautern website",
+   "url": "https://www.uni-kl.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q96743506"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

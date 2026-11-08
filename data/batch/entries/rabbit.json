@@ -1,0 +1,62 @@
+{
+ "id": "rabbit",
+ "name": "RABBIT",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "underactuated planar biped",
+ "maker": "CNRS ROBEA project consortium",
+ "country": "France",
+ "year": "2002",
+ "status": "retired",
+ "def": "Underactuated planar biped built by a French research consortium to test analytical control theory for walking and running without feet.",
+ "body": [
+  "RABBIT has a torso, two thighs and two shins with knees but deliberately no feet, four motors and a mass of 32 kg, and runs on a boom that keeps it in the sagittal plane. Because it has no feet, zero moment point methods do not apply, so the consortium and collaborators at the University of Michigan used it to develop hybrid zero dynamics, which stabilises a full walking cycle with proofs of convergence. Experiments from 2002 reached about 1 m/s, survived pushes and added torso weight, and the resulting theory was reused on MABEL and later bipeds."
+ ],
+ "facts": [
+  "Main test bed for hybrid zero dynamics control of walking",
+  "Built under the French CNRS ROBEA research programme"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "32 kg"
+  ],
+  [
+   "Top speed",
+   "1 m/s (3.6 km/h)"
+  ],
+  [
+   "Actuation",
+   "Four electric motors at the hips and knees"
+  ],
+  [
+   "Autonomy",
+   "Hybrid zero dynamics feedback control, boom constrained to the sagittal plane"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "CNRS ROBEA project consortium website",
+   "url": "https://www.cnrs.fr",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, Rabbit (Q3415883)",
+   "url": "https://www.wikidata.org/wiki/Q3415883",
+   "kind": "wikidata"
+  },
+  {
+   "label": "National Center for Scientific Research website",
+   "url": "https://www.cnrs.fr/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3415883"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

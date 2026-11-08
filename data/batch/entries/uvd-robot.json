@@ -1,0 +1,68 @@
+{
+ "id": "uvd-robot",
+ "name": "UVD Robot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "mobile ultraviolet disinfection robot",
+ "maker": "Blue Ocean Robotics",
+ "country": "Denmark",
+ "year": "2018",
+ "status": "production",
+ "def": "Mobile ultraviolet disinfection robot that drives itself around hospital rooms and exposes surfaces to short wavelength light after manual cleaning.",
+ "body": [
+  "The UVD Robot is a wheeled base carrying a vertical array of ultraviolet C lamps that damage the genetic material of pathogens on exposed surfaces. Lidar, three 3D cameras and passive infrared sensors let it drive a recorded route through wards and operating theatres, and shut the lamps off if a person is detected. It was developed with Odense University Hospital in Denmark and shipped in large numbers during the 2020 pandemic response, mostly to hospitals, airports and offices."
+ ],
+ "facts": [
+  "Developed with Odense University Hospital in Denmark",
+  "Shipped in large numbers during the 2020 pandemic response",
+  "A third generation Model C followed in 2020"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.78 m"
+  ],
+  [
+   "Mass",
+   "120 kg"
+  ],
+  [
+   "Top speed",
+   "0.75 m/s (2.7 km/h)"
+  ],
+  [
+   "Actuation",
+   "Differential drive base carrying a vertical array of ultraviolet C lamps"
+  ],
+  [
+   "Power",
+   "Rechargeable battery"
+  ],
+  [
+   "Sensors",
+   "Lidar, three 3D cameras and passive infrared motion sensors"
+  ],
+  [
+   "Autonomy",
+   "Map based route recording with autonomous, semi manual and static modes"
+  ]
+ ],
+ "see": [
+  "vector",
+  "viper"
+ ],
+ "refs": [
+  {
+   "label": "Blue Ocean Robotics website",
+   "url": "https://www.blue-ocean-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "uv-d"
+ ]
+}

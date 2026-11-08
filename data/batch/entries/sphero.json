@@ -1,0 +1,31 @@
+{
+ "id": "sphero",
+ "name": "Sphero",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Sphero",
+ "country": "United States",
+ "year": "2011",
+ "status": "production",
+ "def": "A programmable rolling ball that carried coding lessons into a million classrooms.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "spirit",
+  "stanford-cart"
+ ],
+ "refs": [
+  {
+   "label": "Sphero website",
+   "url": "https://sphero.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

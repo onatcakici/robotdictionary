@@ -1,0 +1,58 @@
+{
+ "id": "benthic-rover-ii",
+ "name": "Benthic Rover II",
+ "aka": [],
+ "section": "marine",
+ "kind": "seafloor rover",
+ "maker": "Monterey Bay Aquarium Research Institute",
+ "country": "United States",
+ "year": "2015",
+ "status": "service",
+ "def": "Autonomous tracked seafloor rover that has monitored carbon cycling on the abyssal plain off California for years at a time.",
+ "body": [
+  "The rover is about the size of a small car, rated to 6,000 metres and normally working at 4,000 metres depth at Station M, some 225 kilometres off central California. It crawls on wide rubber tracks a few metres at a time, then lowers transparent respirometer chambers onto the mud for 48 hour measurements of oxygen use, and photographs the sediment surface. Drawing an average of about two watts, it stays down for roughly a year between recoveries, and its records revealed pulses of sinking phytoplankton reaching the seafloor that short research cruises had missed."
+ ],
+ "facts": [
+  "Works unattended on the abyssal seafloor for about a year per deployment",
+  "Recorded large pulses of sinking food reaching the seafloor between 2015 and 2020"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.5 m"
+  ],
+  [
+   "Length",
+   "2.6 m"
+  ],
+  [
+   "Actuation",
+   "Pair of wide rubber tracks for short repositioning moves"
+  ],
+  [
+   "Power",
+   "Battery pack drawing about two watts on average"
+  ],
+  [
+   "Sensors",
+   "Respirometer chambers, oxygen sensors, fluorescence and still cameras, temperature loggers"
+  ],
+  [
+   "Autonomy",
+   "Fully autonomous year long measurement cycles with no tether"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Monterey Bay Aquarium Research Institute website",
+   "url": "https://www.mbari.org",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

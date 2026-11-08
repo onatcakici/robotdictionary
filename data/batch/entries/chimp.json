@@ -1,0 +1,54 @@
+{
+ "id": "chimp",
+ "name": "CHIMP",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "anthropomorphic disaster response robot",
+ "maker": "Carnegie Mellon University National Robotics Engineering Center",
+ "country": "United States",
+ "year": "2013",
+ "status": "research",
+ "def": "Anthropomorphic disaster response robot from Carnegie Mellon that rolls on limb mounted tracks and rises on its rear limbs to use tools.",
+ "body": [
+  "CHIMP stands nearly 1.5 m tall and weighs about 201 kg, with four limbs that each carry tank style tracks, so the machine is statically stable at all times and never has to balance dynamically. Operators supervised it from a remote console while onboard software handled perception from a laser scanner and cameras, motion planning and force control. The Tartan Rescue team took third place at both the 2013 DARPA Robotics Challenge Trials and the 2015 Finals, where the robot fell and then stood itself back up to carry on."
+ ],
+ "facts": [
+  "Third place at the 2015 DARPA Robotics Challenge Finals",
+  "Recovered itself after falling during the Finals course"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.5 m"
+  ],
+  [
+   "Mass",
+   "201 kg"
+  ],
+  [
+   "Actuation",
+   "Electric joint drives with tracked limb ends"
+  ],
+  [
+   "Sensors",
+   "Rotating laser scanner and cameras building a live three dimensional model"
+  ],
+  [
+   "Autonomy",
+   "Supervised teleoperation with onboard planning and force control"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Carnegie Mellon University National Robotics Engineering Center website",
+   "url": "https://www.cmu.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

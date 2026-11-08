@@ -1,0 +1,30 @@
+{
+ "id": "repliee-q1",
+ "name": "Repliee Q1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "android",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Lifelike android, a humanoid robot made to resemble a human being closely in appearance.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Repliee Q1 (Q15116758)",
+   "url": "https://www.wikidata.org/wiki/Q15116758",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q15116758"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

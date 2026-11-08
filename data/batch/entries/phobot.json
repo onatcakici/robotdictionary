@@ -1,0 +1,42 @@
+{
+ "id": "phobot",
+ "name": "Phobot",
+ "aka": [],
+ "section": "other",
+ "kind": "research robot",
+ "maker": "University of Amsterdam",
+ "country": "Netherlands",
+ "year": "2008",
+ "status": "",
+ "def": "Robot made from Lego by students at the University of Amsterdam that mimics being afraid and conquering fear step by step, intended to help children face phobias.",
+ "body": [],
+ "facts": [
+  "Voted public favourite at a human robot interaction conference in Amsterdam"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Phobot",
+   "url": "https://en.wikipedia.org/wiki/Phobot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Phobot (Q7186625)",
+   "url": "https://www.wikidata.org/wiki/Q7186625",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Amsterdam website",
+   "url": "https://www.uva.nl/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7186625"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

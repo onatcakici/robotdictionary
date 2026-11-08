@@ -1,0 +1,41 @@
+{
+ "id": "revolve",
+ "name": "Revolve",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Revolve Surgical",
+ "country": "Canada",
+ "year": "",
+ "status": "",
+ "def": "Compact surgical robot designed to fit operating rooms outside hospitals, where many abdominal procedures take place.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Revolve Surgical",
+   "url": "https://www.ycombinator.com/companies/revolve-surgical",
+   "kind": "yc"
+  },
+  {
+   "label": "Revolve Surgical website",
+   "url": "https://revolvesurgical.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "revolve-surgical"
+ },
+ "yc": {
+  "company": "Revolve Surgical",
+  "batch": "Summer 2021",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/revolve-surgical"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

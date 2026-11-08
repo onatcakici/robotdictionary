@@ -1,0 +1,726 @@
+{
+ "5dx": {
+  "title": "5DX",
+  "extract": "The 5DX was an automated X-ray inspection robot, which belonged to the set of automated test equipment robots and industrial robots utilizing machine vision. The 5DX was manufactured by Hewlett Packard, then later Agilent Technologies when HP was split into Hewlett Packard and Agilent Technologies in 1999. The 5DX performed a non-destructive structural test using X-ray laminography (tomography) to take 3D images of an assembled printed circuit board using 8-bit grayscale to indicate solder thickness. It was used in the assembled printed circuit board (PCB) electronics manufacturing industry to provide process feedback to a surface mount technology assembly line, as well as defect capture."
+ },
+ "8a4-class-rouv": {
+  "title": "8A4-class_ROUV",
+  "extract": "The Chinese 8A4 class ROUV is a remotely operated underwater vehicle (ROUV) used to perform various underwater tasks, ranging from oil platform service to salvage and rescue missions. The 8A4 is a member of a series of related ROUVs developed by the Shenyang Institute of Automation (SIA) in the People's Republic of China (PRC). The predecessor to the 8A4 was the RECON-IV, an improved version of the American RECON-III. The 8A4 itself is an upgraded version of the American AMETEK 2006, and the 7B8 is an improved version of the 8A4."
+ },
+ "abismo": {
+  "title": "ABISMO",
+  "extract": "ABISMO is a remotely operated underwater vehicle (ROV) built by the Japan Agency for Marine-Earth Science and Technology (JAMSTEC) for exploration of the deep sea. It is the only remaining ROV rated to 11,000-meters, ABISMO is intended to be the permanent replacement for Kaikō, a ROV that was lost at sea in 2003."
+ },
+ "adelbrecht": {
+  "title": "Adelbrecht",
+  "extract": "Adelbrecht was a speaking, interactive robot in the form of a ball, designed by Martin Spanjaard."
+ },
+ "air-cobot": {
+  "title": "Air-Cobot",
+  "extract": "Air-Cobot (Aircraft Inspection enhanced by smaRt & Collaborative rOBOT) is a French research and development project of a wheeled collaborative mobile robot able to inspect aircraft during maintenance operations. This multi-partner project involves research laboratories and industry. Research around this prototype was developed in three domains: autonomous navigation, human-robot collaboration and nondestructive testing."
+ },
+ "aisoy1": {
+  "title": "AISoy1",
+  "extract": "AISoy1, developed by the Spanish company AISoy Robotics, is a pet-robot considered to be one of the first emotional-learning robots for the consumer market. Its software platform allows it to interpret stimuli from its sensors network, in order to gain information from its environment and take decisions based on logical and emotional criteria. Unlike other previously developed robots, AISoy1 has not a single collection of programmed answers, but its behavior is dynamic and results unpredictable. The dialogue system and the advanced recognition system allow it to interact with humans as well as robots."
+ },
+ "allen": {
+  "title": "Allen_(robot)",
+  "extract": "Allen was a robot introduced by Rodney Brooks and his team in the late 1980s, and was their first robot based on subsumption architecture. It had sonar distance and odometry on board, and used an offboard lisp machine to simulate subsumption architecture. It resembled a footstool on wheels."
+ },
+ "an-wld-1-remote-minehunting-system": {
+  "title": "AN/WLD-1_Remote_Minehunting_System",
+  "extract": "The AN/WLD-1 Remote Minehunting System (RMS), produced by Lockheed Martin, is a remotely controlled minesweeping system to be operated by surface warships. It consists of an unmanned semisubmersible vehicle, which tows a sonar array, and control infrastructure aboard the parent ship. The unmanned semisubmersible vehicle used is the US Navy Snorkeler-Class Unmanned Surface Vehicle."
+ },
+ "andros": {
+  "title": "ANDROS",
+  "extract": "The ANDROS is a series of remote control military robots designed by REMOTEC, a subsidiary of Northrop Grumman. The ANDROS series is primarily designed for military, explosive ordnance disposal (EOD), and law enforcement or SWAT applications. The ANDROS gained notability in 2016 for being involved in the first instance of a robot being used to kill another person, Micah Xavier Johnson, the gunman involved in the 2016 shooting of Dallas police officers."
+ },
+ "argo": {
+  "title": "Argo_(ROV)",
+  "extract": "Argo is an unmanned deep-towed undersea video camera sled developed by Dr. Robert Ballard through Woods Hole Oceanographic Institute's Deep Submergence Laboratory. Argo is most famous for its role in the discovery of the wreck of the RMS Titanic in 1985. Argo would also play the key role in Ballard's discovery of the wreck of the battleship Bismarck in 1989."
+ },
+ "armored-combat-engineer-robot": {
+  "title": "Armored_Combat_Engineer_Robot",
+  "extract": "The Armored Combat Engineer Robot (ACER) is a military robot created by Mesa Robotics. Roughly the size of a small bulldozer and weighing 2.25 tons, ACER is among the larger military robots. ACER is able to reach speeds of 6.3 mph, using treads for movement. Uses for this robot include clearing obstacles, removing explosives, hauling cargo and disabled vehicles, and serving as a platform for various other tasks, such as clearing buildings and disarming landmines and lasermines."
+ },
+ "autonomous-shipboard-humanoid": {
+  "title": "Autonomous_Shipboard_Humanoid",
+  "extract": "\nAutonomous Shipboard Humanoid (ASH) is a project at the United States Naval Research Laboratory with researchers and engineers from Virginia Tech and University of Pennsylvania to create a ship-based robot for defense purposes. The robot is intended to navigate the ship and climb ladders, as well as fight fires and respond to other emergencies as well as visual commands from humans. It can currently walk, among other abilities."
+ },
+ "auv-150": {
+  "title": "AUV-150",
+  "extract": "AUV - 150 is an unmanned underwater vehicle (UUV) being developed by Central Mechanical Engineering Research Institute (CMERI) scientists in Durgapur in the Indian state of West Bengal. The project is sponsored by the Ministry of Earth Sciences and has technical assistance from IIT-Kharagpur."
+ },
+ "avantguard": {
+  "title": "AvantGuard",
+  "extract": "\n\nAvantGuard is a modular military robot unmanned ground combat vehicle developed by G-NIUS Unmanned Ground Systems in Israel."
+ },
+ "battlefield-extraction-assist-robot": {
+  "title": "Battlefield_Extraction-Assist_Robot",
+  "extract": "\nThe Battlefield Extraction-Assist Robot (BEAR) is a remotely controlled robot developed by Vecna Robotics for use in the extraction of wounded soldiers from the battlefield with no risk to human life. The humanoid robot uses a powerful hydraulics system to carry humans and other heavy objects over long distances and rough terrain, such as stairs."
+ },
+ "bionickangaroo": {
+  "title": "BionicKangaroo",
+  "extract": "BionicKangaroo is a robot model developed and made by Festo in the form of a kangaroo. Applying methods from kinematics, bionics, and biomimetics, Festo's researchers and engineers studied the way kangaroos move, and applied that to the design of a robot that moves in a similar way. The robot saves energy from each jump and applies it to its next jump, much as a real kangaroo does."
+ },
+ "black-knight": {
+  "title": "Black_Knight_(vehicle)",
+  "extract": "The Black Knight is a prototype unmanned ground combat vehicle (UGCV) designed by BAE Systems. It weighs approximately 12 tons and is deployable from a Lockheed C-130 Hercules; ie airlifted by military transport aircraft. Similar in appearance to a tank, it is armed with a turret-mounted 30 mm gun and a 7.62 mm coaxial machine gun. The vehicle is fitted with a 300-horsepower (220 kW) Caterpillar Inc. diesel engine. The vehicle is currently being evaluated by the US Army. It is a proof of concept for military unmanned vehicles, specifically as a combat asset."
+ },
+ "bluefin-21": {
+  "title": "Bluefin-21",
+  "extract": "The Bluefin-21 is an autonomous underwater vehicle (AUV) developed by Bluefin Robotics for defence, commercial or scientific use. It found its most famous use in April 2014 in the search for the wreckage of the missing Malaysia Airlines Flight 370."
+ },
+ "buddharoid": {
+  "title": "Buddharoid",
+  "extract": "Buddharoid is a Japanese AI-powered robot monk developed by researchers at Kyoto University in collaboration with other tech companies. The robot is designed to provide spiritual guidance, similar to a real life Buddhist monks. It was unveiled at Shoren-in Temple in Kyoto."
+ },
+ "cimon": {
+  "title": "Cimon_(robot)",
+  "extract": "Cimon or officially CIMON is a head-shaped AI robot used in the International Space Station."
+ },
+ "cisbot": {
+  "title": "CISBOT",
+  "extract": "CISBOT is a cast iron pipe-repair robot that seals the joints in natural gas pipelines from the inside, thus extending their use for up to fifty years without unearthing the joints."
+ },
+ "copperhead": {
+  "title": "Copperhead_(UUV)",
+  "extract": "Copperhead is a family of reusable unmanned underwater vehicles (drones) developed by Anduril. The family consists of two size classes of autonomous undersea vehicle, with both utility and \"kamikaze\"-style munitions subvariants of each. The Copperhead-100M is roughly comparable in size and capability to the Mark 54 lightweight torpedo, and the Copperhead-500M is roughly comparable in size and capability to the Mark 48 heavy torpedo; however both Copperhead variants are significantly lighter and cheaper to manufacture. It is intended to supplement, rather than replace, traditional crewed submersibles and torpedoes."
+ },
+ "cosmobot": {
+  "title": "Cosmobot",
+  "extract": "CosmoBot is a prototype telerehabilitation robot designed to treat children with disabilities such as Autism Spectrum disorders, Down Syndrome, cerebral palsy, muscular dystrophy, apraxia, neurodevelopmental disorders, and language developmental disorders."
+ },
+ "cotsbot": {
+  "title": "COTSBot",
+  "extract": "COTSBot is a small autonomous underwater vehicle (AUV) 4.5 feet (1.4 m) long, which is designed by Queensland University of Technology (QUT) to kill the very destructive crown-of-thorns starfish in the Great Barrier Reef off the north-east coast of Australia. It identifies its target using an image-analyzing neural net to analyze what an onboard camera sees, and then lethally injects the starfish with a bile salt solution using a needle on the end of a long underslung foldable arm."
+ },
+ "cuberover": {
+  "title": "CubeRover",
+  "extract": "CubeRover is a class of planetary rover with a standardized modular format meant to accelerate the pace of space exploration. The idea is equivalent to that of the successful CubeSat format, with standardized off-the-shelf components and architecture to assemble small units that will be all compatible, modular, and inexpensive."
+ },
+ "cubestormer-ii": {
+  "title": "CubeStormer_II",
+  "extract": "CubeStormer II is a robot built primarily with Lego Mindstorms and a Samsung Galaxy S2 for solving a Rubik's Cube. The project was commissioned by ARM Holdings and designed and built by Mike Dobson and David Gilday."
+ },
+ "curv-21": {
+  "title": "CURV-21",
+  "extract": "CURV-21 is a remotely operated underwater vehicles (ROV) of the United States Navy designed to meet its deep ocean salvage requirements down to a maximum depth of 20,000 feet (6,100 m) of seawater."
+ },
+ "curv-iii": {
+  "title": "CURV",
+  "extract": "CURV-III was the fourth generation of the United States Navy Cable-controlled Undersea Recovery Vehicle (CURV). CURV was a prototype for remotely operated underwater vehicles and a pioneer for teleoperation. It became famous in 1966 when CURV-I was used to recover a hydrogen bomb from the floor of the Mediterranean Sea. In 1973, CURV-III performed the deepest underwater rescue in history when it rescued two men 1,575 feet (480 m) from the ocean surface who were stranded 76 hours in the submersible Pisces III with just minutes of air remaining. The CURV-III became known in the Great Lakes region in 1976 when it was used to survey the wreck of the SS Edmund Fitzgerald. CURV-21 is the current generation that replaced CURV-III."
+ },
+ "da-vinci-surgical-system": {
+  "title": "Da_Vinci_Surgical_System",
+  "extract": "The da Vinci Surgical System is a robotic surgical platform that uses a minimally invasive surgical approach and is manufactured by Intuitive Surgical. The system is used for surgical procedures including prostatectomies, cardiac valve repair and renal and gynecologic interventions."
+ },
+ "deep-drone": {
+  "title": "Deep_Drone",
+  "extract": "The Deep Drone is a submersible remotely operated vehicle designed for mid-water salvage for the United States Navy. One vehicle is based in Largo, Maryland, under the command of The U.S. Navy Supervisor of Salvage and Diving (SUPSALV), it is maintained and operated by Phoenix International Inc.\nThe vehicle is capable of operating at a depth up to 8,000 feet as reflected in its full name: \"The Deep Drone 8000\". The vehicle has a target locating sonar and two tool manipulators capable of working with tools and attaching rigging."
+ },
+ "depthx": {
+  "title": "DEPTHX",
+  "extract": "The Deep Phreatic Thermal Explorer (DEPTHX) is an autonomous underwater vehicle designed and built by Stone Aerospace, an aerospace engineering firm based in Austin, Texas. It was designed to autonomously explore and map underwater sinkholes in northern Mexico, as well as collect water and wall core samples. This could be achieved via an autonomous form of navigation known as A-Navigation. The DEPTHX vehicle was the first of three vehicles to be built by Stone Aerospace which were funded by NASA with the goal of developing technology that can explore the oceans of Jupiter's moon Europa to look for extraterrestrial life."
+ },
+ "digesting-duck": {
+  "title": "Digesting_Duck",
+  "extract": "The Canard Digérateur, or Digesting Duck, was an automaton in the form of a duck, created by Jacques de Vaucanson and unveiled on 30 May 1764 in France. The mechanical duck appeared to have the ability to eat kernels of grain, and to metabolize and defecate them. While the duck did not actually have the ability to do this—the food was collected in one inner container, and the pre-stored feces were \"produced\" from a second, so that no actual digestion took place—Vaucanson hoped that a truly digesting automaton could one day be designed."
+ },
+ "discovery": {
+  "title": "Discovery_ROUV",
+  "extract": "Discovery remotely operated underwater vehicle (ROUV) is a type of very little known unmanned underwater vehicle (UUV) originally built in Great Britain by British firm Specialist Machine Development (SMD) Limited for the People's Republic of China (PRC). and the British firm was later purchased by CSR Corporation Limited in April 2015."
+ },
+ "dive-ld": {
+  "title": "Anduril_Dive-LD",
+  "extract": "The Dive-LD is an American large-diameter autonomous underwater vehicle (AUV) developed and manufactured by Anduril Industries for military and commercial maritime missions. Weighing about three tons, it is designed for missions of up to 10 days' endurance, with an architecture that Anduril says can scale to multi-week missions, and can operate at depths of up to 6,000 metres. The vehicle features a modular, software-first design that allows it to be rapidly reconfigured with different payloads for missions including undersea battlespace intelligence, surveillance and reconnaissance, mine countermeasures, anti-submarine warfare, and seafloor mapping."
+ },
+ "double-eagle": {
+  "title": "Double_Eagle_(mine_disposal_vehicle)",
+  "extract": "The Double Eagle is a remotely operated vehicle (ROV) built by the Swedish defence company Saab Underwater Systems AB and used for the disposal of naval mines."
+ },
+ "echo-ranger": {
+  "title": "Echo_Ranger",
+  "extract": "Echo Ranger is a marine autonomous underwater vehicle (AUV) built by Boeing."
+ },
+ "echo-seeker": {
+  "title": "Echo_Seeker",
+  "extract": "Echo Seeker is an autonomous underwater vehicle (AUV) built by Boeing."
+ },
+ "echo-voyager": {
+  "title": "Echo_Voyager",
+  "extract": "Echo Voyager is an autonomous underwater vehicle (AUV) built by Boeing."
+ },
+ "eelume": {
+  "title": "Eelume",
+  "extract": "The Eelume  is an autonomous underwater vehicle being developed by Eelume AS, in partnership with Kongsberg Maritime and Equinor."
+ },
+ "elliq": {
+  "title": "ElliQ",
+  "extract": "ElliQ is an AI-powered companion robot developed by Intuition Robotics for the elderly."
+ },
+ "emiew": {
+  "title": "EMIEW",
+  "extract": "EMIEW is a robot developed by Hitachi. Another version has also been made called EMIEW 2. EMIEW stands for Excellent Mobility and Interactive Existence as Workmate. Two EMIEWs have been made, called Pal and Chum. Hitachi stated that Pal and Chum, have a vocabulary of about 100 words, and Pal exhibited these skills by telling reporters: \"I want to be able to walk about in places like Shinjuku and Shibuya in the future without bumping into people and cars\". Both EMIEWs have a top speed of 6 km/h and can avoid obstacles."
+ },
+ "endurance": {
+  "title": "ENDURANCE",
+  "extract": "\nENDURANCE is an autonomous underwater vehicle designed to map in three dimensions the geochemistry and biology of underwater terrains in Antarctica. The vehicle was built and designed by Stone Aerospace, and is the second incarnation of the DEPTHX vehicle, which was significantly reconfigured for the challenges particular to the Antarctic environment."
+ },
+ "festo-robotino": {
+  "title": "Robotino",
+  "extract": "Robotino is a mobile robot system made by Festo Didactic, and used for educational, training and research purposes."
+ },
+ "flakey": {
+  "title": "Flakey_the_robot",
+  "extract": "Flakey the robot was a research robot created at SRI International's Artificial Intelligence Center and was the successor to Shakey the robot. It is featured in a Scientific American Frontiers episode."
+ },
+ "furhat": {
+  "title": "Furhat",
+  "extract": "Furhat is a back-projected humanoid social robot developed by the Swedish company Furhat Robotics. It uses projection-based facial rendering, speech synthesis and recognition, and programmed behavioral responses to support human–machine interaction. It has been deployed in sectors including education, healthcare, recruitment, and transport, and has been used in studies of social robotics at several universities."
+ },
+ "gakutensoku": {
+  "title": "Gakutensoku",
+  "extract": "Gakutensoku  was the first robot to be built in East Asia and was created in Osaka in the late 1920s. The robot was designed and manufactured by biologist Makoto Nishimura."
+ },
+ "genghis": {
+  "title": "Genghis_(robot)",
+  "extract": "Genghis was a six legged insect-like robot that was created by roboticist Rodney Brooks at MIT around 1991. Brooks wanted to solve the problem of how to make robots intelligent and suggested that it is possible to create robots that displayed intelligence by using a \"subsumption architecture\" which is a type of reactive robotic architecture where a robot can react to the world around them. His paper \"Intelligence Without Representation\", which is still widely respected in the fields of robotics and Artificial Intelligence, further outlines his theories on this."
+ },
+ "global-explorer-rov": {
+  "title": "Global_Explorer_ROV",
+  "extract": "Global Explorer ROV is a unique deep water remotely operated vehicle that has made numerous dives below 9,000 feet (2,700 m) on science and survey expeditions for National Geographic, the National Oceanographic and Atmospheric Administration (NOAA) and other research organizations. It was designed and built by Chris Nicholson of Deep Sea Systems International, Inc. of Falmouth, Massachusetts."
+ },
+ "goldfish-class-rouv": {
+  "title": "Goldfish-class_ROUV",
+  "extract": "The Goldfish class remotely operated underwater vehicle (ROUV) is a class of light ROUV developed by the Shenyang Institute of Automation of the Chinese Academy of Sciences. It is in service with both the People's Liberation Army Navy (PLAN) and other civilian agencies of the People's Republic of China."
+ },
+ "hadal-arv": {
+  "title": "Hadal_ARV",
+  "extract": "Hadal ARV is a type of very little known unmanned underwater vehicle (UUV) built in the People's Republic of China (PRC). ARV stands for Autonomous Remotely-controlled Vehicle, an idea pioneered in China by Shenyang Institute of Automation (SIA) of Chinese Academy of Sciences (CAS), and SIA is also the developer of Hadal ARV and its predecessor Arctic ARV, as well as Hadal 1 ARV, the successor of Hadal ARV. Hadal and its predecessor Arctic series ARVs are the Chinese counterparts of Nereus hybrid unmanned underwater vehicle, because just like Nereus hybrid UUV, these ARVs can operate both as an AUV or a ROUV."
+ },
+ "hammerhead-usv-t": {
+  "title": "Hammerhead_USV-T",
+  "extract": "The Hammerhead USV-T is a remote-controlled, high-speed seaborne target drone used for naval training. The craft is built and produced by Meggitt Training Systems in cooperation with A. F. Theriault & Son Ltd and approximately eighty other companies that produce innards and accessories of the boats. The Hammerhead USV-T is used for tactical training scenarios at sea."
+ },
+ "havelsan-barkan": {
+  "title": "Havelsan_Barkan",
+  "extract": "The Havelsan Barkan is a prototype of a Turkish unmanned ground combat vehicle developed by HAVELSAN for the needs of the Turkish Land Forces and the law enforcement forces."
+ },
+ "hoap": {
+  "title": "HOAP",
+  "extract": "The HOAP series robots are an advanced humanoid robot platform manufactured by Fujitsu Automation in Japan. HOAP is an abbreviation for \"Humanoid for Open Architecture Platform\"."
+ },
+ "hsu-001": {
+  "title": "HSU-001",
+  "extract": "HSU-001 is a class of Chinese unmanned underwater vehicle. It is a large displacement unmanned underwater vehicle (LDUUV). The HSU-001 has limited endurance and is expected to be complemented by longer range UUVs in Chinese service."
+ },
+ "hui-long-class-uuv": {
+  "title": "Hui_Long-class_UUV",
+  "extract": "The Hui Long-class UUV (慧龍號無人潛艦) is a Taiwanese class of unmanned underwater vehicle. It is a joint project of the National Chung-Shan Institute of Science and Technology (NCSIST) and Lungteh Shipbuilding."
+ },
+ "indro": {
+  "title": "Indro_robot",
+  "extract": "Indro is a humanoid robot built in India. At 6.5 feet (2.0 m), it is the tallest such robot in India."
+ },
+ "inmoov": {
+  "title": "InMoov",
+  "extract": "InMoov is a humanoid robot, constructed out of 3D printable plastic body components, and controlled by Arduino microcontrollers."
+ },
+ "intelligent-water-class-auv": {
+  "title": "Intelligent_Water_class_AUV",
+  "extract": "Intelligence class autonomous underwater vehicle (AUV) is a class of little known underwater vehicle developed by Shipbuilding Engineering Institute (船舶工程学院) of Harbin Engineering University (HEU) for the People's Liberation Army Navy (PLAN) of the People's Republic of China (PRC). The general designer of Intelligence Water AUVs is Mr. Xu Yu-Ru."
+ },
+ "isaacrobot": {
+  "title": "IsaacRobot",
+  "extract": "IsaacRobot is a biped humanoid robot, produced and realized by the IsaacTeam, a group of students of the Politecnico di Torino."
+ },
+ "jason-jr": {
+  "title": "Jason_Jr.",
+  "extract": "Jason Junior, also called JJ, was a small remotely operated vehicle (ROV) designed and built by the Deep Submergence Laboratory at the Woods Hole Oceanographic Institute (WHOI). Jason Jr. was a prototype for a larger, more capable ROV named Jason, which was being developed to complement the Argo uncrewed undersea video camera sled."
+ },
+ "jessiko": {
+  "title": "Jessiko",
+  "extract": "Jessiko is a 22 centimetres (8.7 in) long autonomous robot fish developed by French start-up Robotswim, located in Palaiseau, Paris area."
+ },
+ "k10": {
+  "title": "K-10_robot",
+  "extract": "K10 are rovers used to explore planetary surfaces. Each third-generation K10 has four-wheel drive, all-wheel steering and a passive averaging suspension. This helps reduce the motion induced by travel over uneven ground. The K10 has mounting points on its front, back, and bottom that allows for antennas, sensors, and other scientific instruments to be attached. The K10 controller runs on a Linux laptop and communicates via 802.11g wireless, or a Tropos mesh wireless."
+ },
+ "kasif": {
+  "title": "Kaşif_ROUV",
+  "extract": "\nKaşif is a Turkish remotely operated underwater vehicle (ROUV) developed to perform various tasks at underwater drilling works during gas exploration."
+ },
+ "kilobot": {
+  "title": "Kilobot",
+  "extract": "The Kilobot is a 3.3 cm tall low-cost swarm robot developed by Radhika Nagpal and Michael Rubenstein at Harvard University. They can act in groups, to execute commands programmed by users that could not be executed by individual robots. A problem with research on robot collectives is that the cost of individual units is high. The Kilobot's total cost of parts is under $15. In addition to low cost, it has applications such as collective transport, human-swarm interaction, and shape self-assembly."
+ },
+ "kinarm": {
+  "title": "KINARM",
+  "extract": "Kinesiological Instrument for Normal and Altered Reaching Movement (KINARM) is an interactive robotic tool to allow researchers to quantify sensory, motor and cognitive function of the brain through behavioural tasks using the upper limb. There are two types of KINARMs - the KINARM Exoskeleton and the KINARM End-Point. The technology is used by both basic and clinical researchers in order to develop a greater understanding of the neurological impacts of a variety of injuries and diseases. KINARMs allow researchers to collect more objective and quantitative data to quantify brain function than traditional methods. The devices are created by BKIN Technologies Ltd., doing business as Kinarm, in Kingston, Ontario."
+ },
+ "kobian": {
+  "title": "Kobian",
+  "extract": "Kobian is a robot created by scientists at Waseda University in Japan. It is capable of displaying expressions of emotion and was developed to realize culture-specific greetings. It can also simulate human speech including the movement of the lips and the oscillations of the head."
+ },
+ "kota-the-triceratops": {
+  "title": "Kota_the_triceratops",
+  "extract": "Kota the Triceratops was an animatronic toy dinosaur made by Hasbro and Playskool. It is modeled after a Triceratops, and intended for children aged 3 to 6."
+ },
+ "laffing-sal": {
+  "title": "Laffing_Sal",
+  "extract": "Laffing Sal is one of several animatronic characters that were built primarily to attract carnival and amusement park patrons to funhouses and dark rides throughout the United States. Its movements were accompanied by a raucous laugh that sometimes frightened small children and annoyed adults."
+ },
+ "land-walker": {
+  "title": "Land_Walker",
+  "extract": "The Land Walker is the first 3.4-meter-tall (11 ft) bipedal vehicle. Despite its name, it does not actually walk—instead shuffling on wheels hidden under its \"feet\" at approximately 1.5 km/h (1 mph). It was invented by Masaaki Nagumo and created by researchers who hope to someday create similar machines to be used in the military and law enforcement."
+ },
+ "laundroid": {
+  "title": "Laundroid",
+  "extract": "Laundroid was a laundry-folding machine and home robot, used to automatically wash, dry, iron, sort and fold clothes to a dedicated closet. It was dubbed to be the world's first laundry folding robot, and was planned to go on sale in Japan first, and subsequently, in a limited number, in the United States. Release date was set to 2017, with pre-orders starting in March 2017."
+ },
+ "lewis": {
+  "title": "Lewis_(robot)",
+  "extract": "Lewis is an autonomous robot that performs the job of a wedding photographer: it attends social events, moves around, and takes digital photographs of people. It is a research project of the Media and Machines Laboratory at Washington University in St. Louis."
+ },
+ "liberdade-class-underwater-glider": {
+  "title": "Liberdade_class_underwater_glider",
+  "extract": "Liberdade class blended wing bodies are autonomous underwater gliders developed by the US Navy Office of Naval Research which use a blended wing body hullform to achieve hydrodynamic efficiency. It is an experimental class whose models were originally intended to track quiet diesel electric submarines in littoral waters, moving at 1–3 knots and remaining on station for up to six months. Liberdade was a ship built by Joshua Slocum, prior to the one he single-handedly piloted around the world."
+ },
+ "looj": {
+  "title": "Looj",
+  "extract": "iRobot Corporation is an American technology company that designs and builds consumer robots. It was founded in 1990 by three members of MIT's Artificial Intelligence Lab, who designed robots for space exploration and military defense. The company's products include a range of autonomous home vacuum cleaners (Roomba), floor moppers, and other autonomous cleaning devices."
+ },
+ "magpie": {
+  "title": "MAGPIE_(rover)",
+  "extract": "MAGPIE is a lunar rover under development by ispace for the European Space Agency (ESA). It will be the first lunar rover mission by ESA. The launch of MAGPIE is planned for 2029 on ispace Mission 4. Its primary mission is to search for water ice in the lunar south pole region."
+ },
+ "mahru": {
+  "title": "MAHRU_&_AHRA",
+  "extract": "MAHRU & AHRA are humanoid robots design and developed by KIST. Unlike other robots such as ASIMO, they can obtain artificial intelligence from certain networks. They made public appearances in South Korea."
+ },
+ "marcbot": {
+  "title": "MARCbot",
+  "extract": "The Multi-function Agile Remote-Controlled Robot (MARCbot) is a military robot created by Exponent Inc. for the United States Army Rapid Equipping Force."
+ },
+ "markv-a1": {
+  "title": "MarkV-A1",
+  "extract": "MarkV-A1 or Mark5-A1 is a bomb disposal robot designed by Northrop Grumman for the purpose of handling potential explosives without risking any lives. It is part of the Remotec ANDROS line, which includes other robotic EODs. First responders around the world depend on the MarkV to handle potential hazards and explosives from outside the danger zone. Typically, police forces and departments in large cities have a designated bomb squad or unit for the purpose of handling potential explosives as well as hazardous materials or threats; and the MarkV is a technological feat that several of these units have in their arsenal for exactly that reason."
+ },
+ "marvin": {
+  "title": "Marvin_(robot)",
+  "extract": "Mobile Autonomous Robot Vehicle for Indoor Navigation (Marvin) is a mobile robot developed at Robotics Lab at University of Kaiserslautern, Germany.\nThis platform consists of a differential drive, a bumper for basic operational safety, planar laser range scanners at the front and back side for obstacle detection, a belt of ultrasonic sensors for recognizing jutting edges such as table tops, a web cam, another fixed laser scanner at a height of one meter for a view free of clutter and a stereo microphone system for localization of sound sources. Its control system follows a behavior-based approach and its mapping abilities rely on a 2D geometric and topological strategy."
+ },
+ "matilda": {
+  "title": "MATILDA",
+  "extract": "Mesa Associates' Tactical Integrated Light-Force Deployment Assembly (MATILDA) is a remote controlled surveillance and reconnaissance robot, created and designed by the 'Mesa Robotics Corporation'. It is available in many different models such as the Urban Warrior, Block II, and Scout, which feature different combinations of components for increased utility. These options include a sensor mount, manipulator arm, weapon mount, fiber optic reel, remote trailer release, and disrupter mount. When purchased the basic system includes the platform, the control unit, and battery charger."
+ },
+ "maya-auv": {
+  "title": "Maya_AUV_India",
+  "extract": "Maya AUV is an autonomous underwater vehicle (AUV), developed by the Marine Instrumentation Division at the National Institute of Oceanography (NIO), India."
+ },
+ "meister": {
+  "title": "MEISTeR",
+  "extract": "The Maintenance Equipment Integrated System of Telecontrol Robot (MEISTeR) is a service robot by the Mitsubishi Heavy Industries (MHI). It was specifically designed to work at the devastated Fukushima Daiichi Nuclear Power Plant."
+ },
+ "milos": {
+  "title": "Miloš_(unmanned_ground_vehicle)",
+  "extract": "Miloš, also called Little Miloš, is an unmanned ground vehicle (UGV) developed by the Military Technical Institute, following the development of the unmanned ground vehicle Milica in 2009. UGV Miloš is in serial production and its first customer is the Serbian Armed Forces."
+ },
+ "modular-advanced-armed-robotic-system": {
+  "title": "Modular_Advanced_Armed_Robotic_System",
+  "extract": "The Modular Advanced Armed Robotic System (MAARS) is a robot that is being developed by Qinetiq. A member of the TALON family, it will be the successor to the armed SWORDS robot. It has a different, larger chassis than the SWORDS robot, so has little physically in common with the SWORDS and TALON"
+ },
+ "modulus": {
+  "title": "Modulus_robot",
+  "extract": "Modulus is a household robot developed by Sirius, a company founded by Massimo Giuliana in 1982 to market home and personal computers. In 1984, Sirius began developing its own domestic robot, leading to the creation of the first Modulus prototype. Following the initial prototype, Japanese designer Isao Hosoe, who was based in Milan, was commissioned to design the robot’s exterior and later contributed to a broader technological redesign. The electronic and mechanical components were designed and manufactured by Data Process, while the software was developed with the assistance of the U.S.-based RB Robot Corporation, founded by Joseph H. Bosworth."
+ },
+ "molecubes": {
+  "title": "Molecubes",
+  "extract": "Molecubes are a collection of modular robots created by Hod Lipson, Victor Zykov and Stathis Mytilinaios from Cornell University. A molecube is made of two rotatable halves, one with the microprocessor which represents the intelligence behind the unit, and the other with a motor for rotating the joint. A group of the cubes can be connected into a variety of shapes."
+ },
+ "mule": {
+  "title": "Multifunctional_utility/logistics_and_equipment_vehicle",
+  "extract": "The multi-mission unmanned ground vehicle, previously known as the multifunctional utility/logistics and equipment vehicle (MULE), was an autonomous unmanned ground combat vehicle developed by Lockheed Martin Missiles and Fire Control for the United States Army's Future Combat Systems and BCT modernization programs. The last component of the program was canceled in July 2011."
+ },
+ "muppet-mobile-lab": {
+  "title": "Muppet_Mobile_Lab",
+  "extract": "Muppet Mobile Lab was a free-roving, Audio-Animatronics entertainment attraction designed by Walt Disney Imagineering, that was tested at Disney California Adventure in Anaheim, California, at Walt Disney World in Orlando, Florida and at Hong Kong Disneyland in Hong Kong."
+ },
+ "murata-boy-and-murata-girl": {
+  "title": "Murata_Boy_and_Murata_Girl",
+  "extract": "Murata Boy and Murata Girl are two self-balancing robots developed by Murata Manufacturing, a Japanese electronic components company. The company developed the robots to showcase a range of their products and generate publicity. The robots are designed to be as energy-efficient as possible, both in their basic technological components and through features like automatic sleep mode."
+ },
+ "neuroarm": {
+  "title": "NeuroArm",
+  "extract": "NeuroArm is an engineering research surgical robot specifically designed for neurosurgery. It is the first image-guided, MR-compatible surgical robot that has the capability to perform both microsurgery and stereotaxy."
+ },
+ "nomad-200": {
+  "title": "Nomad_200",
+  "extract": "The Nomad 200 or N200 was a commercial research robot manufactured in the 1990s by Nomadic Technologies, Inc. It is an integrated mobile system robot built with different sensing options and was primarily built for laboratory courses in robotics as well as for research and development work."
+ },
+ "nova-5": {
+  "title": "Nova_5",
+  "extract": "Nova 5 is an autonomous robot designed for intelligent search and rescue applications created by two electronics engineers and brothers Fady and Sami Khaled. Unlike remote-controlled robots, Nova 5 uses artificial intelligence to interpret its surroundings, process the information and then navigate independently. It operates via a built-in fuzzy neural network which mimics the function of the human brain’s neurons."
+ },
+ "ocean-aero-triton": {
+  "title": "Ocean_Aero_Triton",
+  "extract": "The Triton is an autonomous underwater and surface vehicle (AUSV) developed and manufactured by the US-based Ocean Aero company. As of 2026, it is the only type of naval drone capable of operating autonomously both on the surface and underwater. It relies on solar and wind power for propulsion and is designed for long-duration missions."
+ },
+ "omnibot": {
+  "title": "Omnibot",
+  "extract": "The Omnibot (オムニボット) is a toy robot originally manufactured by Tomy in the mid-1980s. The name then came to apply to the successful line of robots manufactured by the company. The initial Omnibot was announced with expectations of restoring popular interest in robots, at a time when it was becoming obvious that robots with advanced AI were still a long way away. A more advanced version of the Omnibot was called the Omnibot 2000 and did not have a plastic bubble over its head. With the success of the Omnibots, the Omnibot range quickly expanded. After the video game crash of 1983 and its debilitating effect on the nascent home electronics industry, the Omnibot faded away but it was revived in the early 2000s. The latest version of the Omnibot is the i-SOBOT."
+ },
+ "orca": {
+  "title": "Orca_(AUV)",
+  "extract": "The Orca is an autonomous underwater vehicle (AUV) that is under development by Boeing and Huntington Ingalls Industries (HII) for the United States Navy."
+ },
+ "paro": {
+  "title": "Paro_(robot)",
+  "extract": "PARO is a therapeutic baby harp seal robot, intended to be very cute and to have a calming effect on and elicit emotional responses in patients of hospitals and nursing homes, similar to animal-assisted therapy except using robots."
+ },
+ "plen": {
+  "title": "Plen",
+  "extract": "PLEN is a small desktop toy humanoid robot that can replicate complex human movements. It is controlled remotely by use of a Bluetooth enabled phone. When programmed, it is able to use a skateboard, rollerskates, pick up, kick and throw small things, and stand up if he tumbles to the floor. It does not feature any sensors or automatic software reactions to certain events, as it is entirely remote-controlled."
+ },
+ "pleo": {
+  "title": "Pleo",
+  "extract": "PLEO is an animatronic pet dinosaur toy manufactured by Innvo Labs, a company located in both Hong Kong and Nevada. The toy has the appearance and (imagined) behavior of a week-old baby Camarasaurus dinosaur. It was designed by Caleb Chung, the co-creator of the Furby, Chung's company Ugobe first sold Pleo and was manufactured by Jetta Company Limited. The species of dinosaur chosen allows for concealing the sensors and motors needed for the animation, since it has a big body shape and relatively large head. According to their website, each Pleo would \"learn\" from its experiences and environment through artificial intelligence and develop an individual personality."
+ },
+ "pluto-plus": {
+  "title": "Pluto_Plus",
+  "extract": "The Pluto Plus is an Unmanned Underwater Vehicle (UUV) designed for use in underwater mine identification and destruction by militaries. The vehicle is battery operated, has a maximum speed of 6 kt, and an endurance of 2 to 6 hours. Its ability to be fitted with a wireless link makes it suitable for counter-terrorism purposes. The Pluto's UUV family is developed and build by the company Gaymarine Srl in Lomazzo (Italy). The Columbia Group is the exclusive licensee for fabrication of the Pluto Plus in the United States."
+ },
+ "porton-man": {
+  "title": "Porton_Man",
+  "extract": "Porton Man is an animatronic, humanoid robot, commissioned by the Defence Science and Technology Laboratory (DSTL) and designed and built by i-bodi Technology, primarily to test the capability of protective clothing used by the UK armed forces."
+ },
+ "prowler": {
+  "title": "PROWLER",
+  "extract": "PROWLER was a mid-1980s experimental robot mobile sentry gun device. The name was an acronym standing for \"Programmable Robot Observer With Logical Enemy Response\"."
+ },
+ "puma": {
+  "title": "Programmable_Universal_Machine_for_Assembly",
+  "extract": "The PUMA is an industrial robotic arm developed by Victor Scheinman at pioneering robot company Unimation. Initially developed by Unimation for General Motors, the PUMA was based on earlier designs Scheinman invented while at Stanford University based on sponsorship and mentoring from robot inventor George Devol."
+ },
+ "push-the-talking-trash-can": {
+  "title": "Push_the_Talking_Trash_Can",
+  "extract": "Push the Talking Trash Can was a radio-controlled robot which made daily rounds throughout Tomorrowland at Disneyland and Disney California Adventure Park, Disneyland Paris, Tokyo Disneyland in Japan and formerly the Magic Kingdom at Walt Disney World. He still makes daily rounds at Hong Kong Disneyland park."
+ },
+ "pussycat": {
+  "title": "Pussycat_(robot)",
+  "extract": "Robot Wars is a British robot combat television series created by Tom Gutteridge and Stephen Carsey which aired from 1998 to 2004 and from 2016 to 2018. The series involves teams of amateur and professional roboteers operating remote-controlled robots to fight against each other in an arena, which features hazards and the heavier \"House Robots\" which are hostile to all combatants. The first two series also included assault and trial courses."
+ },
+ "raposa": {
+  "title": "RAPOSA",
+  "extract": "RAPOSA is a Portuguese robot for Search and Rescue (SAR) operations, designed to operate in outdoors hazardous environments, such as debris resulting from structure collapses. At this stage, the robot is equipped for search operations only, defined as the tele-operated detection of victims, using specific sensors, whose information is transmitted to the remote operator. The robot equipment (sensors) may be adapted to the specific needs. It may include conventional cameras, one thermal camera, several explosive and toxic gas sensors, temperature and humidity sensors, inclinometers, artificial lights, microphone and speakers. The robot dimensions are length: 75 cm, width: 37 cm, height: 17,5 cm and weight: 27 kg."
+ },
+ "rashmi": {
+  "title": "Rashmi_Robot",
+  "extract": "Rashmi is an Indian lip-syncing humanoid robot developed by Ranjit Shrivastava, a programmer from Ranchi, India."
+ },
+ "ravon": {
+  "title": "RAVON",
+  "extract": "RAVON is a robot being developed at the Robotics Research Lab at University of Kaiserslautern, Germany. The vehicle is used, as a testbed to investigate behaviour-based strategies on motion adaptation, localization and navigation in rough outdoor terrain. The basis vehicle was produced by Robosoft."
+ },
+ "reactorsaurus": {
+  "title": "Reactorsaurus",
+  "extract": "Reactorsaurus is a robot designed to deconstruct the defunct nuclear reactor at Dounreay in Caithness where the conditions have become too dangerous to work in due to neutron activation."
+ },
+ "remus": {
+  "title": "REMUS_(vehicle)",
+  "extract": "The REMUS series is autonomous underwater vehicles (AUVs) made by the Woods Hole Oceanographic Institution and designed by their Oceanographic Systems Lab (OSL). More recently REMUS vehicles have been manufactured by the spinoff company Hydroid Inc, which was a wholly owned subsidiary of Kongsberg Maritime. Hydroid was acquired by Huntington Ingalls Industries (HII) in March 2020.\nThe series is designed to be low cost, they have shared control software and electronic subsystems and can be operated from a laptop computer. They are used by civilians for seafloor mapping, underwater surveying, and search and recovery as well as by several navies for mine countermeasures missions."
+ },
+ "ripsaw": {
+  "title": "Ripsaw_(vehicle)",
+  "extract": "The Ripsaw is a series of developmental unmanned ground combat vehicles designed by Howe & Howe Technologies for evaluation by the United States Army."
+ },
+ "robattle": {
+  "title": "Robattle",
+  "extract": "Robattle, stylized RoBattle, is a modular military robot unmanned ground vehicle developed by Israel Aerospace Industries."
+ },
+ "robobee": {
+  "title": "RoboBee",
+  "extract": "RoboBee is a tiny robot capable of partially untethered flight, developed by a research robotics team at Harvard University. The culmination of twelve years of research, RoboBee solved two key technical challenges of micro-robotics. Engineers invented a process inspired by pop-up books that allowed them to build on a sub-millimeter scale precisely and efficiently. To achieve flight, they created artificial muscles capable of beating the wings 120 times per second."
+ },
+ "roboboa": {
+  "title": "Roboboa",
+  "extract": "Roboboa is a robotic snake produced by WowWee. Roboboa has 4 angled body sections, allowing Roboboa to coil by rotating adjacent sections. A motorized tail roller and casters on the midsection allow Roboboa to move in a straight line."
+ },
+ "robonaut": {
+  "title": "Robonaut",
+  "extract": "A robonaut is a humanoid robot, part of a development project conducted by the Dexterous Robotics Laboratory at NASA's Lyndon B. Johnson Space Center (JSC) in Houston, Texas. Robonaut differs from other current space-faring robots in that, while most current space robotic systems are designed to move large objects, Robonaut's tasks require more dexterity."
+ },
+ "robopanda": {
+  "title": "Robopanda",
+  "extract": "Robopanda is a robotic interactive companion produced by WowWee. The Robopanda uses interchangeable cartridges that contain personalities, stories and songs, and is controlled directly by touch and sound sensors. Robopanda is labeled for use by children ages 9 and up."
+ },
+ "robosapien-v2": {
+  "title": "Robosapien_v2",
+  "extract": "The Robosapien V2 is the second generation of Mark Tilden's RoboSapien robot. It is nearly twice the size of the original robot, standing around 1.85 feet (56 cm) tall. Instead of the original caveman grunts, the V2 can speak a large list of pre-recorded phrases. It has infrared and basic color recognition sensors, grip sensors in its hands, touch or contact activated hand and foot sensors, and sonic sensors. For movement, the V2 has an articulated waist, shoulders, and hands giving him a variety of body animations."
+ },
+ "robosquirrel": {
+  "title": "Robosquirrel",
+  "extract": "Robosquirrel refers to several versions of robotic squirrels developed by researchers at the University of California, Davis and San Diego State University. Robosquirrel is currently in use and development in an interdisciplinary research project that uses biorobotics to investigate how communication between prey and predators evolve in response to each other. It has received extensive science and popular media coverage. \nIt stirred controversy when Senator Tom Coburn listed it in his Wastebook 2012 as a scientific research project that wastes United States federal tax dollars. \nSenator Coburn's release of Wastebook 2012 was quickly picked up by the popular media and the robosquirrel project was the headline of many media stories."
+ },
+ "robostrider": {
+  "title": "Robostrider",
+  "extract": "Robostrider is a self-propelled robot which uses similar mechanisms to real water striders in order to glide along the surface of the water. It was developed at Cambridge, Massachusetts."
+ },
+ "robot-wolf": {
+  "title": "Robot_wolf",
+  "extract": "Robot wolf is a type of Chinese weaponized quadrupedal military robot and a part of the unmanned ground combat vehicle platform for the People’s Liberation Army."
+ },
+ "robotis-bioloid": {
+  "title": "Robotis_Bioloid",
+  "extract": "The Robotis Bioloid is a hobbyist and educational robot kit produced by the South Korean robot manufacturer Robotis. The Bioloid platform consists of components and small, modular servomechanisms called the AX-12A Dynamixels, which can be used in a daisy-chained fashion to construct robots of various configurations, such as wheeled, legged, or humanoid robots. The Robot is programmed with RoboPlus, C based software. The Bioloid system is thus comparable to the Lego Mindstorms, and VEX Robotics VEXplorer kits."
+ },
+ "roboty": {
+  "title": "Roboty",
+  "extract": "ROBOTY is a differential wheeled robot with self-balancing, motion, speech and object recognition capabilities. ROBOTY is also the first autonomous robot in Yemen, all of which will be primarily controlled by voice commands. The final goal of this research project is to build a robot capable of playing chess."
+ },
+ "roo-ver": {
+  "title": "Roo-ver_(lunar_rover)",
+  "extract": "Roo-ver is Australia's first lunar rover funded by the Australian Space Agency (ASA) and is being built by industry consortium ELO2. It is scheduled for launch to the Moon’s south pole region aboard Intuitive Machines Nova-D lander in 2030."
+ },
+ "ropid": {
+  "title": "Ropid",
+  "extract": "Ropid is a tiny robot designed and developed by Tomotaka Takahashi of Robo Garage at Kyoto University.\nThe name of the robot is a combination of Robot and Rapid."
+ },
+ "ropos": {
+  "title": "ROPOS",
+  "extract": "ROPOS  is an remotely operated underwater vehicle used primarily for scientific research. It was originally built in Vancouver by International Submarine Engineering and purchased by the Canadian federal government. The same government program also operated the Pisces IV crewed submersible, now in Hawaii being run by the Hawai'i Undersea Research Laboratory (HURL) who found the long-lost two-man Japanese sub which heralded the attack on Pearl Harbor."
+ },
+ "rosalind-franklin": {
+  "title": "Rosalind_Franklin_(rover)",
+  "extract": "Rosalind Franklin, previously known as the ExoMars rover, is a planned European robotic Mars rover, part of the international astrobiology programme ExoMars led by the European Space Agency (ESA). The rover is named after Rosalind Franklin, a British chemist and DNA research pioneer. Rosalind Franklin will be the first Mars rover to drill into a depth of up to two metres below the planet's surface. The rover was designed to search for biomolecules or biosignatures from past life. Its core task is to determine whether life ever existed on Mars, or still does today. As of 2026, Rosalind Franklin is expected to launch in 2028 on a Falcon Heavy rocket. The rover, together with the Airbus-built landing platform EDLM, will travel to Mars inside the Descent Module, connected to the Carrier Module. The Trace Gas Orbiter (TGO), launched in 2016, will operate as the data-relay satellite of Rosalind Franklin."
+ },
+ "rov-kiel-6000": {
+  "title": "ROV_KIEL_6000",
+  "extract": "The ROV KIEL 6000 is a remotely operated vehicle built by Schilling Robotics, Davis, California. It's in the possession of the German GEOMAR - Helmholtz Centre for Ocean Research Kiel. The ROV has been designed for certain scientific tasks with a max. operational depth of 6,000 m. The ROV is electrically powered and directly linked to the operating ship via a deep-sea glass fiber cable. It can be operated from ships of opportunity which fulfill certain requirements such as deck space and stability, power supply, dynamic positioning and crane/winch capacities."
+ },
+ "rov-odysseus-6k": {
+  "title": "ROV_Odysseus_6K",
+  "extract": "ROV Odysseus 6K is a remotely operated underwater vehicle designed and operated by Pelagic Research Services of South Wellfleet, Massachusetts. The ROV is named for Odysseus, protagonist of the Odyssey, and its maximum rated depth, 6,000 m (20,000 ft), measured as metre sea water."
+ },
+ "rov-phoca": {
+  "title": "ROV_PHOCA",
+  "extract": "ROV PHOCA is a remotely operated underwater vehicle of the COMANCHE type. It was built by sub-Atlantic, Aberdeen, Scotland and is owned by the GEOMAR - Helmholtz Centre for Ocean Research Kiel. Its smaller size compared to the ROV KIEL 6000 and therefore its deploy ability from medium-sized research vessels makes it a complement to the QUEST type ROV. It can dive up to 3000m and was designed as a Work-Class- and Intervention-ROV."
+ },
+ "rov-subastian": {
+  "title": "ROV_SuBastian",
+  "extract": "The ROV SuBastian is a remotely operated underwater vehicle owned and operated by the Schmidt Ocean Institute from its research vessel RV Falkor (too) for scientific exploration of the deep sea. It can reach depths up to 4,500m. The tethered robot has an array of scientific capability which includes:Deploying and recovering scientific equipment\nPhotomosaicing\nSample collection\nSeawater characterization\nSeafloor mapping\n4k High-resolution video"
+ },
+ "rovio": {
+  "title": "Rovio_(robot)",
+  "extract": "Rovio is a Wi-Fi enabled robot manufactured by WowWee which lets its user view what the robot's webcam sees from anywhere in the world. It can be accessed and controlled via an internet connection from any PC, Mac, Cell Phone, Smartphone, PDA or PSP."
+ },
+ "rs-media": {
+  "title": "RS_Media",
+  "extract": "The RS Media is a product in WowWee's line of biomorphic robots, based on a walking system designed by Mark Tilden. The RS Media's body is based on the Robosapien V2, but its software is based on a Linux kernel. As the name implies, the RS Media's focus is on multimedia capabilities, including the ability to record and playback audio, pictures and video. It has a similar sensor array and programmability to the Robosapien V2."
+ },
+ "rubot-ii": {
+  "title": "RuBot_II",
+  "extract": "RuBot II is a Rubik's Cube solving robot developed by Irish roboticist and inventor Pete Redmond. RuBot II is also known as RuBot II, the Cubinator. RuBot II became the world's fastest Rubik's Cube-solving robot, and appeared as such in the Guinness Book of World Records. There are other Rubik's Cube robots too."
+ },
+ "samsung-sgr-a1": {
+  "title": "SGR-A1",
+  "extract": "The SGR-A1 is a type of autonomous sentry gun that was jointly developed by Samsung Techwin and Korea University to assist South Korean troops in the Korean Demilitarized Zone. It is widely considered as the first unit of its kind to have an integrated system that includes surveillance, tracking, firing, and voice recognition. While units of the SGR-A1 have been reportedly deployed, their number is unknown due to the project being \"highly classified\"."
+ },
+ "sanbot": {
+  "title": "Sanbot",
+  "extract": "Sanbot is an intelligent, cloud-enabled service robot developed by Qihan Technology Co. Ltd., a robotics and AI company who has their headquarters in Shenzhen, China. Qihan has launched three generations of intelligent robots under the Sanbot brand – Sanbot Elf Sanbot King Kong and Sanbot Nano."
+ },
+ "sarcoman": {
+  "title": "Sarcoman",
+  "extract": "The Sarcoman is an entertainment robot made by Sarcos that can be remotely controlled by a human operator or computer-controlled for automated shows."
+ },
+ "sawfish-harvester": {
+  "title": "Sawfish_harvester",
+  "extract": "The Sawfish harvester is a submersible robot produced by the Triton Logging Inc. It is designed for cutting down submerged trees and popping them to the surface, with large pincers and a chainsaw. Such trees are generally submerged when dams are built near existing forests, and their wood remains good while underwater for long periods."
+ },
+ "scribbler": {
+  "title": "Scribbler_(robot)",
+  "extract": "The Scribbler is a small, low-cost fully programmable intelligent robot with multiple sensor systems. It is capable of auto navigation and interaction with its environment."
+ },
+ "sea-dragon-class-rov": {
+  "title": "Sea_Dragon-class_ROV",
+  "extract": "Sea Dragon-class remotely operated underwater vehicles (ROUVs) are a class of Chinese remotely operated vehicle (ROV) used to perform various underwater tasks such as oil platform service, salvage, and rescue missions. Following the successful development of the original Sea Dragon (海龙), a series of ROUVs based on it have been developed. The original model had a diving capability up to 3,500 meters, but subsequent models were designed to meet a variety of operating conditions."
+ },
+ "seafox": {
+  "title": "Seafox_drone",
+  "extract": "The SeaFox is an anti-mine Unmanned underwater vehicle (UUV) manufactured by German company Atlas Elektronik. It is designed to locate and destroy ground and moored mines. There are three versions, including a training version. The orange SeaFox-I \"inspection\" variant has sonar and an Inertial navigation system, and the black SeaFox-C \"combat\" round also has a 1.4 kilograms (3.1 lb) shaped charge warhead. The system is in service with eleven navies."
+ },
+ "sensei-x": {
+  "title": "Sensei_robotic_catheter_system",
+  "extract": "The Sensei X robotic catheter is a medical robot designed to enhance a physician’s ability to perform complex operations using a small flexible tube called a catheter. As open surgical procedures that require large incisions have given way to minimally invasive surgeries in which the surgeon gains access to the target organs through small incisions using specialized surgical tools. One important tool used in many of these procedures is a catheter used to deliver many of things a surgeon needs to do his work, to impact target tissue and deliver a variety of medicines or disinfecting agents to treat disease or infection."
+ },
+ "sentry": {
+  "title": "Sentry_(AUV)",
+  "extract": "The Sentry is an autonomous underwater vehicle (AUV) made by the Woods Hole Oceanographic Institution. Sentry is designed to descend to depths of 6,000 metres (20,000 ft) and to carry a range of devices for taking samples, pictures and readings from the deep sea."
+ },
+ "seropi": {
+  "title": "Seropi",
+  "extract": "SEROPI is a wheel based humanoid robot developed by KITECH."
+ },
+ "sewbo": {
+  "title": "Sewbo",
+  "extract": "Sewbo is an industrial sewing robot invented by Sewbo, Inc., a company based in Seattle, Washington."
+ },
+ "shadow-dexterous-hand": {
+  "title": "Shadow_Hand",
+  "extract": "The Shadow Dexterous Hand is a humanoid robot hand system developed by The Shadow Robot Company in London. The robotic hand is comparable to a human hand in size and shape and reproduces all of its degrees of freedom. The hand is commercially available in pneumatic- and electric-actuated models and currently used in a wide range of institutions including NASA, Bielefeld University, and Carnegie Mellon University, as well as EU research projects such as HANDLE."
+ },
+ "shalu": {
+  "title": "Shalu_Robot",
+  "extract": "Robot Shalu is a social and educational humanoid robot developed by Dinesh Kunwar Patel, an Indian computer science teacher from Mumbai, using waste materials."
+ },
+ "sina-robotic-surgical-system": {
+  "title": "Sina_Robotic_Surgical_System",
+  "extract": "The Sina Robotic Surgical System is a robotic surgical system that uses a minimally invasive surgical approach. The system is manufactured by the company Sina Robotics and Medical Innovators. The system is used for prostatectomies, and increasingly for cardiac valve repair, and for renal and gynecologic surgical procedures."
+ },
+ "sjt-class-rouv": {
+  "title": "SJT-class_ROUV",
+  "extract": "SJT-class ROUVs are a series of Chinese remotely operated underwater vehicles (ROUVs) jointly developed by the Shenyang Institute of Automation of the Chinese Academy of Sciences and the Institute of Underwater Engineering of Shanghai Jiao Tong University (SHJTU). The general designer of the SJT-class of ROUVs is Zhu Jimao (朱继懋), a professor at SHJTU, who also was the general designer of the earlier Type 7103 DSRV. Many more ROUVs have been developed after the SJT series, based on experience gained from this series."
+ },
+ "slicer": {
+  "title": "Slicer_(robot)",
+  "extract": "Robot Wars is a British robot combat television series created by Tom Gutteridge and Stephen Carsey which aired from 1998 to 2004 and from 2016 to 2018. The series involves teams of amateur and professional roboteers operating remote-controlled robots to fight against each other in an arena, which features hazards and the heavier \"House Robots\" which are hostile to all combatants. The first two series also included assault and trial courses."
+ },
+ "sofie": {
+  "title": "Sofie_(surgical_robot)",
+  "extract": "The Surgeon’s Operating Force-feedback Interface Eindhoven (SOFIE) surgical robot is a surgical robot developed at the Eindhoven University of Technology. It was developed as part of a Ph.D. thesis by Dr. Ir. Linda van den Bedem and is the first surgical robot to incorporate force feedback."
+ },
+ "somnox-sleep-robot": {
+  "title": "Somnox_Sleep_Robot",
+  "extract": "The Somnox Sleep Robot is a capsule-shaped robot that claims to enhance quality of sleep. The capsule \"breathes\" in and out according to a fixed rhythm. The company claims that by subconsciously matching their breathing to it, people will be helped to fall asleep."
+ },
+ "spykee": {
+  "title": "Spykee",
+  "extract": "Spykee is a robotic toy made by Erector/Meccano. It contains a USB webcam, microphone and speakers. Controlled by computer locally or over the internet, the owner can move the robot to various locations within range of the local router, take pictures and video, listen to surroundings with the on-board microphone and play sounds/music or various built-in recordings through the speaker. Spykee has a WiFi connectivity to let him access the Internet using both ad hoc and infrastructure modes.\nThe electronics inside Spykee were built by a French start-up called WaveStorm."
+ },
+ "syrano": {
+  "title": "SYRANO",
+  "extract": "SYRANO is the first operational battlefield robot of the French military."
+ },
+ "t-52-enryu": {
+  "title": "T-52_Enryu",
+  "extract": "The T-52 Enryu is a rescue robot."
+ },
+ "talisman": {
+  "title": "Talisman_UUV",
+  "extract": "The Talisman UUV is a fully autonomous unmanned mini-sub designed and made by BAE Systems. It has the capability to perform shoreline reconnaissance when the risks may be deemed too high, or conditions unsuitable, for human operators."
+ },
+ "taurob-inspector": {
+  "title": "Taurob_Inspector",
+  "extract": "Taurob Inspector is an ATEX certified mobile robot, developed and manufactured by the Austrian company Taurob GmbH. The Inspector was developed from the Taurob Tracker as part of the OGRIP project."
+ },
+ "taurob-tracker": {
+  "title": "Taurob_tracker",
+  "extract": "Taurob tracker is a mobile robot, manufactured by Taurob GmbH in Austria. It has been originally developed as a remote controlled reconnaissance platform for fire departments.\n but is currently used also by the military, civil-defense units, universities and the oil and gas industry around the world."
+ },
+ "tekbots": {
+  "title": "TekBots",
+  "extract": "TekBots are programmable robots used by several universities to help students learn some of the fundamental concepts that are found in the fields of computer and electrical engineering."
+ },
+ "teletank": {
+  "title": "Teletank",
+  "extract": "Teletanks were a series of experimental wireless remotely controlled unmanned tanks produced in the Soviet Union in the 1930s and early 1940s so as to reduce combat risk to soldiers. A teletank is controlled by radio from a control tank at a distance of 500–1,500 metres (0.31–0.93 mi), the two constituting a telemechanical group."
+ },
+ "terabot-s": {
+  "title": "Terabot-S",
+  "extract": "The Terabot-S is a platform-agnostic robot manipulator designed by Oceaneering Space Systems in Clear Lake, Texas USA for mobile robotics applications such as first response, military EOD, surveillance, mining, research, and CBRN sampling. Since the Terabot-S is platform agnostic, it can be fitted to virtually any unmanned ground vehicle (UGV) or mobile robotic platform. The manipulator joints have integrated clutches for protection against overloads and are fully sealed against water and dust. The manipulator has a manual, tool-free, quick-release end-effector attachment mount to allow the user to rapidly change end-effectors as needed in the field."
+ },
+ "tico": {
+  "title": "Tico_Robot",
+  "extract": "Tico is a social robot developed by Adele Robots to interact with humans in different environments, primarily promotional events and in education as a helper for teachers."
+ },
+ "tilr": {
+  "title": "TiLR",
+  "extract": "TiLR is the world's first enterprise-grade telepresence robot developed by RoboDynamics Corporation. The Telepresence internet-connected Low cost Robot (TiLR) enables a user to instantly transport to a remote location whereby the robot would embody the user in the remote location. The advantage of robotic telepresence is reduced travel and downtime as well as increase throughput and collaboration."
+ },
+ "tlaloc-ii-tc": {
+  "title": "Tlaloc_II-TC",
+  "extract": "Tlaloc II - TC, also known as the Tlaloc II Robot, is a robot especially designed for the exploration of the tunnel discovered in 2003 under the Temple of the Feathered Serpent at Teotihuacan, a pre-Columbian site founded in the second century BC in central Mexico."
+ },
+ "topio-dio": {
+  "title": "TOPIO_Dio",
+  "extract": "The TOPIO Dio is a robot designed to serve in a restaurant or coffee shop, or as a cocktail bartender, which is manufactured by Vietnam-based company, Tosy. TOPIO Dio has a 3-wheel moving platform, 28 degrees of freedom and is operated remotely with a built-in camera and an obstacle detector. It is 125 cm high and weighs 45 kg."
+ },
+ "topo": {
+  "title": "Topo_(robot)",
+  "extract": "Topo is a series of robots designed in the 1980s by Androbot Inc., for the consumer and education markets. It is wirelessly programmable via an Apple II with a modified version of BASIC called TopoBASIC. The program allows the robot to perform a set of geometric movements, to move about a room and perform tasks. It is like a servant robot, although it does not truly meet the requirements of a robot, as it had no sensors to use to receive input and then make decisions accordingly. It also cannot communicate back with the Apple II any information, nor calibrate its own motors to ensure an accurate task is being performed"
+ },
+ "tradinno": {
+  "title": "Tradinno",
+  "extract": "Tradinno is a giant, animatronic, fire-breathing dragon, featured in the 2014 Guinness Book of World Records as the world largest walking robot. It plays the Dragon in the play Drachenstich in the German town of Furth im Wald. The name Tradinno is a mix of Tradition and innovation."
+ },
+ "ulaq": {
+  "title": "ULAQ",
+  "extract": "ULAQ is the prototype of the first Turkish armed unmanned surface vessel (AUSV)."
+ },
+ "ultra-trencher-1": {
+  "title": "Ultra_Trencher_1",
+  "extract": "Ultra Trencher 1 (UT1) is the world's largest submersible robot, used for burying submarine pipelines in a trench in the sea floor. It has a mass of 60 tons and measures 7.8 metres long, 7.8 metres wide, and 5.6 metres tall. It costs roughly £10 million. It can move at a speed of 2 to 3 knots when submerged and can trench pipelines with a 1-meter diameter in water up to 1,500 metres deep. It uses a pair of \"jet swords\" to create the trench by injecting pressurized water into the sediment."
+ },
+ "ulysses": {
+  "title": "Ulysses_(robot)",
+  "extract": "Athens International Airport Eleftherios Venizelos, commonly initialised as AIA, is the largest international airport in Greece, serving the city of Athens and the region of Attica as well as connecting traffic. It began operation on 28 March 2001 and is the main base of Aegean Airlines, as well as other smaller Greek airlines. It replaced the old Ellinikon International Airport."
+ },
+ "ursula": {
+  "title": "Ursula_(drone)",
+  "extract": "\nUrsula is the name of a riverine unmanned surface vehicle (USV) capable of carrying FPV drones. It was developed in Ukraine during the Russian invasion of Ukraine. It has been dubbed the world's smallest aircraft carrier."
+ },
+ "usv-maxlimer": {
+  "title": "USV_Maxlimer",
+  "extract": "USV Maxlimer is a semi-autonomous, remotely controlled unmanned surface vehicle (USV) owned and operated by the British company SEA-KIT International. She was the winning entry in the Shell Ocean Discovery X Prize competition, and subsequently has been used as a proof-of-concept vessel for uncrewed, over-the-horizon offshore operations."
+ },
+ "usv-rsv": {
+  "title": "USV_RSV",
+  "extract": "The RSV is an unmanned surface vehicle developed by the founders of Marine Tech SAS since 2008."
+ },
+ "vaimos": {
+  "title": "Vaimos",
+  "extract": "Vaimos is an autonomous sailing boat with embedded instrumentation for ocean surface measurements."
+ },
+ "vanderbilt-exoskeleton": {
+  "title": "Vanderbilt_exoskeleton",
+  "extract": "The Vanderbilt exoskeleton, marketed as Indego, is a powered exoskeleton designed by the Center for Intelligent Mechatronics at Vanderbilt University in the U.S. state of Tennessee. It is intended to assist paraplegics, stroke victims and other paralyzed or semi-paralyzed people to walk independently. Motion and control technologies manufacturer Parker Hannifin is funding further development, and plans to release the first commercial version of the exoskeleton in 2015."
+ },
+ "vertigo": {
+  "title": "VertiGo",
+  "extract": "VertiGo is a remotely controlled wheeled robot that can climb walls by using two 360° tiltable propellers that produce thrust angled both upwards and against the wall surface. It can roll horizontally up to a vertical wall, and then transition to climbing by coordinated changes in the propeller direction and thrust and the wheel traction. The VertiGo project is a collaboration between researchers of ETH Zurich and Disney Research Zurich. The VertiGo's chassis is a central carbon fiber baseplate. It has 3-D printed joints and wheel suspension parts that vary the propeller thrust and vehicle weight distribution."
+ },
+ "videoray-rovs": {
+  "title": "VideoRay_UROVs",
+  "extract": "VideoRay ROVs are a series of inspection class underwater submersible remotely operated underwater vehicles (ROV). VideoRay ROVs are operated from a suitcase-sized control panel connected to either a copper or fiber-optic tether which is then connected to the submersible."
+ },
+ "vityaz-d": {
+  "title": "Vityaz-D_Autonomous_Underwater_Vehicle",
+  "extract": "The Vityaz-D is the first full-ocean depth, fully autonomous deep submergence vehicle."
+ },
+ "walker-chess-player": {
+  "title": "Walker_Chess-player",
+  "extract": "The Walker Chess-player was a chess-playing \"machine\" created by the Walker Brothers of Baltimore, Maryland. The machine was produced in the 1820s to compete with The Turk, a world-famous chess \"machine\". Johann Nepomuk Mälzel, a Bavarian musician with an interest in various machines and devices who owned and operated the Turk, viewed the competing machine and attempted to buy it, but the offer was declined and the duplicate machine toured for a number of years, never receiving the fame that Mälzel's machine did, and eventually fell into obscurity."
+ },
+ "workerbot": {
+  "title": "Workerbot",
+  "extract": "The workerbot is a trademark, which was developed by the pi4 robotics GmbH to describe an industrial robot, which was modeled with its possibilities of movement and its sensory abilities of a human."
+ },
+ "wowwee-alive-chimpanzee": {
+  "title": "WowWee_Alive_Chimpanzee",
+  "extract": "The Alive Chimpanzee is produced by WowWee Alive, a division of WowWee Ltd. The animatronic Chimpanzee is the first in WowWee Alive's product line. Unlike WowWee's other robots, the Chimpanzee only consists of the head of a chimpanzee. It houses eight motors to mimic the facial expressions of a real chimp. It also contains 9 sensors, including IR sensors in the eyes, touch sensors on the chin, top and rear of the head and sound and vibration sensors in the ear. There is also an Alive Elvis manufactured."
+ },
+ "xm1216-sugv": {
+  "title": "XM1216_small_unmanned_ground_vehicle",
+  "extract": "The XM1216 small unmanned ground vehicle (SUGV) is a Future Combat Systems specific, man packable version of the iRobot's PackBot. The SUGV is used in Intelligence, Surveillance, and Reconnaissance (ISR)."
+ },
+ "xr-2": {
+  "title": "XR-2",
+  "extract": "The XR-2 is an educational robot made by Rhino Robotics."
+ },
+ "zeus-robotic-surgical-system": {
+  "title": "ZEUS_robotic_surgical_system",
+  "extract": "The ZEUS Robotic Surgical System (ZRSS) was a medical robot designed to assist in surgery, originally produced by the American robotics company Computer Motion. Its predecessor, AESOP, was cleared by the Food and Drug Administration in 1994 to assist surgeons in minimally invasive surgery. The ZRSS itself was cleared by the FDA seven years later, in 2001. ZEUS had three robotic arms, which were remotely controlled by the surgeon. The first arm, AESOP, was a voice-activated endoscope, allowing the surgeon to see inside the patient's body. The other two robotic arms mimicked the surgeon's movements to make precise incisions and extractions. ZEUS was discontinued in 2003, following the merger of Computer Motion with its rival Intuitive Surgical; the merged company instead developed the Da Vinci Surgical System."
+ }
+}

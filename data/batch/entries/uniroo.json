@@ -1,0 +1,30 @@
+{
+ "id": "uniroo",
+ "name": "Uniroo",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "one legged robot",
+ "maker": "",
+ "country": "United States",
+ "year": "1991",
+ "status": "retired",
+ "def": "One legged robot built in the United States in 1991 and now exhibited at the MIT Museum.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Uniroo (Q90014955)",
+   "url": "https://www.wikidata.org/wiki/Q90014955",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q90014955"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

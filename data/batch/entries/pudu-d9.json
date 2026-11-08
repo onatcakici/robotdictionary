@@ -1,0 +1,76 @@
+{
+ "id": "pudu-d9",
+ "name": "PUDU D9",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "full size biped",
+ "maker": "Pudu Robotics",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "Full size biped from a large commercial service robot maker, sold for object handling and customer engagement in hospitality and retail settings.",
+ "body": [
+  "D9 is 170 centimetres tall, weighs 65 kilograms and has 42 degrees of freedom with six per leg and seven per arm, walking at up to 2 metres per second and carrying 20 kilograms. Its DH11 hands have eleven degrees of freedom and more than a thousand tactile sensing pixels across twelve regions, with 30 newtons of grip force. Onboard compute is rated at 275 trillion operations per second, powered by a 0.72 kilowatt hour pack, and maximum joint torque is 352 newton metres. Pudu already ships large numbers of wheeled delivery and cleaning robots to restaurants and hotels, and positions D9 as the bipedal addition to that commercial fleet."
+ ],
+ "facts": [
+  "Announced in 2025 as Pudu's first full size bipedal humanoid",
+  "DH11 hands carry more than 1,000 tactile sensing pixels",
+  "Sold into a commercial channel already serving restaurants and hotels with wheeled robots"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.7 m"
+  ],
+  [
+   "Mass",
+   "65 kg"
+  ],
+  [
+   "Payload",
+   "20 kg"
+  ],
+  [
+   "Top speed",
+   "2 m/s (7.2 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "42"
+  ],
+  [
+   "Actuation",
+   "Electric joint modules with maximum joint torque of 352 newton metres"
+  ],
+  [
+   "Power",
+   "0.72 kilowatt hour battery pack"
+  ],
+  [
+   "Sensors",
+   "RGB and RGB-D cameras, IMU, more than 1,000 tactile pixels across the hands"
+  ],
+  [
+   "Autonomy",
+   "Onboard compute rated at 275 trillion operations per second"
+  ]
+ ],
+ "see": [
+  "d7",
+  "flashbot"
+ ],
+ "refs": [
+  {
+   "label": "Pudu Robotics website",
+   "url": "https://www.pudurobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "d9"
+ ]
+}

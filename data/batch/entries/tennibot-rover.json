@@ -1,0 +1,30 @@
+{
+ "id": "tennibot-rover",
+ "name": "Tennibot Rover",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "ball collecting robot",
+ "maker": "Tennibot",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Autonomous robot from the company Tennibot that gathers balls by itself, removing the need for a person to collect them.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Tennibot Rover (Q140286724)",
+   "url": "https://www.wikidata.org/wiki/Q140286724",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140286724"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

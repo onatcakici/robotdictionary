@@ -1,0 +1,30 @@
+{
+ "id": "lego-mindstorms-rcx",
+ "name": "LEGO Mindstorms RCX",
+ "aka": [],
+ "section": "other",
+ "kind": "robot kit",
+ "maker": "The LEGO Group",
+ "country": "Denmark",
+ "year": "1998",
+ "status": "discontinued",
+ "def": "First LEGO Mindstorms programmable brick, which brought robot building with motors and sensors to children and hobbyists.",
+ "body": [],
+ "facts": [
+  "Grew out of a collaboration with the MIT Media Lab"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "LEGO website",
+   "url": "https://www.lego.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,48 @@
+{
+ "id": "mit-leg-lab-quadruped",
+ "name": "MIT Quadruped",
+ "aka": [
+  "MIT Leg Laboratory Quadruped"
+ ],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "MIT Leg Laboratory",
+ "country": "United States",
+ "year": "1984",
+ "status": "retired",
+ "def": "Hydraulic running quadruped from Marc Raibert's MIT Leg Laboratory that trotted, paced and bounded using a decomposed balance controller.",
+ "body": [
+  "The machine had four telescoping legs with hydraulic actuators and ran on a tether that supplied hydraulic power and computing. Control was split into separate parts for hopping height, forward speed and body attitude, an approach Raibert had already proven on one legged hoppers. It ran on a treadmill and an indoor track and switched between trot, pace and bound, results that underpinned the dynamic quadrupeds built decades later."
+ ],
+ "facts": [
+  "Demonstrated trot, pace and bound gaits with active balance on a machine that ran rather than walked",
+  "Marc Raibert, who led the work, founded Boston Dynamics in 1992"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Hydraulic telescoping legs"
+  ],
+  [
+   "Power",
+   "Off board hydraulic supply through a tether"
+  ],
+  [
+   "Autonomy",
+   "Off board computer running decomposed balance control"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "MIT Leg Laboratory website",
+   "url": "https://www.mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

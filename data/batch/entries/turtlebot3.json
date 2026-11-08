@@ -1,0 +1,74 @@
+{
+ "id": "turtlebot3",
+ "name": "TurtleBot3",
+ "aka": [
+  "TurtleBot3 Burger",
+  "TurtleBot3 Waffle Pi"
+ ],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "ROBOTIS",
+ "country": "South Korea",
+ "year": "2017",
+ "status": "production",
+ "def": "Small open source research and teaching robot with a spinning laser scanner, used in university courses and labs to learn mapping and navigation.",
+ "body": [
+  "TurtleBot3 comes in two shapes, the tall narrow Burger and the wider Waffle Pi, both driven by two servo actuators with wheel encoders. A 360 degree laser distance sensor, an inertial unit and a single board computer run standard mapping and navigation packages out of the box. Because the hardware, wiring and software are all open and cheap, it became the reference platform for teaching robot software and for reproducing published experiments. The figures below are for the Burger model."
+ ],
+ "facts": [
+  "Burger and Waffle Pi models share the same software stack",
+  "Developed with Open Robotics as a reference learning platform",
+  "Waffle Pi carries up to 30 kg and reaches 0.26 m per second"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.192 m"
+  ],
+  [
+   "Length",
+   "0.138 m"
+  ],
+  [
+   "Mass",
+   "1 kg"
+  ],
+  [
+   "Payload",
+   "15 kg"
+  ],
+  [
+   "Top speed",
+   "0.22 m/s (0.8 km/h)"
+  ],
+  [
+   "Actuation",
+   "Two servo driven wheels with a caster"
+  ],
+  [
+   "Power",
+   "Lithium polymer battery"
+  ],
+  [
+   "Sensors",
+   "360 degree laser distance sensor, inertial unit and wheel encoders, with a camera on the Waffle Pi"
+  ],
+  [
+   "Autonomy",
+   "Runs open source mapping and navigation software on a single board computer"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ROBOTIS website",
+   "url": "https://www.robotis.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,94 @@
+{
+ "id": "nao",
+ "name": "NAO",
+ "aka": [
+  "NAO6"
+ ],
+ "section": "humanoids",
+ "kind": "small programmable biped",
+ "maker": "Aldebaran",
+ "country": "France",
+ "year": "2008",
+ "status": "discontinued",
+ "def": "Small programmable biped sold in large numbers to schools, universities and research labs, and long the standard platform for RoboCup soccer leagues.",
+ "body": [
+  "NAO is 574 millimetres tall, weighs 5.48 kilograms and has 25 degrees of freedom, with a battery giving roughly 90 minutes of active use. Its sixth revision added a faster processor, better cameras and improved microphones while keeping the same body plan of geared brushed DC servos. Programming is through the NAOqi framework, the Choregraphe editor, Python and ROS bridges, which is why it became the fixed platform of the RoboCup Standard Platform League. Aldebaran sold about 20,000 units into education and research before the company filed for bankruptcy in February 2025 and entered receivership that June.",
+  "NAO has been the standard platform of RoboCup's humanoid soccer league since 2008 and the most widely used research humanoid in history, with well over ten thousand units in classrooms and labs."
+ ],
+ "facts": [
+  "About 20,000 units sold, largely into education and research",
+  "Fixed platform of the RoboCup Standard Platform League for many years",
+  "Maker Aldebaran filed for bankruptcy in February 2025 and entered receivership in June 2025"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.574 m"
+  ],
+  [
+   "Mass",
+   "5.48 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "25"
+  ],
+  [
+   "Runtime",
+   "1.5 h"
+  ],
+  [
+   "Actuation",
+   "25 geared brushed DC servo joints"
+  ],
+  [
+   "Sensors",
+   "Two cameras, four microphones, sonar, infrared, tactile and pressure sensors, IMU"
+  ],
+  [
+   "Autonomy",
+   "NAOqi framework with Choregraphe, Python and ROS interfaces"
+  ],
+  [
+   "Units",
+   "over 13,000 sold"
+  ],
+  [
+   "Generations",
+   "six"
+  ]
+ ],
+ "see": [
+  "avidbots-neo",
+  "nextage"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.softbankrobotics.com/emea/en/nao",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Nao (robot)",
+   "url": "https://en.wikipedia.org/wiki/Nao_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Nao (Q1464170)",
+   "url": "https://www.wikidata.org/wiki/Q1464170",
+   "kind": "wikidata"
+  },
+  {
+   "label": "SoftBank Robotics Group website",
+   "url": "https://www.softbankrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1464170"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

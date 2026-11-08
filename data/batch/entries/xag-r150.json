@@ -1,0 +1,51 @@
+{
+ "id": "xag-r150",
+ "name": "XAG R150",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "compact wheeled farm vehicle",
+ "maker": "XAG",
+ "country": "China",
+ "year": "",
+ "status": "production",
+ "def": "Compact wheeled farm vehicle that sprays orchards and carries loads along mapped routes, controlled from a phone and positioned by satellite reference stations.",
+ "body": [
+  "The R150 is a small four wheel drive electric ground vehicle from a company better known for agricultural drones. Interchangeable modules turn it into a sprayer for orchards and vineyards, a spreader or a cargo carrier for harvested fruit. It follows routes recorded or drawn on a phone app, holding line with corrected satellite positioning from a network of reference stations, and can be driven manually with a controller. It is used on orchards, tea gardens and smallholdings in China and across Asia."
+ ],
+ "facts": [
+  "Sold alongside XAG's agricultural spraying drones as a ground counterpart",
+  "Used in orchards, tea gardens and vineyards where drone spraying is less suitable",
+  "Positioning relies on XAG's own network of satellite reference stations in China"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheel drive electric chassis with interchangeable spray, spread and cargo modules"
+  ],
+  [
+   "Power",
+   "Swappable lithium battery packs"
+  ],
+  [
+   "Sensors",
+   "Corrected satellite positioning with reference station network, plus obstacle sensing"
+  ],
+  [
+   "Autonomy",
+   "Autonomous route following from recorded or app drawn paths, with manual remote control available"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "XAG website",
+   "url": "https://www.xa.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

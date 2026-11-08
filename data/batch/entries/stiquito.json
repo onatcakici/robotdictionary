@@ -1,0 +1,35 @@
+{
+ "id": "stiquito",
+ "name": "Stiquito",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "hexapod robot",
+ "maker": "",
+ "country": "",
+ "year": "1992",
+ "status": "",
+ "def": "Small, low cost six legged walking robot used since 1992 by universities, high schools and hobbyists.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Stiquito",
+   "url": "https://en.wikipedia.org/wiki/Stiquito",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Stiquito (Q7617521)",
+   "url": "https://www.wikidata.org/wiki/Q7617521",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7617521"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

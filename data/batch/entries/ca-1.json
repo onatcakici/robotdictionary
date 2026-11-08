@@ -1,0 +1,40 @@
+{
+ "id": "ca-1",
+ "name": "CA-1",
+ "aka": [],
+ "section": "arms",
+ "kind": "cooking robot",
+ "maker": "Circus SE",
+ "country": "Germany",
+ "year": "2025",
+ "status": "",
+ "def": "Autonomous robotic cooking system introduced in 2025 by the German company Circus SE.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, CA-1 (Q139548183)",
+   "url": "https://www.wikidata.org/wiki/Q139548183",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, circus-group.com",
+   "url": "https://www.circus-group.com/de/ca-1",
+   "kind": "cited"
+  },
+  {
+   "label": "Circus SE website",
+   "url": "https://www.circus-group.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q139548183"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

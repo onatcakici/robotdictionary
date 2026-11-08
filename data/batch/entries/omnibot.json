@@ -1,0 +1,44 @@
+{
+ "id": "omnibot",
+ "name": "Omnibot",
+ "aka": [],
+ "section": "other",
+ "kind": "toy robot",
+ "maker": "Tomy",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Toy robot first made by Tomy in the mid 1980s, whose name later covered a whole line of the company's robots.",
+ "body": [],
+ "facts": [
+  "The more advanced Omnibot 2000 had no plastic dome over its head",
+  "The line faded after the 1983 video game crash and returned in the early 2000s",
+  "Its most recent version is the i-SOBOT"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Omnibot",
+   "url": "https://en.wikipedia.org/wiki/Omnibot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Omnibot (Q7090352)",
+   "url": "https://www.wikidata.org/wiki/Q7090352",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Tomy website",
+   "url": "https://www.takaratomy.co.jp/english/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7090352"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

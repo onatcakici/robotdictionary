@@ -1,0 +1,50 @@
+{
+ "id": "agile-one",
+ "name": "Agile ONE",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Agile Robots",
+ "country": "Germany",
+ "year": "2025",
+ "status": "",
+ "def": "Humanoid robot introduced in 2025 by Agile Robots, a robotics company from Germany.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://agile-robots.com/en/solutions/agile-one",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Agile ONE (Q140917565)",
+   "url": "https://www.wikidata.org/wiki/Q140917565",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, heise.de",
+   "url": "https://www.heise.de/en/news/Agile-Robots-Learnable-robotics-for-research-and-industry-11265509.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, agile-robots.com",
+   "url": "https://www.agile-robots.com/en/news/detail/agile-robots-launches-humanoid-robot-for-industry-agile-one/",
+   "kind": "cited"
+  },
+  {
+   "label": "Agile Robots website",
+   "url": "https://www.agile-robots.com/de/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140917565"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

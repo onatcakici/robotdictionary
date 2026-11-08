@@ -1,0 +1,42 @@
+{
+ "id": "marcbot",
+ "name": "MARCbot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "Exponent",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Remote controlled military robot made by Exponent Inc. for the United States Army's Rapid Equipping Force.",
+ "body": [],
+ "facts": [
+  "Name stands for Multi function Agile Remote-Controlled Robot"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, MARCbot",
+   "url": "https://en.wikipedia.org/wiki/MARCbot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, MARCbot (Q6714461)",
+   "url": "https://www.wikidata.org/wiki/Q6714461",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Exponent website",
+   "url": "http://exponent.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6714461"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

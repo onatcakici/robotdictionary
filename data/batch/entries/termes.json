@@ -1,0 +1,39 @@
+{
+ "id": "termes",
+ "name": "TERMES",
+ "aka": [],
+ "section": "other",
+ "kind": "swarm construction robots",
+ "maker": "Harvard University",
+ "country": "",
+ "year": "2014",
+ "status": "prototype",
+ "def": "Team of termite inspired autonomous robots from Harvard University that build structures from blocks by following simple rules, with no central controller, first shown in 2014.",
+ "body": [],
+ "facts": [
+  "Prototype team demonstrated by Harvard researchers in 2014",
+  "Developed over four years",
+  "Coordinate through stigmergy rather than constant human supervision"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Termite-inspired robots",
+   "url": "https://en.wikipedia.org/wiki/Termite-inspired_robots",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Termite-inspired robots (Q16934237)",
+   "url": "https://www.wikidata.org/wiki/Q16934237",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q16934237"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

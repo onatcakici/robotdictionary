@@ -1,0 +1,44 @@
+{
+ "id": "minerva",
+ "name": "MINERVA",
+ "aka": [],
+ "section": "rovers",
+ "kind": "asteroid rover",
+ "maker": "JAXA",
+ "country": "Japan",
+ "year": "2005",
+ "status": "completed",
+ "def": "Series of Japanese rovers built by JAXA to explore the surfaces of asteroids, carried on the Hayabusa and Hayabusa2 missions.",
+ "body": [],
+ "facts": [
+  "First MINERVA missed asteroid Itokawa in November 2005 and drifted into solar orbit",
+  "Two MINERVA-II rovers landed on asteroid Ryugu on 21 September 2018",
+  "Third MINERVA-II unit malfunctioned but was released in October 2019 for gravity measurements"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, MINERVA (spacecraft)",
+   "url": "https://en.wikipedia.org/wiki/MINERVA_(spacecraft)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Micro-Nano Experimental Robot Vehicle for Asteroid (Q17231034)",
+   "url": "https://www.wikidata.org/wiki/Q17231034",
+   "kind": "wikidata"
+  },
+  {
+   "label": "JAXA website",
+   "url": "https://global.jaxa.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17231034"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

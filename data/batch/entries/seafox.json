@@ -1,0 +1,44 @@
+{
+ "id": "seafox",
+ "name": "SeaFox",
+ "aka": [],
+ "section": "marine",
+ "kind": "mine disposal vehicle",
+ "maker": "Atlas Elektronik",
+ "country": "Germany",
+ "year": "",
+ "status": "service",
+ "def": "German remotely operated underwater vehicle from Atlas Elektronik that finds and destroys seabed and moored sea mines, used by eleven navies.",
+ "body": [],
+ "facts": [
+  "Built in three versions, including one for training",
+  "SeaFox-C combat version carries a shaped charge of 1.4 kilograms",
+  "Orange SeaFox-I inspection version has sonar and inertial navigation"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.atlas-elektronik.com/what-we-do/mine-warfare-systems/seafox/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Seafox drone",
+   "url": "https://en.wikipedia.org/wiki/Seafox_drone",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Seafox drone (Q7440419)",
+   "url": "https://www.wikidata.org/wiki/Q7440419",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7440419"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

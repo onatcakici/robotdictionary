@@ -1,0 +1,42 @@
+{
+ "id": "hoap",
+ "name": "HOAP",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Fujitsu Automation",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Series of humanoid robots made by Fujitsu Automation in Japan and offered as an open architecture platform.",
+ "body": [],
+ "facts": [
+  "HOAP stands for Humanoid for Open Architecture Platform"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.fujitsu.com/uk/about/rd/200506hoap-series.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, HOAP",
+   "url": "https://en.wikipedia.org/wiki/HOAP",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, HOAP (Q5635430)",
+   "url": "https://www.wikidata.org/wiki/Q5635430",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5635430"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

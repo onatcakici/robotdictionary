@@ -1,0 +1,35 @@
+{
+ "id": "sarcos-raytheon-xos",
+ "name": "Sarcos-Raytheon XOS",
+ "aka": [],
+ "section": "medical",
+ "kind": "powered exoskeleton",
+ "maker": "Sarcos",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Powered exoskeleton developed by Sarcos in the United States, a wearable robotic frame that moves in step with the person inside it.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Sarcos-Raytheon XOS (Q3570424)",
+   "url": "https://www.wikidata.org/wiki/Q3570424",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Sarcos website",
+   "url": "http://www.sarcos.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3570424"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,78 @@
+{
+ "id": "viper",
+ "name": "VIPER",
+ "aka": [
+  "Volatiles Investigating Polar Exploration Rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA",
+ "country": "United States",
+ "year": "2024",
+ "status": "prototype",
+ "def": "Golf cart sized NASA rover built to hunt water ice at the lunar south pole with a metre long drill and neutron detector.",
+ "body": [
+  "VIPER carries the TRIDENT drill plus three instruments that sense hydrogen and volatiles, so it can map where ice sits at and below the surface in permanently shadowed terrain. It is solar powered with headlights for driving into shadow, and its four wheels can be steered independently or shuffled to swim through soft regolith. NASA cancelled the mission in 2024 with the rover essentially assembled, then in late 2025 contracted Blue Origin to land it near the south pole on a Blue Moon MK1 flight in late 2027 for a mission of about 100 days."
+ ],
+ "facts": [
+  "Built to drill for water ice in permanently shadowed craters",
+  "Cancelled in 2024 and revived in 2025 with a Blue Origin delivery",
+  "Planned surface mission of about 100 days"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four independently steered and driven wheels able to work through soft regolith"
+  ],
+  [
+   "Power",
+   "Solar arrays with battery and headlights for shadowed driving"
+  ],
+  [
+   "Sensors",
+   "Navigation and hazard cameras, neutron spectrometer, near infrared volatiles spectrometer, mass spectrometer, one metre drill"
+  ],
+  [
+   "Autonomy",
+   "Near real time driving by ground operators with onboard safety limits"
+  ]
+ ],
+ "see": [
+  "valkyrie",
+  "w3"
+ ],
+ "refs": [
+  {
+   "label": "NASA website",
+   "url": "https://www.nasa.gov",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://science.nasa.gov/mission/viper/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, VIPER (rover)",
+   "url": "https://en.wikipedia.org/wiki/VIPER_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, VIPER (Q73008169)",
+   "url": "https://www.wikidata.org/wiki/Q73008169",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Lyndon B. Johnson Space Center website",
+   "url": "http://www.nasa.gov/centers/johnson/home/index.html",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q73008169"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

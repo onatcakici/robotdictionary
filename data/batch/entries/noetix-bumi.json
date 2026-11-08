@@ -1,0 +1,55 @@
+{
+ "id": "noetix-bumi",
+ "name": "Bumi",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "small consumer biped",
+ "maker": "Noetix Robotics",
+ "country": "China",
+ "year": "2025",
+ "status": "production",
+ "def": "Small consumer biped launched at about 1,370 dollars, the cheapest walking humanoid offered by an established maker at the time.",
+ "body": [
+  "Bumi is 94 centimetres tall and weighs 12 kilograms, built from lightweight composite materials to hold cost and mass down. It walks on two legs and performs choreographed routines including dancing, running Noetix's own motion control system with an open programming interface for owners and schools. Noetix announced it in October 2025 at under 10,000 yuan, roughly 1,370 dollars, and opened preorders around the Chinese Double 11 and Double 12 shopping festivals. The company also sells the larger N2 biped, and positions Bumi at consumers, hobbyists and classrooms rather than industrial users."
+ ],
+ "facts": [
+  "Announced in October 2025 at under 10,000 yuan, about 1,370 dollars",
+  "Preorders opened around the Chinese Double 11 and Double 12 shopping festivals",
+  "Sold alongside Noetix's larger N2 biped for developers"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.94 m"
+  ],
+  [
+   "Mass",
+   "12 kg"
+  ],
+  [
+   "Actuation",
+   "Lightweight electric servo joints in a composite frame"
+  ],
+  [
+   "Power",
+   "Onboard rechargeable battery"
+  ],
+  [
+   "Autonomy",
+   "In house motion control system with an open programming interface"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Noetix Robotics website",
+   "url": "https://www.noetixrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

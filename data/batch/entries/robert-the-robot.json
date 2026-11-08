@@ -1,0 +1,35 @@
+{
+ "id": "robert-the-robot",
+ "name": "Robert the Robot",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "RB Labs",
+ "country": "Switzerland",
+ "year": "2025",
+ "status": "",
+ "def": "Humanoid robot from the Swiss financial technology company RB Labs, launched in 2025 to give investment advice and financial guidance in conversation.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Robert the Robot",
+   "url": "https://en.wikipedia.org/wiki/Robert_the_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robert the Robot (Q137710875)",
+   "url": "https://www.wikidata.org/wiki/Q137710875",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q137710875"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

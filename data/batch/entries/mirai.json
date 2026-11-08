@@ -1,0 +1,31 @@
+{
+ "id": "mirai",
+ "name": "Melody (Aria)",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "modular companion android",
+ "maker": "Realbotix",
+ "country": "United States",
+ "year": "2025",
+ "status": "production",
+ "def": "A modular companion android with swappable faces, sold for connection rather than labour.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "menteebot",
+  "mipa"
+ ],
+ "refs": [
+  {
+   "label": "Realbotix website",
+   "url": "https://www.realbotix.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

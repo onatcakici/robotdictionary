@@ -1,0 +1,68 @@
+{
+ "id": "unitree-go1",
+ "name": "Unitree Go1",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "consumer priced electric quadruped",
+ "maker": "Unitree Robotics",
+ "country": "China",
+ "year": "2021",
+ "status": "discontinued",
+ "def": "Consumer priced electric quadruped that Unitree marketed as a walking companion, starting at around two thousand seven hundred dollars.",
+ "body": [
+  "Go1 carries twelve in house actuators, several stereo camera pairs and ultrasonic sensors, and a side following mode that keeps it beside a walking person. Higher grade versions add onboard computers and a low level joint interface for research, which made it common in university laboratories as well as in demonstrations. Unitree sold it worldwide from 2021 and replaced it with the Go2 in 2023.",
+  "Go1 was the first robot dog many consumers could actually buy, jogging beside owners with a following mode for under three thousand dollars."
+ ],
+ "facts": [
+  "Launched from about 2,700 US dollars, undercutting every comparable quadruped at the time",
+  "Its side following mode was built to keep pace with a person on foot"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "12 kg"
+  ],
+  [
+   "Top speed",
+   "3.7 m/s (13.3 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "In house brushless motors with planetary gear reduction"
+  ],
+  [
+   "Power",
+   "Onboard lithium battery"
+  ],
+  [
+   "Sensors",
+   "Multiple stereo camera pairs, ultrasonic sensors, foot force sensors"
+  ],
+  [
+   "Autonomy",
+   "Person following and obstacle avoidance, low level control on developer versions"
+  ]
+ ],
+ "see": [
+  "unitree-h1",
+  "unitree-h2"
+ ],
+ "refs": [
+  {
+   "label": "Unitree Robotics website",
+   "url": "https://www.unitree.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "go1"
+ ]
+}

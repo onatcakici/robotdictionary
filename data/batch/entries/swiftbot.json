@@ -1,0 +1,31 @@
+{
+ "id": "swiftbot",
+ "name": "SwiftBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Pudu Robotics",
+ "country": "China",
+ "year": "2022",
+ "status": "production",
+ "def": "A premium server robot that reads gestures and dodges crowds.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "pudu-d9",
+  "d7"
+ ],
+ "refs": [
+  {
+   "label": "Pudu Robotics website",
+   "url": "https://www.pudurobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

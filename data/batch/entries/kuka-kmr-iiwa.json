@@ -1,0 +1,50 @@
+{
+ "id": "kuka-kmr-iiwa",
+ "name": "KMR iiwa",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "omnidirectional mobile platform",
+ "maker": "KUKA",
+ "country": "Germany",
+ "year": "",
+ "status": "production",
+ "def": "Omnidirectional mobile platform carrying a seven axis sensitive arm, used to move and load parts and samples in laboratories and factories.",
+ "body": [
+  "The KMR iiwa mounts a torque sensing LBR iiwa arm on a mobile platform with Mecanum wheels, so it can slide sideways and rotate in place in tight aisles. Safety laser scanners support map based navigation, and the platform docks at a station where the arm loads machines, tools or sample racks. Because every arm axis senses torque, it can mate parts and open drawers by feel rather than by exact position. It is used in electronics assembly, machine tending and laboratory automation."
+ ],
+ "facts": [
+  "Combines the torque sensing LBR iiwa arm with an omnidirectional base",
+  "Used for machine tending and laboratory sample handling"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Omnidirectional Mecanum wheel platform with a seven axis LBR iiwa arm"
+  ],
+  [
+   "Power",
+   "Onboard battery pack"
+  ],
+  [
+   "Sensors",
+   "Safety laser scanners plus joint torque sensing in every arm axis"
+  ],
+  [
+   "Autonomy",
+   "Laser navigation on a stored map with docking for fine positioning"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "KUKA website",
+   "url": "https://www.kuka.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

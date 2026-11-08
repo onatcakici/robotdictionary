@@ -1,0 +1,35 @@
+{
+ "id": "hilare",
+ "name": "Hilare",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "mobile robot",
+ "maker": "Laboratory for Analysis and Architecture of Systems",
+ "country": "France",
+ "year": "1977",
+ "status": "",
+ "def": "French mobile robot built in 1977 by the Laboratory for Analysis and Architecture of Systems, its name an acronym for heuristics integrated into software and automation in an evolving robot.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Hilare robot - CnAM 44687 (Q55139668)",
+   "url": "https://www.wikidata.org/wiki/Q55139668",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Laboratory for Analysis and Architecture of Systems website",
+   "url": "https://www.laas.fr/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q55139668"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

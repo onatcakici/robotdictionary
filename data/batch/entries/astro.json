@@ -1,0 +1,50 @@
+{
+ "id": "astro",
+ "name": "Astro",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Amazon",
+ "country": "United States",
+ "year": "2021",
+ "status": "production",
+ "def": "A household monitor upon wheels; a camera, a screen and a disposition, sold as a home robot.",
+ "body": [
+  "Astro is Amazon's bet that a home robot is a service, not a machine: it patrols, carries, and follows household members with a periscope camera, though its day one price and privacy questions kept it invitation only for years."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 60 cm"
+  ]
+ ],
+ "see": [
+  "amazon-scout",
+  "athlete"
+ ],
+ "refs": [
+  {
+   "label": "Wikipedia, Amazon Astro",
+   "url": "https://en.wikipedia.org/wiki/Amazon_Astro",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Amazon Astro (Q108740373)",
+   "url": "https://www.wikidata.org/wiki/Q108740373",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Amazon website",
+   "url": "https://www.amazon.it/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q108740373"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

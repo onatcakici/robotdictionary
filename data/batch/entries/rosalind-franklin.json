@@ -1,0 +1,102 @@
+{
+ "id": "rosalind-franklin",
+ "name": "Rosalind Franklin",
+ "aka": [
+  "ExoMars rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Airbus Defence and Space for the European Space Agency",
+ "country": "Europe",
+ "year": "",
+ "status": "prototype",
+ "def": "European ExoMars rover built to drill two metres below the surface of Oxia Planum in search of preserved organic biosignatures.",
+ "body": [
+  "The Rosalind Franklin rover is completed flight hardware, assembled by Airbus in Stevenage and held in Turin after the 2022 launch was cancelled. It carries a two metre drill, the Mars Organic Molecule Analyser and a six wheel flexible chassis that can wheel walk out of soft ground, and NASA is supplying the launch, braking engines and radioisotope heater units. ESA now plans a 2028 launch on a Falcon Heavy with landing at Oxia Planum in 2030."
+ ],
+ "facts": [
+  "Designed to drill two metres deep, far deeper than any previous Mars rover",
+  "Flight model is built and awaiting a 2028 launch",
+  "Named after the chemist whose X ray work underpinned DNA structure"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "310 kg"
+  ],
+  [
+   "Actuation",
+   "Six wheel flexible chassis with wheel walking locomotion"
+  ],
+  [
+   "Power",
+   "Solar arrays with radioisotope heater units for night survival"
+  ],
+  [
+   "Sensors",
+   "PanCam, ISEM, CLUPI, WISDOM radar, Ma_MISS borehole spectrometer, MOMA, MicrOmega, Raman spectrometer"
+  ],
+  [
+   "Autonomy",
+   "Onboard autonomous navigation for long single sol traverses"
+  ],
+  [
+   "Height",
+   "2 m"
+  ],
+  [
+   "Width",
+   "2.5 m"
+  ]
+ ],
+ "see": [
+  "fedex-roxo",
+  "s8"
+ ],
+ "refs": [
+  {
+   "label": "Airbus Defence and Space for the European Space Agency website",
+   "url": "https://www.esa.int",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Rosalind Franklin (rover)",
+   "url": "https://en.wikipedia.org/wiki/Rosalind_Franklin_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Rosalind Franklin (Q3445540)",
+   "url": "https://www.wikidata.org/wiki/Q3445540",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, esa.int",
+   "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_Factsheet",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, esa.int",
+   "url": "https://www.esa.int/Our_Activities/Human_and_Robotic_Exploration/Exploration/ExoMars/ESA_s_Mars_rover_has_a_name_Rosalind_Franklin",
+   "kind": "cited"
+  },
+  {
+   "label": "Astrium website",
+   "url": "http://www.astrium.eads.net/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3445540"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "rosalind"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "topio-dio",
+ "name": "TOPIO Dio",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid service robot",
+ "maker": "Tosy",
+ "country": "Vietnam",
+ "year": "",
+ "status": "",
+ "def": "Wheeled humanoid service robot made by the Vietnamese company Tosy to serve customers in restaurants and coffee shops or to mix cocktails.",
+ "body": [],
+ "facts": [
+  "Moves on a three wheeled platform and has 28 degrees of freedom",
+  "Stands 125 cm tall and weighs 45 kg",
+  "Operated remotely using a built in camera and obstacle detector"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.tosy.com",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, TOPIO Dio",
+   "url": "https://en.wikipedia.org/wiki/TOPIO_Dio",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, TOPIO Dio (Q7671026)",
+   "url": "https://www.wikidata.org/wiki/Q7671026",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7671026"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

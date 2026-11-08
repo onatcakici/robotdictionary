@@ -1,0 +1,41 @@
+{
+ "id": "gecko-robotics",
+ "name": "Gecko Robotics inspection robots",
+ "aka": [],
+ "section": "other",
+ "kind": "climbing inspection robot",
+ "maker": "Gecko Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Fleet of magnetic wall climbing and crawling robots that scan boilers, tanks, pipelines and ship hulls for wall thickness and corrosion.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Gecko Robotics",
+   "url": "https://www.ycombinator.com/companies/gecko-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Gecko Robotics website",
+   "url": "https://www.geckorobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "gecko-robotics"
+ },
+ "yc": {
+  "company": "Gecko Robotics",
+  "batch": "Winter 2016",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/gecko-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

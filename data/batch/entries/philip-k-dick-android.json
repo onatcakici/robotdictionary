@@ -1,0 +1,42 @@
+{
+ "id": "philip-k-dick-android",
+ "name": "Philip K. Dick Android",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "android",
+ "maker": "Hanson Robotics",
+ "country": "Hong Kong",
+ "year": "2005",
+ "status": "",
+ "def": "Humanlike android modeled on the science fiction author Philip K. Dick, built by Hanson Robotics in 2005 and able to converse using a model trained on his writings.",
+ "body": [],
+ "facts": [
+  "First shown publicly at Wired NextFest in 2005"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Philip K. Dick Android",
+   "url": "https://en.wikipedia.org/wiki/Philip_K._Dick_Android",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Philip K. Dick Android (Q138007979)",
+   "url": "https://www.wikidata.org/wiki/Q138007979",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Hanson Robotics website",
+   "url": "https://www.hansonrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q138007979"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

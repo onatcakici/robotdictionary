@@ -1,0 +1,28 @@
+{
+ "id": "riba",
+ "name": "RIBA",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "care robot",
+ "maker": "RIKEN and Tokai Rubber Industries",
+ "country": "Japan",
+ "year": "2009",
+ "status": "retired",
+ "def": "Bear faced care robot that could lift a person from a bed into a wheelchair, the forerunner of ROBEAR.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "RIKEN website",
+   "url": "https://www.riken.jp/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

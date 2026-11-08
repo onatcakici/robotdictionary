@@ -1,0 +1,39 @@
+{
+ "id": "vanderbilt-exoskeleton",
+ "name": "Vanderbilt exoskeleton",
+ "aka": [],
+ "section": "medical",
+ "kind": "powered exoskeleton",
+ "maker": "Vanderbilt University",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Powered exoskeleton from Vanderbilt University's Center for Intelligent Mechatronics, sold as Indego, meant to help people affected by paraplegia, stroke or other forms of paralysis walk on their own.",
+ "body": [],
+ "facts": [
+  "Marketed under the name Indego",
+  "Parker Hannifin funded its further development",
+  "First commercial version was planned for release in 2015"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Vanderbilt exoskeleton",
+   "url": "https://en.wikipedia.org/wiki/Vanderbilt_exoskeleton",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Vanderbilt exoskeleton (Q7914462)",
+   "url": "https://www.wikidata.org/wiki/Q7914462",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7914462"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

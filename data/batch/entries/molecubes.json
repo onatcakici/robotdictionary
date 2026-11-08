@@ -1,0 +1,38 @@
+{
+ "id": "molecubes",
+ "name": "Molecubes",
+ "aka": [],
+ "section": "other",
+ "kind": "modular robot",
+ "maker": "Cornell University",
+ "country": "",
+ "year": "",
+ "status": "research",
+ "def": "Modular robot system from Cornell University made of cubes with two rotating halves that can be joined together into many different shapes.",
+ "body": [],
+ "facts": [
+  "Designed by Hod Lipson, Victor Zykov and Stathis Mytilinaios",
+  "One half of each cube holds a microprocessor, the other a motor"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Molecubes",
+   "url": "https://en.wikipedia.org/wiki/Molecubes",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Molecubes (Q1943381)",
+   "url": "https://www.wikidata.org/wiki/Q1943381",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1943381"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

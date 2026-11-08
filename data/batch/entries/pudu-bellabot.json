@@ -1,0 +1,109 @@
+{
+ "id": "pudu-bellabot",
+ "name": "BellaBot",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "four tray delivery robot",
+ "maker": "Pudu Robotics",
+ "country": "China",
+ "year": "2019",
+ "status": "production",
+ "def": "Four tray delivery robot with a cat like animated face, used in restaurants and hotels to carry dishes to tables and clear them away.",
+ "body": [
+  "BellaBot is a chest high wheeled service robot with four removable trays, each rated for 10 kg, and a display face that reacts when guests take a plate. It localises with laser SLAM or visual SLAM, so it can work in rooms with high ceilings where markers are impractical, and three depth cameras watch for obstacles at different heights. Pudu Robotics of Shenzhen sells it worldwide for casual dining, hotpot restaurants, hotels and hospitals.",
+  "Pudu's cat faced BellaBot purrs when petted and has served in tens of thousands of restaurants, becoming the face of China's service robot export wave."
+ ],
+ "facts": [
+  "Carries up to 10 kg on each of four trays",
+  "Pudu Robotics was founded in Shenzhen in 2016",
+  "Offers laser positioning with no ceiling height restriction"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.29 m"
+  ],
+  [
+   "Mass",
+   "55 kg"
+  ],
+  [
+   "Payload",
+   "40 kg"
+  ],
+  [
+   "Top speed",
+   "1.2 m/s (4.3 km/h)"
+  ],
+  [
+   "Runtime",
+   "13 h"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with a charging dock"
+  ],
+  [
+   "Sensors",
+   "Lidar, three depth cameras and tray load sensors"
+  ],
+  [
+   "Autonomy",
+   "Laser or visual SLAM with automatic route planning and obstacle avoidance"
+  ],
+  [
+   "Width",
+   "53.44 cm"
+  ]
+ ],
+ "see": [
+  "pudu-d9",
+  "d7"
+ ],
+ "refs": [
+  {
+   "label": "Pudu Robotics website",
+   "url": "https://www.pudurobotics.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://www.pudurobotics.com/product/detail/bellabot",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, BellaBot (Q126038574)",
+   "url": "https://www.wikidata.org/wiki/Q126038574",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, robotlab.com",
+   "url": "https://www.robotlab.com/restaurant-robots/store/bellabot",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/technology-51003084",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, sparkepos.com",
+   "url": "https://www.sparkepos.com/bella/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, sebotics.com",
+   "url": "https://sebotics.com/en/bellabot/",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q126038574"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "bellabot"
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "robee",
+ "name": "RoBee",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "cognitive humanoid",
+ "maker": "Oversonic Robotics",
+ "country": "Italy",
+ "year": "",
+ "status": "service",
+ "def": "Italian cognitive humanoid on a wheeled base, leased to manufacturers and hospitals for inspection, material handling and logistics work.",
+ "body": [
+  "RoBee has a humanoid torso, head and two arms on a differential drive wheeled base, with adjustable stature between 162 and 190 centimetres and a mass of up to 180 kilograms. Each arm carries five kilograms and positions to about a millimetre, and the robot moves at up to 1.2 metres per second for as long as eight hours per charge. It navigates with lidar and cameras and holds spoken conversations through an integrated voice system, with thermal imaging available as an option. Oversonic has announced deployments in Italian manufacturing and healthcare, including an agreement to supply customised RoBee units to STMicroelectronics semiconductor plants."
+ ],
+ "facts": [
+  "Agreement announced to supply customised units to STMicroelectronics semiconductor plants",
+  "Adjustable stature between 162 and 190 centimetres for different workstation heights",
+  "Exhibited at CES 2026 as an Italian factory and hospital humanoid"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "180 kg"
+  ],
+  [
+   "Payload",
+   "10 kg"
+  ],
+  [
+   "Top speed",
+   "1.2 m/s (4.3 km/h)"
+  ],
+  [
+   "Runtime",
+   "8 h"
+  ],
+  [
+   "Actuation",
+   "Electric arm joints with force feedback on a differential drive wheeled base"
+  ],
+  [
+   "Sensors",
+   "Lidar, depth cameras, optional thermal camera, microphone and speakers"
+  ],
+  [
+   "Autonomy",
+   "Autonomous navigation with an integrated conversational voice system"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Oversonic Robotics website",
+   "url": "https://www.oversonicrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,51 @@
+{
+ "id": "tennant-t7amr",
+ "name": "T7AMR",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Tennant Company",
+ "country": "United States",
+ "year": "2018",
+ "status": "production",
+ "def": "Robotic ride on floor scrubber for retail and industrial floors that staff can drive manually or leave to clean a taught route alone.",
+ "body": [
+  "The T7AMR is a Tennant T7 scrubber fitted with Brain Corp autonomy, so a cleaner teaches a route once by driving it and the machine repeats that route later. Lidar and cameras handle people, pallets and displays, stopping or steering around them, and cleaning data is reported to a management portal. Because it remains a normal scrubber, staff can take over for spot cleaning. Grocery chains, distribution centres and airports use it on nightly cleaning shifts."
+ ],
+ "facts": [
+  "Runs the Brain Corp autonomy platform used by several commercial scrubbers",
+  "Can be operated manually as a conventional ride on scrubber",
+  "Tennant later added the larger T16AMR for industrial sites"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Ride on scrubber deck with squeegee and recovery tank"
+  ],
+  [
+   "Power",
+   "Battery powered"
+  ],
+  [
+   "Sensors",
+   "Lidar, cameras and contact sensors"
+  ],
+  [
+   "Autonomy",
+   "Teach and repeat route learning with obstacle avoidance from Brain Corp software"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Tennant Company website",
+   "url": "https://www.tennantco.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

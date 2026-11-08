@@ -1,0 +1,50 @@
+{
+ "id": "cool-robot",
+ "name": "Cool Robot",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Dartmouth College",
+ "country": "United States",
+ "year": "2005",
+ "status": "research",
+ "def": "Solar powered four wheeled robot designed to tow instrument sleds across polar snowfields through the continuous daylight of summer.",
+ "body": [
+  "The Cool Robot is a box of solar panels on four independently driven wheels, sized so that low angle polar sunlight striking its vertical sides keeps it moving all day without fuel. Dartmouth engineers demonstrated it at Summit Camp in Greenland, where it towed instrument sleds on long autonomous runs, and the design has been proposed for Antarctic science support. Its appeal is cheap, emission free logistics for sampling programmes that would otherwise need crewed traverse vehicles."
+ ],
+ "facts": [
+  "Runs on polar sunlight alone with no fuel",
+  "Field tested towing science sleds at Summit Camp in Greenland"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four independently driven wheels on a lightweight frame"
+  ],
+  [
+   "Power",
+   "Solar panels on five faces of a box shaped body"
+  ],
+  [
+   "Sensors",
+   "Satellite navigation, compass and camera for survey navigation"
+  ],
+  [
+   "Autonomy",
+   "Autonomous waypoint navigation on open snowfields"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Dartmouth College website",
+   "url": "https://www.dartmouth.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

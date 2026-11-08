@@ -1,0 +1,46 @@
+{
+ "id": "tekken-ii",
+ "name": "Tekken-II",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "small electric quadruped",
+ "maker": "University of Electro-Communications",
+ "country": "Japan",
+ "year": "2002",
+ "status": "retired",
+ "def": "Small electric quadruped used to test neural oscillator gait control with reflexes on irregular outdoor ground.",
+ "body": [
+  "Tekken-II was built in Hiroshi Kimura's laboratory as one of a series of dog sized quadrupeds for biologically inspired locomotion research. DC motors drove its leg joints and its gait came from a central pattern generator, a coupled neural oscillator network, adjusted in real time by reflexes triggered by foot contact and body attitude. The robot walked and trotted over gravel, slopes and steps outdoors with no terrain map, a well cited demonstration that reflex modulated pattern generators can handle unstructured ground."
+ ],
+ "facts": [
+  "Widely cited demonstration of central pattern generator control on rough outdoor terrain",
+  "Part of the Patrush and Tekken family of quadrupeds from Kimura's laboratory"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "DC motors with gear reduction at each leg joint"
+  ],
+  [
+   "Sensors",
+   "Rate gyroscopes, inclinometers and foot contact switches"
+  ],
+  [
+   "Autonomy",
+   "Central pattern generator with contact and attitude reflexes"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "University of Electro-Communications website",
+   "url": "https://www.uec.ac.jp",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

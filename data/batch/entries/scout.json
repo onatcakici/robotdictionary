@@ -1,0 +1,39 @@
+{
+ "id": "scout",
+ "name": "Scout",
+ "aka": [],
+ "section": "marine",
+ "kind": "unmanned surface vessel",
+ "maker": "",
+ "country": "United States",
+ "year": "2013",
+ "status": "",
+ "def": "Robotic boat built by students from Tiverton, Rhode Island, in an attempt to become the first autonomous craft to cross the Atlantic Ocean.",
+ "body": [],
+ "facts": [
+  "Project begun in 2010 by Dylan Rodriguez and Max Kramers",
+  "First crossing attempt launched from Sakonnet Point on 29 June 2013",
+  "Third attempt in August 2013 set a distance record for an unmanned Atlantic voyage"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Scout (autonomous boat)",
+   "url": "https://en.wikipedia.org/wiki/Scout_(autonomous_boat)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Scout (Q15267673)",
+   "url": "https://www.wikidata.org/wiki/Q15267673",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q15267673"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

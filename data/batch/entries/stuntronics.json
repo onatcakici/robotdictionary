@@ -1,0 +1,28 @@
+{
+ "id": "stuntronics",
+ "name": "Stuntronics",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "animatronic stunt figure",
+ "maker": "Walt Disney Imagineering",
+ "country": "United States",
+ "year": "2018",
+ "status": "research",
+ "def": "Untethered acrobatic figure that performs flips and poses in mid air after being launched from a swing.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Disney Research website",
+   "url": "https://la.disneyresearch.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

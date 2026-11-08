@@ -1,0 +1,30 @@
+{
+ "id": "lely-astronaut",
+ "name": "Lely Astronaut",
+ "aka": [],
+ "section": "arms",
+ "kind": "milking robot",
+ "maker": "Lely",
+ "country": "Netherlands",
+ "year": "1992",
+ "status": "production",
+ "def": "Milking robot from the Dutch firm Lely, in which cows walk in to be milked whenever they choose with no farmer present.",
+ "body": [],
+ "facts": [
+  "The first Astronaut was installed on a farm in 1992"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Lely website",
+   "url": "https://www.lely.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

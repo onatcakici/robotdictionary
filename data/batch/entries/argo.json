@@ -1,0 +1,37 @@
+{
+ "id": "argo",
+ "name": "Argo",
+ "aka": [],
+ "section": "marine",
+ "kind": "towed camera sled",
+ "maker": "Woods Hole Oceanographic Institution",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Uncrewed camera sled towed deep underwater, developed by Robert Ballard at Woods Hole's Deep Submergence Laboratory, that helped find the wreck of the Titanic in 1985.",
+ "body": [],
+ "facts": [
+  "Also helped locate the wreck of the Bismarck in 1989"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Argo (ROV)",
+   "url": "https://en.wikipedia.org/wiki/Argo_(ROV)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Argo (Q4789619)",
+   "url": "https://www.wikidata.org/wiki/Q4789619",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4789619"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

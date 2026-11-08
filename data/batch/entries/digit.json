@@ -1,0 +1,72 @@
+{
+ "id": "digit",
+ "name": "Digit",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "warehouse humanoid",
+ "maker": "Agility Robotics",
+ "country": "United States",
+ "year": "2019",
+ "status": "production",
+ "def": "A warehouse humanoid built for the handling of totes; among the first of its kind to work paid shifts, logging over one hundred thousand cycles.",
+ "body": [
+  "Digit descends from the springy bird legs of Cassie, developed at Oregon State University and commercialised by Agility Robotics. It became the first humanoid to work a paid customer shift, moving totes for GXO Logistics in 2024, and Amazon has trialled it in research facilities. Agility's RoboFab plant in Oregon was announced as the first factory purpose built for humanoids."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 175 cm"
+  ],
+  [
+   "Payload",
+   "approx. 16 kg"
+  ],
+  [
+   "Endurance",
+   "approx. 90 min per charge"
+  ],
+  [
+   "Deployments",
+   "GXO Logistics; Amazon trials"
+  ]
+ ],
+ "see": [
+  "cassie",
+  "e2-dr"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.agilityrobotics.com/products/digit",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Digit (Q140674082)",
+   "url": "https://www.wikidata.org/wiki/Q140674082",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, robotsguide.com",
+   "url": "https://robotsguide.com/robots/digit/",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, spectrum.ieee.org",
+   "url": "https://spectrum.ieee.org/building-robots-that-can-go-where-we-go",
+   "kind": "cited"
+  },
+  {
+   "label": "Agility Robotics website",
+   "url": "https://agilityrobotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q140674082"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

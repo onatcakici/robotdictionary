@@ -1,0 +1,35 @@
+{
+ "id": "abb-swifti",
+ "name": "SWIFTI",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "ABB",
+ "country": "Switzerland",
+ "year": "2021",
+ "status": "production",
+ "def": "Small, fast arm from ABB that slows or stops when a person comes near, bridging industrial and collaborative robots.",
+ "body": [],
+ "facts": [
+  "Model number CRB 1100"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "4 kg"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ABB Robotics website",
+   "url": "https://new.abb.com/products/robotics",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

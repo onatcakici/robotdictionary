@@ -1,0 +1,50 @@
+{
+ "id": "astroant",
+ "name": "AstroAnt",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "MIT Media Lab",
+ "country": "United States",
+ "year": "2025",
+ "status": "lost",
+ "def": "Matchbox sized magnetic wheeled robot designed to crawl over a lunar rover's surface and take thermal readings while it drives.",
+ "body": [
+  "AstroAnt was developed by the Space Exploration Initiative at the MIT Media Lab as a swarm scale inspection robot that uses magnetic wheels to cling to metal surfaces. Riding on top of the Lunar Outpost MAPP rover, it was to monitor radiator temperatures and demonstrate cooperative robotics on the Moon. It launched on the IM-2 mission in February 2025 but remained with MAPP inside the toppled Athena lander."
+ ],
+ "facts": [
+  "Designed to inspect a rover while riding on it",
+  "Flew on IM-2 in 2025 without being deployed"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four magnetic wheels for driving on metal surfaces"
+  ],
+  [
+   "Power",
+   "Onboard rechargeable battery"
+  ],
+  [
+   "Sensors",
+   "Thermal sensor and inertial measurement unit"
+  ],
+  [
+   "Autonomy",
+   "Short range wireless control from its host rover"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "MIT Media Lab website",
+   "url": "https://www.media.mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "odin",
+ "name": "Odin",
+ "aka": [],
+ "section": "arms",
+ "kind": "robot arm",
+ "maker": "Odin Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robot arms placed in small and mid sized factories for machine tending and packing, working beside existing machines and people.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Odin Robotics",
+   "url": "https://www.ycombinator.com/companies/odin-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Odin Robotics website",
+   "url": "https://odin-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "odin-robotics"
+ },
+ "yc": {
+  "company": "Odin Robotics",
+  "batch": "Fall 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/odin-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

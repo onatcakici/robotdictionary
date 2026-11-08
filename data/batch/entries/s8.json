@@ -1,0 +1,31 @@
+{
+ "id": "s8",
+ "name": "S8 MaxV Ultra",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Roborock",
+ "country": "China",
+ "year": "2024",
+ "status": "production",
+ "def": "The flagship of the robot vacuum arms race, with a self emptying, self washing dock.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "scitos",
+  "amazon-scout"
+ ],
+ "refs": [
+  {
+   "label": "Roborock website",
+   "url": "https://www.roborock.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

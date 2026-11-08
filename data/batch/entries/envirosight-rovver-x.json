@@ -1,0 +1,51 @@
+{
+ "id": "envirosight-rovver-x",
+ "name": "ROVVER X",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Envirosight",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Six wheel drive tethered sewer inspection crawler with a pan and tilt camera, driven by a technician from a surface reel and controller.",
+ "body": [
+  "ROVVER X is a modular six wheel drive crawler that is lowered through a manhole and driven along a sewer or culvert while a pan, tilt and zoom camera records the pipe wall. Wheels, axles and camera modules swap out to match pipe diameter, and a powered reel feeds cable while keeping tension under control. The operator works from a controller and screen in a survey van, coding defects as the run proceeds. Municipal and contractor crews use it for condition assessment of buried pipe."
+ ],
+ "facts": [
+  "Inspects pipe from small municipal laterals up to large diameter trunk mains",
+  "A satellite camera variant inspects lateral connections from inside the mainline",
+  "Widely used by North American municipal sewer departments and inspection contractors"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Six wheel drive crawler with interchangeable wheels and axles for different pipe diameters"
+  ],
+  [
+   "Power",
+   "Power and data supplied over the tether from a motorised surface reel"
+  ],
+  [
+   "Sensors",
+   "Pan, tilt and zoom camera with lighting, plus optional laser profiling and sonar modules"
+  ],
+  [
+   "Autonomy",
+   "Remotely operated from a surface controller, with powered cable management"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Envirosight website",
+   "url": "https://www.envirosight.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

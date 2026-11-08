@@ -1,0 +1,44 @@
+{
+ "id": "emiew",
+ "name": "EMIEW",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "service robot",
+ "maker": "Hitachi",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Talking robot from Hitachi, built as two units named Pal and Chum, that can travel at up to 6 km/h and steer around obstacles.",
+ "body": [],
+ "facts": [
+  "Name stands for Excellent Mobility and Interactive Existence as Workmate",
+  "Each knows roughly 100 words",
+  "A later version, EMIEW 2, was also built"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.hitachi.com/rd/research/robotics/emiew1_01.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, EMIEW",
+   "url": "https://en.wikipedia.org/wiki/EMIEW",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, EMIEW (Q5323505)",
+   "url": "https://www.wikidata.org/wiki/Q5323505",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5323505"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

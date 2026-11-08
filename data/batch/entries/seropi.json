@@ -1,0 +1,35 @@
+{
+ "id": "seropi",
+ "name": "SEROPI",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "wheeled humanoid robot",
+ "maker": "KITECH",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Humanoid robot that moves on a wheeled base rather than legs, developed by KITECH.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Seropi",
+   "url": "https://en.wikipedia.org/wiki/Seropi",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Seropi (Q7455037)",
+   "url": "https://www.wikidata.org/wiki/Q7455037",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7455037"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

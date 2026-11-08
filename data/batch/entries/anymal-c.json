@@ -1,0 +1,66 @@
+{
+ "id": "anymal-c",
+ "name": "ANYmal C",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "ANYbotics",
+ "country": "Switzerland",
+ "year": "2019",
+ "status": "service",
+ "def": "Industrial version of ANYmal, packaged for autonomous inspection rounds in power plants, chemical works and offshore facilities.",
+ "body": [
+  "ANYmal C wrapped the torque controlled ANYdrive legs in a sealed industrial shell with a docking station, an inspection payload and mission planning software. It walks routes on its own, reads gauges, listens for anomalies with an ultrasonic microphone and records thermal images, then returns to charge. Utilities and process plants used it for unmanned inspection rounds, and four ANYmal C robots formed the legged element of team CERBERUS, winner of the DARPA Subterranean Challenge final in 2021."
+ ],
+ "facts": [
+  "Legged element of team CERBERUS, winner of the DARPA Subterranean Challenge final in 2021",
+  "Deployed for routine unmanned inspection rounds in industrial plants and offshore installations"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "50 kg"
+  ],
+  [
+   "Payload",
+   "10 kg"
+  ],
+  [
+   "Top speed",
+   "1 m/s (3.6 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Twelve ANYdrive series elastic electric actuators"
+  ],
+  [
+   "Power",
+   "Swappable lithium ion battery with autonomous docking"
+  ],
+  [
+   "Sensors",
+   "Rotating lidar, depth cameras, zoom and thermal cameras, ultrasonic microphone"
+  ],
+  [
+   "Autonomy",
+   "Autonomous mission execution with docking and remote supervision"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ANYbotics website",
+   "url": "https://www.anybotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

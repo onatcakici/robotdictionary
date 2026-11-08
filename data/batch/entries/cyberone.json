@@ -1,0 +1,49 @@
+{
+ "id": "cyberone",
+ "name": "CyberOne",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Xiaomi",
+ "country": "China",
+ "year": "2022",
+ "status": "research",
+ "def": "Xiaomi's emotional full size humanoid, sibling to its CyberDog line.",
+ "body": [
+  "Xiaomi unveiled CyberOne months before Tesla showed Optimus hardware, positioning it as an emotional companion able to read moods. It remains a research vehicle beside the company's shipping CyberDog line."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Height",
+   "approx. 177 cm"
+  ],
+  [
+   "Mass",
+   "52 kg"
+  ]
+ ],
+ "see": [
+  "xiaomi-cyberdog",
+  "cyberdog-2"
+ ],
+ "refs": [
+  {
+   "label": "Wikidata, Xiaomi CyberOne (Q114347343)",
+   "url": "https://www.wikidata.org/wiki/Q114347343",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Xiaomi website",
+   "url": "https://www.mi.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q114347343"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

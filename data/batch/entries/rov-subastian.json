@@ -1,0 +1,38 @@
+{
+ "id": "rov-subastian",
+ "name": "ROV SuBastian",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "service",
+ "def": "Tethered remotely operated underwater vehicle that the Schmidt Ocean Institute deploys from its research ship RV Falkor (too) for deep sea science, capable of reaching 4,500 m.",
+ "body": [],
+ "facts": [
+  "Rated to depths of 4,500 m",
+  "Capabilities include sample collection, seafloor mapping, photomosaicing and 4K video"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, ROV SuBastian",
+   "url": "https://en.wikipedia.org/wiki/ROV_SuBastian",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, ROV SuBastian (Q104862983)",
+   "url": "https://www.wikidata.org/wiki/Q104862983",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q104862983"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

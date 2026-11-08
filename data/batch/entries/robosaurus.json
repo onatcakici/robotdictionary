@@ -1,0 +1,39 @@
+{
+ "id": "robosaurus",
+ "name": "Robosaurus",
+ "aka": [],
+ "section": "other",
+ "kind": "transforming dinosaur robot",
+ "maker": "Doug Malewicki",
+ "country": "",
+ "year": "1989",
+ "status": "service",
+ "def": "Giant driver operated robot, built in 1989 by inventor Doug Malewicki, that changes from a 48 foot semi trailer into a Tyrannosaurus rex that devours cars at shows.",
+ "body": [],
+ "facts": [
+  "The driver sits inside the robot's head",
+  "Has hydraulic arms, claws and jaws plus a flamethrower in its head",
+  "Originally owned and run by Malewicki's company, Monster Robots, Inc."
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Robosaurus",
+   "url": "https://en.wikipedia.org/wiki/Robosaurus",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robosaurus (Q4350065)",
+   "url": "https://www.wikidata.org/wiki/Q4350065",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4350065"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

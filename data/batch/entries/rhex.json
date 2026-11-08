@@ -1,0 +1,50 @@
+{
+ "id": "rhex",
+ "name": "RHex",
+ "aka": [
+  "Rhex"
+ ],
+ "section": "quadrupeds",
+ "kind": "six legged robot",
+ "maker": "Boston Dynamics",
+ "country": "United States",
+ "year": "2001",
+ "status": "research",
+ "def": "Six legged robot with passive stability whose compliant legs are each driven by one actuator, developed with US university partners and built by Boston Dynamics.",
+ "body": [],
+ "facts": [
+  "Several US universities took part in its development",
+  "Development received funding grants from DARPA"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.bostondynamics.com/legacy",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Rhex",
+   "url": "https://en.wikipedia.org/wiki/Rhex",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RHex (Q3415189)",
+   "url": "https://www.wikidata.org/wiki/Q3415189",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Boston Dynamics website",
+   "url": "https://www.bostondynamics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q3415189"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,88 @@
+{
+ "id": "fedor",
+ "name": "FEDOR",
+ "aka": [
+  "Final Experimental Demonstration Object Research",
+  "Skybot F-850"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "FPI and Android Technics",
+ "country": "Russia",
+ "year": "2019",
+ "status": "retired",
+ "def": "Russian anthropomorphic robot flown uncrewed to the International Space Station in 2019 to test teleoperated work in weightlessness.",
+ "body": [
+  "FEDOR trained with pistols in videos that alarmed the world, then flew to the ISS in a Soyuz commander's seat in 2019, tweeting complaints throughout its two week stay.",
+  "The machine is 182 cm tall and weighs about 106 kg, with 48 motors and a matching set of position sensors, and it copies the movements of an operator wearing an exoskeleton suit as well as running some actions on its own. It launched on Soyuz MS-14 on 22 August 2019, docked with the Zvezda module on 27 August after a first attempt failed, and on 30 August it mated electrical connectors while weightless. It returned to Earth on 6 September 2019, and the FEDOR platform it derives from had been developed earlier for rescue work."
+ ],
+ "facts": [
+  "First Russian humanoid robot flown to the International Space Station",
+  "Mated electrical connectors in weightlessness in August 2019"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.82 m"
+  ],
+  [
+   "Mass",
+   "106 kg"
+  ],
+  [
+   "Top speed",
+   "1.11 m/s (4 km/h)"
+  ],
+  [
+   "Runtime",
+   "1 h"
+  ],
+  [
+   "Actuation",
+   "48 electric motors"
+  ],
+  [
+   "Sensors",
+   "48 position sensors with gyroscopic body attitude sensing"
+  ],
+  [
+   "Autonomy",
+   "Copy operator teleoperation with limited autonomous actions"
+  ]
+ ],
+ "see": [
+  "figure-01",
+  "figure-02"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://npo-at.com/projects/fedor-post/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, FEDOR",
+   "url": "https://en.wikipedia.org/wiki/FEDOR",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, FEDOR (Q30897110)",
+   "url": "https://www.wikidata.org/wiki/Q30897110",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Android Technics website",
+   "url": "https://npo-at.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q30897110"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "skybot-f-850"
+ ]
+}

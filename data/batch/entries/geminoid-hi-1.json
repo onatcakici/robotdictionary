@@ -1,0 +1,64 @@
+{
+ "id": "geminoid-hi-1",
+ "name": "Geminoid HI-1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "ATR Intelligent Robotics and Communication Laboratories with Osaka University",
+ "country": "Japan",
+ "year": "2006",
+ "status": "research",
+ "def": "Teleoperated android copy of researcher Hiroshi Ishiguro, built to study how human presence transfers through a remotely controlled likeness.",
+ "body": [
+  "Geminoid HI-1 was moulded from Hiroshi Ishiguro's own body and driven by about 50 pneumatic actuators that reproduce breathing, blinking, small posture shifts and mouth movement. An operator sits at a console where cameras track face and lip motion, which the android reproduces while the operator sees and hears the remote room. ATR and Osaka University used it for lecture and conversation experiments on telepresence, and it started a family of later Geminoid androids."
+ ],
+ "facts": [
+  "Physical copy of its own creator",
+  "Started the Geminoid series of teleoperated androids"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "About 50 pneumatic actuators"
+  ],
+  [
+   "Power",
+   "External air compressor and mains power"
+  ],
+  [
+   "Sensors",
+   "Operator side motion capture, cameras and microphones in the remote room"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated, with automatic idle motions such as breathing and blinking"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ATR Intelligent Robotics and Communication Laboratories with Osaka University website",
+   "url": "https://www.atr.jp",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Geminoid",
+   "url": "https://en.wikipedia.org/wiki/Geminoid",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Geminoid (Q12313599)",
+   "url": "https://www.wikidata.org/wiki/Q12313599",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q12313599"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "geminoid"
+ ]
+}

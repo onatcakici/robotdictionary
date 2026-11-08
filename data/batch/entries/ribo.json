@@ -1,0 +1,49 @@
+{
+ "id": "ribo",
+ "name": "Ribo",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "social humanoid robot",
+ "maker": "Shahjalal University of Science and Technology",
+ "country": "Bangladesh",
+ "year": "2015",
+ "status": "",
+ "def": "Social humanoid robot built by RoboSUST, a robotics group at Shahjalal University of Science and Technology in Bangladesh, described as the first to speak Bengali.",
+ "body": [],
+ "facts": [
+  "First shown in public on 11 December 2015 at a science fiction festival in Shahbag",
+  "The team was supervised by Muhammed Zafar Iqbal",
+  "Funded by the Bangladesh Science Fiction Society"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://fridaylabofficial.com/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Ribo (robot)",
+   "url": "https://en.wikipedia.org/wiki/Ribo_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ribo (robot) (Q70444906)",
+   "url": "https://www.wikidata.org/wiki/Q70444906",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Shahjalal University of Science and Technology website",
+   "url": "https://www.sust.edu/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q70444906"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

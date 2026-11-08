@@ -1,0 +1,43 @@
+{
+ "id": "hexbug",
+ "name": "Hexbug",
+ "aka": [],
+ "section": "other",
+ "kind": "toy robot",
+ "maker": "Spin Master",
+ "country": "",
+ "year": "2007",
+ "status": "production",
+ "def": "Brand of robotic insect toys from Spin Master that borrows from BEAM robotics, its first models imitating six legged arthropods.",
+ "body": [],
+ "facts": [
+  "First test marketed in the United States through RadioShack",
+  "Name refers to its six sided packaging, not its number of legs"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Hexbug",
+   "url": "https://en.wikipedia.org/wiki/Hexbug",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Hexbug (Q5748962)",
+   "url": "https://www.wikidata.org/wiki/Q5748962",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Spin Master website",
+   "url": "https://www.spinmaster.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5748962"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

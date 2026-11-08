@@ -1,0 +1,40 @@
+{
+ "id": "kasif",
+ "name": "Kaşif",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "",
+ "country": "Turkey",
+ "year": "",
+ "status": "",
+ "def": "Remotely operated underwater vehicle from Turkey that supports subsea drilling by carrying out a range of tasks during offshore gas exploration.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Kaşif ROUV",
+   "url": "https://en.wikipedia.org/wiki/Kaşif_ROUV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Kaşif ROUV (Q104789828)",
+   "url": "https://www.wikidata.org/wiki/Q104789828",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Wikipedia, Kaşif ROUV",
+   "url": "https://en.wikipedia.org/wiki/Ka%C5%9Fif_ROUV",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q104789828"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

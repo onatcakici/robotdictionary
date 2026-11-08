@@ -1,0 +1,85 @@
+{
+ "id": "curiosity",
+ "name": "Curiosity",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA JPL",
+ "country": "United States",
+ "year": "2012",
+ "status": "production",
+ "def": "The car sized nuclear laboratory still climbing Mount Sharp after a decade.",
+ "body": [
+  "Curiosity's sky crane landing in 2012 was the most audacious arrival in spaceflight, and the car sized laboratory has climbed Mount Sharp ever since, proving ancient Mars was habitable."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Mass",
+   "approx. 899 kg"
+  ],
+  [
+   "Distance",
+   "over 30 km"
+  ],
+  [
+   "Power",
+   "radioisotope generator"
+  ],
+  [
+   "Height",
+   "2.1 m"
+  ],
+  [
+   "Length",
+   "3 m"
+  ],
+  [
+   "Width",
+   "2.8 m"
+  ]
+ ],
+ "see": [
+  "sojourner",
+  "spirit"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Curiosity (rover)",
+   "url": "https://en.wikipedia.org/wiki/Curiosity_(rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Curiosity (Q48485)",
+   "url": "https://www.wikidata.org/wiki/Q48485",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, jpl.nasa.gov",
+   "url": "https://www.jpl.nasa.gov/news/press_kits/MSLLanding.pdf",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, mars.nasa.gov",
+   "url": "https://mars.nasa.gov/msl/spacecraft/rover/summary/",
+   "kind": "cited"
+  },
+  {
+   "label": "Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q48485"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,37 @@
+{
+ "id": "ur16e",
+ "name": "UR16e",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Universal Robots",
+ "country": "Denmark",
+ "year": "2019",
+ "status": "production",
+ "def": "Heavy payload member of the Universal Robots e-Series, built for loading machines and carrying heavy tools.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "16 kg"
+  ],
+  [
+   "Reach",
+   "900 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Universal Robots website",
+   "url": "https://www.universal-robots.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

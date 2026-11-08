@@ -1,0 +1,56 @@
+{
+ "id": "sorato",
+ "name": "Sorato",
+ "aka": [
+  "Team Hakuto rover"
+ ],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "ispace and Team Hakuto",
+ "country": "Japan",
+ "year": "2017",
+ "status": "retired",
+ "def": "Four kilogram carbon fibre rover built for the Google Lunar XPRIZE by Team Hakuto, completed and tested but never launched.",
+ "body": [
+  "Sorato was a four wheeled rover weighing about four kilograms, built from carbon fibre to survive launch loads and lunar temperature swings. Team Hakuto planned to send it with the Indian TeamIndus lander, and the flight model was completed and run in a lunar environment simulation chamber in Japan. The Google Lunar XPRIZE ended in March 2018 with no launch, and the team went on to become the commercial lunar company ispace."
+ ],
+ "facts": [
+  "Flight model completed for the Google Lunar XPRIZE but never flew",
+  "The team behind it became the lunar company ispace"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "4 kg"
+  ],
+  [
+   "Actuation",
+   "Four wheel drive with independent motors"
+  ],
+  [
+   "Power",
+   "Solar cells with battery"
+  ],
+  [
+   "Sensors",
+   "Stereo cameras"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated with delay tolerant driving"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ispace and Team Hakuto website",
+   "url": "https://ispace-inc.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

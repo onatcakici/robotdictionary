@@ -1,0 +1,39 @@
+{
+ "id": "mitra",
+ "name": "Mitra",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Invento Robotics",
+ "country": "India",
+ "year": "2017",
+ "status": "",
+ "def": "Humanoid robot from Bangalore startup Invento Robotics that made its debut at the Global Entrepreneurship Summit in November 2017, where it welcomed Ivanka Trump.",
+ "body": [],
+ "facts": [
+  "Debuted in November 2017 at the Global Entrepreneurship Summit",
+  "Greeted Ivanka Trump and interacted with Prime Minister Narendra Modi",
+  "Invento Robotics was founded in Bangalore by Balaji Viswanathan"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Mitra Robot",
+   "url": "https://en.wikipedia.org/wiki/Mitra_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Mitra Robot (Q85785951)",
+   "url": "https://www.wikidata.org/wiki/Q85785951",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q85785951"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

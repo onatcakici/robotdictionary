@@ -1,0 +1,57 @@
+{
+ "id": "tencent-max",
+ "name": "Max",
+ "aka": [
+  "Tencent Max"
+ ],
+ "section": "quadrupeds",
+ "kind": "wheel legged quadruped",
+ "maker": "Tencent Robotics X",
+ "country": "China",
+ "year": "2021",
+ "status": "research",
+ "def": "Wheel legged quadruped from Tencent's robotics laboratory that switches between walking on four legs and rolling on wheels.",
+ "body": [
+  "Max carries a wheel at the end of each leg, so it can walk and jump over obstacles like a legged robot and then glide on flat ground at up to twenty five kilometres per hour. Tencent Robotics X built it as a research platform for hybrid locomotion control, showing backflips, standing up on two wheels and recovery after falls with control decisions computed in well under a millisecond. It was announced in March 2021 as the laboratory's first self developed quadruped, aimed at patrol, security and rescue research."
+ ],
+ "facts": [
+  "Combines legged and wheeled locomotion in one machine, switching modes on the move",
+  "Announced in March 2021 as Tencent Robotics X's first self developed quadruped"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "6.9 m/s (24.8 km/h)"
+  ],
+  [
+   "Actuation",
+   "Electric joint actuators with a driven wheel on each leg"
+  ],
+  [
+   "Power",
+   "Onboard battery"
+  ],
+  [
+   "Autonomy",
+   "Onboard hybrid locomotion control with fall recovery"
+  ]
+ ],
+ "see": [
+  "mini-cheetah",
+  "mini-pupper"
+ ],
+ "refs": [
+  {
+   "label": "Tencent Robotics X website",
+   "url": "https://www.tencent.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "max"
+ ]
+}

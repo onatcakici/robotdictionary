@@ -1,0 +1,75 @@
+{
+ "id": "pioneer-3-dx",
+ "name": "Pioneer 3-DX",
+ "aka": [
+  "P3-DX"
+ ],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Omron Adept Technologies",
+ "country": "United States",
+ "year": "1995",
+ "status": "research",
+ "def": "Compact differential drive research base with a sonar array, for years one of the most widely used indoor robot platforms in university laboratories.",
+ "body": [
+  "The Pioneer 3-DX is a red aluminium body on two drive wheels with a rear caster, turning in place with a zero turn radius. A front array of eight sonar transducers is standard, with optional rear sonar, laser scanner, gripper and cameras, and up to three hot swappable batteries give eight to ten hours of running. It is programmed through the ARIA software library and later community drivers, and it descends from the ActivMedia Pioneer robots of the 1990s. Production has ended but many units remain in teaching labs.",
+  "The little red Pioneer was the standard indoor research robot of the pre-ROS era; thousands carried the field's early SLAM and navigation papers on their backs."
+ ],
+ "facts": [
+  "Runs eight to ten hours with three batteries fitted",
+  "Descended from the ActivMedia Pioneer platforms of the 1990s",
+  "Still common in university teaching labs after production ended"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "9 kg"
+  ],
+  [
+   "Payload",
+   "17 kg"
+  ],
+  [
+   "Top speed",
+   "1.2 m/s (4.3 km/h)"
+  ],
+  [
+   "Runtime",
+   "8 h"
+  ],
+  [
+   "Actuation",
+   "Two motor differential drive with a zero turn radius"
+  ],
+  [
+   "Power",
+   "Up to three hot swappable sealed batteries"
+  ],
+  [
+   "Sensors",
+   "Eight front sonar transducers, wheel encoders, optional rear sonar and laser scanner"
+  ],
+  [
+   "Autonomy",
+   "Onboard microcontroller with library and community software for mapping and navigation"
+  ]
+ ],
+ "see": [
+  "seekur",
+  "pragyan"
+ ],
+ "refs": [
+  {
+   "label": "Omron Adept Technologies website",
+   "url": "https://robotics.omron.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "pioneer-3dx"
+ ]
+}

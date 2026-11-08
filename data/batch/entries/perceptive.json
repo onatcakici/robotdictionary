@@ -1,0 +1,41 @@
+{
+ "id": "perceptive",
+ "name": "Perceptive",
+ "aka": [],
+ "section": "medical",
+ "kind": "dental surgical robot",
+ "maker": "Perceptive Technologies",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robotic system that pairs a new dental imaging method with automated tooth cutting, such as preparing a tooth for a crown.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Perceptive Technologies",
+   "url": "https://www.ycombinator.com/companies/perceptive-technologies",
+   "kind": "yc"
+  },
+  {
+   "label": "Perceptive Technologies website",
+   "url": "https://www.perceptive.io",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "perceptive-technologies"
+ },
+ "yc": {
+  "company": "Perceptive Technologies",
+  "batch": "Winter 2020",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/perceptive-technologies"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

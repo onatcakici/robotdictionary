@@ -1,0 +1,81 @@
+{
+ "id": "colmena",
+ "name": "Colmena",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "Universidad Nacional Autonoma de Mexico",
+ "country": "Mexico",
+ "year": "2024",
+ "status": "lost",
+ "def": "Swarm of five palm sized Mexican micro robots intended to self organise on the lunar regolith, lost with the Peregrine lander.",
+ "body": [
+  "Colmena was developed by the space instrumentation laboratory at UNAM as Mexico's first lunar mission, with five wheeled robots about twelve centimetres across. Released from a rail on the Astrobotic Peregrine lander, they were to drive together, link into a shared electrical network and measure regolith and plasma conditions. The mission ended when Peregrine suffered a propellant leak in January 2024 and re entered the atmosphere."
+ ],
+ "facts": [
+  "Mexico's first lunar payload",
+  "Five robots designed to operate as a cooperative swarm"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Small wheeled micro robots designed to work as a group"
+  ],
+  [
+   "Power",
+   "Solar cells on each robot"
+  ],
+  [
+   "Sensors",
+   "Regolith and plasma sensors with position tracking"
+  ],
+  [
+   "Autonomy",
+   "Cooperative swarm behaviour rather than individual teleoperation"
+  ],
+  [
+   "Mass",
+   "608 g"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Universidad Nacional Autonoma de Mexico website",
+   "url": "https://www.unam.mx",
+   "kind": "maker"
+  },
+  {
+   "label": "Official website",
+   "url": "https://linx.nucleares.unam.mx/COLMENA-1.html",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Colmena",
+   "url": "https://en.wikipedia.org/wiki/Colmena",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Colmena-1 (Q124742416)",
+   "url": "https://www.wikidata.org/wiki/Q124742416",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, linx.nucleares.unam.mx",
+   "url": "https://linx.nucleares.unam.mx/files/Colmena_IAC-24-A3-2B-5-x91388.v2.pdf",
+   "kind": "cited"
+  },
+  {
+   "label": "Institute of Nuclear Sciences website",
+   "url": "https://www.nucleares.unam.mx/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q124742416"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

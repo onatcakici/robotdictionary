@@ -1,0 +1,38 @@
+{
+ "id": "pointman-tactical-robot",
+ "name": "Pointman Tactical Robot",
+ "aka": [
+  "PTR",
+  "ROBOTICS POINTMAN"
+ ],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "Applied Research Associates",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Unmanned tactical ground robot intended for military use, built by the American company Applied Research Associates.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Pointman Tactical Robot (Q128124689)",
+   "url": "https://www.wikidata.org/wiki/Q128124689",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Applied Research Associates (United States) website",
+   "url": "https://www.ara.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q128124689"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

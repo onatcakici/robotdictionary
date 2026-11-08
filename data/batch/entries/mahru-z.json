@@ -1,0 +1,54 @@
+{
+ "id": "mahru-z",
+ "name": "Mahru-Z",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid",
+ "maker": "Korea Institute of Science and Technology",
+ "country": "South Korea",
+ "year": "2010",
+ "status": "research",
+ "def": "KIST humanoid built for household chores, using three dimensional vision to recognise objects and operate appliances with its own hands and feet.",
+ "body": [
+  "Mahru-Z was announced by the Cognitive Robotics Center at KIST in February 2010 as the fourth robot of the Mahru family, standing about 1.3 m tall and weighing around 55 kg. It walks with onboard balance control, recognises objects and people in three dimensions and was demonstrated putting fruit into a basket, tidying a table, loading a microwave and pressing appliance controls. The same laboratory built the Mahru-M mobile variant and used the family to study whole body imitation of motion captured from a human performer."
+ ],
+ "facts": [
+  "Fourth generation of the KIST Mahru humanoid family",
+  "Demonstrated household chores including operating a microwave"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.3 m"
+  ],
+  [
+   "Mass",
+   "55 kg"
+  ],
+  [
+   "Actuation",
+   "Electric servo motors"
+  ],
+  [
+   "Sensors",
+   "Three dimensional vision system, force sensing feet"
+  ],
+  [
+   "Autonomy",
+   "Recognises objects and sequences chores from high level commands"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Korea Institute of Science and Technology website",
+   "url": "https://www.kist.re.kr",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

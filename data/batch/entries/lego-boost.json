@@ -1,0 +1,28 @@
+{
+ "id": "lego-boost",
+ "name": "LEGO Boost",
+ "aka": [],
+ "section": "other",
+ "kind": "robot kit",
+ "maker": "The LEGO Group",
+ "country": "Denmark",
+ "year": "2017",
+ "status": "discontinued",
+ "def": "Building and coding set from LEGO with a motorised hub and a colour and distance sensor, used to make five starter robots.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "LEGO website",
+   "url": "https://www.lego.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

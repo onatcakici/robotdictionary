@@ -1,0 +1,39 @@
+{
+ "id": "vertigo",
+ "name": "VertiGo",
+ "aka": [],
+ "section": "other",
+ "kind": "wall climbing robot",
+ "maker": "ETH Zurich and Disney Research Zurich",
+ "country": "Switzerland",
+ "year": "",
+ "status": "research",
+ "def": "Remote controlled wall climbing robot on wheels, developed by ETH Zurich and Disney Research Zurich, that uses two fully tilting propellers to push itself onto and up walls.",
+ "body": [],
+ "facts": [
+  "Its propellers can tilt through a full 360 degrees",
+  "Built on a carbon fiber baseplate with 3D printed joints",
+  "Can roll across the floor and then move onto a vertical wall"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, VertiGo",
+   "url": "https://en.wikipedia.org/wiki/VertiGo",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, VertiGo (Q55637070)",
+   "url": "https://www.wikidata.org/wiki/Q55637070",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q55637070"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,30 @@
+{
+ "id": "momaro",
+ "name": "Momaro",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "wheeled legged robot",
+ "maker": "University of Bonn",
+ "country": "Germany",
+ "year": "2015",
+ "status": "retired",
+ "def": "Centaur like robot from the University of Bonn with four legs ending in wheels and two arms, built for the DARPA Robotics Challenge.",
+ "body": [],
+ "facts": [
+  "Finished fourth in the 2015 DARPA Robotics Challenge finals"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "University of Bonn website",
+   "url": "https://www.uni-bonn.de/en",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

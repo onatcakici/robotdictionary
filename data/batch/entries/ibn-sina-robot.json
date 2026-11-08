@@ -1,0 +1,43 @@
+{
+ "id": "ibn-sina-robot",
+ "name": "Ibn Sina Robot",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "android",
+ "maker": "Al Ain University",
+ "country": "United Arab Emirates",
+ "year": "2009",
+ "status": "",
+ "def": "Android robot made in 2009 by Nikolaos Mavridis and David Hanson in the United Arab Emirates, described as the first android able to converse in Arabic.",
+ "body": [],
+ "facts": [
+  "Built in 2009 at the Interactive Robots and Media Lab",
+  "One of its creators was Hanson Robotics founder David Hanson"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Ibn Sina Robot",
+   "url": "https://en.wikipedia.org/wiki/Ibn_Sina_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ibn Sina Robot (Q5984262)",
+   "url": "https://www.wikidata.org/wiki/Q5984262",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Al Ain University website",
+   "url": "http://aau.ac.ae/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5984262"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

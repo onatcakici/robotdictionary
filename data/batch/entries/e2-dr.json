@@ -1,0 +1,31 @@
+{
+ "id": "e2-dr",
+ "name": "E2-DR",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Honda",
+ "country": "Japan",
+ "year": "2017",
+ "status": "research",
+ "def": "Honda's disaster response humanoid that shimmies through gaps and climbs wet ladders.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "asimo",
+  "p3"
+ ],
+ "refs": [
+  {
+   "label": "Honda website",
+   "url": "https://global.honda",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

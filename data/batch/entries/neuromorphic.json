@@ -1,0 +1,41 @@
+{
+ "id": "neuromorphic",
+ "name": "Neuromorphic",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "laboratory robot",
+ "maker": "Neuromorphic",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Mobile robot that moves between wet lab benches and operates existing scientific instruments like a technician.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Neuromorphic",
+   "url": "https://www.ycombinator.com/companies/neuromorphic",
+   "kind": "yc"
+  },
+  {
+   "label": "Neuromorphic website",
+   "url": "https://www.neuromorphic.vision/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "neuromorphic"
+ },
+ "yc": {
+  "company": "Neuromorphic",
+  "batch": "Summer 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/neuromorphic"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

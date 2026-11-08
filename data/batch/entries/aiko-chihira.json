@@ -1,0 +1,28 @@
+{
+ "id": "aiko-chihira",
+ "name": "Aiko Chihira",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "android",
+ "maker": "Toshiba",
+ "country": "Japan",
+ "year": "2015",
+ "status": "retired",
+ "def": "Humanoid android from Toshiba that greeted shoppers as a receptionist at a Mitsukoshi department store in Tokyo.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Toshiba website",
+   "url": "https://www.global.toshiba",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

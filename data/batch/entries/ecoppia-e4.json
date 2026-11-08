@@ -1,0 +1,51 @@
+{
+ "id": "ecoppia-e4",
+ "name": "Ecoppia E4",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Ecoppia",
+ "country": "Israel",
+ "year": "",
+ "status": "production",
+ "def": "Waterless robotic brush that travels along a row of solar modules each night to remove desert dust, powered by its own solar panel.",
+ "body": [
+  "The E4 is a slim robot that rides along the frame of a solar module row, sweeping a microfibre brush across the glass to lift dust without water. Each unit carries its own solar panel and battery, so it needs no external power or plumbing, and cleans on a nightly schedule set from a cloud platform. Removing dust recovers energy yield that would otherwise be lost, which matters most in arid high dust regions. It works on utility scale photovoltaic plants."
+ ],
+ "facts": [
+  "Contracted to clean a 400 megawatt Azure Power hybrid solar site in India",
+  "Selected for about 427 megawatts of Fortum solar plants in India",
+  "The later H4 model adds a hybrid arm that moves the cleaning unit between module rows"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Wheeled brush unit that travels along the module row on the panel frame"
+  ],
+  [
+   "Power",
+   "Onboard solar panel and battery, with no water and no external supply"
+  ],
+  [
+   "Sensors",
+   "Position and edge sensors with cloud connectivity for scheduling and reporting"
+  ],
+  [
+   "Autonomy",
+   "Cleans automatically on a nightly schedule under cloud control, with no operator on site"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Ecoppia website",
+   "url": "https://www.ecoppia.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

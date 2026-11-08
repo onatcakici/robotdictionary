@@ -1,0 +1,28 @@
+{
+ "id": "indego",
+ "name": "Indego",
+ "aka": [],
+ "section": "medical",
+ "kind": "powered exoskeleton",
+ "maker": "Parker Hannifin",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Lightweight powered hip and knee exoskeleton developed at Vanderbilt University and sold by Parker Hannifin.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Parker Hannifin website",
+   "url": "https://www.parker.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

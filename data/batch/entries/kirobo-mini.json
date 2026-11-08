@@ -1,0 +1,35 @@
+{
+ "id": "kirobo-mini",
+ "name": "Kirobo Mini",
+ "aka": [],
+ "section": "other",
+ "kind": "companion robot",
+ "maker": "Toyota",
+ "country": "Japan",
+ "year": "",
+ "status": "",
+ "def": "Compact robot developed by the Japanese company Toyota under the Kirobo Mini name.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Kirobo Mini (Q27092869)",
+   "url": "https://www.wikidata.org/wiki/Q27092869",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Toyota website",
+   "url": "https://global.toyota/en/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q27092869"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "eden",
+ "name": "Eden",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "semi humanoid robot",
+ "maker": "Eden Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Semi humanoid robot for manufacturing and logistics, rented by usage rather than sold.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Eden Robotics",
+   "url": "https://www.ycombinator.com/companies/eden-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Eden Robotics website",
+   "url": "https://www.edenrobotics.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "eden-robotics"
+ },
+ "yc": {
+  "company": "Eden Robotics",
+  "batch": "Spring 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/eden-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

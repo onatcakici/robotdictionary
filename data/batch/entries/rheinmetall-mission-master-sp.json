@@ -1,0 +1,55 @@
+{
+ "id": "rheinmetall-mission-master-sp",
+ "name": "Mission Master SP",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Rheinmetall Canada",
+ "country": "Canada",
+ "year": "",
+ "status": "production",
+ "def": "Eight wheeled hybrid electric military ground vehicle that carries cargo or sensors, following soldiers or driving waypoint routes with a human in the loop.",
+ "body": [
+  "The Mission Master SP is an eight wheeled skid steered unmanned ground vehicle built on an amphibious all terrain chassis, with a diesel electric hybrid drive and a silent battery only mode. Mission modules turn it into a cargo mule, a surveillance post, a casualty evacuation carrier or a weapons platform. It supports follow me, convoy and waypoint navigation using lidar, cameras and satellite positioning, and any use of force stays under direct human control. It works alongside dismounted infantry off road."
+ ],
+ "facts": [
+  "Trialled by several NATO armed forces in cargo, surveillance and casualty evacuation roles",
+  "Developed by Rheinmetall Canada in Quebec as part of the wider Rheinmetall group",
+  "Sold in a family alongside tracked and larger wheeled Mission Master variants"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "600 kg"
+  ],
+  [
+   "Actuation",
+   "Eight wheeled skid steered amphibious chassis derived from the Argo all terrain platform"
+  ],
+  [
+   "Power",
+   "Diesel electric hybrid with a silent battery only mode"
+  ],
+  [
+   "Sensors",
+   "Lidar, cameras and satellite positioning"
+  ],
+  [
+   "Autonomy",
+   "Follow me, convoy and waypoint navigation with a soldier operator in the loop and human control of any weapon"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Rheinmetall Canada website",
+   "url": "https://www.rheinmetall.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

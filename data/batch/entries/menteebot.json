@@ -1,0 +1,31 @@
+{
+ "id": "menteebot",
+ "name": "MenteeBot",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Mentee Robotics",
+ "country": "Israel",
+ "year": "2024",
+ "status": "pilot",
+ "def": "A household and warehouse humanoid trained end to end on language to motion models.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "mipa",
+  "mirokai"
+ ],
+ "refs": [
+  {
+   "label": "Mentee Robotics website",
+   "url": "https://www.menteebot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

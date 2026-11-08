@@ -1,0 +1,28 @@
+{
+ "id": "meca500",
+ "name": "Meca500",
+ "aka": [],
+ "section": "arms",
+ "kind": "industrial robot arm",
+ "maker": "Mecademic",
+ "country": "Canada",
+ "year": "",
+ "status": "production",
+ "def": "Very small six axis industrial arm from Mecademic, sized for laboratory automation and electronics assembly.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Mecademic website",
+   "url": "https://www.mecademic.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

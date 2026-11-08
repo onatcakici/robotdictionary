@@ -1,0 +1,41 @@
+{
+ "id": "roin",
+ "name": "Roin",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "concrete finishing robot",
+ "maker": "Roin Technologies",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robots that finish commercial concrete floors, with one person supervising the work of several crews; the company was acquired.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Roin Technologies",
+   "url": "https://www.ycombinator.com/companies/roin-technologies",
+   "kind": "yc"
+  },
+  {
+   "label": "Roin Technologies website",
+   "url": "https://rointech.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "roin-technologies"
+ },
+ "yc": {
+  "company": "Roin Technologies",
+  "batch": "Winter 2021",
+  "status": "Acquired",
+  "url": "https://www.ycombinator.com/companies/roin-technologies"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

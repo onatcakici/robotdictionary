@@ -1,0 +1,44 @@
+{
+ "id": "e-david",
+ "name": "e-David",
+ "aka": [],
+ "section": "arms",
+ "kind": "painting robot",
+ "maker": "University of Konstanz",
+ "country": "Germany",
+ "year": "2009",
+ "status": "research",
+ "def": "Painting robot developed at the University of Konstanz that works out brushstrokes from a source image and paints it onto canvas.",
+ "body": [],
+ "facts": [
+  "Project began in 2009 with an adapted one armed welding robot",
+  "Swaps between brushes and pens and measures its distance to the canvas with a sensor",
+  "Paints using predefined stroke candidates or dynamically generated strokes"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, EDavid (robot)",
+   "url": "https://en.wikipedia.org/wiki/EDavid_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, eDavid (Q16944431)",
+   "url": "https://www.wikidata.org/wiki/Q16944431",
+   "kind": "wikidata"
+  },
+  {
+   "label": "University of Konstanz website",
+   "url": "https://www.uni-konstanz.de/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q16944431"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,37 @@
+{
+ "id": "videoray-rovs",
+ "name": "VideoRay ROVs",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "VideoRay",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Family of inspection class underwater remotely operated vehicles, each run from a control unit about the size of a suitcase and tethered by copper or fiber optic cable.",
+ "body": [],
+ "facts": [
+  "Tether to the submersible can be copper or fiber optic"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, VideoRay UROVs",
+   "url": "https://en.wikipedia.org/wiki/VideoRay_UROVs",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, VideoRay UROVs (Q7927790)",
+   "url": "https://www.wikidata.org/wiki/Q7927790",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7927790"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

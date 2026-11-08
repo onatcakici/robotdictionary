@@ -1,0 +1,41 @@
+{
+ "id": "boost",
+ "name": "Boost",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "data center robot",
+ "maker": "Boost Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Autonomous mobile manipulator that inspects and services equipment in data centers.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Boost Robotics",
+   "url": "https://www.ycombinator.com/companies/boost-robotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Boost Robotics website",
+   "url": "https://www.boostrobotics.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "boost-robotics"
+ },
+ "yc": {
+  "company": "Boost Robotics",
+  "batch": "Spring 2025",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/boost-robotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

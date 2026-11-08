@@ -1,0 +1,59 @@
+{
+ "id": "anymal",
+ "name": "ANYmal",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "quadruped robot",
+ "maker": "ANYbotics",
+ "country": "Switzerland",
+ "year": "2016",
+ "status": "production",
+ "def": "The industrial inspection quadruped patrolling offshore platforms and plants, offered in explosion proof form.",
+ "body": [
+  "ANYmal grew from ETH Zürich's legged robotics lab into the standard inspection quadruped of European heavy industry, reading gauges and sniffing for gas on offshore platforms. An explosion proof variant is certified for petrochemical sites."
+ ],
+ "facts": [],
+ "specs": [
+  [
+   "Mass",
+   "approx. 50 kg"
+  ],
+  [
+   "Endurance",
+   "approx. 90 to 120 min"
+  ]
+ ],
+ "see": [
+  "anymal-x",
+  "unitree-b2"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.anybotics.com/anymal-autonomous-legged-robot/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, ANYmal (Q112675045)",
+   "url": "https://www.wikidata.org/wiki/Q112675045",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, robots.ieee.org",
+   "url": "https://robots.ieee.org/robots/anymal/",
+   "kind": "cited"
+  },
+  {
+   "label": "Anybotics website",
+   "url": "https://www.anybotics.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q112675045"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

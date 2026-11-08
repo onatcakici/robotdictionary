@@ -1,0 +1,48 @@
+{
+ "id": "opentrons-flex",
+ "name": "Opentrons Flex",
+ "aka": [],
+ "section": "arms",
+ "kind": "liquid handling robot",
+ "maker": "Opentrons",
+ "country": "United States",
+ "year": "2023",
+ "status": "",
+ "def": "Larger successor to the OT-2 launched in May 2023, adding a gripper that moves labware between deck positions.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "opentrons-ot-2"
+ ],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Opentrons",
+   "url": "https://www.ycombinator.com/companies/opentrons",
+   "kind": "yc"
+  },
+  {
+   "label": "Opentrons website",
+   "url": "http://opentrons.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Opentrons, Flex launch announcement",
+   "url": "https://opentrons.com/archives/news/opentrons-flex-lab-robot-launches",
+   "kind": "press"
+  }
+ ],
+ "ids": {
+  "yc": "opentrons"
+ },
+ "yc": {
+  "company": "Opentrons",
+  "batch": "Winter 2016",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/opentrons"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

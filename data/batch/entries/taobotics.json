@@ -1,0 +1,41 @@
+{
+ "id": "taobotics",
+ "name": "Taobotics",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "retail robot",
+ "maker": "Taobotics",
+ "country": "China",
+ "year": "",
+ "status": "",
+ "def": "Autonomous robots for retail stores from a company based in Shenzhen.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Taobotics",
+   "url": "https://www.ycombinator.com/companies/taobotics",
+   "kind": "yc"
+  },
+  {
+   "label": "Taobotics website",
+   "url": "http://www.taobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "taobotics"
+ },
+ "yc": {
+  "company": "Taobotics",
+  "batch": "Winter 2019",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/taobotics"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

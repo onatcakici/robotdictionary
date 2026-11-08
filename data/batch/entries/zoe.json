@@ -1,0 +1,70 @@
+{
+ "id": "zoe",
+ "name": "Zoë",
+ "aka": [],
+ "section": "rovers",
+ "kind": "solar powered astrobiology rover",
+ "maker": "Carnegie Mellon University",
+ "country": "United States",
+ "year": "2004",
+ "status": "research",
+ "def": "Solar powered astrobiology rover used in the Atacama Desert, the first robot to detect and map life autonomously in a desert.",
+ "body": [
+  "Zoë was built for the Life in the Atacama project, carrying a fluorescence imager and other instruments beneath its body so it could search for microbial life while driving long autonomous traverses. In 2005 it detected and mapped microorganisms in the Atacama without human direction, and in 2013 it returned with a one metre drill to sample subsurface soils for buried life. It runs on solar power with four wheels on a passively averaged suspension that keeps the instrument deck level."
+ ],
+ "facts": [
+  "First robot to autonomously detect and map life in a desert",
+  "Returned to the Atacama with a one metre drill for subsurface samples"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheel drive with passive averaging suspension"
+  ],
+  [
+   "Power",
+   "Solar panels with batteries"
+  ],
+  [
+   "Sensors",
+   "Fluorescence imager, stereo cameras, spectrometers, one metre drill added later"
+  ],
+  [
+   "Autonomy",
+   "Long autonomous traverses with onboard science target selection"
+  ]
+ ],
+ "see": [
+  "360-eye",
+  "farm-ng-amiga"
+ ],
+ "refs": [
+  {
+   "label": "Carnegie Mellon University website",
+   "url": "https://www.cmu.edu",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Zoë (robot)",
+   "url": "https://en.wikipedia.org/wiki/Zoë_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Zoë (Q8074731)",
+   "url": "https://www.wikidata.org/wiki/Q8074731",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Wikipedia, Zoë (robot)",
+   "url": "https://en.wikipedia.org/wiki/Zo%C3%AB_(robot)",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q8074731"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

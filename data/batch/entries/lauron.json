@@ -1,0 +1,44 @@
+{
+ "id": "lauron",
+ "name": "LAURON",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "hexapod robot",
+ "maker": "FZI Forschungszentrum Informatik",
+ "country": "Germany",
+ "year": "1994",
+ "status": "research",
+ "def": "Six legged walking robot modelled on the stick insect Carausius morosus, developed over several generations by the German research centre FZI Forschungszentrum Informatik.",
+ "body": [],
+ "facts": [
+  "First version shown to the public at CeBIT in Hanover in 1994",
+  "First generation relied on an artificial neural network for control",
+  "Fifth generation, LAURON V, was completed in 2013"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, LAURON",
+   "url": "https://en.wikipedia.org/wiki/LAURON",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, LAURON (Q1796845)",
+   "url": "https://www.wikidata.org/wiki/Q1796845",
+   "kind": "wikidata"
+  },
+  {
+   "label": "FZI Forschungszentrum Informatik website",
+   "url": "https://www.fzi.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1796845"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

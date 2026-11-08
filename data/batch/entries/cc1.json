@@ -1,0 +1,31 @@
+{
+ "id": "cc1",
+ "name": "CC1",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Pudu Robotics",
+ "country": "China",
+ "year": "2023",
+ "status": "production",
+ "def": "A quadruple function commercial cleaner that scrubs, sweeps, vacuums and mops.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "pudu-d9",
+  "d7"
+ ],
+ "refs": [
+  {
+   "label": "Pudu Robotics website",
+   "url": "https://www.pudurobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

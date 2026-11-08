@@ -1,0 +1,42 @@
+{
+ "id": "pilot-robot-kit",
+ "name": "Pilot Robot Kit",
+ "aka": [
+  "Pilot robot"
+ ],
+ "section": "other",
+ "kind": "educational robot kit",
+ "maker": "True Robotics",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Educational robot kit from the American company True Robotics that pupils in grades 3 to 5 assemble themselves.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.truerobotics.org/robots/pilot",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Pilot Robot Kit (Q141648860)",
+   "url": "https://www.wikidata.org/wiki/Q141648860",
+   "kind": "wikidata"
+  },
+  {
+   "label": "True Robotics website",
+   "url": "https://www.truerobotics.org/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q141648860"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,52 @@
+{
+ "id": "lru",
+ "name": "Lightweight Rover Unit",
+ "aka": [
+  "LRU"
+ ],
+ "section": "rovers",
+ "kind": "four wheeled research rover",
+ "maker": "DLR Institute of Robotics and Mechatronics",
+ "country": "Germany",
+ "year": "2017",
+ "status": "research",
+ "def": "German four wheeled research rover used in Mount Etna campaigns to test autonomous lunar style survey and sample collection.",
+ "body": [
+  "The Lightweight Rover Unit is a compact rover whose four wheels sit on actuated legs, so it can steer each wheel, crouch and climb, using stereo cameras for onboard mapping and localisation. DLR built two units, one fitted with a manipulator arm, and worked them on the volcanic slopes of Mount Etna in the ROBEX and ARCHES campaigns, where they mapped terrain, placed seismic instruments and collected samples with minimal human input. The demonstrations also linked the rovers to a relay and a flying drone to test cooperative exploration."
+ ],
+ "facts": [
+  "Worked autonomously on Mount Etna in the ROBEX and ARCHES campaigns",
+  "Cooperated with a drone and relay link during analogue missions"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Four wheels on actuated legs with independent steering"
+  ],
+  [
+   "Power",
+   "Battery electric with solar charging during field tests"
+  ],
+  [
+   "Sensors",
+   "Stereo cameras, inertial measurement, manipulator arm on one unit"
+  ],
+  [
+   "Autonomy",
+   "Onboard stereo mapping, localisation and autonomous task execution"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "DLR Institute of Robotics and Mechatronics website",
+   "url": "https://www.dlr.de",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

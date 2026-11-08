@@ -1,0 +1,41 @@
+{
+ "id": "mobot",
+ "name": "Mobot",
+ "aka": [],
+ "section": "arms",
+ "kind": "device testing robot",
+ "maker": "Mobot",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Mechanical robots that tap and swipe real phones to test mobile apps where emulators fall short.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Mobot",
+   "url": "https://www.ycombinator.com/companies/mobot",
+   "kind": "yc"
+  },
+  {
+   "label": "Mobot website",
+   "url": "https://www.mobot.io",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "mobot"
+ },
+ "yc": {
+  "company": "Mobot",
+  "batch": "Winter 2019",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/mobot"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

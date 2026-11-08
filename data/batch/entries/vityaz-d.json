@@ -1,0 +1,42 @@
+{
+ "id": "vityaz-d",
+ "name": "Vityaz-D",
+ "aka": [
+  "Vityaz-D Autonomous Underwater Vehicle"
+ ],
+ "section": "marine",
+ "kind": "autonomous underwater vehicle",
+ "maker": "",
+ "country": "Russia",
+ "year": "",
+ "status": "",
+ "def": "Russian fully autonomous deep submergence vehicle built to reach full ocean depth, with a mass of 5650 kg.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Mass",
+   "5650 kg"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Vityaz-D Autonomous Underwater Vehicle",
+   "url": "https://en.wikipedia.org/wiki/Vityaz-D_Autonomous_Underwater_Vehicle",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Vityaz-D (Q96707328)",
+   "url": "https://www.wikidata.org/wiki/Q96707328",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q96707328"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

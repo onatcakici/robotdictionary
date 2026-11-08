@@ -1,0 +1,41 @@
+{
+ "id": "mezli",
+ "name": "Mezli",
+ "aka": [],
+ "section": "arms",
+ "kind": "automated kitchen",
+ "maker": "Mezli",
+ "country": "United States",
+ "year": "",
+ "status": "discontinued",
+ "def": "Fully automated restaurant built into a shipping container that cooked meals for takeout and delivery.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Mezli",
+   "url": "https://www.ycombinator.com/companies/mezli",
+   "kind": "yc"
+  },
+  {
+   "label": "Mezli website",
+   "url": "https://www.mezli.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "mezli"
+ },
+ "yc": {
+  "company": "Mezli",
+  "batch": "Winter 2021",
+  "status": "Inactive",
+  "url": "https://www.ycombinator.com/companies/mezli"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

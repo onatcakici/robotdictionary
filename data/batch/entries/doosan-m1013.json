@@ -1,0 +1,37 @@
+{
+ "id": "doosan-m1013",
+ "name": "M1013",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Doosan Robotics",
+ "country": "South Korea",
+ "year": "",
+ "status": "production",
+ "def": "Collaborative arm from Doosan Robotics with torque sensors in all six joints.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "10 kg"
+  ],
+  [
+   "Reach",
+   "1300 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Doosan Robotics website",
+   "url": "https://www.doosanrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

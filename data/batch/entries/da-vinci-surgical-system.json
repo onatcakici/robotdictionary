@@ -1,0 +1,45 @@
+{
+ "id": "da-vinci-surgical-system",
+ "name": "da Vinci Surgical System",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Intuitive Surgical",
+ "country": "United States",
+ "year": "",
+ "status": "production",
+ "def": "Surgical robot system made by Intuitive Surgical for minimally invasive operations, including prostate removal, heart valve repair and kidney and gynaecological procedures.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.intuitive.com/en-us/products-and-services/da-vinci",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Da Vinci Surgical System",
+   "url": "https://en.wikipedia.org/wiki/Da_Vinci_Surgical_System",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Da Vinci Surgical System (Q2323044)",
+   "url": "https://www.wikidata.org/wiki/Q2323044",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Intuitive Surgical website",
+   "url": "https://www.intuitive.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2323044"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

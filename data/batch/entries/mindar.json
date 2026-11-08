@@ -1,0 +1,41 @@
+{
+ "id": "mindar",
+ "name": "Mindar",
+ "aka": [
+  "Android Kannon Mindar",
+  "Android Kannon"
+ ],
+ "section": "humanoids",
+ "kind": "android",
+ "maker": "",
+ "country": "Japan",
+ "year": "2019",
+ "status": "service",
+ "def": "Android at the Kōdai-ji Zen temple in Kyoto that preaches regularly on the Heart Sutra and was made to personify Kannon, the bodhisattva of compassion.",
+ "body": [],
+ "facts": [
+  "Serves at Kōdai-ji in Kyoto, a Zen temple with 400 years of history",
+  "Also called Android Kannon Mindar"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Mindar",
+   "url": "https://en.wikipedia.org/wiki/Mindar",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Mindar (Q126036487)",
+   "url": "https://www.wikidata.org/wiki/Q126036487",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q126036487"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,31 @@
+{
+ "id": "haipick",
+ "name": "HaiPick",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Hai Robotics",
+ "country": "China",
+ "year": "2019",
+ "status": "production",
+ "def": "A carton climbing autonomous case handler pioneering the ACR category.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "hero-1",
+  "holabot"
+ ],
+ "refs": [
+  {
+   "label": "Hai Robotics website",
+   "url": "https://www.hairobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

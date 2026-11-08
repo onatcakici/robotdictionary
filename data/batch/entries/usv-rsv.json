@@ -1,0 +1,35 @@
+{
+ "id": "usv-rsv",
+ "name": "USV RSV",
+ "aka": [],
+ "section": "marine",
+ "kind": "unmanned surface vessel",
+ "maker": "Marine Tech SAS",
+ "country": "",
+ "year": "",
+ "status": "development",
+ "def": "Unmanned surface vessel developed since 2008 by the founders of the company Marine Tech SAS.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, USV RSV",
+   "url": "https://en.wikipedia.org/wiki/USV_RSV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, USV RSV (Q28457931)",
+   "url": "https://www.wikidata.org/wiki/Q28457931",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q28457931"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,60 @@
+{
+ "id": "sixriver-chuck",
+ "name": "Chuck",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "cart shaped collaborative robot",
+ "maker": "6 River Systems",
+ "country": "United States",
+ "year": "2016",
+ "status": "production",
+ "def": "Cart shaped collaborative robot that leads warehouse pickers along a batched pick path and carries up to about 91 kg of totes.",
+ "body": [
+  "Chuck is a wheeled picking cart that drives itself to each location and cues the associate with lights, a display and voice prompts. Modular shelving gives up to six levels of tote space, and navigation uses lidar and cameras against a site map without floor infrastructure. 6 River Systems was founded in 2015 by former Kiva Systems executives, and Chuck fleets are used in retail, apparel and third party logistics warehouses."
+ ],
+ "facts": [
+  "Founded in 2015 by former Kiva Systems executives",
+  "Shopify acquired 6 River Systems in 2019 and Ocado took over the business in 2023",
+  "Configurations offer up to six shelf levels of workspace"
+ ],
+ "specs": [
+  [
+   "Payload",
+   "91 kg"
+  ],
+  [
+   "Actuation",
+   "Differential drive cart with modular multi level tote shelving"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with opportunity charging"
+  ],
+  [
+   "Sensors",
+   "Lidar, cameras and contact bumpers"
+  ],
+  [
+   "Autonomy",
+   "Map based navigation with batch optimised pick paths and worker prompts"
+  ]
+ ],
+ "see": [
+  "lg-cloi-guidebot",
+  "cloi-servebot"
+ ],
+ "refs": [
+  {
+   "label": "6 River Systems website",
+   "url": "https://6river.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "chuck"
+ ]
+}

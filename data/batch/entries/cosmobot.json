@@ -1,0 +1,37 @@
+{
+ "id": "cosmobot",
+ "name": "CosmoBot",
+ "aka": [],
+ "section": "medical",
+ "kind": "rehabilitation robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "prototype",
+ "def": "Prototype telerehabilitation robot intended for therapy with children who have conditions such as autism, Down syndrome, cerebral palsy or muscular dystrophy.",
+ "body": [],
+ "facts": [
+  "Also aimed at apraxia and language development disorders"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Cosmobot",
+   "url": "https://en.wikipedia.org/wiki/Cosmobot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Cosmobot (Q5174282)",
+   "url": "https://www.wikidata.org/wiki/Q5174282",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5174282"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

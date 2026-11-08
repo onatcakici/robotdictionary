@@ -1,0 +1,59 @@
+{
+ "id": "qinglong",
+ "name": "Qinglong",
+ "aka": [
+  "OpenLoong"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "National and Local Co-built Humanoid Robotics Innovation Center",
+ "country": "China",
+ "year": "2024",
+ "status": "research",
+ "def": "Full size open source humanoid unveiled in Shanghai in July 2024, with 43 active degrees of freedom and published hardware documentation.",
+ "body": [
+  "Qinglong stands 185 cm, weighs 80 kg and has 43 active degrees of freedom including dexterous hands, and was shown walking and grasping at the 2024 World Artificial Intelligence Conference. The Shanghai innovation centre that built it published the hardware structure and parameters, then the software stack, through the OpenLoong community so other groups can reproduce and extend it. It is intended as a shared reference design for Chinese embodied intelligence research rather than as a product."
+ ],
+ "facts": [
+  "Unveiled at the World Artificial Intelligence Conference in July 2024",
+  "Hardware and software released through the OpenLoong open source community"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.85 m"
+  ],
+  [
+   "Mass",
+   "80 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "43"
+  ],
+  [
+   "Actuation",
+   "Electric joint actuators"
+  ],
+  [
+   "Autonomy",
+   "Open source embodied intelligence software stack"
+  ]
+ ],
+ "see": [
+  "qrio",
+  "robonaut-1"
+ ],
+ "refs": [
+  {
+   "label": "National and Local Co-built Humanoid Robotics Innovation Center website",
+   "url": "https://openloong.org.cn",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

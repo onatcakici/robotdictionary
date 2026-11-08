@@ -1,0 +1,28 @@
+{
+ "id": "palro",
+ "name": "PALRO",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "communication robot",
+ "maker": "Fuji Soft",
+ "country": "Japan",
+ "year": "2010",
+ "status": "",
+ "def": "Small humanoid communication robot used to lead games and exercises in Japanese care homes for the elderly.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Fuji Soft website",
+   "url": "https://www.fsi.co.jp/e/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

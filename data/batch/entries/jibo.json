@@ -1,0 +1,30 @@
+{
+ "id": "jibo",
+ "name": "Jibo",
+ "aka": [],
+ "section": "other",
+ "kind": "social robot",
+ "maker": "Jibo, Inc.",
+ "country": "United States",
+ "year": "2017",
+ "status": "",
+ "def": "Desktop social robot conceived by Cynthia Breazeal that turned its round head toward people as it talked.",
+ "body": [],
+ "facts": [
+  "Its original servers were shut down in 2019 after the company sold its assets"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Jibo website",
+   "url": "https://jibo.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

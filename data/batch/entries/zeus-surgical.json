@@ -1,0 +1,30 @@
+{
+ "id": "zeus-surgical",
+ "name": "ZEUS",
+ "aka": [],
+ "section": "medical",
+ "kind": "surgical robot",
+ "maker": "Computer Motion",
+ "country": "United States",
+ "year": "1998",
+ "status": "retired",
+ "def": "Surgical robot with arms controlled from a separate console, withdrawn after its maker merged with Intuitive Surgical in 2003.",
+ "body": [],
+ "facts": [
+  "Used in 2001 for a transatlantic operation, with the surgeon in New York and the patient in Strasbourg"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/w/index.php?search=ZEUS+robotic+surgical+system",
+   "kind": "wikipedia"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

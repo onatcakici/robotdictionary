@@ -1,0 +1,42 @@
+{
+ "id": "tico",
+ "name": "Tico",
+ "aka": [],
+ "section": "other",
+ "kind": "social robot",
+ "maker": "Adele Robots",
+ "country": "Spain",
+ "year": "",
+ "status": "",
+ "def": "Spanish social robot made by Adele Robots to engage with people, chiefly at marketing events and in schools as a teacher's assistant.",
+ "body": [],
+ "facts": [
+  "Works mainly at promotional events and in classrooms alongside teachers"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.adelerobots.com/en/tico",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Tico Robot",
+   "url": "https://en.wikipedia.org/wiki/Tico_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Tico Robot (Q7800735)",
+   "url": "https://www.wikidata.org/wiki/Q7800735",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7800735"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

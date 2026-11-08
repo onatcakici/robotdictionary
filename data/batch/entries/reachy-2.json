@@ -1,0 +1,63 @@
+{
+ "id": "reachy-2",
+ "name": "Reachy 2",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Pollen Robotics",
+ "country": "France",
+ "year": "2024",
+ "status": "production",
+ "def": "Open source humanoid torso on an omnidirectional base, sold to research and teleoperation customers and now built under Hugging Face ownership.",
+ "body": [
+  "Reachy 2 is 166 centimetres tall, weighs 50 kilograms and has 18 degrees of freedom split between two seven degree of freedom arms built from parallel joints, a three axis neck and an omnidirectional wheeled base. Each arm carries three kilograms, and the hardware designs and software are published openly so buyers can modify or reproduce parts. It is commonly driven either by learned policies or by a virtual reality teleoperation rig that maps an operator's arms onto the robot. Pollen Robotics was acquired by Hugging Face in April 2025, which continues to sell the robot to research groups and companies."
+ ],
+ "facts": [
+  "Hardware and software released under open source licences",
+  "Pollen Robotics acquired by Hugging Face in April 2025",
+  "Widely used with virtual reality teleoperation rigs for manipulation data collection"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.66 m"
+  ],
+  [
+   "Mass",
+   "50 kg"
+  ],
+  [
+   "Payload",
+   "3 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "18"
+  ],
+  [
+   "Actuation",
+   "Parallel joint electric arms and an omnidirectional wheeled base"
+  ],
+  [
+   "Sensors",
+   "Stereo head cameras, microphones, joint position sensing"
+  ],
+  [
+   "Autonomy",
+   "Open source software stack supporting learned policies and virtual reality teleoperation"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Pollen Robotics website",
+   "url": "https://www.pollen-robotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

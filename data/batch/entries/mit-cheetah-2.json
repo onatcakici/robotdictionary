@@ -1,0 +1,59 @@
+{
+ "id": "mit-cheetah-2",
+ "name": "MIT Cheetah 2",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "electric bounding quadruped",
+ "maker": "MIT Biomimetic Robotics Laboratory",
+ "country": "United States",
+ "year": "2014",
+ "status": "retired",
+ "def": "Electric bounding quadruped that ran untethered on grass and jumped hurdles, built to show motors could match hydraulics.",
+ "body": [
+  "Cheetah 2 used custom high torque brushless motors with low gear ratios, an arrangement that lets the machine sense and control foot forces through the motors themselves rather than with force sensors. An impulse based bounding controller set the force each leg applied during stance, which held the gait together across speeds without retuning. It bounded at up to 6.4 metres per second, ran untethered across grass in 2014, and in 2015 used onboard lidar to clear obstacles up to 46 centimetres high while running."
+ ],
+ "facts": [
+  "Bounded at 6.4 m/s, among the fastest speeds recorded for an electric quadruped",
+  "First four legged robot to detect and jump over obstacles autonomously while running",
+  "Its proprioceptive actuator concept shaped later MIT and commercial quadrupeds"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "6.4 m/s (23 km/h)"
+  ],
+  [
+   "Degrees of freedom",
+   "12"
+  ],
+  [
+   "Actuation",
+   "Custom high torque density brushless motors with low gear ratio transmissions"
+  ],
+  [
+   "Power",
+   "Onboard battery pack"
+  ],
+  [
+   "Sensors",
+   "Joint encoders, inertial measurement unit, lidar for obstacle detection"
+  ],
+  [
+   "Autonomy",
+   "Impulse based bounding control with onboard obstacle jumping planner"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "MIT Biomimetic Robotics Laboratory website",
+   "url": "https://www.mit.edu",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

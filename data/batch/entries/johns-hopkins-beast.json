@@ -1,0 +1,38 @@
+{
+ "id": "johns-hopkins-beast",
+ "name": "Johns Hopkins Beast",
+ "aka": [],
+ "section": "other",
+ "kind": "mobile automaton",
+ "maker": "Johns Hopkins University Applied Physics Laboratory",
+ "country": "United States",
+ "year": "1960",
+ "status": "retired",
+ "def": "Early self sufficient mobile machine built in the 1960s at the Johns Hopkins University Applied Physics Laboratory that roamed corridors hunting for wall sockets to recharge itself.",
+ "body": [],
+ "facts": [
+  "Found black power outlets along the lab's white halls and plugged itself in",
+  "Its simple onboard intelligence allowed it to fend for itself"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Johns Hopkins Beast",
+   "url": "https://en.wikipedia.org/wiki/Johns_Hopkins_Beast",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Johns Hopkins Beast (Q6268004)",
+   "url": "https://www.wikidata.org/wiki/Q6268004",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q6268004"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

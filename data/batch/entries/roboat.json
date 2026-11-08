@@ -1,0 +1,44 @@
+{
+ "id": "roboat",
+ "name": "Roboat",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous boat",
+ "maker": "Amsterdam Institute for Advanced Metropolitan Solutions",
+ "country": "Netherlands",
+ "year": "2016",
+ "status": "research",
+ "def": "Autonomous research boats developed by MIT, Delft University of Technology and Wageningen University for moving people and goods on Amsterdam's canals, where prototypes were tested.",
+ "body": [],
+ "facts": [
+  "Project of the Amsterdam Institute for Advanced Metropolitan Solutions",
+  "Scheduled to run from 2016 to 2021 on a €25 million budget",
+  "Also aimed at portable infrastructure and data gathering"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://roboat.org",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Roboat",
+   "url": "https://en.wikipedia.org/wiki/Roboat",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Roboat (Q48739833)",
+   "url": "https://www.wikidata.org/wiki/Q48739833",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q48739833"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

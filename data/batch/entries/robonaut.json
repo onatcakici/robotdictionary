@@ -1,0 +1,43 @@
+{
+ "id": "robonaut",
+ "name": "Robonaut",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Lyndon B. Johnson Space Center",
+ "country": "United States",
+ "year": "",
+ "status": "development",
+ "def": "NASA humanoid robot from the Dexterous Robotics Laboratory at Johnson Space Center in Houston, built for space jobs that need nimble handling rather than heavy lifting.",
+ "body": [],
+ "facts": [
+  "Developed at NASA's Johnson Space Center in Houston, Texas",
+  "Built for tasks needing more dexterity than space robots that move large objects"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Robonaut",
+   "url": "https://en.wikipedia.org/wiki/Robonaut",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Robonaut (Q852268)",
+   "url": "https://www.wikidata.org/wiki/Q852268",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Lyndon B. Johnson Space Center website",
+   "url": "http://www.nasa.gov/centers/johnson/home/index.html",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q852268"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

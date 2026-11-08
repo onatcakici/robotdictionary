@@ -1,0 +1,28 @@
+{
+ "id": "hello-robot-stretch",
+ "name": "Hello Robot Stretch",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "mobile manipulator",
+ "maker": "Hello Robot",
+ "country": "United States",
+ "year": "2020",
+ "status": "production",
+ "def": "Lightweight mobile manipulator with a telescoping arm on a vertical mast, built to help people with everyday tasks at home.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Hello Robot website",
+   "url": "https://hello-robot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

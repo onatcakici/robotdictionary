@@ -1,0 +1,58 @@
+{
+ "id": "cheetah-cub",
+ "name": "Cheetah-cub",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "cat sized compliant quadruped",
+ "maker": "EPFL Biorobotics Laboratory",
+ "country": "Switzerland",
+ "year": "2013",
+ "status": "research",
+ "def": "Cat sized compliant quadruped from EPFL that was the fastest small four legged robot of its time relative to body size.",
+ "body": [
+  "Cheetah cub has three segment legs built from springs and cables, a layout taken from measured cat limb anatomy, driven by hobby scale servo motors. A central pattern generator produces its gait with no feedback from the terrain, so the springy legs alone supply the stability needed to run. It reached 1.42 metres per second, close to seven body lengths per second, which made it the fastest quadruped robot under thirty kilograms when published."
+ ],
+ "facts": [
+  "Ran at about seven body lengths per second, a record for small quadruped robots at publication",
+  "Leg design derived directly from cat limb anatomy"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.21 m"
+  ],
+  [
+   "Mass",
+   "1.1 kg"
+  ],
+  [
+   "Top speed",
+   "1.42 m/s (5.1 km/h)"
+  ],
+  [
+   "Actuation",
+   "Servo motors driving cable and spring loaded three segment legs"
+  ],
+  [
+   "Power",
+   "External electrical supply"
+  ],
+  [
+   "Autonomy",
+   "Open loop central pattern generator"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "EPFL Biorobotics Laboratory website",
+   "url": "https://www.epfl.ch",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

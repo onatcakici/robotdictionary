@@ -1,0 +1,37 @@
+{
+ "id": "rashmi",
+ "name": "Rashmi",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "female humanoid robot",
+ "maker": "",
+ "country": "India",
+ "year": "",
+ "status": "",
+ "def": "Indian female humanoid robot with lip synced speech in several languages, developed by Ranchi programmer Ranjit Shrivastava.",
+ "body": [],
+ "facts": [
+  "Developed by Ranjit Shrivastava, a programmer from Ranchi, India"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Rashmi Robot",
+   "url": "https://en.wikipedia.org/wiki/Rashmi_Robot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Rashmi Robot (Q85851734)",
+   "url": "https://www.wikidata.org/wiki/Q85851734",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q85851734"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

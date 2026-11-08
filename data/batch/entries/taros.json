@@ -1,0 +1,37 @@
+{
+ "id": "taros",
+ "name": "TAROS",
+ "aka": [
+  "VOP Taros"
+ ],
+ "section": "wheeled",
+ "kind": "military ground robot",
+ "maker": "VOP CZ",
+ "country": "Czechia",
+ "year": "",
+ "status": "",
+ "def": "Military unmanned ground vehicle made by the Czech manufacturer VOP CZ, a robotic platform that operates without a crew aboard.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, Taros (Q110206123)",
+   "url": "https://www.wikidata.org/wiki/Q110206123",
+   "kind": "wikidata"
+  },
+  {
+   "label": "VOP CZ website",
+   "url": "http://www.vop.cz/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q110206123"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

@@ -1,0 +1,37 @@
+{
+ "id": "yaskawa-motoman-hc10",
+ "name": "Motoman HC10",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot arm",
+ "maker": "Yaskawa",
+ "country": "Japan",
+ "year": "",
+ "status": "production",
+ "def": "Collaborative arm in the Yaskawa Motoman range with hand guided teaching and pinch point protection.",
+ "body": [],
+ "facts": [],
+ "specs": [
+  [
+   "Payload",
+   "10 kg"
+  ],
+  [
+   "Reach",
+   "1200 mm"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Yaskawa website",
+   "url": "https://www.yaskawa-global.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

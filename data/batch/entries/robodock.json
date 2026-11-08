@@ -1,0 +1,41 @@
+{
+ "id": "robodock",
+ "name": "RoboDock",
+ "aka": [],
+ "section": "arms",
+ "kind": "fleet depot robot",
+ "maker": "RoboDock",
+ "country": "United States",
+ "year": "",
+ "status": "",
+ "def": "Robots that plug in and check electric and autonomous vehicles at fleet depots.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, RoboDock",
+   "url": "https://www.ycombinator.com/companies/robodock",
+   "kind": "yc"
+  },
+  {
+   "label": "RoboDock website",
+   "url": "https://www.robodock.tech/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "robodock"
+ },
+ "yc": {
+  "company": "RoboDock",
+  "batch": "Winter 2026",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/robodock"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

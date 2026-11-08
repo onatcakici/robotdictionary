@@ -1,0 +1,39 @@
+{
+ "id": "runbot",
+ "name": "RunBot",
+ "aka": [],
+ "section": "quadrupeds",
+ "kind": "bipedal walking robot",
+ "maker": "",
+ "country": "",
+ "year": "2005",
+ "status": "research",
+ "def": "Miniature two legged walking robot that uses reflexes triggered by foot contact sensors instead of a central pattern generator to produce its gait.",
+ "body": [],
+ "facts": [
+  "Built in 2005 by Tao Geng as part of his PhD",
+  "Its walking speed can be improved through reinforcement learning",
+  "Its movement draws on the work of neurophysiologist Nikolai Bernstein"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, RunBot",
+   "url": "https://en.wikipedia.org/wiki/RunBot",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, RunBot (Q7379471)",
+   "url": "https://www.wikidata.org/wiki/Q7379471",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q7379471"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

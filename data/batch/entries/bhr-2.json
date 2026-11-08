@@ -1,0 +1,56 @@
+{
+ "id": "bhr-2",
+ "name": "BHR-2",
+ "aka": [
+  "Huitong"
+ ],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "Beijing Institute of Technology",
+ "country": "China",
+ "year": "2005",
+ "status": "research",
+ "def": "Second generation Beijing Institute of Technology humanoid that performed tai chi and broadsword forms to demonstrate whole body balance control.",
+ "body": [
+  "BHR-2 is 1.6 m tall, weighs 63 kg and has 32 degrees of freedom, up from the 28 of the BHR-1 that first walked untethered in 2002. Its controller combines gait pattern generation with balance compensation, so the robot can hold slow martial arts postures while shifting its centre of mass over a small support area. The BHR line continued with a facial expression version, a table tennis playing BHR-5 and later machines that crawl, roll and recover from falls."
+ ],
+ "facts": [
+  "Performed tai chi routines and broadsword forms",
+  "Part of the BHR humanoid series that began in 2002"
+ ],
+ "specs": [
+  [
+   "Height",
+   "1.6 m"
+  ],
+  [
+   "Mass",
+   "63 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "32"
+  ],
+  [
+   "Actuation",
+   "Electric servo motors"
+  ],
+  [
+   "Autonomy",
+   "Gait pattern generation with online balance compensation"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Beijing Institute of Technology website",
+   "url": "https://www.bit.edu.cn",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

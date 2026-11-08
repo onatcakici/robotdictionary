@@ -1,0 +1,67 @@
+{
+ "id": "roborock-s7",
+ "name": "Roborock S7",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "laser navigating vacuum",
+ "maker": "Roborock",
+ "country": "China",
+ "year": "2021",
+ "status": "service",
+ "def": "Laser navigating vacuum and mop that scrubs hard floors with a vibrating pad and lifts that pad automatically when it detects carpet.",
+ "body": [
+  "The S7 combines a spinning laser scanner for mapping with a mop plate that vibrates up to 3,000 times a minute to scrub dried stains. An ultrasonic sensor recognises carpet and raises the mop about 5 mm so it can vacuum rugs on the same run. Maps are stored for several floors with room labels, no go zones and per room suction settings. It has since been succeeded by later Roborock models, though large numbers remain in use."
+ ],
+ "facts": [
+  "Sonic mop plate vibrates up to 3,000 times a minute",
+  "Raises the mop about 5 mm when carpet is detected",
+  "Peak suction rated at 2,500 Pa"
+ ],
+ "specs": [
+  [
+   "Runtime",
+   "3 h"
+  ],
+  [
+   "Actuation",
+   "Two drive wheels, rubber main brush and a sonic vibrating mop plate"
+  ],
+  [
+   "Power",
+   "5,200 mAh lithium battery with a charging dock"
+  ],
+  [
+   "Sensors",
+   "Spinning laser scanner, ultrasonic carpet sensor, cliff and bumper sensors"
+  ],
+  [
+   "Autonomy",
+   "Laser SLAM with multi floor maps, room labels and no go zones"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Roborock website",
+   "url": "https://www.roborock.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikidata, Roborock S7 (Q125341964)",
+   "url": "https://www.wikidata.org/wiki/Q125341964",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Roborock website",
+   "url": "http://www.roborock.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q125341964"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

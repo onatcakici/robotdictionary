@@ -1,0 +1,80 @@
+{
+ "id": "electrolux-trilobite",
+ "name": "Trilobite",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Electrolux",
+ "country": "Sweden",
+ "year": "2001",
+ "status": "discontinued",
+ "def": "The first mass market robot vacuum cleaner, a disc shaped machine that sensed rooms with ultrasound and returned to its dock to recharge.",
+ "body": [
+  "The Trilobite used ultrasonic transducers to range walls and furniture, following walls and covering open floor while avoiding contact within about an inch. It reached shops in 2001, ahead of the first Roomba, after a prototype was demonstrated on BBC television in 1996. A version 2.0 arrived in 2004 with added infrared sensors to detect stairs and ledges. Electrolux later dropped the product and it is no longer sold or supported."
+ ],
+ "facts": [
+  "Demonstrated as a prototype on BBC Tomorrow's World in 1996",
+  "Reached the market in 2001, before the first Roomba",
+  "A version 2.0 followed in 2004 before the line was dropped"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.13 m"
+  ],
+  [
+   "Length",
+   "0.35 m"
+  ],
+  [
+   "Runtime",
+   "1 h"
+  ],
+  [
+   "Actuation",
+   "Two drive wheels with casters and a removable roller brush"
+  ],
+  [
+   "Power",
+   "Rechargeable battery with a docking station"
+  ],
+  [
+   "Sensors",
+   "Ultrasonic transducers, with infrared cliff sensors on the version 2.0"
+  ],
+  [
+   "Autonomy",
+   "Ultrasonic ranging with wall following and automatic return to the charging dock"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Electrolux website",
+   "url": "https://www.electroluxgroup.com",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Electrolux Trilobite",
+   "url": "https://en.wikipedia.org/wiki/Electrolux_Trilobite",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Electrolux Trilobite (Q5358060)",
+   "url": "https://www.wikidata.org/wiki/Q5358060",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Electrolux website",
+   "url": "https://www.electroluxgroup.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5358060"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

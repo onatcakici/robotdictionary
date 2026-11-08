@@ -1,0 +1,40 @@
+{
+ "id": "vaimos",
+ "name": "Vaimos",
+ "aka": [],
+ "section": "marine",
+ "kind": "autonomous sailing boat",
+ "maker": "IFREMER and École nationale supérieure de techniques avancées Bretagne",
+ "country": "France",
+ "year": "",
+ "status": "",
+ "def": "French autonomous sailing boat carrying onboard instruments for measuring the ocean surface, developed by IFREMER and ENSTA Bretagne.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Vaimos",
+   "url": "https://en.wikipedia.org/wiki/Vaimos",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Vaimos (Q17088367)",
+   "url": "https://www.wikidata.org/wiki/Q17088367",
+   "kind": "wikidata"
+  },
+  {
+   "label": "IFREMER website",
+   "url": "http://wwz.ifremer.fr/institut",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q17088367"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

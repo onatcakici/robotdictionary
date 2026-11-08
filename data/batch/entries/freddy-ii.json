@@ -1,0 +1,38 @@
+{
+ "id": "freddy-ii",
+ "name": "Freddy II",
+ "aka": [],
+ "section": "arms",
+ "kind": "experimental robot",
+ "maker": "Department of Machine Intelligence and Perception",
+ "country": "",
+ "year": "1973",
+ "status": "retired",
+ "def": "Experimental robot built at the Department of Machine Intelligence and Perception and active from 1973 to 1976 as the successor to the original Freddy.",
+ "body": [],
+ "facts": [
+  "Active from 1973 to 1976",
+  "Followed the first Freddy, which ran from 1969 to 1971"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Freddy II",
+   "url": "https://en.wikipedia.org/wiki/Freddy_II",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Freddy II (Q5496874)",
+   "url": "https://www.wikidata.org/wiki/Q5496874",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5496874"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

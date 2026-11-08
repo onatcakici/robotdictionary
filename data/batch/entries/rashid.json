@@ -1,0 +1,83 @@
+{
+ "id": "rashid",
+ "name": "Rashid",
+ "aka": [
+  "Emirates Lunar Mission rover"
+ ],
+ "section": "rovers",
+ "kind": "micro rover",
+ "maker": "Mohammed bin Rashid Space Centre",
+ "country": "United Arab Emirates",
+ "year": "2022",
+ "status": "lost",
+ "def": "Emirati micro rover built to study lunar dust and plasma, lost when the ispace Hakuto-R lander crashed in April 2023.",
+ "body": [
+  "Rashid was the first lunar rover designed and built in the Arab world, assembled at the Mohammed bin Rashid Space Centre in Dubai. It carried two high resolution cameras, a microscopic camera, a thermal imager and a Langmuir probe to study regolith properties, dust adhesion and the plasma environment, with test patches of different materials on its wheels. Communication with the Hakuto-R Mission 1 lander was lost seconds before touchdown on 25 April 2023 and the spacecraft crashed near Atlas crater."
+ ],
+ "facts": [
+  "First lunar rover designed and built in the Arab world",
+  "Lost in the Hakuto-R Mission 1 landing failure"
+ ],
+ "specs": [
+  [
+   "Mass",
+   "10 kg"
+  ],
+  [
+   "Actuation",
+   "Four wheel drive with material test patches on the wheels"
+  ],
+  [
+   "Power",
+   "Solar panels with battery"
+  ],
+  [
+   "Sensors",
+   "Two high resolution cameras, microscopic camera, thermal imager, Langmuir probe"
+  ],
+  [
+   "Autonomy",
+   "Teleoperated from Dubai through the lander relay"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "Mohammed bin Rashid Space Centre website",
+   "url": "https://www.mbrsc.ae",
+   "kind": "maker"
+  },
+  {
+   "label": "Wikipedia, Rashid (lunar rover)",
+   "url": "https://en.wikipedia.org/wiki/Rashid_(lunar_rover)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Rashid (Q104859817)",
+   "url": "https://www.wikidata.org/wiki/Q104859817",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, cnn.com",
+   "url": "https://www.cnn.com/2020/11/24/middleeast/uae-moon-rover-mission-scn-spc-intl/index.html",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, mbrsc.ae",
+   "url": "https://www.mbrsc.ae/service/emirates-lunar-mission/",
+   "kind": "cited"
+  },
+  {
+   "label": "Mohammed bin Rashid Space Centre website",
+   "url": "https://www.mbrsc.ae/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q104859817"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

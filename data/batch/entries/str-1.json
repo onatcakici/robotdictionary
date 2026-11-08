@@ -1,0 +1,52 @@
+{
+ "id": "str-1",
+ "name": "STR-1",
+ "aka": [
+  "Specialized Transport Robot"
+ ],
+ "section": "wheeled",
+ "kind": "remote controlled clearing robot",
+ "maker": "VNII Transmash",
+ "country": "Soviet Union",
+ "year": "1986",
+ "status": "retired",
+ "def": "Radio controlled clearing robot derived from Lunokhod chassis work, used on the reactor building roofs at Chernobyl in 1986.",
+ "body": [
+  "VNII Transmash drew on its planetary rover experience, beginning with Lunokhod 1, to build a remotely driven machine that could work in radiation fields lethal to people. The robot was fitted with a blade to push highly radioactive debris off the roofs beside the destroyed reactor, and was driven by radio from a shielded position with help from mast mounted television cameras. Working from 8 August to 10 October 1986 the machines cleared about 90 tonnes of radioactive material and kept roughly a thousand people out of the most dangerous zone."
+ ],
+ "facts": [
+  "Cleared about 90 tonnes of radioactive debris from Chernobyl roofs",
+  "Worked from 8 August to 10 October 1986 where people could not go"
+ ],
+ "specs": [
+  [
+   "Actuation",
+   "Wheeled chassis derived from the Lunokhod self propelled chassis with a bulldozer blade"
+  ],
+  [
+   "Power",
+   "Silver zinc batteries giving several hours of work per charge"
+  ],
+  [
+   "Sensors",
+   "Mast mounted television cameras providing the operator's view"
+  ],
+  [
+   "Autonomy",
+   "Radio teleoperation from a shielded control point"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "VNII Transmash website",
+   "url": "https://www.rovercompany.ru",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

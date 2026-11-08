@@ -1,0 +1,38 @@
+{
+ "id": "samsung-sgr-a1",
+ "name": "Samsung SGR-A1",
+ "aka": [],
+ "section": "other",
+ "kind": "autonomous sentry gun",
+ "maker": "Samsung Techwin and Korea University",
+ "country": "South Korea",
+ "year": "",
+ "status": "",
+ "def": "Autonomous sentry gun developed by Samsung Techwin and Korea University to help South Korean soldiers guard the Korean Demilitarized Zone.",
+ "body": [],
+ "facts": [
+  "Often cited as the first such unit combining surveillance, tracking, firing and voice recognition",
+  "Reportedly deployed, though numbers are unknown because the project is classified"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, SGR-A1",
+   "url": "https://en.wikipedia.org/wiki/SGR-A1",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Samsung SGR-A1 (Q637078)",
+   "url": "https://www.wikidata.org/wiki/Q637078",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q637078"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

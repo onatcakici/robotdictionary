@@ -1,0 +1,40 @@
+{
+ "id": "ca-m",
+ "name": "CA-M",
+ "aka": [],
+ "section": "arms",
+ "kind": "military provisioning robot",
+ "maker": "Circus SE",
+ "country": "Germany",
+ "year": "2025",
+ "status": "",
+ "def": "Autonomous provisioning system for military operations, introduced in 2025 by the German company Circus SE.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikidata, CA-M (Q139548217)",
+   "url": "https://www.wikidata.org/wiki/Q139548217",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, circus-defence.ai",
+   "url": "https://circus-defence.ai/",
+   "kind": "cited"
+  },
+  {
+   "label": "Circus SE website",
+   "url": "https://www.circus-group.com/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q139548217"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

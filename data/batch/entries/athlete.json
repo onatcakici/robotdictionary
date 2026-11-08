@@ -1,0 +1,48 @@
+{
+ "id": "athlete",
+ "name": "ATHLETE",
+ "aka": [],
+ "section": "rovers",
+ "kind": "rover",
+ "maker": "NASA JPL",
+ "country": "United States",
+ "year": "2009",
+ "status": "research",
+ "def": "A six limbed wheel legged lunar cargo hauler that rolls or walks as terrain demands.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "sojourner",
+  "spirit"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.nasa.gov/pdf/390539main_Athlete%20Fact%20Sheet.pdf",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, ATHLETE",
+   "url": "https://en.wikipedia.org/wiki/ATHLETE",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, All-Terrain Hex-Legged Extra-Terrestrial Explorer (ATHLETE) (Q15009)",
+   "url": "https://www.wikidata.org/wiki/Q15009",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Jet Propulsion Laboratory website",
+   "url": "https://www.jpl.nasa.gov/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q15009"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

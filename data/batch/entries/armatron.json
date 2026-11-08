@@ -1,0 +1,44 @@
+{
+ "id": "armatron",
+ "name": "Armatron",
+ "aka": [],
+ "section": "arms",
+ "kind": "toy robot arm",
+ "maker": "Tomy",
+ "country": "",
+ "year": "1984",
+ "status": "",
+ "def": "Joystick controlled toy robot arm from Tomy, sold through Radio Shack stores in the United States from 1984, with no automatic functions.",
+ "body": [],
+ "facts": [
+  "Six degrees of freedom, including a gripper with two fingers",
+  "Wrist and shoulder could rotate without limit",
+  "Looked like a 1980s industrial robot but was fully manual"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Armatron",
+   "url": "https://en.wikipedia.org/wiki/Armatron",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Armatron (Q12053026)",
+   "url": "https://www.wikidata.org/wiki/Q12053026",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Tomy website",
+   "url": "https://www.takaratomy.co.jp/english/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q12053026"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

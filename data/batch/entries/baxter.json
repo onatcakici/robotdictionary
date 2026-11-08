@@ -1,0 +1,42 @@
+{
+ "id": "baxter",
+ "name": "Baxter",
+ "aka": [],
+ "section": "arms",
+ "kind": "collaborative robot",
+ "maker": "Rethink Robotics",
+ "country": "United States",
+ "year": "2011",
+ "status": "",
+ "def": "Two armed collaborative industrial robot from Rethink Robotics, the startup founded by Rodney Brooks, that has an animated face.",
+ "body": [],
+ "facts": [
+  "The first unit was completed on 22 September 2011"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Baxter (robot)",
+   "url": "https://en.wikipedia.org/wiki/Baxter_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Baxter (Q4873834)",
+   "url": "https://www.wikidata.org/wiki/Q4873834",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Rethink Robotics website",
+   "url": "http://rethinkrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4873834"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

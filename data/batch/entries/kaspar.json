@@ -1,0 +1,57 @@
+{
+ "id": "kaspar",
+ "name": "Kaspar",
+ "aka": [
+  "Kaspar the social robot"
+ ],
+ "section": "humanoids",
+ "kind": "social robot",
+ "maker": "University of Hertfordshire",
+ "country": "United Kingdom",
+ "year": "2005",
+ "status": "research",
+ "def": "Humanoid social robot developed at the University of Hertfordshire to act as a companion for autistic children and others who struggle with communication.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "http://www.herts.ac.uk/kaspar",
+   "kind": "official"
+  },
+  {
+   "label": "Wikidata, Kaspar (Q46999844)",
+   "url": "https://www.wikidata.org/wiki/Q46999844",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, herts.ac.uk",
+   "url": "https://www.herts.ac.uk/kaspar/meet-kaspar",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, herts.ac.uk",
+   "url": "https://www.herts.ac.uk/kaspar",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, herts.ac.uk",
+   "url": "https://www.herts.ac.uk/kaspar/research-and-development",
+   "kind": "cited"
+  },
+  {
+   "label": "Cited source, commons.wikimedia.org",
+   "url": "https://commons.wikimedia.org/wiki/File:Kaspar_(android).jpg",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q46999844"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

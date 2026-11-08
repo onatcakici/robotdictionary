@@ -1,0 +1,41 @@
+{
+ "id": "morphle",
+ "name": "Morphle",
+ "aka": [],
+ "section": "medical",
+ "kind": "robotic microscope",
+ "maker": "Morphle Labs",
+ "country": "India",
+ "year": "",
+ "status": "",
+ "def": "Robotic microscopes from Bengaluru that automate slide scanning for cancer diagnostics.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Y Combinator company profile, Morphle Labs",
+   "url": "https://www.ycombinator.com/companies/morphle-labs",
+   "kind": "yc"
+  },
+  {
+   "label": "Morphle Labs website",
+   "url": "https://morphlelabs.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "yc": "morphle-labs"
+ },
+ "yc": {
+  "company": "Morphle Labs",
+  "batch": "Winter 2020",
+  "status": "Active",
+  "url": "https://www.ycombinator.com/companies/morphle-labs"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

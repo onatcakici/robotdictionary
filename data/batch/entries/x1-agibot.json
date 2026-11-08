@@ -1,0 +1,31 @@
+{
+ "id": "x1-agibot",
+ "name": "Lingxi X1",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "AgiBot",
+ "country": "China",
+ "year": "2024",
+ "status": "research",
+ "def": "AgiBot's open source modular humanoid, released with drawings and code.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "agibot-a2",
+  "x2-agibot"
+ ],
+ "refs": [
+  {
+   "label": "AgiBot website",
+   "url": "https://www.agibot.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

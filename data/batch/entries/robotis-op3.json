@@ -1,0 +1,62 @@
+{
+ "id": "robotis-op3",
+ "name": "ROBOTIS OP3",
+ "aka": [
+  "OP3",
+  "DARwIn-OP3"
+ ],
+ "section": "humanoids",
+ "kind": "small open platform biped",
+ "maker": "ROBOTIS",
+ "country": "South Korea",
+ "year": "2017",
+ "status": "production",
+ "def": "Small open platform biped sold worldwide for education and research, built from the maker's Dynamixel smart servos and used in humanoid soccer leagues.",
+ "body": [
+  "OP3 stands about 51 centimetres, weighs 3.5 kilograms and has 20 degrees of freedom driven by ROBOTIS Dynamixel XM430 smart servos that report position, load and temperature over a serial bus. A single board computer in the torso runs Linux and ROS, and the head carries a camera for ball and goal detection. Its mechanics and software are published as an open platform so laboratories can modify it freely, and it is the successor to the earlier DARwIn-OP. ROBOTIS sells it through its own store and distributors, and teams use it in RoboCup humanoid kid size soccer and in university robotics courses."
+ ],
+ "facts": [
+  "Used by teams in RoboCup humanoid kid size soccer competition",
+  "Mechanical design and software released as an open platform",
+  "Successor to the widely used DARwIn-OP research biped"
+ ],
+ "specs": [
+  [
+   "Height",
+   "0.51 m"
+  ],
+  [
+   "Mass",
+   "3.5 kg"
+  ],
+  [
+   "Degrees of freedom",
+   "20"
+  ],
+  [
+   "Actuation",
+   "20 Dynamixel XM430 smart servo actuators on a serial bus"
+  ],
+  [
+   "Sensors",
+   "Head camera, IMU, servo position load and temperature feedback"
+  ],
+  [
+   "Autonomy",
+   "Linux and ROS software stack published as an open platform"
+  ]
+ ],
+ "see": [],
+ "refs": [
+  {
+   "label": "ROBOTIS website",
+   "url": "https://www.robotis.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

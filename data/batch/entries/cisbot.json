@@ -1,0 +1,37 @@
+{
+ "id": "cisbot",
+ "name": "CISBOT",
+ "aka": [],
+ "section": "other",
+ "kind": "pipe repair robot",
+ "maker": "",
+ "country": "",
+ "year": "",
+ "status": "",
+ "def": "Pipe repair robot that travels inside cast iron natural gas mains and seals their joints from within, so the pipes need not be dug up.",
+ "body": [],
+ "facts": [
+  "Can extend a pipeline's working life by up to fifty years"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, CISBOT",
+   "url": "https://en.wikipedia.org/wiki/CISBOT",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, CISBOT (Q55080153)",
+   "url": "https://www.wikidata.org/wiki/Q55080153",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q55080153"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

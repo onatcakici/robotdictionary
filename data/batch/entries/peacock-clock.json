@@ -1,0 +1,39 @@
+{
+ "id": "peacock-clock",
+ "name": "Peacock Clock",
+ "aka": [],
+ "section": "other",
+ "kind": "automaton",
+ "maker": "James Cox",
+ "country": "",
+ "year": "1772",
+ "status": "",
+ "def": "Large eighteenth century automaton clock with three mechanical birds of full life size, created by the businessman James Cox.",
+ "body": [],
+ "facts": [
+  "Entered Catherine the Great's collection in 1781 with help from Grigory Potemkin",
+  "Exhibited at the Hermitage Museum in Saint Petersburg",
+  "Shown every day on a Russian television channel"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Peacock Clock",
+   "url": "https://en.wikipedia.org/wiki/Peacock_Clock",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Peacock Clock (Q1679443)",
+   "url": "https://www.wikidata.org/wiki/Q1679443",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q1679443"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

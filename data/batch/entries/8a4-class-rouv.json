@@ -1,0 +1,43 @@
+{
+ "id": "8a4-class-rouv",
+ "name": "8A4 class ROUV",
+ "aka": [],
+ "section": "marine",
+ "kind": "remotely operated vehicle",
+ "maker": "Shenyang Institute of Automation",
+ "country": "China",
+ "year": "",
+ "status": "",
+ "def": "Remotely operated underwater vehicle of the work class type, developed by China's Shenyang Institute of Automation for jobs ranging from oil platform servicing to salvage and rescue.",
+ "body": [],
+ "facts": [
+  "Improved from the American AMETEK 2006 design",
+  "Preceded by the RECON-IV and followed by the improved 7B8"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, 8A4-class ROUV",
+   "url": "https://en.wikipedia.org/wiki/8A4-class_ROUV",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, 8A4 class ROUV (Q4645167)",
+   "url": "https://www.wikidata.org/wiki/Q4645167",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Shenyang Institute of Automation website",
+   "url": "http://english.sia.cas.cn/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4645167"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

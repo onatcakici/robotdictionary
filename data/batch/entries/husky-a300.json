@@ -1,0 +1,31 @@
+{
+ "id": "husky-a300",
+ "name": "Husky A300",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Clearpath Robotics",
+ "country": "Canada",
+ "year": "2024",
+ "status": "production",
+ "def": "The modernised Husky, weatherproofed and faster for field research.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "husky",
+  "jackal"
+ ],
+ "refs": [
+  {
+   "label": "Clearpath Robotics website",
+   "url": "https://clearpathrobotics.com",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

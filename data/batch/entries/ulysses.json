@@ -1,0 +1,35 @@
+{
+ "id": "ulysses",
+ "name": "Ulysses",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "bomb detection robot",
+ "maker": "",
+ "country": "Greece",
+ "year": "",
+ "status": "",
+ "def": "Bomb detecting robot used at Athens International Airport Eleftherios Venizelos in Greece, the country's largest international airport.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Ulysses (robot)",
+   "url": "https://en.wikipedia.org/wiki/Ulysses_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Ulysses (Q5371916)",
+   "url": "https://www.wikidata.org/wiki/Q5371916",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q5371916"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

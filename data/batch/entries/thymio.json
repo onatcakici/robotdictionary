@@ -1,0 +1,48 @@
+{
+ "id": "thymio",
+ "name": "Thymio",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Mobsya",
+ "country": "Switzerland",
+ "year": "2011",
+ "status": "production",
+ "def": "A friendly white classroom robot teaching programming to children across Europe.",
+ "body": [],
+ "facts": [],
+ "specs": [],
+ "see": [
+  "aethon-tug",
+  "turtlebot-4"
+ ],
+ "refs": [
+  {
+   "label": "Official website",
+   "url": "https://www.thymio.org/fr/",
+   "kind": "official"
+  },
+  {
+   "label": "Wikipedia, Thymio",
+   "url": "https://en.wikipedia.org/wiki/Thymio",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Thymio (Q20020804)",
+   "url": "https://www.wikidata.org/wiki/Q20020804",
+   "kind": "wikidata"
+  },
+  {
+   "label": "École polytechnique fédérale de Lausanne website",
+   "url": "https://www.epfl.ch/",
+   "kind": "maker"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q20020804"
+ },
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": []
+}

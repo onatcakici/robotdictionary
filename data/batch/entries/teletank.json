@@ -1,0 +1,41 @@
+{
+ "id": "teletank",
+ "name": "Teletank",
+ "aka": [
+  "Unmanned tank",
+  "Radiotank"
+ ],
+ "section": "wheeled",
+ "kind": "remote controlled tank",
+ "maker": "",
+ "country": "Soviet Union",
+ "year": "",
+ "status": "retired",
+ "def": "Series of experimental Soviet tanks from the 1930s to the early 1940s that ran without crews and were steered by radio from a nearby command tank.",
+ "body": [],
+ "facts": [
+  "Operated from a control tank 500 to 1,500 metres away",
+  "Built to reduce the combat risk to soldiers"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Teletank",
+   "url": "https://en.wikipedia.org/wiki/Teletank",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Teletank (Q2402088)",
+   "url": "https://www.wikidata.org/wiki/Q2402088",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q2402088"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

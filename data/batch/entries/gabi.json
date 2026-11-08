@@ -1,0 +1,37 @@
+{
+ "id": "gabi",
+ "name": "Gabi",
+ "aka": [],
+ "section": "humanoids",
+ "kind": "humanoid robot",
+ "maker": "",
+ "country": "South Korea",
+ "year": "2026",
+ "status": "",
+ "def": "Humanoid robot monk presented by the Jogye Order of Korean Buddhism in 2026 as a way to bring the faith closer to younger Koreans.",
+ "body": [],
+ "facts": [
+  "Introduced at a precept ceremony at Jogyesa Temple, Seoul, on 6 May 2026"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Gabi (robot)",
+   "url": "https://en.wikipedia.org/wiki/Gabi_(robot)",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Gabi (Q139898155)",
+   "url": "https://www.wikidata.org/wiki/Q139898155",
+   "kind": "wikidata"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q139898155"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}

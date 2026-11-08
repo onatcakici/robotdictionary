@@ -1,0 +1,60 @@
+{
+ "id": "nuro-r2",
+ "name": "Nuro R2",
+ "aka": [],
+ "section": "wheeled",
+ "kind": "wheeled robot",
+ "maker": "Nuro",
+ "country": "United States",
+ "year": "2020",
+ "status": "retired",
+ "def": "Cabless road going electric delivery pod with no seats or steering wheel, used for grocery and pizza delivery in Texas, Arizona and California.",
+ "body": [
+  "The R2 was a narrow low speed electric vehicle built only to carry goods, with two temperature controlled compartments and no space for a person. It drove public roads driverless with a lidar, radar, camera and thermal sensor suite, remotely monitored rather than remotely driven. Nuro ran it with grocery, pharmacy and restaurant partners in Houston, Phoenix and the San Francisco Bay Area. Nuro stopped its own delivery operations after shifting in 2024 to licensing its autonomy software."
+ ],
+ "facts": [
+  "Received the first federal exemption granted to a driverless vehicle in the United States in February 2020",
+  "Delivered for Kroger, Domino's, Walmart and CVS in Houston, Phoenix and the Bay Area",
+  "Nuro pivoted in September 2024 to licensing its autonomous driving system, ending its own delivery service"
+ ],
+ "specs": [
+  [
+   "Top speed",
+   "11.2 m/s (40.3 km/h)"
+  ],
+  [
+   "Actuation",
+   "Purpose built cabless low speed electric vehicle with two goods compartments"
+  ],
+  [
+   "Power",
+   "Battery electric drive"
+  ],
+  [
+   "Sensors",
+   "Lidar, radar, thermal cameras and a 360 degree camera array"
+  ],
+  [
+   "Autonomy",
+   "Driverless Level 4 operation on public roads with remote fleet monitoring"
+  ]
+ ],
+ "see": [
+  "valkyrie",
+  "relay"
+ ],
+ "refs": [
+  {
+   "label": "Nuro website",
+   "url": "https://www.nuro.ai",
+   "kind": "maker"
+  }
+ ],
+ "ids": {},
+ "origin": "edited",
+ "added": "2026-08-14",
+ "revised": "2026-11-08",
+ "old": [
+  "nuro"
+ ]
+}

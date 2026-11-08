@@ -1,0 +1,45 @@
+{
+ "id": "big-mouth-billy-bass",
+ "name": "Big Mouth Billy Bass",
+ "aka": [
+  "Billy Bass",
+  "singing fish"
+ ],
+ "section": "other",
+ "kind": "animatronic novelty",
+ "maker": "Gemmy Industries",
+ "country": "United States",
+ "year": "1999",
+ "status": "",
+ "def": "Singing animatronic novelty in the form of a largemouth bass, created by Gemmy Industries and widely popular from the late 1990s into the early 2000s.",
+ "body": [],
+ "facts": [
+  "Gemmy Industries came up with the design in 1998"
+ ],
+ "specs": [],
+ "see": [],
+ "refs": [
+  {
+   "label": "Wikipedia, Big Mouth Billy Bass",
+   "url": "https://en.wikipedia.org/wiki/Big_Mouth_Billy_Bass",
+   "kind": "wikipedia"
+  },
+  {
+   "label": "Wikidata, Big Mouth Billy Bass (Q4906047)",
+   "url": "https://www.wikidata.org/wiki/Q4906047",
+   "kind": "wikidata"
+  },
+  {
+   "label": "Cited source, getpocket.com",
+   "url": "https://getpocket.com/explore/item/an-oral-history-of-big-mouth-billy-bass",
+   "kind": "cited"
+  }
+ ],
+ "ids": {
+  "wikidata": "Q4906047"
+ },
+ "origin": "edited",
+ "added": "2026-11-08",
+ "revised": "2026-11-08",
+ "old": []
+}
