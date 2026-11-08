@@ -100,7 +100,8 @@ def footer(stats):
     return ('<footer class="colophon"><div class="wrap"><div>'
             '<b>Robot Dictionary</b>'
             '<p>A reference of the world\'s robots in eight sections, revised daily. Every entry lists its sources.</p>'
-            f'<p>Corrections and additions to <a class="u" href="mailto:{CONTACT}">{CONTACT}</a>.</p></div>'
+            f'<p>Corrections and additions to <a class="u" href="mailto:{CONTACT}">{CONTACT}</a>.</p>'
+            '<p class="colo">Set in Young Serif and Source Serif 4. Pictures from Wikimedia Commons.</p></div>'
             '<nav aria-label="More"><a href="/about/">About the dictionary</a><a href="/legal/">Legal notice</a><a href="/recent/">Recently added</a>'
             '<a href="/countries/">Countries</a><a href="/credits/">Picture credits</a><a href="/data/robots.json">Open data</a><a href="/feed.xml">RSS feed</a>'
             f'<a href="{REPO}">GitHub</a></nav></div></footer>')
@@ -152,6 +153,11 @@ def pos_label(e):
     if s == "rovers": return "rover"
     if s == "medical": return "exoskeleton" if "exoskeleton" in k else "medical robot"
     if s == "marine": return "underwater robot" if re.search(r"underwater|remotely operated|glider|submersible", k) else "marine robot"
+    if "automaton" in k: return "automaton"
+    if "animatronic" in k: return "animatronic figure"
+    if "snake" in k or "serpentine" in k: return "snake robot"
+    if "toy" in k: return "toy robot"
+    if "kit" in k: return "robot kit"
     return "robot"
 
 def status_text(e):
@@ -163,6 +169,13 @@ def plate(e, eager=False):
     if not p: return ""
     return (f'<span class="plate"><img src="/img/{e["id"]}.webp" width="{p["w"]}" height="{p["h"]}" alt="{esc(e["name"])}"'
             + ('' if eager else ' loading="lazy"') + ' decoding="async"></span>')
+
+def fame(e):
+    return (300 if any(r.get("kind") == "wikipedia" for r in e.get("refs") or []) else 0) + 60 * len(e.get("facts") or []) + len(" ".join(e.get("body") or [])) + (200 if e.get("pic") else 0)
+
+def shelf_img(e, h=120):
+    p = e["pic"]; w = round(p["w"] * h / p["h"])
+    return f'<a href="/{e["id"]}/" title="{esc(e["name"])}"><img src="/img/{e["id"]}.webp" width="{w}" height="{h}" alt="{esc(e["name"])}" loading="lazy" decoding="async"></a>'
 
 def thumb(e):
     p = e.get("pic")
@@ -249,8 +262,11 @@ def build():
         letters = defaultdict(list)
         for e in group: letters[first_letter(e["name"])].append(e)
         lets = sorted(letters)
-        body = [f'<section class="cover" style="--c:var(--{sec_key})"><div class="wrap"><p class="vol">Section {ROMAN[k]}</p><h1>{esc(title)}</h1>'
-                f'<p>{esc(blurb)} <span class="cnt">{len(group):,} entries.</span></p></div></section>',
+        gal = sorted([e for e in group if e.get("pic")], key=lambda e: -fame(e))[:5]
+        body = [f'<section class="cover" style="--c:var(--{sec_key})"><div class="wrap"><div><p class="vol">Section {ROMAN[k]}</p><h1>{esc(title)}</h1>'
+                f'<p>{esc(blurb)} <span class="cnt">{len(group):,} entries.</span></p></div>'
+                + (f'<div class="gallery" aria-hidden="true">' + "".join(shelf_img(e, 112) for e in gal) + '</div>' if gal else "")
+                + '</div></section>',
                 '<main class="wrap"><nav class="letters" aria-label="Letters">' + "".join(f'<a href="#{l if l != "#" else "num"}">{l}</a>' for l in lets) + "</nav>",
                 f'<div class="dict" style="--c:var(--{sec_key})">']
         for l in lets:
@@ -399,7 +415,7 @@ def build():
     out.put("about/index.html", page("/about/", "About the Robot Dictionary", "How the Robot Dictionary is compiled, sourced and revised every day.", about_body(stats, len(makers), len(countries)), stats))
     out.put("legal/index.html", page("/legal/", "Legal notice | Robot Dictionary", "Disclaimer, sources and licences, trademarks, corrections and privacy for robotdictionary.com.", legal_body(), stats))
     out.put("404.html", page("/404.html", "No such entry | Robot Dictionary", "This page is not in the dictionary.",
-                             '<main class="wrap"><div class="page-h"><h1>No such entry</h1><p>Nothing in the present edition answers to this address. '
+                             '<main class="wrap"><div class="page-h"><h1>No such entry</h1><p>Nothing in the present edition answers to this address. Perhaps it has not been built yet. '
                              'Try the search above, or browse the <a class="u" href="/a-z/">A to Z</a>.</p></div></main>', stats, noindex=True))
 
     # ---- redirects for old addresses
@@ -451,12 +467,32 @@ def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, cou
             recent_added.append(c); seen.add(c["id"])
         if len(recent_added) >= 12: break
     rod_sec = SEC[rod["section"]]
+    # the shelf: a different row of pictured robots every day, mixed across sections
+    import random
+    rnd = random.Random(TODAY.isoformat())
+    pools = defaultdict(list)
+    for i in ids:
+        if E[i].get("pic") and E[i]["id"] != rod["id"]: pools[E[i]["section"]].append(E[i])
+    for v in pools.values(): rnd.shuffle(v)
+    row = []
+    while len(row) < 9 and any(pools.values()):
+        for key in [s[0] for s in SECTIONS]:
+            if pools.get(key) and len(row) < 9: row.append(pools[key].pop())
+    rnd.shuffle(row)
+    shelf = ('<div class="shelf" aria-label="Robots on the shelf today">' + "".join(shelf_img(e, 112) for e in row) + "</div>") if row else ""
+    # anniversaries
+    ann = []
+    for gap, word in ((100, "A hundred years ago"), (75, "Seventy five years ago"), (50, "Fifty years ago"), (25, "Twenty five years ago"), (10, "Ten years ago")):
+        y = str(TODAY.year - gap)
+        hits = sorted([E[i] for i in ids if E[i].get("year") == y], key=lambda e: -fame(e))[:4]
+        if hits: ann.append((word, y, hits))
     body = rod.get("body") or []
     excerpt = body[0] if body else ("; ".join(rod.get("facts") or [])[:300])
     past = [f for f in featured if f["date"] != TODAY.isoformat() and f["id"] in E][-6:][::-1]
     h = ['<main class="wrap">',
          '<header class="mast"><h1>Robot Dictionary<i>.</i></h1>',
          '<p class="tag">A reference of the world\'s robots, with makers, measures, history and sources.</p>',
+         shelf,
          f'<p class="date">Revised daily. This edition: {long_date(TODAY)}, {stats["n"]:,} entries.</p>',
          '<div class="bigfind" data-find><input type="search" placeholder="Find a robot, maker or country" aria-label="Find a robot, maker or country" autocomplete="off"><ul class="hits" hidden></ul>'
          '<p>Try Atlas, Unitree, Opportunity or Japan. Press / to search from any page.</p></div></header>',
@@ -478,6 +514,9 @@ def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, cou
          + '</section><aside><h2 class="label">In the news</h2>'
          + ('<ul class="news">' + "".join(news_item(x, E) for x in news[:9]) + '</ul><p class="more" style="font-size:15.5px;margin-top:10px"><a class="u" href="/news/">All robotics headlines</a></p>'
             if news else '<p class="more">Headlines from robotics publishers appear here each morning.</p>')
+         + ('<h2 class="label" style="margin-top:34px">Anniversaries</h2><ul class="list ann">' + "".join(
+             f'<li><span class="ay">{y}</span> <span class="aw">{word}:</span> ' + ", ".join(f'<a href="/{e["id"]}/">{esc(e["name"])}</a>' for e in hits) + ".</li>"
+             for word, y, hits in ann) + "</ul>" if ann else "")
          + '</aside></div>',
          '<section class="contents"><h2>Contents</h2><ol class="toc">']
     for k, (key, title, blurb, _) in enumerate(SECTIONS):
@@ -486,9 +525,11 @@ def home_page(E, ids, by_sec, rod, featured, changes, mk, ct, stats, makers, cou
         rest = sorted([e for e in group if e not in pref], key=lambda e: -(len(" ".join(e.get("body") or [])) + 60 * len(e.get("facts") or [])
                                                                        + (300 if any(r.get("kind") == "wikipedia" for r in e.get("refs") or []) else 0)))
         sample = (pref + rest)[:3]
+        tp = next((e for e in sorted(group, key=lambda e: -fame(e)) if e.get("pic")), None)
         h.append(f'<li style="--c:var(--{key})"><span class="num">{ROMAN[k]}</span><div><span class="t"><a href="/{key}/">{esc(title)}</a></span>'
                  f'<span class="x">{esc(blurb)} <em>Including ' + ", ".join(f'<a href="/{e["id"]}/">{esc(e["name"])}</a>' for e in sample) + '.</em></span></div>'
-                 f'<span class="n">{len(group):,} entries</span></li>')
+                 + (f'<a class="tp" href="/{tp["id"]}/" tabindex="-1" aria-hidden="true"><img src="/img/{tp["id"]}.t.webp" width="{tp["pic"]["tw"]}" height="{tp["pic"]["th"]}" alt="" loading="lazy"></a>' if tp else '<span></span>')
+                 + f'<span class="n">{len(group):,} entries</span></li>')
     h.append('</ol><nav class="more-ways" aria-label="Other ways in">'
              f'<a href="/a-z/">A to Z, all {len(ids):,} entries</a><a href="/makers/">{len(makers):,} makers</a><a href="/countries/">{len(countries)} countries</a>'
              f'<a href="/timeline/">Timeline</a><a href="/yc/">Robots from Y Combinator companies</a></nav></section></main>')
