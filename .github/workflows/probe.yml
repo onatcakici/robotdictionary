@@ -1,8 +1,19 @@
 name: probe
 on:
-  workflow_dispatch:
+  push:
+    branches: [probe-actions]
+    paths: ['.probe/**', '.github/workflows/probe.yml']
+permissions:
+  contents: write
 jobs:
-  noop:
+  probe:
     runs-on: ubuntu-latest
     steps:
-      - run: echo ok
+      - uses: actions/checkout@v4
+      - run: python3 .probe/probe.py
+      - run: |
+          git config user.name "onatcakici"
+          git config user.email "han2000cc@gmail.com"
+          git add probe-out
+          git commit -m "Probe results" || true
+          git push
