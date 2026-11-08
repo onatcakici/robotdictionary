@@ -20,7 +20,6 @@ FEEDS = [
     ("Robohub", "https://robohub.org/feed/", False),
     ("New Atlas", "https://newatlas.com/robotics/index.rss", False),
     ("MIT News", "https://news.mit.edu/topic/mitrobotics-rss.xml", False),
-    ("NASA JPL", "https://www.jpl.nasa.gov/feeds/news/", True),
     ("Interesting Engineering", "https://interestingengineering.com/feed", True),
     ("The Verge", "https://www.theverge.com/rss/index.xml", True),
     ("Electrek", "https://electrek.co/feed/", True),
@@ -89,7 +88,8 @@ def main():
             n0 = re.sub(r"\s*\(.*?\)", "", norm(n)).strip()
             if len(n0) < 3: continue
             safe = bool(re.search(r"\d", n0) or re.search(r"[a-z][A-Z]", n0) or len(n0.split()) > 1) and n0.lower() not in STOP_NAMES
-            pats.append((eid, re.compile(r"(?<![\w-])" + re.escape(n0) + r"(?![\w-])"), safe, mk_pat))
+            own = mk_pat if (mk_pat is not None and not any(m.strip().lower() in n0.lower() or n0.lower() in m.strip().lower() for m in mk)) else None
+            pats.append((eid, re.compile(r"(?<![\w-])" + re.escape(n0) + r"(?![\w-])"), safe, own, n0.lower(), e.get("status")))
     old = json.load(open(OUT, encoding="utf-8")) if os.path.exists(OUT) else []
     seen = {o["url"] for o in old}
     fresh = []
@@ -103,10 +103,16 @@ def main():
             d = it["date"] or NOW
             if (NOW - d).days > KEEP_DAYS or d > NOW + dt.timedelta(days=1): continue
             blob = norm(it["title"] + " " + it["summary"])
-            ids = []
-            for eid, pat, safe, mk_pat in pats:
+            hits = []
+            for eid, pat, safe, mk_pat, key, status in pats:
                 if pat.search(blob) and (safe or (mk_pat is not None and mk_pat.search(blob))):
-                    if eid not in ids: ids.append(eid)
+                    if eid not in [h[0] for h in hits]: hits.append((eid, key, status))
+            ids = []
+            for eid, key, status in hits:
+                same = [h for h in hits if h[1] == key]
+                if len(same) > 1 and status in ("retired", "discontinued", "completed", "lost") and any(h[2] not in ("retired", "discontinued", "completed", "lost") for h in same):
+                    continue
+                ids.append(eid)
             if needs_robot and not ids and not ROBOTY.search(it["title"]): continue
             fresh.append({"title": it["title"][:220], "url": it["url"], "source": source, "date": d.date().isoformat(), "ids": ids[:4]})
             seen.add(it["url"])
