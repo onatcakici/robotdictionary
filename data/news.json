@@ -1,5 +1,26 @@
 [
  {
+  "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+  "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+  "source": "MIT News",
+  "date": "2026-11-09",
+  "ids": []
+ },
+ {
+  "title": "ARM Institute consortium grows to more than 500 organizations",
+  "url": "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations/",
+  "source": "The Robot Report",
+  "date": "2026-11-08",
+  "ids": []
+ },
+ {
+  "title": "French carmaker Renault wants to get into the military robot business",
+  "url": "https://electrek.co/2026/11/08/french-carmaker-renault-wants-to-get-into-the-military-robot-business/",
+  "source": "Electrek",
+  "date": "2026-11-08",
+  "ids": []
+ },
+ {
   "title": "Robot integration brings high-precision production to midmarket manufacturers",
   "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/",
   "source": "The Robot Report",
@@ -735,20 +756,6 @@
   "url": "https://robohub.org/an-open-source-approach-to-physical-ai-from-intrinsic/",
   "source": "Robohub",
   "date": "2026-09-25",
-  "ids": []
- },
- {
-  "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-  "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-  "source": "IEEE Spectrum",
-  "date": "2026-09-24",
-  "ids": []
- },
- {
-  "title": "What’s coming up at #IROS2026?",
-  "url": "https://robohub.org/whats-coming-up-at-iros2026/",
-  "source": "Robohub",
-  "date": "2026-09-24",
   "ids": []
  }
 ]
