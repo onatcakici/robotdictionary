@@ -3,6 +3,8 @@ name: Daily revision
 on:
   schedule:
     - cron: "41 4 * * *"
+    # GitHub sometimes delays or drops scheduled runs; the second time only runs if the first did not
+    - cron: "17 12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,7 +16,22 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      done: ${{ steps.today.outputs.done }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 40
+      - id: today
+        run: |
+          d=$(date -u +%Y-%m-%d)
+          if git log -n 40 --format=%s | grep -qx "Daily revision $d"; then echo "done=1" >> "$GITHUB_OUTPUT"; echo "Already revised on $d"; fi
   revise:
+    needs: check
+    if: github.event_name == 'workflow_dispatch' || needs.check.outputs.done != '1'
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
