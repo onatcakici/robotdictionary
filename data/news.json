@@ -1,8 +1,59 @@
 [
  {
+  "title": "Robots learn to perform tasks faster with less human input with smart framework",
+  "url": "https://interestingengineering.com/ai-robotics/new-model-to-transform-robots-programming",
+  "source": "Interesting Engineering",
+  "date": "2026-11-10",
+  "ids": []
+ },
+ {
+  "title": "NVIDIA’s GR00T 2 transfers human skills to robots with just five task demonstrations",
+  "url": "https://interestingengineering.com/ai-robotics/nvidia-groot-2-human-robot-skill-transfer",
+  "source": "Interesting Engineering",
+  "date": "2026-11-10",
+  "ids": []
+ },
+ {
+  "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+  "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+  "source": "The Robot Report",
+  "date": "2026-11-09",
+  "ids": [
+   "atlas"
+  ]
+ },
+ {
   "title": "AI-assisted learning platform helps robots reason beyond literal commands",
   "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
   "source": "MIT News",
+  "date": "2026-11-09",
+  "ids": []
+ },
+ {
+  "title": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?",
+  "url": "https://spectrum.ieee.org/agentic-robotics",
+  "source": "IEEE Spectrum",
+  "date": "2026-11-09",
+  "ids": []
+ },
+ {
+  "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+  "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+  "source": "The Robot Report",
+  "date": "2026-11-09",
+  "ids": []
+ },
+ {
+  "title": "How to minimize Wi-Fi roaming interruptions for autonomous mobile robots",
+  "url": "https://www.therobotreport.com/how-minimize-wi-fi-roaming-interruptions-autonomous-mobile-robots/",
+  "source": "The Robot Report",
+  "date": "2026-11-09",
+  "ids": []
+ },
+ {
+  "title": "Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper",
+  "url": "https://electrek.co/2026/11/09/tesla-robotaxi-san-antonio-launch-geofence/",
+  "source": "Electrek",
   "date": "2026-11-09",
   "ids": []
  },
@@ -201,6 +252,13 @@
   "title": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
   "url": "https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
   "source": "Electrek",
+  "date": "2026-11-04",
+  "ids": []
+ },
+ {
+  "title": "AIhub coffee corner: Are humanoids the future of embodied AI?",
+  "url": "https://robohub.org/aihub-coffee-corner-are-humanoids-the-future-of-embodied-ai/",
+  "source": "Robohub",
   "date": "2026-11-04",
   "ids": []
  },
@@ -735,27 +793,6 @@
   "url": "https://newatlas.com/robotics/wandercraft-eve-exoskeleton-self-balancing/",
   "source": "New Atlas",
   "date": "2026-09-27",
-  "ids": []
- },
- {
-  "title": "Video Friday: Life’s Better With a Little Robot Goose",
-  "url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
-  "source": "IEEE Spectrum",
-  "date": "2026-09-25",
-  "ids": []
- },
- {
-  "title": "Robot Talk Episode 163 – Robots helping people, with Aaron Edsinger",
-  "url": "https://robohub.org/robot-talk-episode-163-robots-helping-people-with-aaron-edsinger/",
-  "source": "Robohub",
-  "date": "2026-09-25",
-  "ids": []
- },
- {
-  "title": "An open source approach to physical AI from Intrinsic",
-  "url": "https://robohub.org/an-open-source-approach-to-physical-ai-from-intrinsic/",
-  "source": "Robohub",
-  "date": "2026-09-25",
   "ids": []
  }
 ]
