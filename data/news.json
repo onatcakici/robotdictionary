@@ -1,5 +1,49 @@
 [
  {
+  "title": "Elephant trunk-inspired robots bend, grip, and connect to work together in teams",
+  "url": "https://interestingengineering.com/ai-robotics/elephant-trunk-inspired-robots-reshape-themselves",
+  "source": "Interesting Engineering",
+  "date": "2026-11-12",
+  "ids": []
+ },
+ {
+  "title": "Segway MUXI cargo e-bike $200 off in expanded Black Friday sale + Navimow robot deals, Anker eufy S340 4-cam kit $580, more",
+  "url": "https://electrek.co/2026/11/11/segway-muxi-cargo-e-bike-black-friday-navimow-robot-anker-eufy-s340-4-cam-kit/",
+  "source": "Electrek",
+  "date": "2026-11-11",
+  "ids": [
+   "segway-navimow"
+  ]
+ },
+ {
+  "title": "Serve Robotics opens robot delivery network for others to build on",
+  "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
+  "source": "The Robot Report",
+  "date": "2026-11-11",
+  "ids": []
+ },
+ {
+  "title": "Memories.ai builds standardized egocentric video pipeline",
+  "url": "https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline/",
+  "source": "The Robot Report",
+  "date": "2026-11-11",
+  "ids": []
+ },
+ {
+  "title": "Can AI agents program industrial robots without training data? Berkeley says yes",
+  "url": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes/",
+  "source": "The Robot Report",
+  "date": "2026-11-11",
+  "ids": []
+ },
+ {
+  "title": "AI100 report released: embodied AI highlighted as grand challenge",
+  "url": "https://robohub.org/ai100-report-released-embodied-ai-highlighted-as-grand-challenge/",
+  "source": "Robohub",
+  "date": "2026-11-11",
+  "ids": []
+ },
+ {
   "title": "Robots learn to perform tasks faster with less human input with smart framework",
   "url": "https://interestingengineering.com/ai-robotics/new-model-to-transform-robots-programming",
   "source": "Interesting Engineering",
@@ -835,13 +879,6 @@
   "url": "https://newatlas.com/robotics/elastic-robot-jump-infrared-light/",
   "source": "New Atlas",
   "date": "2026-09-28",
-  "ids": []
- },
- {
-  "title": "FDA-cleared exoskeleton puts spinal-cord patients back on their feet",
-  "url": "https://newatlas.com/robotics/wandercraft-eve-exoskeleton-self-balancing/",
-  "source": "New Atlas",
-  "date": "2026-09-27",
   "ids": []
  }
 ]

@@ -6,5 +6,21 @@
   "one_liner": "deploying the first billion robots for manufacturing",
   "url": "https://www.ycombinator.com/companies/relling",
   "found": "2026-11-10"
+ },
+ {
+  "slug": "nines",
+  "name": "Nines",
+  "batch": "Fall 2026",
+  "one_liner": "Robot pit crew for AI data centers",
+  "url": "https://www.ycombinator.com/companies/nines",
+  "found": "2026-11-12"
+ },
+ {
+  "slug": "vibe-robotics",
+  "name": "Vibe Robotics",
+  "batch": "Winter 2027",
+  "one_liner": "Robotics workforce for hotels",
+  "url": "https://www.ycombinator.com/companies/vibe-robotics",
+  "found": "2026-11-12"
  }
 ]
