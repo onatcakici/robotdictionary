@@ -1,8 +1,57 @@
 [
  {
+  "title": "Helping robots fit into the human workplace",
+  "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+  "source": "MIT News",
+  "date": "2026-11-13",
+  "ids": []
+ },
+ {
+  "title": "Chinese hotel robot handles laundry from collection to delivery in just 18.6 seconds",
+  "url": "https://interestingengineering.com/ai-robotics/hotel-robot-handles-laundry-workflow",
+  "source": "Interesting Engineering",
+  "date": "2026-11-13",
+  "ids": []
+ },
+ {
+  "title": "Gallop: ASUS’s new humanoid robot learns to pack tiny motherboard parts in factory",
+  "url": "https://interestingengineering.com/ai-robotics/asus-gallop-humanoid-robot-unveiled",
+  "source": "Interesting Engineering",
+  "date": "2026-11-13",
+  "ids": []
+ },
+ {
+  "title": "Mars robot swarms to use star sensors, radio beacons for autonomous navigation",
+  "url": "https://interestingengineering.com/ai-robotics/germany-gps-free-navigation-mars-robot-swarms",
+  "source": "Interesting Engineering",
+  "date": "2026-11-13",
+  "ids": []
+ },
+ {
   "title": "Elephant trunk-inspired robots bend, grip, and connect to work together in teams",
   "url": "https://interestingengineering.com/ai-robotics/elephant-trunk-inspired-robots-reshape-themselves",
   "source": "Interesting Engineering",
+  "date": "2026-11-12",
+  "ids": []
+ },
+ {
+  "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
+  "url": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
+  "source": "The Robot Report",
+  "date": "2026-11-12",
+  "ids": []
+ },
+ {
+  "title": "Viam Launchpad aims to accelerate robotics deployments",
+  "url": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+  "source": "The Robot Report",
+  "date": "2026-11-12",
+  "ids": []
+ },
+ {
+  "title": "Runway’s Praxis-1 world action model for robotics is now available",
+  "url": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+  "source": "The Robot Report",
   "date": "2026-11-12",
   "ids": []
  },
@@ -858,27 +907,6 @@
   "url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929",
   "source": "MIT News",
   "date": "2026-09-29",
-  "ids": []
- },
- {
-  "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-  "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-  "source": "IEEE Spectrum",
-  "date": "2026-09-28",
-  "ids": []
- },
- {
-  "title": "Small, medium or large, a robotic fish maintains its swimming ability",
-  "url": "https://robohub.org/small-medium-or-large-a-robotic-fish-maintains-its-swimming-ability/",
-  "source": "Robohub",
-  "date": "2026-09-28",
-  "ids": []
- },
- {
-  "title": "Wind-up elastic robot jumps forever when fed infrared light",
-  "url": "https://newatlas.com/robotics/elastic-robot-jump-infrared-light/",
-  "source": "New Atlas",
-  "date": "2026-09-28",
   "ids": []
  }
 ]
