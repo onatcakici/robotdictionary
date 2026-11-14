@@ -2,7 +2,7 @@
  "name": "Robot Dictionary",
  "url": "https://robotdictionary.com/",
  "licence": "CC BY 4.0, attribution: Robot Dictionary (robotdictionary.com)",
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "count": 1002,
  "entries": [
   {
@@ -25013,10 +25013,18 @@
      "label": "Sharp website",
      "url": "https://robohon.com",
      "kind": "maker"
+    },
+    {
+     "label": "Wikidata, Sharp RoBoHon (Q24265119)",
+     "url": "https://www.wikidata.org/wiki/Q24265119",
+     "kind": "wikidata"
     }
    ],
+   "ids": {
+    "wikidata": "Q24265119"
+   },
    "added": "2026-08-14",
-   "revised": "2026-11-08"
+   "revised": "2026-11-14"
   },
   {
    "id": "robomaster-s1",

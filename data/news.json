@@ -1,5 +1,12 @@
 [
  {
+  "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+  "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
+  "source": "Electrek",
+  "date": "2026-11-14",
+  "ids": []
+ },
+ {
   "title": "Helping robots fit into the human workplace",
   "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
   "source": "MIT News",
@@ -24,6 +31,41 @@
   "title": "Mars robot swarms to use star sensors, radio beacons for autonomous navigation",
   "url": "https://interestingengineering.com/ai-robotics/germany-gps-free-navigation-mars-robot-swarms",
   "source": "Interesting Engineering",
+  "date": "2026-11-13",
+  "ids": []
+ },
+ {
+  "title": "Video Friday: NASA PROMISEs a New Moon Rover",
+  "url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+  "source": "IEEE Spectrum",
+  "date": "2026-11-13",
+  "ids": []
+ },
+ {
+  "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
+  "url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
+  "source": "The Robot Report",
+  "date": "2026-11-13",
+  "ids": []
+ },
+ {
+  "title": "How Rhoda AI is using video data to create generalized AI models for robots",
+  "url": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
+  "source": "The Robot Report",
+  "date": "2026-11-13",
+  "ids": []
+ },
+ {
+  "title": "Narwal builds robot vacuums to serve regional needs",
+  "url": "https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/",
+  "source": "The Robot Report",
+  "date": "2026-11-13",
+  "ids": []
+ },
+ {
+  "title": "Robot Talk Episode 170 – Robots in the real world, with Daniela Shchegelskaya",
+  "url": "https://robohub.org/robot-talk-episode-170-robots-in-the-real-world-with-daniela-shchegelskaya/",
+  "source": "Robohub",
   "date": "2026-11-13",
   "ids": []
  },
@@ -900,13 +942,6 @@
   "url": "https://robohub.org/robotics-and-automation-informal-reflections-on-familiar-terms/",
   "source": "Robohub",
   "date": "2026-09-30",
-  "ids": []
- },
- {
-  "title": "Powered by muscle cells, a paper-thin robot swims through watery maze",
-  "url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929",
-  "source": "MIT News",
-  "date": "2026-09-29",
   "ids": []
  }
 ]

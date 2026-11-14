@@ -49,11 +49,18 @@
    "label": "Sharp website",
    "url": "https://robohon.com",
    "kind": "maker"
+  },
+  {
+   "label": "Wikidata, Sharp RoBoHon (Q24265119)",
+   "url": "https://www.wikidata.org/wiki/Q24265119",
+   "kind": "wikidata"
   }
  ],
- "ids": {},
+ "ids": {
+  "wikidata": "Q24265119"
+ },
  "origin": "edited",
  "added": "2026-08-14",
- "revised": "2026-11-08",
+ "revised": "2026-11-14",
  "old": []
 }
