@@ -1,5 +1,40 @@
 [
  {
+  "title": "Watch the IROS 2026 plenary and keynote talks",
+  "url": "https://robohub.org/watch-the-iros-2026-plenary-and-keynote-talks/",
+  "source": "Robohub",
+  "date": "2026-11-16",
+  "ids": []
+ },
+ {
+  "title": "US Army carries out 18-drone swarm attack from robot vehicle in live-fire demonstration",
+  "url": "https://interestingengineering.com/military/us-army-renegade-ugv-drone-swarm",
+  "source": "Interesting Engineering",
+  "date": "2026-11-16",
+  "ids": []
+ },
+ {
+  "title": "US: Robots play piano and mimic movements of human eyes with artificial muscles",
+  "url": "https://interestingengineering.com/ai-robotics/us-robots-play-piano-mimic-human-eye",
+  "source": "Interesting Engineering",
+  "date": "2026-11-16",
+  "ids": []
+ },
+ {
+  "title": "Amazon’s Zoox robotaxis are now available via Uber",
+  "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+  "source": "The Verge",
+  "date": "2026-11-16",
+  "ids": []
+ },
+ {
+  "title": "Why Skydio Built a Lopsided Drone",
+  "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+  "source": "IEEE Spectrum",
+  "date": "2026-11-15",
+  "ids": []
+ },
+ {
   "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
   "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
   "source": "Electrek",
@@ -927,14 +962,5 @@
   "source": "MIT News",
   "date": "2026-10-02",
   "ids": []
- },
- {
-  "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
-  "url": "https://spectrum.ieee.org/robust-robot-hand",
-  "source": "IEEE Spectrum",
-  "date": "2026-10-01",
-  "ids": [
-   "atlas"
-  ]
  }
 ]
