@@ -1,5 +1,19 @@
 [
  {
+  "title": "Robot swarms trained by trial and error in simulation keep working on real robots",
+  "url": "https://robohub.org/robot-swarms-trained-by-trial-and-error-in-simulation-keep-working-on-real-robots/",
+  "source": "Robohub",
+  "date": "2026-11-17",
+  "ids": []
+ },
+ {
+  "title": "Four-foot humanoid robot learns to collect floor eggs for cage-free US poultry farms",
+  "url": "https://interestingengineering.com/ai-robotics/us-humanoid-robot-collect-floor-eggs",
+  "source": "Interesting Engineering",
+  "date": "2026-11-17",
+  "ids": []
+ },
+ {
   "title": "Watch the IROS 2026 plenary and keynote talks",
   "url": "https://robohub.org/watch-the-iros-2026-plenary-and-keynote-talks/",
   "source": "Robohub",
@@ -28,6 +42,34 @@
   "ids": []
  },
  {
+  "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+  "url": "https://spectrum.ieee.org/telesurgery-stroke",
+  "source": "IEEE Spectrum",
+  "date": "2026-11-16",
+  "ids": []
+ },
+ {
+  "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+  "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+  "source": "IEEE Spectrum",
+  "date": "2026-11-16",
+  "ids": []
+ },
+ {
+  "title": "The hidden reason most robots fail on the factory floor",
+  "url": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
+  "source": "The Robot Report",
+  "date": "2026-11-16",
+  "ids": []
+ },
+ {
+  "title": "Agile Robots raises $500M to increase production capacity",
+  "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+  "source": "The Robot Report",
+  "date": "2026-11-16",
+  "ids": []
+ },
+ {
   "title": "Why Skydio Built a Lopsided Drone",
   "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
   "source": "IEEE Spectrum",
@@ -38,6 +80,13 @@
   "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
   "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
   "source": "Electrek",
+  "date": "2026-11-14",
+  "ids": []
+ },
+ {
+  "title": "Food robotics 2.0: why this time could be different",
+  "url": "https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/",
+  "source": "The Robot Report",
   "date": "2026-11-14",
   "ids": []
  },
@@ -940,27 +989,6 @@
   "url": "https://newatlas.com/robotics/mit-robot-swims-light-living-muscle-cells/",
   "source": "New Atlas",
   "date": "2026-10-03",
-  "ids": []
- },
- {
-  "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
-  "url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
-  "source": "IEEE Spectrum",
-  "date": "2026-10-02",
-  "ids": []
- },
- {
-  "title": "Robot Talk Episode 164 – Accelerating robot learning, with Michelle Lu",
-  "url": "https://robohub.org/robot-talk-episode-164-accelerating-robot-learning-with-michelle-lu/",
-  "source": "Robohub",
-  "date": "2026-10-02",
-  "ids": []
- },
- {
-  "title": "Computational tools for society’s most complex challenges",
-  "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
-  "source": "MIT News",
-  "date": "2026-10-02",
   "ids": []
  }
 ]
