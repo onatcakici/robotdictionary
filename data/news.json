@@ -1,5 +1,28 @@
 [
  {
+  "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+  "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+  "source": "TechCrunch",
+  "date": "2026-11-18",
+  "ids": []
+ },
+ {
+  "title": "Mock pollination: 1.29-gram insect-scale flapping robot dodges obstacles, lands on sunflower",
+  "url": "https://interestingengineering.com/ai-robotics/insect-scale-flapping-wing-robot-onboard",
+  "source": "Interesting Engineering",
+  "date": "2026-11-18",
+  "ids": []
+ },
+ {
+  "title": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial",
+  "url": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
+  "source": "The Robot Report",
+  "date": "2026-11-17",
+  "ids": [
+   "atlas"
+  ]
+ },
+ {
   "title": "Robot swarms trained by trial and error in simulation keep working on real robots",
   "url": "https://robohub.org/robot-swarms-trained-by-trial-and-error-in-simulation-keep-working-on-real-robots/",
   "source": "Robohub",
@@ -10,6 +33,27 @@
   "title": "Four-foot humanoid robot learns to collect floor eggs for cage-free US poultry farms",
   "url": "https://interestingengineering.com/ai-robotics/us-humanoid-robot-collect-floor-eggs",
   "source": "Interesting Engineering",
+  "date": "2026-11-17",
+  "ids": []
+ },
+ {
+  "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
+  "url": "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/",
+  "source": "The Robot Report",
+  "date": "2026-11-17",
+  "ids": []
+ },
+ {
+  "title": "Learn how AI is changing supply chain robotics",
+  "url": "https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/",
+  "source": "The Robot Report",
+  "date": "2026-11-17",
+  "ids": []
+ },
+ {
+  "title": "Genesis AI raises $500M to deploy glove-wearing robots",
+  "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+  "source": "TechCrunch",
   "date": "2026-11-17",
   "ids": []
  },
@@ -982,13 +1026,6 @@
   "url": "https://robohub.org/research-could-guide-the-future-design-of-social-robots/",
   "source": "Robohub",
   "date": "2026-10-05",
-  "ids": []
- },
- {
-  "title": "MIT robot swims through water via living muscle cells",
-  "url": "https://newatlas.com/robotics/mit-robot-swims-light-living-muscle-cells/",
-  "source": "New Atlas",
-  "date": "2026-10-03",
   "ids": []
  }
 ]
