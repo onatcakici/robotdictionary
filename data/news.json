@@ -1,5 +1,40 @@
 [
  {
+  "title": "Robotics enters its post-Jensen Huang era",
+  "url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
+  "source": "The Robot Report",
+  "date": "2026-11-20",
+  "ids": []
+ },
+ {
+  "title": "China deploys 65-pound robot to insulate nearly 100-foot live power line in 15 minutes",
+  "url": "https://interestingengineering.com/ai-robotics/china-robot-sleeves-live-power-line",
+  "source": "Interesting Engineering",
+  "date": "2026-11-20",
+  "ids": []
+ },
+ {
+  "title": "80% less emission: MIT develops low-carbon building blocks for robotic construction",
+  "url": "https://interestingengineering.com/science/mit-lego-blocks-construction-voxels",
+  "source": "Interesting Engineering",
+  "date": "2026-11-20",
+  "ids": []
+ },
+ {
+  "title": "US-built six-inch SPIINE robot crawls through tight bends to inspect nuclear waste pipes",
+  "url": "https://interestingengineering.com/ai-robotics/pipe-crawling-robot-hanford-nuclear-waste",
+  "source": "Interesting Engineering",
+  "date": "2026-11-20",
+  "ids": []
+ },
+ {
+  "title": "Why the robots are ditching Uber",
+  "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+  "source": "The Verge",
+  "date": "2026-11-20",
+  "ids": []
+ },
+ {
   "title": "Soft exosuit makes it easier to stand up",
   "url": "https://robohub.org/soft-exosuit-makes-it-easier-to-stand-up/",
   "source": "Robohub",
@@ -10,6 +45,13 @@
   "title": "151 humanoid robots set Guinness World Record with synchronized dance performance",
   "url": "https://interestingengineering.com/ai-robotics/guinness-record-151-humanoid-robots-dance",
   "source": "Interesting Engineering",
+  "date": "2026-11-19",
+  "ids": []
+ },
+ {
+  "title": "What industrial drone deployments reveal about real-world autonomy challenges",
+  "url": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
+  "source": "The Robot Report",
   "date": "2026-11-19",
   "ids": []
  },
@@ -1068,13 +1110,6 @@
   "url": "https://newatlas.com/robotics/agilink-robot-hand-learns-silk-embroidery/",
   "source": "New Atlas",
   "date": "2026-10-06",
-  "ids": []
- },
- {
-  "title": "Research could guide the future design of social robots",
-  "url": "https://robohub.org/research-could-guide-the-future-design-of-social-robots/",
-  "source": "Robohub",
-  "date": "2026-10-05",
   "ids": []
  }
 ]
