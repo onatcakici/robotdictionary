@@ -1,5 +1,21 @@
 [
  {
+  "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
+  "url": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
+  "source": "The Robot Report",
+  "date": "2026-11-21",
+  "ids": []
+ },
+ {
+  "title": "Anker S5000 5kWh power station back at $2,375 exclusive low ($1,225 off), Segway Max G3 Plus e-scooter new $1,000 low, more",
+  "url": "https://electrek.co/2026/11/20/anker-s5000-5kwh-power-station-segway-max-g3-plus-e-scooter-more/",
+  "source": "Electrek",
+  "date": "2026-11-20",
+  "ids": [
+   "segway-navimow"
+  ]
+ },
+ {
   "title": "Robotics enters its post-Jensen Huang era",
   "url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
   "source": "The Robot Report",
@@ -31,6 +47,27 @@
   "title": "Why the robots are ditching Uber",
   "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
   "source": "The Verge",
+  "date": "2026-11-20",
+  "ids": []
+ },
+ {
+  "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+  "url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+  "source": "IEEE Spectrum",
+  "date": "2026-11-20",
+  "ids": []
+ },
+ {
+  "title": "MassRobotics launching marine robotics facility on Boston Harbor",
+  "url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
+  "source": "The Robot Report",
+  "date": "2026-11-20",
+  "ids": []
+ },
+ {
+  "title": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro",
+  "url": "https://robohub.org/robot-talk-episode-171-programming-robot-behaviour-with-sebastian-castro/",
+  "source": "Robohub",
   "date": "2026-11-20",
   "ids": []
  },
@@ -1103,13 +1140,6 @@
   "url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
   "source": "MIT News",
   "date": "2026-10-07",
-  "ids": []
- },
- {
-  "title": "Video: Dexterous robot hand learns the delicate art of silk embroidery",
-  "url": "https://newatlas.com/robotics/agilink-robot-hand-learns-silk-embroidery/",
-  "source": "New Atlas",
-  "date": "2026-10-06",
   "ids": []
  }
 ]
