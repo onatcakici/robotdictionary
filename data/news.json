@@ -1,8 +1,29 @@
 [
  {
+  "title": "This shape-shifting robot looks like real transformer; can bend, grab and combine for new role",
+  "url": "https://interestingengineering.com/ai-robotics/shape-shifting-robot-looks-like-real-transformer",
+  "source": "Interesting Engineering",
+  "date": "2026-11-22",
+  "ids": []
+ },
+ {
   "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
   "url": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
   "source": "The Robot Report",
+  "date": "2026-11-21",
+  "ids": []
+ },
+ {
+  "title": "The manufacturing data gap holding back physical AI",
+  "url": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
+  "source": "The Robot Report",
+  "date": "2026-11-21",
+  "ids": []
+ },
+ {
+  "title": "The UN fails to agree on rules regulating ‘killer robots’",
+  "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+  "source": "The Verge",
   "date": "2026-11-21",
   "ids": []
  },
@@ -1119,27 +1140,6 @@
   "url": "https://newatlas.com/robotics/robot-harvests-power-skin-feet-membrane/",
   "source": "New Atlas",
   "date": "2026-10-08",
-  "ids": []
- },
- {
-  "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
-  "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
-  "source": "IEEE Spectrum",
-  "date": "2026-10-07",
-  "ids": []
- },
- {
-  "title": "What three days building a robot taught me",
-  "url": "https://robohub.org/what-three-days-building-a-robot-taught-me/",
-  "source": "Robohub",
-  "date": "2026-10-07",
-  "ids": []
- },
- {
-  "title": "Planning system ensures a robot’s flight path will remain collision-free",
-  "url": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
-  "source": "MIT News",
-  "date": "2026-10-07",
   "ids": []
  }
 ]
