@@ -1,5 +1,19 @@
 [
  {
+  "title": "NVIDIA reinstates Jensen Huang after 11-day absence",
+  "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+  "source": "The Robot Report",
+  "date": "2026-11-23",
+  "ids": []
+ },
+ {
+  "title": "Human Stories Behind the Robot: from bold ideas to real-world impact",
+  "url": "https://robohub.org/human-stories-behind-the-robot-from-bold-ideas-to-real-world-impact/",
+  "source": "Robohub",
+  "date": "2026-11-23",
+  "ids": []
+ },
+ {
   "title": "This shape-shifting robot looks like real transformer; can bend, grab and combine for new role",
   "url": "https://interestingengineering.com/ai-robotics/shape-shifting-robot-looks-like-real-transformer",
   "source": "Interesting Engineering",
@@ -1126,20 +1140,6 @@
   "url": "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/",
   "source": "Robohub",
   "date": "2026-10-09",
-  "ids": []
- },
- {
-  "title": "This Disembodied Hand Is All the Robot You Need",
-  "url": "https://spectrum.ieee.org/walking-robotic-hand",
-  "source": "IEEE Spectrum",
-  "date": "2026-10-08",
-  "ids": []
- },
- {
-  "title": "Tiny robot harvests battery power via skin on its feet",
-  "url": "https://newatlas.com/robotics/robot-harvests-power-skin-feet-membrane/",
-  "source": "New Atlas",
-  "date": "2026-10-08",
   "ids": []
  }
 ]
