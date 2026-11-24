@@ -1,5 +1,33 @@
 [
  {
+  "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
+  "url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+  "source": "The Robot Report",
+  "date": "2026-11-24",
+  "ids": []
+ },
+ {
+  "title": "China’s sewing robots reach 96% pickup success, hit up to 70% of human speed",
+  "url": "https://interestingengineering.com/ai-robotics/chinas-sewing-robots-reach-pickup-success",
+  "source": "Interesting Engineering",
+  "date": "2026-11-24",
+  "ids": []
+ },
+ {
+  "title": "Suitcase-sized robot learns to flow with crowds instead of freezing up",
+  "url": "https://interestingengineering.com/ai-robotics/hicrowd-robot-crowd-navigation-maps-dynamics",
+  "source": "Interesting Engineering",
+  "date": "2026-11-24",
+  "ids": []
+ },
+ {
+  "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+  "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+  "source": "The Verge",
+  "date": "2026-11-24",
+  "ids": []
+ },
+ {
   "title": "NVIDIA reinstates Jensen Huang after 11-day absence",
   "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
   "source": "The Robot Report",
@@ -10,6 +38,27 @@
   "title": "Human Stories Behind the Robot: from bold ideas to real-world impact",
   "url": "https://robohub.org/human-stories-behind-the-robot-from-bold-ideas-to-real-world-impact/",
   "source": "Robohub",
+  "date": "2026-11-23",
+  "ids": []
+ },
+ {
+  "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
+  "url": "https://www.therobotreport.com/how-does-orchard-ai-fit-into-john-deeres-technology-portfolio/",
+  "source": "The Robot Report",
+  "date": "2026-11-23",
+  "ids": []
+ },
+ {
+  "title": "Special Report: Engineering Focus on Motion Control",
+  "url": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+  "source": "The Robot Report",
+  "date": "2026-11-23",
+  "ids": []
+ },
+ {
+  "title": "BYD Ti7 banned from the EU for copying the Land Rover Defender’s design",
+  "url": "https://electrek.co/2026/11/23/byd-ti7-banned-eu-land-rover-defender-design/",
+  "source": "Electrek",
   "date": "2026-11-23",
   "ids": []
  },
@@ -1126,20 +1175,6 @@
   "url": "https://newatlas.com/robotics/flea-inspired-directhop-hopping-robot/",
   "source": "New Atlas",
   "date": "2026-10-10",
-  "ids": []
- },
- {
-  "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
-  "url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
-  "source": "IEEE Spectrum",
-  "date": "2026-10-09",
-  "ids": []
- },
- {
-  "title": "Robot Talk Episode 165 – Robots behind the research, with Kushant Patel",
-  "url": "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/",
-  "source": "Robohub",
-  "date": "2026-10-09",
   "ids": []
  }
 ]
