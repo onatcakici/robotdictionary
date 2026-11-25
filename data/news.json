@@ -1,5 +1,21 @@
 [
  {
+  "title": "Underwater robots uncover first deep-sea salp living at depths up to 7,200 feet",
+  "url": "https://interestingengineering.com/science/robots-uncover-first-deep-sea-salp",
+  "source": "Interesting Engineering",
+  "date": "2026-11-25",
+  "ids": []
+ },
+ {
+  "title": "Greenworks snow blower + shovel kits at lows from $178, Worx tools up to 45% off, Segway Navimow robot mower lows, more",
+  "url": "https://electrek.co/2026/11/24/greenworks-snow-blower-shovel-kits-worx-tools-segway-navimow-robot-mower-more/",
+  "source": "Electrek",
+  "date": "2026-11-24",
+  "ids": [
+   "segway-navimow"
+  ]
+ },
+ {
   "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
   "url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
   "source": "The Robot Report",
@@ -24,6 +40,27 @@
   "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
   "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
   "source": "The Verge",
+  "date": "2026-11-24",
+  "ids": []
+ },
+ {
+  "title": "Robotics Summit 2027 opens call for speakers",
+  "url": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+  "source": "The Robot Report",
+  "date": "2026-11-24",
+  "ids": []
+ },
+ {
+  "title": "Bluetti Elite 300 power station exclusively at $1,044, ECOVACS LiDAR Pro robot mower lows from $949, GoTrax kids go kart, more",
+  "url": "https://electrek.co/2026/11/24/bluetti-elite-300-power-station-ecovacs-lidar-pro-robot-mower-gotrax-go-kart-more/",
+  "source": "Electrek",
+  "date": "2026-11-24",
+  "ids": []
+ },
+ {
+  "title": "Nuro pulls safety drivers from Lucid Gravity Uber robotaxis in Bay Area",
+  "url": "https://electrek.co/2026/11/24/nuro-lucid-gravity-uber-robotaxi-driverless-testing-bay-area/",
+  "source": "Electrek",
   "date": "2026-11-24",
   "ids": []
  },
@@ -1168,13 +1205,6 @@
   "url": "https://newatlas.com/robotics/fibermotor-flexible-motor/",
   "source": "New Atlas",
   "date": "2026-10-11",
-  "ids": []
- },
- {
-  "title": "Next-gen hopping robot is the smart flea we didn't know we needed",
-  "url": "https://newatlas.com/robotics/flea-inspired-directhop-hopping-robot/",
-  "source": "New Atlas",
-  "date": "2026-10-10",
   "ids": []
  }
 ]
