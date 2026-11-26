@@ -1,8 +1,52 @@
 [
  {
+  "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
+  "url": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/",
+  "source": "Electrek",
+  "date": "2026-11-25",
+  "ids": [
+   "optimus"
+  ]
+ },
+ {
   "title": "Underwater robots uncover first deep-sea salp living at depths up to 7,200 feet",
   "url": "https://interestingengineering.com/science/robots-uncover-first-deep-sea-salp",
   "source": "Interesting Engineering",
+  "date": "2026-11-25",
+  "ids": []
+ },
+ {
+  "title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+  "url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+  "source": "IEEE Spectrum",
+  "date": "2026-11-25",
+  "ids": []
+ },
+ {
+  "title": "How Vention is cutting factory programming from weeks to minutes",
+  "url": "https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/",
+  "source": "The Robot Report",
+  "date": "2026-11-25",
+  "ids": []
+ },
+ {
+  "title": "FCC should focus on robot security, not country of origin",
+  "url": "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/",
+  "source": "The Robot Report",
+  "date": "2026-11-25",
+  "ids": []
+ },
+ {
+  "title": "Space robotics: notes from an IROS 2026 plenary session",
+  "url": "https://robohub.org/space-robotics-notes-from-an-iros-2026-plenary-session/",
+  "source": "Robohub",
+  "date": "2026-11-25",
+  "ids": []
+ },
+ {
+  "title": "Mammotion LUBA Mini 2 AWD robot mower $1,599 low, EGO Multi-Head string trimmer $300 low + portable area light $199, more",
+  "url": "https://electrek.co/2026/11/25/mammotion-luba-mini-2-awd-robot-mower-ego-multi-head-string-trimmer-portable-area-light-more/",
+  "source": "Electrek",
   "date": "2026-11-25",
   "ids": []
  },
@@ -1198,13 +1242,6 @@
   "url": "https://newatlas.com/robotics/worma-weight-shifting-worm-robot/",
   "source": "New Atlas",
   "date": "2026-10-12",
-  "ids": []
- },
- {
-  "title": "Impossibly tiny Swiss motor looks like anything but",
-  "url": "https://newatlas.com/robotics/fibermotor-flexible-motor/",
-  "source": "New Atlas",
-  "date": "2026-10-11",
   "ids": []
  }
 ]
