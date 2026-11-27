@@ -1,5 +1,40 @@
 [
  {
+  "title": "GXO doubling down on robotics in 2027",
+  "url": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+  "source": "The Robot Report",
+  "date": "2026-11-27",
+  "ids": []
+ },
+ {
+  "title": "Robot Talk Episode 172 – Robots that learn like children, with Leticia Mara Berto",
+  "url": "https://robohub.org/robot-talk-episode-172-robots-that-learn-like-children-with-leticia-mara-berto/",
+  "source": "Robohub",
+  "date": "2026-11-27",
+  "ids": []
+ },
+ {
+  "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+  "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+  "source": "The Verge",
+  "date": "2026-11-27",
+  "ids": []
+ },
+ {
+  "title": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more",
+  "url": "https://electrek.co/2026/11/26/roborock-rockmow-robot-mowers-yozma-in-10-pro-electric-dirt-bike-more/",
+  "source": "Electrek",
+  "date": "2026-11-26",
+  "ids": []
+ },
+ {
+  "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+  "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+  "source": "Electrek",
+  "date": "2026-11-26",
+  "ids": []
+ },
+ {
   "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
   "url": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/",
   "source": "Electrek",
@@ -1228,20 +1263,6 @@
   "url": "https://newatlas.com/robotics/ucla-scientists-android-phone-walking-robot-companion/",
   "source": "New Atlas",
   "date": "2026-10-13",
-  "ids": []
- },
- {
-  "title": "Humanoid robots can sprint and box – but the real test is doing the laundry",
-  "url": "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/",
-  "source": "Robohub",
-  "date": "2026-10-12",
-  "ids": []
- },
- {
-  "title": "Water-pumping robot worms its way over rugged coastal terrain",
-  "url": "https://newatlas.com/robotics/worma-weight-shifting-worm-robot/",
-  "source": "New Atlas",
-  "date": "2026-10-12",
   "ids": []
  }
 ]
