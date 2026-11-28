@@ -1,5 +1,21 @@
 [
  {
+  "title": "Singapore smart district becomes real-world testbed for next-generation service robots",
+  "url": "https://interestingengineering.com/ai-robotics/pdd-ai-robot-test-bed",
+  "source": "Interesting Engineering",
+  "date": "2026-11-28",
+  "ids": []
+ },
+ {
+  "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+  "url": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/",
+  "source": "Electrek",
+  "date": "2026-11-27",
+  "ids": [
+   "optimus"
+  ]
+ },
+ {
   "title": "GXO doubling down on robotics in 2027",
   "url": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
   "source": "The Robot Report",
@@ -16,6 +32,13 @@
  {
   "title": "Android’s DIY widgets are a bit of vibe-coding fun",
   "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+  "source": "The Verge",
+  "date": "2026-11-27",
+  "ids": []
+ },
+ {
+  "title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+  "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
   "source": "The Verge",
   "date": "2026-11-27",
   "ids": []
@@ -1228,41 +1251,6 @@
   "url": "https://robohub.org/neurosymbolic-planning-using-natural-language-communication-for-cooperative-autonomous-vehicles/",
   "source": "Robohub",
   "date": "2026-10-14",
-  "ids": []
- },
- {
-  "title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
-  "url": "https://spectrum.ieee.org/mars-rover-distance-record",
-  "source": "IEEE Spectrum",
-  "date": "2026-10-13",
-  "ids": []
- },
- {
-  "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-  "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-  "source": "TechCrunch",
-  "date": "2026-10-13",
-  "ids": []
- },
- {
-  "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
-  "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-  "source": "TechCrunch",
-  "date": "2026-10-13",
-  "ids": []
- },
- {
-  "title": "TechCrunch Disrupt 2026: Day 1",
-  "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-  "source": "TechCrunch",
-  "date": "2026-10-13",
-  "ids": []
- },
- {
-  "title": "Biped bot uses your old, dusty phone for brains",
-  "url": "https://newatlas.com/robotics/ucla-scientists-android-phone-walking-robot-companion/",
-  "source": "New Atlas",
-  "date": "2026-10-13",
   "ids": []
  }
 ]
